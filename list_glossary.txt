@@ -1,0 +1,79 @@
+- The Red Prince
+- Sebille
+- Lohse
+- Ifan ben-Mezd
+- Fane
+- Beast
+- Godwoken
+- Fort Joy
+- Reaper's Coast
+- Driftwood
+- Arx
+- Nameless Isle
+- Hall of Echoes
+- Warfare
+- Huntsman
+- Scoundrel
+- Pyrokinetic
+- Hydrosophy
+- Aerotheurge
+- Geomancer
+- Necromancer
+- Polymorph
+- Summoning
+- Strength
+- Finesse
+- Intelligence
+- Constitution
+- Memory
+- Wits
+- Burning
+- Poisoned
+- Stunned
+- Frozen
+- Knocked Down
+- Bleeding
+- Blind
+- Charmed
+- Crippled
+- Deaf
+- Diseased
+- Fear
+- Muted
+- Petrified
+- Sleeping
+- Slowed
+- Shocked
+- Wet
+- Battlemage
+- Knight
+- Fighter
+- Rogue
+- Ranger
+- Wayfarer
+- Wizard
+- Witch
+- Cleric
+- Shadowblade
+- Metamorph
+- Conjurer
+- Enchanter
+- Inquisitor
+- Physical Armour
+- Magic Armour
+- Vitality
+- Action Points
+- Source Points
+- Divine Order
+- Black Ring
+- Sourcerers
+- Magisters
+- Lone Wolves
+- Seekers
+- Voidwoken
+- Eternals
+- Dwarves
+- Lizards
+- Humans
+- Elves
+- Undead
