@@ -1,0 +1,138 @@
+Glad to hear it. Best to stay out of trouble these days.
+Hey, don&apos;t I know you from somewhere?
+Fate can&apos;t be avoided, it seems. Please - just leave me to the God King&apos;s whims.
+Do you grieve also? My dearest brother Martrico died last year. I journeyed here to pray to Lucian to care for his spirit.
+Emanating arcane energy, this mask makes the wearer appear to be a lizard.
+*Turn to other matters.*
+For my part, I need to report back to the Paladins on the state of this place. No better way to discover the devil than by diving into his heart...
+&lt;i&gt;&apos;...sorrow. Our joy shall be the Godwoken&apos;s sorrow. Our joy sh-sh-sh... sorrow...&apos;&lt;/i&gt;
+You must report this to Magister Julian at once. I shall remain here and keep a quiet eye on the hatch, should anyone try to remove them.
+You mean it, or is that another line of yours? I used to play the harp, you know. Mostly around Arx, though sometimes we&apos;d travel down to Driftwood. Might be you saw one of my performances.
+A Black Ring alchemist, Margaret tripped and fell into a barrel of cursed wine intended for the Divine. She emerged marinated in toxic ooze - and highly suggestible. She&apos;s cursed to obey any who can bear her odious presence. Margaret leaves her mark (a poison trail) wherever she goes and dissolves into a quivering puddle of toxic ooze upon death.
+Well, they say bad things come in threes. I really should have seen this coming.
+Get. Your. Hand. Off. Me.
+*Dodge the question. Say it wasn&apos;t as good as hers.*
+*Say you were glad to help.*
+The answer is no less prosaic than for it to die, I&apos;m afraid. But trust me: the death of one will deliver the souls of very many.
+Spiders as big as your head! No - bigger! And they&apos;ll grow a baby inside you if you&apos;re not very, very, &lt;i&gt;very &lt;/i&gt;careful.
+I will not be a burden... leave me be...
+The spirit of Captain Ablewether did not linger.
+We left Reaper&apos;s Eye without helping Lord Withermoore.
+With poisoned cheese in either hand, anything is possible (except living long enough to see your next birthday).
+We get this tub movin&apos;. I mean, what else would we do, mate?
+*His right shoulder suddenly bulges and &lt;i&gt;POPS &lt;/i&gt;as his arm dislocates. His mouth gapes open as he screams. To your ears, it sounds like a distant echo from the other side of a valley.*
+*He kicks the edge of the makeshift bridge, sending a sizable chunk of earth flying perilously close to your eye.*
+Nothing happened. The artefact had no effect on me...
+We have to. I heard my own Clarice singing to herself. A song about Dallis. The &lt;i&gt;Divine&lt;/i&gt; Dallis. Had to wash that evil from her mouth with soap. That filth is everywhere.
+&lt;i&gt;This is Magister trickery. You&apos;ll die for your lies.&lt;/i&gt;
+*He paws a few tentative steps closer and sniffs all around you, nose wrinkling with concentration.*
+I hope for your sake no-one will miss them.
+Goodbye, lass.
+The Snoozing Adventurer
+*Complete the countdown in your head. &apos;One.&apos;*
+Oh. Well. Okay.
+*Pay the toll.* ([GEN_CheckMagicPocketGold_3_01f129ea-b4dc-44b6-8154-9a948f876a82])
+*Note that she appears to be a Sourcerer of great power. Ask her to teach you how to master your Source.*
+Idol
+The Shadow Prince is dead. And I ate his wicked heart.
+*This was too easy. Why would he tell you?*
+*Begin the operation.*
+Identifying object failed
+*The lizard turns about with the graceful ease of a dancer - or a duellist. You lock eyes with his: two smouldering embers that sizzle your very soul.*
+*The Red Prince&apos;s spirit stands silent, contemplating the waves as they lap against the hull.*&lt;br&gt;
+*Tell her she shouldn&apos;t speak that way to a disciple of the God King.*
+*Croak.*
+You&apos;re in over your head!
+[VILLAIN] *Wish the rat a long and happy life, then turn away.*
+She is Change, just as much as you are.
+So the Sallow Man sends swine to gut the Pig Divine. That be right.
+This cursed bottle deals [1] in a [2] radius and creates a cursed fire surface.
+Well, you&apos;re clean. But don&apos;t try that again!
+You see clearly, then. He stood up for &lt;i&gt;her;&lt;/i&gt; she stood up for &lt;i&gt;everybody. &lt;/i&gt;It&apos;s the true measure of a heart - how you treat not those closest to you, but those you&apos;ve never even met. His was big. But hers was bigger.
+Ah, my unlikely friend. What do you need?
+There&apos;s no missing the signs of Source use. Are you... a &lt;i&gt;Sourcerer?&lt;/i&gt;
+Skills
+Looting Corpse Failed!
+The time has come to ease their daily grind...
+My people. I miss them. But they cannot save me.
+&lt;i&gt;Into battle we goooooooooooooooo!&lt;/i&gt;
+*If he can&apos;t rid you of your scar he&apos;s useless. Lunge forward and bury your needle deep in his head.*
+*Tell her you can&apos;t stop thinking about it.*
+You&apos;re out of line, showing your face here. Allow me to show you the way out...
+Summon a Walking Corpse.
+Where are they?
+A bribe? You trying to get in even more trouble? You&apos;re under arrest!
+To Game Master
+Pleased to make your acquaintance. The name&apos;s... well, the name&apos;s dead and buried. What matters is what they call me: &lt;i&gt;Beast&lt;/i&gt;.
+Alexandar and Lucian tricked me into deathfogging the elves. My whole life in the service of the Divine Order was a vicious lie.
+Wouldn&apos;t tell ya anything anyway. I got a&lt;i&gt; code&lt;/i&gt;, you know.
+We found out where the archives lie.
+Hold safe everything important to you.
+*Laugh and wallop her in the face with your coin purse.*
+Yeah, yeah.
+*The spirit suddenly looks up. Her eyes widen as she sees an abyss far greater than anything she had ever conjured forth. Then she is no more.*
+Fullscreen Display:
+Resolution:
+*But he&apos;s working on a spell, right? Something that will stop these knights and defeat the acorn?*
+*Consume the spirit&apos;s milky Source.*
+Nice show out there. Yer smoulderin&apos;, ya are.
+Squeeeeee?
+*Admit you had it removed, but you intended no harm by it.*
+*Remark that payment of a reward for a lost item of value is standard across most of the civilised world.*
+*I wanted to know more about this ascension.*
+Pilgrim Camp
+*Drain his Source. Enthusiastically.*
+*The spiritual union is sudden. It sounds and feels as if you have fallen to the sand chest-first from the Coast&apos;s tallest cliff. You gasp. And you open your eyes.*
+Saheila&apos;s Crest
+Fire Cloud
+Arp-kha, the Elemental Knight
+*You feel Zorl-Stissa lurch forward in fury, straining against your will. Release it, let it speak.*
+*Say it&apos;s time to go.*
+*Ask what she intends to do now.*
+The salamander gave us the magic words to its old master&apos;s burning chest. We are not the first - others too have the passwords.
+*The candles glow with the light of the spirits housed by each. They reach toward you, eager to be heard.*
+Do be careful not to break anything, good sir.
+*Shake your head and say you&apos;ve better things to do than chase vermin.*
+You can stay here with me, if you want. But don&apos;t let the scary lady come here. She&apos;s bad.
+Bow your head - please! If we chant the Endless Prayer, the next Divine will ascend.  Even if your kind have displeased the gods so terribly of late.
+Indeed. The masses tremble at my might! We will... retrieve Anathema! Our enemies will bow before the demon blade!
+I&apos;ll remember that when I&apos;m springing you out of a brig somewheres.
+Game Mode
+*She kisses your neck, your breasts; twirls her tongue around your nipples.*
+My advice? Stay away from the wine. Party&apos;s over in there anyway. People have died.
+*Change your mind. You&apos;ll leave him alone for now.*
+*Ignore the skull and take your leave.*
+Sadly, that enlightened point of view quite clearly turned out to be academic. If not, we wouldn&apos;t be having this very conversation.
+Do you? Well, perhaps you&apos;re absolutely right...
+What&apos;s it now. I already bruised my arse trying to help your little friend!
+It is impatient to be gone - but I thank you for your help. You save more than one elf today.
+A map of the vault hints at illusions, Soul Jars, and Braccus Rex. The necromancers&apos; jars may be there.
+You summon me but don&apos;t know my name? I am the great Prophet Patryk. I knew Braccus, and knew his secrets. I saw his rise and fall as woven into the Tapestry of Time.
+Black Ring Pain Reaver
+Sarias is home. We may leave.
+So drop it.
+*The bloom opens before your eyes, resplendent and regal. It emits a sweet, subtle scent, like that of a rose, though more intoxicating.*
+The Nameless Isle awaits you. Divinity will soon be yours. Well done, Lohse.
+*Mabel gives you a resigned look.*
+You freed me! I owe you a great debt... let me assist you... I still have enough power to unseal the Source barrier that blocks your passage...
+*You sought escape. But &lt;i&gt;something&lt;/i&gt; stalked you. You fled. It followed. You came across a... a pile of bones. In that moment you knew that this would be your fate.*
+*You look at your companions in shock. Black Ring influence or not, the enormity of the Queen&apos;s plan is revealed: to kill everyone in the city!*
+All this can be achieved by means of music. Every scar is attuned to a unique song, sound or melody.
+*Tell him you&apos;re going to walk away, and he&apos;s not going to stop you.*
+Ah, so it&apos;s true! Most excellent.
+N-no, wait! Wai -
+Well, that&apos;s no good.
+Who are you to judge a soul? You who sold your sword. You the cause of the deaths of children. You who liveth a lie. Who are you to judge a soul?
+[OUTLAW] *Nod. This makes sense. But... &lt;i&gt;&apos;Who hired them?&apos;*&lt;/i&gt;
+*Ask where you should go. Where is the Red Princess exactly and how can you reach her?*
+We consumed the foreman&apos;s spirit.
+Main Menu
+Just you hurry!
+Start again. Hah. No-one will want me now...
+*Before you can remove it, it vanishes. You stand unmasked before the figure.*
+Brio
+*Say that you&apos;re most interested in how divinity can help &lt;i&gt;you.*&lt;/i&gt;
+If you speak truly, then you must become one with the Death-that-Consumes.
+*Before you can even touch the lever, you hear a sniff and snort behind you as the snoring Magister mumbles himself awake. One bloodshot eye opens, and then another.*
+Grinding bones, grind and crush!&lt;br&gt;Grind them skulls, break and squash!&lt;br&gt;Bones to ashes, skulls to dust&lt;br&gt;This magical recipe to song entrust&lt;br&gt;&lt;br&gt;Find the flower, pick and tear&lt;br&gt;Grind the starlike flower head&lt;br&gt;Plant and petals, grind to dust&lt;br&gt;This magical recipe to song entrust&lt;br&gt;&lt;br&gt;Mix me bones, mix me dust&lt;br&gt;Stir bones and stars to pixie dust&lt;br&gt;Blow on runes, charm, bewitch &lt;br&gt;This magical recipe ends like this
+The Monk

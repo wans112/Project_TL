@@ -1,0 +1,156 @@
+If you ever stumble upon a shrine to her, well, do let me know. Would be nice to return to normality. Or at least, a life with a little less oinking in it.
+The battle for Divinity begins. The first Godwoken to the Wellspring wins.
+Keep your fingers to yourself. Next time, I&apos;ll take one as a trophy.
+*Take your leave.*
+*Say you&apos;re glad you met him. Now you know who&apos;s been going after Godwoken.*
+Display Case
+The Dubious Doctor K.
+*He speaks in a frightened whisper.*
+Ethereal Storm
+*Wonder what she&apos;d say if she saw the two of you together.*
+Mystics say the spirit of a stag remains in its antlers until they are burnt to ash. This spirit may be turned to magical purposes.
+*Rest your hand on her shoulder and tell her that Gareth is dead.*
+What one Godwoken does to another is divine business. It must not be interfered with.
+I don&apos;t know you. I don&apos;t. Know anyone.
+If these rats kill me, we&apos;re all done for.
+Whatever type of companion you need, I can provide.
+*You won&apos;t back down. His Source belongs to you.*
+It is one thing to ask a person to leave your company, but quite another to keep talking as if they still had any interest in what you had to say.
+With a single breath you&apos;ll usher in a new age; a new creed before which all must bow - a dawn of flame!
+I do not teach anymore.
+*You spy a lizard lady dressed in the royal colours of the House of Law. She nods at you politely, but remains quite silent. You notice her skin is of a bright red colour.*
+*Grrr...*
+Thought I&apos;d be down fer a poem &apos;bout lizards, but this one&apos;s gettin&apos; on me last nerve. No offence.
+*Tell him that elven moon signs are a load of nonsense.*
+Well, he&apos;s not here in Fort Joy, I&apos;ll tell you that much.
+I know you have all the time in the world, but that may be no more than ten minutes. Speak to Malady at once!
+So many left behind... we owe it to them to succeed in our task.
+Thief!
+Hmm. I&apos;m afraid I don&apos;t know any... Low-harr, you say?
+Releases shards that do [1] and that may break armour, in a radius of [2]!
+I told you: I ain&apos;t discussing that matter with strangers!
+*Tell him you are a Godwoken indeed. As such, he should be careful about detaining you further.*
+*He works on with a grim determination, and does not look up.*
+Odd. A chill just rolled up my spine...
+All you had to do is say &apos;no&apos;, remember?
+Consumed by Deathfog, it was abandoned to the demons and the dead.
+You are still here...
+Odd place for a rendezvous, I know, but the matter at hand takes precedence over any and all maritime disasters!
+I have no more reason to keep my vigil.
+I shall fulfill my birthright.&lt;i&gt; I shall ascend and be Divine.&lt;/i&gt;
+I see.
+*Agree to lure the tinkerer away and kill him once he&apos;s out of town.*
+I&apos;ll never get dinner prepared at this rate...
+*You hear a strange sound like rusted hinges creaking and air rushing through a tunnel. A hatch appears behind the shrine.*
+Planar Gateway Scroll
+Bread
+Ah, gold! You elves do love anything that sparkles. Very well, let&apos;s redistribute some wealth.
+*Offer her a token sum to look the other way.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Ho! Right kind o&apos; ya, m&apos;friend! I&apos;ve grown quite attached to &apos;em over the years. Almost literally in this filthy place! HO!
+Divine Order Contract
+Hold fast, while you can.
+Toggle map
+*Shudder in horror. All these souls, all these souls... and Lohse is meant to become one of them.*
+The trial of combat has ended - you are victorious. Your prize awaits. Use it wisely, as a true friend of the elves.
+*You hear its whispers. &lt;i&gt;&apos;The Masters must teach you, so that you may become a Master in turn.&apos;&lt;/i&gt; And then it is gone.*
+[HERO] *Demand he stop the ritual. This potential power isn&apos;t worth a massive soul-sacrifice.*
+Suit yourself!
+*You want to know about the Divine Order.*
+[BARBARIAN] *Tell him to leave you be or you&apos;ll tear his spuds off and gag him with them.*
+&lt;i&gt;Merciful Seven, watch over your fallen warriors... usher them onwards, to the Hall of Echoes...&lt;/i&gt;
+*Tell her that Linder Kemm is dead.*
+*Ask who the spirit means.*
+I&apos;m Alexandar! You&apos;re the Sourcerer, Mary-Laine.
+*You hated your work for the Order. You wanted to be a stonemason, marry the baker; you still dream about it every night.*
+Bind New Level
+*Thank him for his aid and take your leave.*
+It would mean naught while you lie cold.
+Keep this enabled for a smooth experience. Triple buffering requires more video memory but can reduce a laggy feeling you might get from double buffering. You can try disabling this for better performance at the cost of screen tearing.
+You were right to stop me. Her complicity in the deaths of thousands has earned her own many times over. But it&apos;s not right for me to take the final cut.
+And what kind of Divine was Sebille, as the world battled on?
+Arx is waiting, and Dallis, too. Ready?
+&lt;i&gt;This &lt;/i&gt;is why I have chosen you. This is why I would not see the Beast crushed by a kraken and swallowed by a tainted sea. Only you and others like you can wield this great power.
+Indeed...
+This is... a momentous decision. I&apos;m not entirely certain...
+Impossible! A holy man such as he could never be a heathen Void-lurer! He was a stranger showing kindness to strangers - exemplifying the teachings of the Divine!
+Still opening that mouth of yours, are you? Careful with that; I quite like the look of it.
+I must go to them.
+Kemm&apos;s Basement
+[SEBILLE] *Tell him that unsolicited fingers have the remarkable tendency to break.*
+Meistr Siva is dead. We&apos;ll have to figure out another way to ascend to Divinity.
+Take care of yourself, you hear? You&apos;re a sweet one.
+Of course. The Voidwoken infestation was merely an inconvenient side effect.
+Our guests were usually frightened. Shy. Grateful. They never used their Source, so the Voidwoken never came.
+Reduces the damage from piercing attacks.
+*Wonder why he just doesn&apos;t get it himself.*
+&lt;i&gt;*&apos;The Aeteran&apos;? &lt;/i&gt;Wonder what on Rivellon that is.*
+Bet we can find a way to slip these collars, while we&apos;re at it.
+Well... your search is at an end... apologies if you were expecting a more convivial setting...
+*Leave the spirit be.*
+Just like a wizard&apos;s hat, this mushroom can hold more within it than meets the untrained eye.
+I smell Source in the air. What have you got to say about it?
+or was the price of power just something that had to be paid?
+The God King no longer grants me his favour. Mask ripped from me and flesh flayed to bone, because the Godwoken&lt;i&gt; still &lt;/i&gt;walks Rivellon.
+The only treasure worth digging for: knowledge!
+I scratched Stingtail&apos;s name from my arm.
+Giant Void Salamander
+Ages have passed since I saw your kind last. Red like the red of old. How you fill my heart with pity.
+*Squee!* *Oink* *Oink*
+AI Personality determines if your hero has an opinion of their own. If you&apos;re not sure, leave it set at &apos;No AI&apos;.
+*A pressure builds in your chest. Cold sweat leaks from your pores. And a voice within warns you to leave this spirit unharmed.*
+O but now you&apos;ve gone too far. Naught but a name on my skin you will be.
+Turn Action Points
+Renegade
+You think I haven&apos;t tried killing these freaks already? We&apos;re persistent, darling...
+Nope! Sorry.
+*By all means! Who are you to stand in the way of love?*
+&lt;i&gt;For Ifan... I am pained. He was but one more sacrifice that had to be made. One, among many.&lt;/i&gt;
+Captain Vonda Ablewether became the world&apos;s foremost expert on the manufacture of compasses. She died peacefully in her sleep at ninety-three, having saved hundreds and thousands of seafarers&apos; lives...
+*Alexandar peers intently into your face, recognition widening his eyes.*
+Hey! Come and get me, ya overgrown grasshopper!
+*Shout that you recognise her - she&apos;s the thief who grabbed something out of your pouch!*
+*Say you are indifferent.*
+[1] gives you a [2]% movement bonus.
+*The stone gargoyle swivels upon the wall to glare at you. Stone eyelids scrape over agate eyes as it blinks and glares at you.*
+That&apos;s pretty awesome, if you ask me!
+*The jar before you glows with a blue light. Its appearance flickers and changes; it is at once a brightly-coloured motley and then a deep grey.*
+*You lean in to see if you can make out anything else - you&apos;ve heard about such devices. The first step in making a shapeshifting mask...*
+Purge target character of any intrinsic Source
+*Gratiana impatiently grabs your wand. You feel the Source hammering into the metal, which quickly fills with new power.*
+Easel
+I... yes. Your voice. &lt;i&gt;His &lt;/i&gt;voice. It makes the air-drops quiver. I am called to the Cathedral. I will travel there anon.
+*Tell him he&apos;s better off regretting something he did, than something he didn&apos;t do.*
+Mordus escaped without teaching us about our Source powers.
+Good to go then?
+*Meet his smirk with one of your own. Has he ever tangled with a Godwoken?*
+*Hold your tongue about the ring you just found, then.*
+*She sees you approach and punches her fist in your direction. Her face flushes red. It&apos;s &lt;i&gt;her&lt;/i&gt; - the one that destroyed the ship to Fort Joy.*
+The Ancestor within. Not all die in the war. This one survives the Deathfog - and &lt;i&gt;waits.&lt;/i&gt;
+But wherever the artefacts of my people are, I will find them. We have not simply vanished into thin air.
+Yes. You have the potential to save all our kind from annihilation.
+*A soothing sensation dips and waves through you, entering you from the air itself. As the feeling fades, you realise you&apos;ve become replete with Source.*
+*Thank Tir-Cendelius and take your leave.*
+Medium Chest
+It&apos;s funny, isn&apos;t it. How some pain is so big it just burns you clean from the inside out.
+Incurable cases should be handled with the utmost reverence and care. It is no small thing to commit a two souls to the vaults. Yes, two: The possessed AND a priest to watch after them, from this life into the next. Hallowed be those who sacrifice themselves for this holy purpose.
+*The Magister guard snorts and sniffles as he sleeps. You&apos;re almost impressed that one man can make such a phlegmy racket.*&lt;br&gt;
+*Braccus Rex, for it is he, stares stonily out to sea.*
+You admit your sins. You know yourself well. You are open. So too the doors. Braccus Rex the just gives you what you want and more.
+*Lower your head and let Kemm do as he must.*
+I couldn&apos;t stand behind a braver soldier!
+*Roll your eyes. If she doesn&apos;t want to answer she simply shouldn&apos;t answer.*
+Knocked Down
+The key, of course - the melody that douses the guardian flames and reveals the vaults. I shudder to think what may happen should their captives be freed.
+What&apos;s the matter, Red Prince? Afraid the little prince won&apos;t play along?
+Let them come, I say. They are easily vanquished.
+What are you conspiring about over there? You! Dwarf! What&apos;s your name?
+Hot Kettle Fruit
+Is this where the flying Voidwoken took those poor souls from the beach?
+*Chitter*
+Curious Gauntlets
+*Drop Alexandar&apos;s severed head in the bloody hollow.*
+Resolve the intrigue.
+Your kind may be older than ours, but I don&apos;t think even the Ancients will outlast the Void. We are unprotected, you know. We are all alone...
+Let&apos;s see what spirits haunt this garden.
+Dallis killed Alexandar, destroyed the Wellspring, and fled.
+*He presses his palm harder against your head;  you&apos;re immobilised; you&apos;re in pain.*

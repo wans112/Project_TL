@@ -1,0 +1,152 @@
+[LIZARD] *Tell her she&apos;d let this Ancestor of hers rule her. You will not.*
+That doesn&apos;t belong to you!
+*Grunt.*
+*Demand to know what he means by &apos;did the Seven turn you down too?&apos;*
+*He doesn&apos;t seem very friendly. Draw your weapon.*
+There is an assault reported in the area. Tell me what you know!
+*The Magister is part of something dark, something cruel. Something that goes against the very fabric of your being. All bets are off. Merciless, you attack her with spell and blade.*
+The bird is a dying phoenix. It will be reborn from its own ashes.
+Right Gui
+*The children turn to each other, relieved...*
+*The squirrel guides its cat over to you, chittering as it goes. Once at your feet, it hands you a piece of bark.*
+Seems you&apos;ve spilled a bit of blood. Now it&apos;s my turn.
+[JESTER] *Tell him you&apos;ve never heard of an abacus that can tell who people are.*
+On his return to the Empire, the Red Prince was hailed a hero.
+*Tell him to go right ahead. Your interest in Alexandar wore out a long, long time ago.*
+Union between the Red Prince and Red Princess could see the lizards reborn as dragons. The Red Princess is close by to the north.
+*See what&apos;s for sale.*
+*Shrug and say that one more death is of little consequence these days - she should drop the solemnity.*
+Just be on your way. May you ever be in the God King&apos;s favour.
+*Tell her Alexandar and Gareth nearly came to blows on the island, but you managed to diffuse the situation.*
+*Say that you&apos;ve acquired something she&apos;ll most certainly be interested in.*
+A black cat. Maybe my luck is about to change...
+*Offer your sympathies.*
+*You watch powerlessly as ribbons of Source flow from you into them - seven strands, one for each. Seven faces. Seven contorted smiles. Seven betrayers.*
+*Insist - how did she know?*
+Glad to have you here, we need all the help we can get.
+*You can barely hide your surprise. He&apos;s speaking the old tongue! It&apos;s rare to hear it in the Empire, and you never hear it in these savage lands!*
+*She raises her eyebrows, clearly impressed despite herself.*
+*You read &apos;Our first lord&apos;s babes with power glowed, our second&apos;s  born in blood that flowed. Our third&apos;s young to the wind return, our fourth&apos;s to glowing flames adjourn.&apos;*
+After we emptied the Soul Jar, the skeletal arm we found on the beach stopped moving.
+*Unsheathe your weapon. You&apos;ve had enough of this odd intruder.*
+It&apos;s simple. He scarred me, so I scarred him. Extensively.
+*Ask the spirit to explain himself. You already met with a man called Baran Levere.*
+Your help was appreciated earlier, but you are no longer required here.
+Either way, knock it off, or I&apos;m out. &apos;kay? &apos;kay.
+Eternal Ritual Bowl
+Equipment
+But you have been away from the tribes. It is in your speech. It is in the way you walk. Perhaps you have a chance still.
+A travesty. Alexandar sought to protect us all from a scourge. The fork-tongued devil would sooner usher in a dark age than round up the troublemakers.
+Hemwar
+Smelly person threw my ball away and I couldn&apos;t go fetch! Threw it off the balcony! An&apos; Master Arhu&apos;s not here to get it back for me! Master&apos;s gone a while now.
+I proclaim thee the Champion of the Driftwood arena! Get yer gloat on, &apos;n&apos; take a swig of ale. Hell, take a dozen. We&apos;ll be singin&apos; for years to come of the great dwarven Void-slayer!
+The level of Thievery you need to have to open this.
+*Respond with silence.*
+Paladin Protector
+I&apos;s waist-height and you don&apos;t hear &apos;e giving out. Just don&apos;t o&apos;en the chest.
+The pleasure was mine.
+Jahan offered to help us by draining captive demons of their Source. We accepted.
+I feel... better than new.
+Confront the beggar for his cruelty.
+Let&apos;s keep moving.
+I see... well there&apos;s still hope for him then, I suppose...
+Your aggression is misguided and futile, Godwoken.
+You do have some curious tastes. And I do not mean that finger you ate...
+You may be the one to save us all.
+That&apos;s one... we can spare one other.
+*Tell her to be specific. What destiny does she mean?*
+The weakened gods have taken refuge in the souls of the Godwoken. I must ascend before them. I must find powerful Sourcerers to help me develop my power.
+I- I had no choice. They wanted to destroy the Deathfog!
+How unbearably beautiful it is, having to dream no longer.
+*A sea voyage. Children and adults huddled together for warmth and comfort. You were a slave to the Ancient Empire, not so long ago.*
+Oh lovely, thank you!
+Oath Of Desecration
+*Ask him why he was so intent on keeping you out.*
+*Turn and leave the woman to her thoughts.*
+Folder with name &quot;[1]&quot; already exists.
+About the elf. She &lt;i&gt;sees &lt;/i&gt;things.
+The Whites have betrayed the memory of Lucian, in the most heinous manner. We&apos;d had our suspicions, but then proof arrived from the Blackpits. Collusion with the Black Ring. But we put a stop to their treason.
+You&apos;ll have to &lt;i&gt;fight&lt;/i&gt;. Fight with everything you have. Everything &lt;i&gt;we &lt;/i&gt;have.
+*Declare that he can&apos;t do this. It isn&apos;t right.*
+Handwritten letter
+I am here. So are you.
+Xantezza
+Small Ring
+She has a kingdom to protect. Sometimes you gotta do what you gotta do, and that&apos;s that.
+The Scions of your people are its secret soldiers - you the most powerful of them all. They want you to become their leader: &lt;i&gt;their heart.&lt;/i&gt;
+Someone - or some&lt;i&gt;thing&lt;/i&gt; - may have gotten to it first.
+*You shut your eyes tight. Sheer terror courses through you - cut short by a length of razor-sharp steel passing through your neck...*
+Incompatible with [1]
+Lohar will be happy once his weapons are safe from Reimond and other prying Magister eyes. The hatch is in the eastern wing of the factory. Don&apos;t be seen using it. Good day.
+[NOBLE] *Tell her she should know her place - as an adult of noble heritage you&apos;re an entire ladder of rungs above her in the social hierarchy.*
+I lost the best crew I ever captained, that&apos;s what happened.
+May&apos;ve been cast out, but you can bet your last heel o&apos; bread she wishes she hadn&apos;t&apos;ve! I&apos;ve taken my revenge a thousandfold on that tyrant&apos;s fleet.
+The pyramid can&apos;t make a stable connection here.
+Thunder
+*Tell him that he&apos;d do better charging less, since more people could cross that way.*
+Tell us what to do, brave Tir-Cendelius... the Black Ring are on the threshold... and yet... they fear us... I know it... they fear who we are... &lt;i&gt;they fear the elves...&lt;/i&gt;
+We both know this was a friendship of convenience. And it&apos;s no longer convenient for me to suffer your company.
+I remember an artefact &lt;i&gt;just&lt;/i&gt; like this at an antiques dealer in Mezd. Small world.
+We persuaded the spirit of Brother Morgan to let us enter the inner chamber of the vault.
+Controls
+All I know is... I want &lt;i&gt;you&lt;/i&gt;.
+[BEAST] *Tell him that no-one saw you do it, he can&apos;t prove anything.*
+Tell me, have you ever kissed a god?
+*Spit in his face and reach for your weapon.*
+*Say your dear mother raised you properly. You couldn&apos;t kill a gnat.*
+You are not so clever as you believe.
+Yes. One hundred percent.
+*Relent, and let the spirit leave for the Hall of Echoes.*
+Free? Do you know what freedom is? Have you ever truly felt the cold terror of its touch?
+*Praise the warrior for keeping up the fight in the face of the annihilation brought on by the Deathfog.*
+*Go counter-intuitive. Try &apos;close&apos;.*
+*Say that you did what you could, yes.*
+We were sitting here - eating, drinking, tellin&apos; tales - when some of the lads, they- their eyes turned black as pitch.
+He committed his crimes out of pain, not malice. He ought to be forgiven.
+*Ask if he knows anything about the mill&apos;s current occupants.*
+They&apos;d have died before giving that ring to a Magister. They must have trusted you. So you&apos;re here to help. Then help.
+You&apos;re a musician: performer, star, and host to all manner of disembodied visitors. Now, one dark voice has silenced them all - and aims to claim your body for itself.
+Could not learn [1].&lt;br&gt;This skillbook has a requirement you do not meet.
+*Stroke the little cat, then fling it behind you, right at Ifan&apos;s face.*
+Spirit of the Wits Master
+Reduces range and accuracy. Prevents performing Attacks of Opportunity.
+Such a cruel fall from faith. *spits*
+A very mad woman indeed.
+Whaddya you say when a cat wins the dog show?
+*Unlike so many other spirits, this one is hardly silent. She clicks and squawks the moment you approach her, like a cornered crow facing down a hungry owl.*
+*Han is absorbed in his own thoughts, and doesn&apos;t engage in conversation with you.*
+[Graceful script and precise musical notation decorate each page of this beautifully bound hymnal. Not every scholar could comprehend its meaning, but you are able to decipher it.]&lt;br&gt;&lt;br&gt;&lt;b&gt;The Taming of the Holy Fire&lt;/b&gt;&lt;br&gt;&lt;br&gt;Guardian burning bright with Source-ful flame,&lt;br&gt;Abide the sacred call; Reveal the godsless hall.&lt;br&gt;&lt;br&gt;Winged keeper, song doth bid you break.&lt;br&gt;The priest shall scry the demon&apos;s lies; the chains await their captive.&lt;br&gt;&lt;br&gt;From stone to dust.&lt;br&gt;&lt;br&gt;From stone to dust.
+Door to the Academy
+A little ways east he went, in search of safety, to an encampment of Paladins. You will find him there, Majesty. And with that I have told my tale.
+*Say you could recount the tales of Visha, a famed lizard adventurer who slew the seven-headed snake of Oram.*
+Heavy Metal Crate
+But there can be only one.
+*He nods at you and turns back to his handywork. He lines up another nail and hammers it into the panel.*
+Blessed Water Balloon
+Fire resistance: +[1]%&lt;br&gt;Water resistance: +[2]%&lt;br&gt;Air resistance: +[3]%&lt;br&gt;Earth resistance: +[4%]&lt;br&gt;Movement Speed: [5]%&lt;br&gt;&lt;br&gt;Lasts until cancelled or replaced by another stance.  Requires a shield.
+I&apos;m... I&apos;m impressed. He&apos;s out there making a life for himself. That&apos;s... good to hear.
+From blood to blood is light, then dark, then light again.
+*Say you met Dallis indeed. You watched her murder a Magister.*
+*Forktongue does not answer. You suspect he is... otherwise occupied.*
+Wind Field 02
+SHOVE your questions. Swallow nails. You... you... you...!
+Sawsword
+[RED PRINCE] *Ask him if he&apos;s seen someone matching Brahmos&apos; description.*
+You found one right here. Spent centuries buried under the dirt. What with all that thinkin&apos; time, I&apos;ve found nothing less than &lt;i&gt;the wisdom of the ages!&lt;/i&gt;
+A sturdy and unremarkable log, ready to be whittled into something more remarkable in your hands.
+Can&apos;t make scrambled eggs without scrambling eggs... I so miss my personal chef.
+*She smiles and gives you a long, meaningful look.*
+The divinity held within Lucian&apos;s cadaver belongs only to the King&apos;s chosen. And you - &lt;b&gt;you are not worthy!&lt;/b&gt;
+Djinn&apos;s Gift
+*He fades away, gone forever to the Hall of Echoes.*
+Permit me to mark it on your map. Do not tarry, he urgently desires to speak with the fearsome Beast.
+*Say that was quite invigorating, but you still wonder about the true nature of this spell.*
+Hm. This won&apos;t do.
+Ancient Tome
+No matter. Ye don&apos;t need to know him for him to gut ye. And I aims to tell him you&apos;ve been snoopin&apos; around his treasure.
+Steam Error
+[ELF] *He was part of the Order that killed your people. Tell him that is something you cannot forgive.*
+*She curtseys low and looks up at you with a grin.*
+City Guard Lieutenant
+Character is turned to stone. Cured by Magic Shell, Bless.
+*A tall woman stands amid a field of corpses, some fresh, some ancient. Desiccated skin hangs from some of the skulls, while others fester with maggots.*

@@ -1,0 +1,166 @@
+...and what better adventure could there be than the one we&apos;re on, eh?
+Tell me: why is it that you and yours linger on Bloodmoon Island? Your yearly holiday?
+*Remark that he&apos;ll never finish a masterpiece if he dies from blood loss first...*
+*Ask the obvious question: why doesn&apos;t &lt;i&gt;he&lt;/i&gt; take it?*
+*Beg his pardon and say you need to leave right away.*
+Heh. HEH! Good of you to come. Plenty of meat on &lt;i&gt;you&lt;/i&gt;, yes. Plenty indeed.
+*...then &lt;i&gt;surges back.*&lt;/i&gt;
+*Shake your head sadly, you don&apos;t have that kind of money.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*You feel your God freeze at the mention of this &apos;Aeteran&apos;, a cold terror settling in your chest.*
+You pretend you have never heard of the Progeny of Rask? Of the devilish weapons I crafted for Braccus Rex when I called him lord?
+&lt;i&gt;BLOOD.&lt;/i&gt;
+making targets in range [1] for [2]
+That worked out alright, didn&apos;t it? G&apos;luck to ya.
+*The bear nods an uninterested greeting, as if you were just another elf.*
+Then let &apos;em burn.
+*Look on her with pity. She has completed her vile task; her vengeance is complete.*
+I&apos;m looking for a particular book: a tome to teach me how to make corpses... &lt;i&gt;explode&lt;/i&gt;. Would you have anything like that I could learn from?
+Something&apos;s missing here... something valuable.
+They&apos;re trying to kill me! Or worse, drag me off to Fort Joy.
+To the Dwarven Temple
+I&apos;m not so keen to welcome strangers to Driftwood, but Reimond must hear your words. You may pass. But tell me: did you see signs of battle? Of our Magister brothers and sisters?
+*Ask him to let you free him of his burdens. To give him rest at last - to put an end to this.*
+*Ifan stands steadfast beside you, drawing his weapon slowly and aiming at The Doctor.*
+*The spirit ignores your presence, busy as it is resisting the pull of another - the ancestor tree, trying to take its Source. All you feel is its resistance... and its hate for a rebellious Scion.*
+I don&apos;t doubt it, you seem quite... at home? However these people have not had your experience. And without Gareth&apos;s guidance, they may be trapped here.
+Surrounded by Deathfog, Arx slowly starved.
+It&apos;s nice to chit-chat, but I&apos;ll save serious conversation for the one I agreed to work with.
+*Ask her how she can know its identity. Even you can&apos;t tell.*
+I serve the Seekers in death as I did in life. Five wicks, five wardens - and one Mistake, caged and muted.
+Magical Steel Gloves
+*Say yes; you&apos;ve been experimenting with surfaces here and there.*
+The Scion works. You do not disturb her.
+Don&apos;t fret, my friend, and don&apos;t falter. You needn&apos;t call to Lucian for succour, for &lt;i&gt;I&lt;/i&gt; am here to answer your purchasing prayers on this day of celebration!
+*Ask about this person she&apos;s hunting.*
+But let&apos;s not hold our breaths, shall we? More tea?
+[MYSTIC] *Tell the dwarf that she&apos;s gone to a better place. She&apos;s finally at peace.*
+[BARBARIAN] *Go up and sniff the canvas, then catch a drip of red on your finger, and taste it. Blood. Cock your brow at the painter.*
+Right. Really? Ok. Yes. What?  I&apos;m ready! Totally. Is it just me or did it just get really sweaty in here.
+Shrine to Amadia
+A fatal error. Even without my Source, I will still overpower you...
+Cast a magical poisonous dart that does [1], and creates a puddle of poison.
+Higba told you that...? He&apos;s a fugitive... supposedly a Sourcerer, too. He&apos;d say anything to save his own hide.
+Syrus Oates lost his Source. Not even his spirit exists now.
+[SOLDIER] *Say that it was your duty.*
+Tell the pig about Amadia&apos;s shrine.
+No ordinary hunger, but a &lt;i&gt;trained&lt;/i&gt; hunger. Watch! See him separate spleen from marrow. Just... so.
+There were so many! Nothing we couldn&apos;t handle though.
+*Ask why he seeks the Red Prince.*
+*Tell her it&apos;s going to be a long, long time.*
+*Claim that you heard there were great riches to be found around here - you came to see for yourself.*
+The spirited musician Lohse joined the party. She has a guest living in her head.
+I brought him &lt;i&gt;subjects&lt;/i&gt;. He paid me well. I overstepped. Took to taking what was his.
+Stunned
+Griff died. We can free Amyro.
+*Draw your weapon in reply.*
+*She pushes you back and starts unbuttoning your clothes. You help her out of her dress and soon you&apos;re in each other&apos;s arms again, naked.*
+A fiddly little kit that you can use to disable traps and mines. If only these were available for people, too...
+Deal with Trompdoy&apos;s Soul Jar.
+*He shrugs, face clear of all emotion.*
+Oh Quercus, don&apos;t be like that.
+Offer All Wares
+Next Level [1]: +[2]% Damage and +[3]% Critical Multiplier.
+*Tell him you&apos;re intrigued. How does this magic work?*
+I&apos;m fine. You&apos;re fine. We&apos;re fine. I just want to get out of here.
+Lohse backed my claim on Divinity. She&apos;ll stand by me at the Well of Ascension.
+N-not funny. Please, I beg you. Help us!
+Even&lt;i&gt; I &lt;/i&gt;know when to pay attention to the gods.
+So Vredeman used Source magic to keep me alive as I was torn apart and rebuilt... he made me feel every moment of agony, then marked my wood with a slave scar.
+*She nods, tearful. She leans towards you, a plea for forgiveness in her eyes... and you feel her slide the hilt of a dagger into your hand.*
+Sets Enweb. Ignores Armour.
+The Watcher rewarded us with a magical amulet.
+Hush! Be quiet, Gods damn you.
+Wisdom
+*Ask the cloaked figure, this Vredeman, who he really is.*
+I want your eyes.
+You! Prisoner! You might be able to escape a cell, but you cannot escape death!
+We fight the war for the Divine, our warriors stand by Lucian&apos;s side, to keep our people safe, the living and the dead, from warrior to tree.
+*Nod and agree that they&apos;re not the brightest...*
+We should&apos;ve sailed from Driftwood, like I told you.
+*He envelops you, his rough skin on your skeletal frame. He laughs and leads you to the bed, tearing at your clothes...*
+Unsent Letter to Giyora
+NEUTRAL TURN
+This is acceptable. You demonstrate more courage than anyone bearing the title of &apos;Magister&apos;, in any case. Now tell me...
+Flaming Crescendo
+*The Magister&apos;s scream bubbles beneath putrid gas - and is cut suddenly short.*
+*His eyes flicker open, but he doesn&apos;t register your presence at all.*
+Gloves of War
+But...
+We are of the Divine. We - I - would never harm you. My methods will bring you closer to his perfect will.
+Lost Chest
+*Tell her you&apos;d love to play, but you haven&apos;t got the time.*
+*KILL INTRUDER!*
+*Say that she is not alone in her suffering. Many others have withstood torture at the hands of tyrants.*
+We are tooooooo few!
+Stay with me here and I will make you feel cherished in a way you&apos;ve never been cherished before. Love and lust we&apos;ll blend into a new definition of bliss.
+She is lost... we are &lt;i&gt;all &lt;/i&gt;lost now.
+Looks like Gwydian escaped the Magisters and fled the Blackpits.
+Mrrrowr!
+Please... Please... No more...
+I will tell you only what I wish, and no more than that.
+&lt;i&gt;Ninety-eight bottles of mead on the wall, ninety-eight bottles of mead...&lt;/i&gt;
+*Groan and raise your weapon. Didn&apos;t you kill her once already?*
+The man that walked out of here is not the son we knew. Be brave, for both of you.
+Dallis and her Whites; they must be involved. This cruelty, this disregard for life&apos;s spark - it is the mark not just of the Black Ring, but of the Hammer.
+It seems that Gareth will be able to lead an attempt to break through the Magisters and escape the island. We need to find him.
+Smash, smash, smashsmashsmash!
+There is nothing to fear; all the more to feel. Let me feel you.
+Getting out of here means taking a ship - a Magister ship. And they&apos;re not just going to give one to us out of the goodness of their hearts.
+*Ask him what he thinks he sees in you.*
+They&apos;re paired up. When you unlock one, you lock the other.
+*Ask how this Alexandar was chosen to lead the Order.*
+*Utter the words of the Lone Wolves, and say that you don&apos;t answer to him.*
+A Sourcerer... indeed. I s-should have realised.
+You are to be the new Mother Tree whose roots will conquer all, but you may never become this abomination!
+Can anyone hear me?
+Just the thing for that dry spot at the back of your throat.
+*Back away hastily.*
+Magical Big Dwarven Mace
+I don&apos;t care.
+The Helmet Awake
+You&apos;re wrong. The stew is just stew, and it&apos;s bloody good, too. So keep your sick imagination to yourself or I&apos;ll have to throw you out.
+Might as well tell a Voidwoken not to kill a Sourcerer.
+Nuh.
+[LOHSE] *Tell her you&apos;ve enough voices in your head, really.*
+*Ask him to explain. Drudanae and dreams: what&apos;s the connection?*
+Animals
+*Shake your head in pity and take your leave.*
+I could&apos;ve sworn you had answers to dig up at the Blackpits oilfields, or some such...
+Rumour has it the dwarven queen herself is behind these acts of sabotage. &lt;i&gt;That&lt;/i&gt; is what I want you to prove.
+Dissolving Mucus
+Arrow Recovery
+*Avoid the truth. Tell her you aren&apos;t sure. There was a lot of blood.*
+[NOBLE] *Say you prefer to walk on red carpets, but wood will have to do.*
+*The Magister lets a mirthless bark of a laugh slip, and slowly lowers his bow.*
+Say, you don&apos;t look all that busy now that we&apos;re safely on dry land. I could use someone to watch my back, and it looks like you could use someone to watch yours.
+&apos;North - Cathedral&lt;br&gt;South - City Gates&apos;
+*Run your fingers through his hair.*
+Thrice-Bound Chest
+Acid Entrails
+The Dag
+*She turns her attention back along the path. You are dismissed.*
+*The Dreamer returns your bow and offers a faint smile.*
+We should sail off into the sunset in search of the Nameless Isle.
+Blood Demon is Hasted.
+We need to get back to warmth - it&apos;s too cold here!
+*Rivulets stream from her deep-set eyes like endless cascades of sunlit tears.*
+The cove&apos;s guarded by those old ruins below - you&apos;ll need to get through them before you can get in.
+I... I tried to do the same.
+Empty Bottle
+I ain&apos;t lookin&apos; to ascend because I want the power. I ain&apos;t doin&apos; &lt;i&gt;any&lt;/i&gt; of this for me. I&apos;m doin&apos; it so the rebels never need face the Isle. So the mist&apos;ll never be in &apos;em. So they can be truly free. Fearless. Themselves.
+They called me a MISTAKE!
+*How enterprising! You appreciate a man that&apos;s willing to make sacrifices to get ahead in life.*
+*Thank him for the information and take your leave.*
+Whatever happened here, it was a massacre...
+*Smile, and admit that she&apos;s right. You&apos;re no battle-hardened warrior.*
+You promise, huh? A simple &apos;yes&apos; would have sufficed. If you fail to do as you say, it won&apos;t be my wrath you face - but &lt;i&gt;his.&lt;/i&gt;
+Human Warrior
+I warned him.
+Thunder Breath
+Incarnate learns a teleport skill, and a skill to swap places with its master. Increases damage by [1]%.
+But the great city of Arx took no further part in the conflict. Consumed by Deathfog, it was abandoned to the demons and the dead. The races united elsewhere. In the end, Isbeil had succeeded.
+You got that right. More importantly: no corpse, no contract.
+Savage Sortilege
+*The flower is withered. You bend to smell the bloom, but it has no discernible scent.*
+*Tell him his superior told you to report to him.*
+*Dip your head in acknowledgement and take your leave.*

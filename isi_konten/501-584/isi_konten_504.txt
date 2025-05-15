@@ -1,0 +1,162 @@
+We’ve retrieved the sprouted gloves.
+All that you desire shall be yours, if you follow the God King...
+You still wanderin&apos; around? Easy, lass - they&apos;ll get your scent!
+I found the Gods cursed and hanging from a Spirit Tree. Perhaps blessing them would help.
+Deal with them... we won&apos;t need them for the last stage of digging.
+Reactive Armour
+Oh - the Lord Protector must not be disturbed on a day this holy. But if you come by the cathedral later, you may attain his sacred benediction.
+Lohse! It&apos;s too late. It&apos;s too late! You need to know - before it eats you alive. The thing inside is -
+Chance to knock down.
+I don&apos;t know why you were in such a hurry to leave. We should&apos;ve done a lot more to secure your future.
+*You haven&apos;t, but promise you&apos;ll tell him if you do.*
+Till the death!
+What I would&apos;ve given to have had you as a pupil previously... but perhaps there&apos;s still time for one last lesson.
+Fire Cloud Pit
+I&apos;m just the one that hammers and such. You want the wares, you speak t&apos;my wife Fionola over there.
+Ifan ben-Mezd
+*Ask for more information about its escape.*
+It was a beast. Beasts don&apos;t speak.
+&lt;i&gt;Right.&lt;/i&gt;
+Ha! Those idiots can&apos;t even walk straight without mucking it up! Was it Ricks? I bet it was Ricks.
+Keeping quiet?
+If I wanted your hand down my breeches, I&apos;d have asked for it, thank you very much.
+Whoops!
+That&apos;s not how it works. Let the rest of the world worry about right and wrong, good and evil.
+On Elves&lt;br&gt;&lt;br&gt;*In outlining the physiology and (to him at least) mysterious culture of the elven peoples, Huwbert expresses admiration and fascination. But while he is careful to note the enormity of the suffering visited upon the elves at the culmination of the last great war, his text smacks more of self-congratulation than of any real empathy.*
+Kids aren&apos;t kids anymore. Not here, at least. We&apos;re all just... survivors, I guess.
+*Tell the toy that Isbeil is dead, so it no longer has a purpose.*
+*Scratch his nose.*
+Still, I know you&apos;ll brave any danger that stands in your way, for I&apos;ve heard speak of the prophecy. You are to be the father of dragons, O majesty, and the mother of dragons calls upon you in her hour of need!
+*Plan B? Ask if he&apos;s planning an escape.*
+The Sallow Man
+*Frown. He&apos;s looking for away off the island... in the middle of a ruin?*
+*Sigh* You&apos;re going to be the death of me.
+I don&apos;t want to know what&apos;ll happen if he gets what he&apos;s after...
+*Ask how she feels, as a lizard, about her man fighting against the Empire.*
+They were right.
+Ranged AI
+A letter found on the beach near Fort Joy revealed its carrier to be an assassin, sent to kill the Red Prince.
+Handsome sir, do not tease me with what I cannot have...
+What is it? Unless you know something about the disappearances, leave me alone - I need to concentrate!
+&apos;Here lies Glenn Reimond.&lt;br&gt;Proud father. Died in penury.&apos;
+They were weak. They got what they deserved.
+Hey! What&apos;s the big idea?
+You&apos;ve crossed the line... &lt;i&gt;merc. &lt;/i&gt;Time to pay. Get &apos;er, lads!
+Of course the others are saying the same to their mortal Godwoken as we speak.
+*Tell her you recognise that name. You came from Fort Joy, and you met a woman named Butter there.*
+Well, at least yeh tried. You&apos;ve my thanks for that, friend.
+Believe it or not, I&apos;m here to help you. So?
+Wind Generic 06
+Part one: Done! Now I just need to find the name of the demon, and... and maybe this could all finally be &lt;i&gt;over.&lt;/i&gt;
+Assault Crossbow
+*Squeak*Squeak*Squeak*Squeak*Squeak*Squeak*
+*She gives Beast a steady, defiant stare. A spark of recognition lights up her eyes but is gone in a flash.*
+Take heart, kin. Saheila says we are free. Saheila says we are all free.
+Be careful. Death here is death in real life too.
+Bandit Priest
+N-no madam, I&apos;ll get a replacement here right away!
+We do not help. We do not hinder. We only protect the Godwoken from those outside.
+*The woman looks up as you approach, wiping her brow with a grease-blackened hand.*
+*Drain them of their Source. Condemn them to the Void.*
+*You detect a sliver of a smile as she relaxes her martial pose.*
+a character controlled by a player
+Chain Heal
+Don&apos;t.
+Dead Prisoner
+But what happened?
+Use Malady&apos;s beacon to escape.
+Lagan&apos;s Key
+A child of the Void is present. My devoted, my promised: Abandon this place. I cannot risk your loss; you have so much still to offer. Go! This moment belongs to &lt;i&gt;me.&lt;/i&gt;
+I hear something. It&apos;s... it&apos;s Magister Siwan. The one who put on this damn collar.
+I pledge my sow to you, O Lucian. Please return.
+Chained and bound. How dangerous must this demon be?
+I wonder if they&apos;ll remember me...
+*Tell him you found some interesting notes in Mordus&apos; house.*
+*You remember a cold childhood in a no-hope fishing town, bullied mercilessly by a dwarf named Lohar. With no other prospects, you sign up as a Magister, eager for the power denied you all your life.*
+Yet here I am. I stared down death only to find myself staring at a two-faced you.
+&apos;Here lies Biddsy Vanyon.&lt;br&gt;Drowned in rum.&lt;br&gt;&quot;If the Hall of Echoes a Tavern Be,&lt;br&gt;Her Seat is Reserv&apos;d.&quot;&apos;
+Magister Rennart
+Magister Goa
+*She glares at you, fists clenched, all spit and defiance, ready to tear your head off at the first opportunity.*
+That was close...
+A dusty old book.
+You may have no interest in semantics, but clearly you&apos;ve an interest in the promises of powers that were dangled in front of you.
+I am not falling for that speech. You kill for the last time!
+*Promise to keep an eye open for a bear, then ask if by &apos;rolling box&apos; it means a cart?*
+You think I&apos;m falling for that cock-and-bull story? You&apos;ll pay for that!
+Mountain - Small Gorge
+A set of neat, densely-written pages details Kniles&apos; experiments with modified purging wands.
+Magic of Blood
+You think I want to be head of the Order? Ha! All I care about is dealing with that Royal arse-pain. And a Divine sure as hell would be capable of doing just that. I ain&apos;t thought beyond there, and I ain&apos;t gonna prime that pump &apos;til I have to.
+*Ask what brought them here in the first place, before they were attacked.*
+Hate to say it, but I&apos;ve had my fill of the sea for now. Let&apos;s head inland.
+Cat the Appraiser
+Report back to Garvan.
+Heeheehee!
+Dungeon - Corridor B
+*A hunger rises deep within you, a desire for his Source. This yearning is not yours, but it demands satisfaction.*
+*There&apos;s no mistaking the sound of stone chafing stone. The entrance to the chamber grinds open, filling your lungs with slightly less-stale air.*
+I&apos;m going to return to the forests where I grew up, where the Deathfog detonated. I&apos;m going to plant new seeds and see fresh shoots spring from the earth.
+It&apos;s not too late to leave it where we found it. Its presence doesn&apos;t exactly reassure me...
+For reasons I&apos;ll not disclose right now, it is &lt;i&gt;imperative&lt;/i&gt; that I should meet with a Dreamer: one of our kind&apos;s revered mystics.
+You&apos;ve helped us a great deal today. Let me help you too. Take this key. I&apos;ll show you where you can use it. It opens a door leading into the fort that may help you get out of this wretched place.
+This is your end, Alexandar. I strike in the name of your father!
+*INTRUDER! NAUGHTY, NAUGHTY! KILL, KILL!*
+A tattered hood.
+and the fertile farmlands produced the greatest harvests
+I am sworn to the king... and sworn I remain, Godwoken - as are you, I might remind you.
+Toggle Tactical Camera
+I escape with other kin - but they camp over there. They fear my work - perhaps &lt;i&gt;covet.&lt;/i&gt;
+Until next time.
+*Tell her if she thinks you look bad, she should see the other guy.*
+Alexandar is dead. For good this time. We made sure of it.
+*The man sleeps on.*
+[OUTLAW] *Clearly someone&apos;s moving stuff out of the city, and they&apos;re doing it in a hurry. Ask who...*
+I shall... serve Him. You must... die.
+A medium-sized potion that enchants and strengthens your Magic Armour.
+You&apos;re right, Quercus, our Shield has shown a surprising ability to adapt to new circumstances. We should give it the benefit of the doubt.
+Just when the agony subsides, more come to the shrine and put flame to the torches. They think to honour me. Instead, they &lt;i&gt;incinerate&lt;/i&gt; me.
+Congratulations, darling. And well done. It&apos;s very good to see you like this. Very, very good.
+Hall of Echoes
+Tramplers
+Could I prevail upon you for just one more? Penny for a dead dog, &lt;i&gt;ad infinitarium?&lt;/i&gt;
+Haha. GOTCHA!
+Intuition
+Saheila told us that the Mother Tree is not the hope of the elves but their oppressor. While the Mother Tree lives, the elves are not free.
+100% chance to Backstab.
+[LIZARD] *Boast that the Ancient Empire has abided through all of history. Even in the face of the Divine Order, it stands strong.*
+Ancestor Tree
+*The press of the blade encourages you further into the room, then retreats. You turn to face a woman in Black Ring robes. She&apos;s pale and vividly beautiful, wearing a smile that&apos;s somewhere between impish and cruel.*
+*Tell her you&apos;re sure that&apos;s right. Fort Joy is a lovely place.*
+*Tell her she killed Everhart and the Order will pay handsomely for her head.*
+But the Mother has a secret weapon. Tovah, Saheila&apos;s mother, keeps Saheila&apos;s anger at bay.
+*Your vision clouds, your head swims, and when the fog clears you are... still standing in the imp temple. You look around in confusion. This doesn&apos;t seem right...*
+We have escaped the island by boarding the Magister flagship, the Lady Vengeance.
+Singed White Magister Meeting Notes
+*The pictograms spin to life, and you&apos;re dragged into a dream. You see the lizards of the Ancient Empire, turning their backs on you. Casting you out into the wilderness.*
+It&apos;s a cooking pot! For cooking!
+Shush, Fedor. You, elf. Go to Reimond at the docks. He&apos;ll want to know of the news you bring. And hurry - he sails soon.
+*Insist that war hangs on every seemingly inconsequential choice. She can&apos;t make the wrong one now.*
+*The man is oblivious to you.*
+*Take your leave.*
+*Tell him you have an invitation to the wedding.*
+air damage
+Odd Skeletal Arm
+[ELF] *Lick your lips and say it sounds delicious.*
+Blaithin&apos;s Locker
+The island is ruined and doesn&apos;t have a name. Don&apos;t go there.
+*Say you&apos;ll give the people of Rivellon the benefit of the doubt.*
+*Bid her farewell.*
+I&apos;m not one to let sleeping dogs lie.
+*Kneel before Zorl-Stissa. Ask her what you must do.*
+Reckon that&apos;s for &lt;i&gt;you &lt;/i&gt;to figure out.
+Then you&apos;re as useless to me as a Voidwoken. I&apos;ll have to fight my own battle.
+*With a flick of her wrist, Dallis sends a jolt through Braccus&apos; body. He writhes in pain.*
+We were... tinkerers, if yeh like. We made this an&apos; that. The odd tool, the odd trap, the odd weapon of mass murder. Whatever Braccus desired.
+The Queen herself is in Arx. She may make an appearance at a dwarven wedding.
+Indeed I did. Unlike the rest of your comrades, whom I believe you left to drown.
+*The addict wipes the tears from his eyes and pushes you away.*
+&lt;i&gt;*&apos;I am so looking forward to seeing you again, Fane.&apos;*&lt;/i&gt;
+Change Gender to male
+Now I wish I hadn&apos;t asked.
+Unless you&apos;re here to tell me you&apos;d kill me in a pinch, we don&apos;t have anything to say to each other.

@@ -1,0 +1,177 @@
+*Tell him he failed because he was too weak to overcome his fear and allowed it to rule his life.*
+HELPER
+Creates a smoke curtain with a [1] radius. Creates a small fire surface with a [2] radius.
+In Lucian&apos;s holy name, we gather here today to see justice done.
+When the truth of the Divine&apos;s betrayal was revealed,
+*A Sourcerer, a dissolute dwarf with a big mouth, you were thrown in the slammer. Fort Joy beckoned... but you woke up hooded, being dragged through the sewers to a painful end. You never saw the light again.*
+Of course! Told ya I would, didn&apos;t I?
+Ascendant
+A word of warning to you, Sebille, one you would do well to heed: &lt;i&gt;Do not make the Doctor wait  - and do bring Lohse with you.&lt;/i&gt;
+*Her champion? Ask what she wants you to do.*
+Soulsapped
+Well. But we didn&apos;t know she&apos;d bring those &lt;i&gt;beasts&lt;/i&gt;. We surely didn&apos;t know.
+Now move aside. We&apos;ve got business elsewhere.
+I&apos;d say your guess is as good as mine, &apos;cept I&apos;ve got the sense not to ask any questions. Now why don&apos;t you waft on, elf? I&apos;ve got work to do.
+Hm...
+Eternally, the servants toil and sweat...
+*She gives you a long look. She would have much to say to you, if it were her place to speak further.*
+Dazing Bolt Scroll
+Soul Of The Dragon
+My word - an actual Eternal memory bank! Damaged, certainly, but I wonder...
+*Tell her that Braccus Rex is dead. What does it matter now?*
+*As if from nowhere, a sweating warrior appears before you.*
+I understand you&apos;ve been very, very, &lt;i&gt;very &lt;/i&gt;busy. You&apos;re welcome in my home, in &lt;i&gt;this &lt;/i&gt;plane, Lohse, but I don&apos;t remember inviting you to my little hideaway among the stars. Who do you think you are?
+Karon
+We have a deal.
+Add Map
+*Look at her sceptically. What does she want?*
+*Tell him you are no Master. But if he wants to eat lords, kings and even the gods themselves... he should come along and dine with you.*
+He cut the &apos;oss&apos;s head off and locked it inna chest. &apos;ind you, the &apos;oss was a &apos;ute so couldn&apos;t have talked anyway. The &apos;oss was a &apos;ute. The chief couldn&apos;t talk, I &apos;ean to say.
+Don&apos;t get your hopes up. We don&apos;t adopt.
+I&apos;m ready!
+To the victor the spoils. To the victor, divinity.
+*Look over his ship and ask him where he&apos;s going.*
+You! You travel with the Red Prince! Please do bring him to me, for I long to see him.
+The world is without gods. It is a fat-bellied beast, blind and tethered; ripe for Voidwoken teeth.
+My friend. It fills my soul with peace to be near you.
+All across the realm he was loved, worshiped and adored.
+*She grabs a large kitchen knife.*
+Magister Benson
+I landed on Reaper&apos;s Coast. The Lone Wolves who sold me to the Master mentioned this place. That, at least, is a lead.
+One of these ingredients does not belong.
+*Admit that some things just aren&apos;t known.*
+*Tell her you know all about that special night she shared with Magister Borris.*
+He can do what he will, but one day his one true name I&apos;ll know, and so undo him.
+Dallis and her Magister forces, along with a mysterious acolyte named Vredeman, attacked from the sea.
+*You no longer look without, but within. You understand where your path must take you.*
+You must leave me be. I can&apos;t let myself be distracted.
+Funny lass. Pulling that ol&apos; scheme even in a prison camp. It&apos;s a good thing you didn&apos;t, bub. She would&apos;a robbed you blind.
+Uncover the truth about the elven homelands.
+Magister Yarrow
+It&apos;s from Arx that the Divine Order &apos;operates&apos;, so to speak, though you&apos;ll find its operations are as scattered as dandelion seeds in a cyclone. With both factions at odds, Sourcery is not a pervading concern.
+*Meep mee squee*
+Piercing Resistance
+*Give him a nod of respect and turn away.*
+It was my pleasure. The darkest dark is perilous, but we braved it with worthy ambition: the promise that is Brahmos!
+Proclamation on Dallis&apos; Leadership of the Divine Order
+[1] cast [2], creating a protective wall
+Gareth said he&apos;d scout ahead alone, but something seems off.
+Spirit of Paladin Everhart
+Go on then. Sing it to the figurehead, and get her to sail.
+My prince...
+Undead
+M
+The Vault of Linder Kemm
+*You float back into consciousness. There&apos;s a boulder in your belly and a slug under your skin. Nothing feels right. Nothing feels... whole.*
+I intend no harm. I want only some provisions. A bit of bread. A potato or two. Nothing Griff should be loathe to give. I need to escape and I have... people to consider.
+Mercy! Mum wasn&apos;t kidding...
+*He surveys the area, doing his damnedest not to allow his eyes to rest on you.*
+Pity. You should put more stock in dwarves, ya know. They make dependable allies - and formidable enemies...
+*Tell him you&apos;ve performed countless exorcisms. You know what to expect, and you won&apos;t fail.*
+[Translate78_00cbecbb-5ea5-42c2-a305-9421bef0fc80]
+You held your own out there. Imagine how that might have gone for a meandering schoolkid, or some random merchant.
+*You press your palm against the door to open it. Your fingers clack against the wood, and you suddenly feel... &lt;i&gt;grey&lt;/i&gt;. The touch leaves you numb. Dull.*
+Not to worry; I haven&apos;t slept a wink since your &lt;i&gt;last &lt;/i&gt;interruption.
+A druid.
+Do you? What authority is that?
+Paladin Commander
+Sinister Watch
+I&apos;ll tell you when you&apos;re older.
+That poor boy is wasting his time, walking upon well-trodden paths. I thought I raised him better than that...
+The top door&apos;s barricaded. No way through for now.
+Beast
+Egotistical
+*A moment passes. Then you feel it - clarity.*
+Rise, ye dogs! Take this fish to the filleter.
+*Enter the safe combination as the Meistr calls it out.*
+*You remember Tarquin muttering this very phrase. What was next? Ah yes: &lt;i&gt;&apos;Amadio v&apos;lucio de an mey dritta dumoreis.&apos;*&lt;/i&gt;
+The Path and the Pilgrimage&lt;br&gt;By Willam Bradford&lt;br&gt;&lt;br&gt;Only the most faithful will make the expedition - and not all will survive it. But should you wish to travel to the great city of Arx to celebrate the Divine Lucian, I can surely map the safest passage when embarking from the Reaper’s Coast: on foot, from the fishing village of Driftwood, through Paradise Downs, and over the mountains into Arx.&lt;br&gt;&lt;br&gt;Do not sail directly into the city. Its harbour will be so lively as to be impenetrable.
+Unity
+None of us are perfect, milady.
+&lt;i&gt;You &lt;/i&gt;are my honour. That is all.
+*Ask her for milk.*
+Diviner&apos;s Hands
+*Beast pauses - then nods.*
+If you&apos;re looking for the action, Lord Kemm has taken the bulk of the force to the Cathedral.
+I had to test you. To know if, when I chose you, I chose well.
+I know that many will say I&apos;ve failed my people, but I don&apos;t think I have.
+But you can teach him new tricks. Wolves are good that way.
+Keep moving.
+UI Select Slot6
+Jar of Honey
+Reduces elemental resistance of nearby enemies.
+Stink-human, stink-human!
+Possessed Battlemage
+Greasy Cap
+Aww. You&apos;re as weak as a kitten. There there. It&apos;ll be okay.
+*Through her lifeless eyes you fall. You see &lt;i&gt;them&lt;/i&gt;. Legion. The thousands slain that day, those you were too late to save. The hundreds slain by your own hand since then. Mountains of corpses and rivers of blood.*
+I keep expecting to see Magisters on the horizon - if this thing is capable of moving, then we should get going, &lt;i&gt;now.&lt;/i&gt;
+*Ignore his nonsensical rationalization and consume his Source.*
+*Ask what she was doing here in the first place.*
+- may His name live forever more -
+I... I don&apos;t know.
+[JESTER] *Shrug and say that it&apos;s not &lt;i&gt;bad&lt;/i&gt;... you just don&apos;t like blue all that much.*
+But first...
+[BARBARIAN] *Bellow your disappointment. Prayer? What about, say, a &lt;i&gt;sword?*&lt;/i&gt;
+the House of Love.
+I needed that.
+And long, long after.
+Hey, chief.
+*She suddenly snaps straight, trembling and rigid. A voice booms from the helm.*
+I&apos;ll give you fair warning, stranger. Turn around and get out of here, unless you want to end up like this treacherous filth.
+Matchmaking found [1] available lobbies.
+Haste
+*Tell him you want to see his best supplies and only his best. Much depends on it!*
+This is wrong - I don&apos;t deserve this! &lt;i&gt;I am a good lizard!&lt;/i&gt;
+Necromancer Tamsyn
+*Your gaze wanders over the solemn stone face that overlooks the shore. For the briefest of moments it seems as if its eyes come alive and lock with yours.*
+*The spirit seems more aware of her surroundings than before. She sees you, gives you a pleading look...*
+*Sod that. Step away.*
+Peep peep PEEP!
+You&apos;re a brave lad, waltzing in here now. I know who yeh are, you know - the Beast o&apos; the Sea. What brings you to this good-for-nothin&apos; town?
+*The face dissolves and the stars begin to swirl... and so too does your head, as you are taken to...*
+*Say that your friend must have put it there. You&apos;ve never seen it before!*
+Bellows
+Phase Capacitor
+*Tell him to stay back; now isn&apos;t the time to pick a fight.*
+*The eagle hops from claw to claw, peering up at you with berserk and birdlike excitement.*
+And thank you. If not for you, I&apos;d be dead on the cobbles. And Marie would have seen it all...
+Come on, dammit. Come on!
+*Shrug. You just thought you saw a nude wall in his otherwise splendid house.*
+Canvas Shirt
+*The scribe squints as she reads back over the page that she&apos;s just written - you catch a glimpse of text extolling Vrogir&apos;s bloody virtues.*
+I&apos;m digging my own parents&apos; graves. You&apos;ll have to forgive me for not being first-rate company.
+That&apos;s not possible. And therefore, it didn&apos;t happen.
+*Ignore her remark.*
+Alright, Slick. Haven&apos;t seen you around here before. When&apos;d you get in?
+Rowr! Rowr rowr!
+Pressure Spike Scroll
+Soon they would split as two factions sought power -
+*Ask if she knows how many missing spores remain.*
+Go, my chosen. Find the Well of Ascension. Do what must be done.
+*Pay him.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*Dig for more information. He must know something useful.*
+Our consulate may be gone, but I will not let us be reduced to utter beggars. I merely do what is necessary to fund our ongoing diplomatic efforts.
+So. How&apos;d I do, Sebille?
+Two bananas short of a fruit bowl, are you? Get out of here, I don&apos;t have to listen to this nonsense in my dinner hour.
+Magister Sword
+*Note that you may have more questions.*
+Stranded Merchant
+*Tell him that Delorus left the Order in search of... new opportunities. You met him along the way. He was in good spirits.*
+Courtesan&apos;s Secret
+...the commonest among them stripped of power.
+Gateway teleportations remaining: [1]
+*Take your leave*
+*Remark that this suspect must be a fearsome sort, to have bested Magisters by himself.*
+*Say you think it just doesn&apos;t like it when you&apos;re happy.*
+Hrrm... yes, you&apos;ll do. It would be unbecoming for a potential Divine to not have a strong sense of authority. How else would they lead the forces of good against the Void?
+Our home is dead and gone. So we join the world, but we should not, for the world kills us. But if we fight not, we lose our scions.
+The entrance is crude. Hidden in a vile little cove, it requires no intellect - merely chance. A &apos;puzzle&apos; only to imbeciles. My devices are much more elegant.
+Good! Now we see what happens. Until then, do you wish to trade?
+Sadha, the Red Princess, attacked us.
+Tell me why.
+*Nod silently. You would like to depart.*
+*Whisper that you&apos;re sorry. You&apos;re so, so sorry.*
+What money?!
+&lt;i&gt;Fie!&lt;/i&gt; No-one understands me!
+Blessings on yeh, then. Stay safe out there.

@@ -1,0 +1,149 @@
+[1]% chance to turn water and blood surfaces into oil.
+Such a silver tongue. I welcome your flattery - but we both know why you are really here... &lt;i&gt;Godwoken. &lt;/i&gt;
+*Nod. There&apos;s no reason for more people to die.*
+*Continue holding the cloth to the wound. Take Siwan&apos;s hand and try to help her stand.*
+*He places a thumb on each of your temples and one foot gently on yours.*
+I found what she wanted. She made &apos;em into armour, and when she wore it, well...said the beast started talkin&apos; to her.&lt;br&gt;
+[ELF] *Tell her the Ancestor is corrupted. She cannot trust it.*
+Magical Ring Helm
+*You see it all: The tallest of the Ancestor Trees have been lost beneath swirling clouds of Deathfog. Nothingness. Emptiness.*
+Birthright? I&apos;ve been fighting for this all my life - not once have I even considered yielding. There&apos;s nothing you can say to sway me now.
+*The lamp feels strangely hot to your touch. As you wipe away the years of dirt and grime, it trembles in your hand.*
+Find the fugitive witch.
+Exceptional Light Breeches
+We died glorious deaths!
+*Grunt your indifference. If he wants to play with people&apos;s lives, that&apos;s on him.*
+*Look at the dead monks littering the floor. You&apos;re not so sure Gareth is still that hero.*
+Lizard Warmaiden
+Bats
+We ventured on. Will the Doctor honour the pact? Time will tell.
+*Look right and read the random name of a hunt long over.*
+Flaming Arrow
+There could be few justifications for using such a thing... but I&apos;d bet my beard a good few &lt;i&gt;do&lt;/i&gt; exist.
+Ranged Attack
+&lt;i&gt;*The scent of Deathfog comes from under the ground...*&lt;/i&gt;
+Indeed. I may be one of them.
+*Tell her the addicts are gone - and not a drop of blood was spilled in the process.*
+This military training book is concerned with the theory and practice of safely making and using grenades.&lt;br&gt;&lt;br&gt;Some of the theoretical designs are truly terrifying. But not as terrifying as the tales of poor Private Osmo, whose grenade backfired in his face due to lack of attention.&lt;br&gt;&lt;br&gt;Your fervent wish: not to be like Osmo.
+Away... Away... You killed me...
+&lt;br&gt;From Sneaking: x[1]
+Silent Violence
+Leave
+Summon Black Cat Skillboook
+*Consume his Source. There will be no release, only Void.*
+*The Meistr doubles over in a violent coughing fit, struggling for breath. After a few moments she regains her composure, wiping a thin smear of blood from the corner of her mouth.*
+I am feeling... well, if not good, then certainly better. I just needed time to think. Took some time to think. I had a good friendship with Jonathan while it lasted. I&apos;d rather celebrate that than mourn what can never be.
+I can be free. My soul, cleansed...
+*The lizard sways slightly on his feet, locked in a deep slumber.*
+Iron Maul
+You save us all. My girl is back. Our Scion is back.
+*Inform him that you managed to save the young woman - there was a mind maggot lodged in her skull.*
+Be safe out there, and don&apos;t go causing any problems.
+You know the drill, Ifan. A contract&apos;s a contract. And I intend to &lt;i&gt;deliver&lt;/i&gt;.
+House Exterior - Forest Worker House B
+Not much, no. Never met &apos;em myself. I do know they rigged this place to holy high heaven just after settlin&apos; in, though. Some folks are &lt;i&gt;very &lt;/i&gt;private.
+Ice Breaker Skillbook
+You must be wondering where I was. In a place outside reality, a god I don&apos;t believe in told me things about myself I don&apos;t believe. Yeah.
+Stay out of our business.
+Like moths to a flame, it was.
+Magister Yarrow gave us a key to the Fort.
+He is bound to the gauntlets you discovered. He dreamed of this place. Through his longing, I can speak.
+Lava is lethal. A lava surface cannot be destroyed or transformed. If you see lava, it&apos;s time to relocate to... somewhere else.
+Toque
+Poor creatures&apos;re better off dead.
+Back again? I&apos;m glad.
+[RED PRINCE] *Ask Slane who would dare to chain a dragon in body and mind. Who possibly could?*
+Oh, by all that is holy! Your Highness is too... courageous for my taste. Such bravado does not favour my *cough* constitution.
+*Ask her about the goddess Amadia.*
+...at least I got us where we wanted to go. This is Arx. This is where Dallis has fled, with the powers of the gods. This is where the path to Divinity leads.
+I should have guessed you had a sweet tooth! Enjoy this sampling. I hope you enjoy the smooth finish. Bliss.
+*Agree. Every dwarf you&apos;ve known loves a good drink and a good argument.*
+Just leave me be. I&apos;ve got some things to sort out in me mind.
+Well you can&apos;t have any, &lt;i&gt;serpent&lt;/i&gt;. You and your kind aren&apos;t entitled to whatever you like - go and speak to Lovrik if you want stew, and have gold to hand, like everyone else.
+*As you tell him the filthy gag, you can see him struggling to maintain his composure. He fails, and tears stream from his eyes as he laughs uncontrollably.*
+One more word, Lohse.
+He scarred me, so I scarred him. Extensively.
+Pedigree or moggie - it doesn&apos;t matter. Not here. Not anymore...
+Undead
+Well, you may be innocent of one crime, but you sure are guilty of others.
+Apathy. A more dangerous attitude than pure malice. I fear my musings have taken up too much of your time already. I bid you farewell.
+*The Ancient Empire assassinated her, then sought to scour every mention of the her from history.*
+*Tell him that you are Godwoken, with a claim on Divinity. He is but an upstart. A relic. A pebble on the path. You shall put the great Source King back in his box.*
+*&apos;I          K   N   O   W.&apos;*
+*You kick and struggle weakly, desperately trying to catch a breath, but the dwarf &apos;s grip is iron.*
+*Ask for his master&apos;s name.*
+My leader should be here for this.
+We slipped her island without too much of a to-do. The Divine Order isn&apos;t as all-powerful as it likes to think.
+Lovrik is dead.
+Lucian said it was a necessary evil. Me? I was just sorry we didn&apos;t get the lot of you.
+Mood Panel
+Teleport Party
+Close-fitting and flexible, these scalemail gloves were designed for military officers.
+&lt;i&gt;Much &lt;/i&gt;magic? I was controlling the powers of the universe while your people were still... doing whatever it is you used to do. What specialty would you prefer?
+*Ask her what she&apos;s planning to do with the book you gave her.*
+*The spirit shivers and shimmies - and then is gone to the Hall, relieved of his mortal pain and penitence.*
+Weak Hull Fragment
+Haaaaah! No! Not at all... &lt;i&gt;unnnnh... &lt;/i&gt;This pain right now... &lt;i&gt;gnnrr... &lt;/i&gt;is from taking root... &lt;i&gt;hmmmph. &lt;/i&gt;This pain is good! Haaaaah! This pain... &lt;i&gt;gnnnnrrr... &lt;/i&gt;is life!
+Painting of Amadia
+As far as I can tell, he&apos;s doin&apos; the queen&apos;s dirty work.
+Waiting for other Players...
+Spirit of Sadha
+Such a silly game we play. To be a god - it&apos;s quite wasted on mortals if you ask me. We are all of us too blemished to become immaculate.
+*Say you&apos;re after someone who can strike up-close, but deal damage from afar as well. A Battlemage would do.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca] gold)
+Rock Paper Scissors
+*Shrug. You can understand that.*
+Useful? Ah. You mean deadly. Used to make bows &apos;n&apos; fletch arrows, but left that hobby behind.
+Why Mister ben-Mezd! How good to see you!
+Did you hear that this ship is alive, and &lt;i&gt;awake? &lt;/i&gt;I didn&apos;t think we&apos;d have to ask the damn thing nicely to take us away from here...
+...but please. Don&apos;t go. Not yet...
+*Sebille touches your arm.*
+Sort
+Lucian&apos;s dead and so are you, thief! MOTHER! There&apos;s a robbererer! MOTHER!
+Take this book, for example. I understand all of it, and yet none of it makes sense.
+Basic Bow
+Forbidden Library
+The one and only. And has he agreed to take a look into that very lovely, very demonic mind of yours?
+Search the Blackpits for Black Ring.
+9
+*Thank him for his fine work, then hint that you&apos;ll commend him to your superiors.*
+Heh! Nice try, Midge. Now, uh... put that shiner away and I&apos;ll shave a little off the top, how &apos;bout.
+The real Dallis didn&apos;t volunteer herself to me, mind you. Curiosity led her to the tomb; my hunger for Source took care of the rest. I presume her bones remain there.
+*Bite down on the side of your tongue - &lt;i&gt;hard&lt;/i&gt;. Jolt yourself awake.*
+This egg is a sign - a gift from the gods. Eat it, take its power!
+Was Kemm spying on the Sallow Man? Or... were they in league?
+Silence the voice in your head.
+Get away you... you &lt;i&gt;BRUTE!&lt;/i&gt;
+*Drop the issue. You have more pressing questions.*
+Squeeee squeee!
+*Say you&apos;re looking for someone who can strike from a distance with a bow or crossbow - a Ranger would do.*
+Okay. I admit that one still creeps me out sometimes. Don&apos;t judge me too harshly. We&apos;re still good, yeah?
+The Hall of Echoes was under attack from the Void. I must find the Council of Seven on the Nameless Isle. At the Well of Ascension, I&apos;ll become Divine.
+*Keep out of their affairs and take your leave.*
+[1] determines what you can craft and the quality of your crafted items. The higher, the faster you craft.
+I give you the most valuable thing I own if you help us now. This I promise.
+*Say that it could have been a lucrative job...*
+*She&apos;s real. She&apos;s actually real! Beg her to tell you where the others are - you can&apos;t find your people anywhere.*
+You&apos;ve got more miracles in you, Lohse. With you, what was impossible seems... possible again.
+*Shake your head and walk away.*
+[FANE] *At last, someone that speaks this brutal tongue with a little elegance.*
+*The dwarf reaches into a barrel and pulls out a fish. His knife glides through the scales, crimson guts spilling out in its wake.*
+[IFAN] *Say that you value truth over games.*
+Whit-whoo! &lt;i&gt;Hoot!&lt;/i&gt;
+*Decline. You have a companion to think about.*
+And I thought we was gonna be friends. Go on, sling your hook.
+It all feels kind of pointless.
+*With a smile she propels you towards the bed. You fall backwards onto the soft mattress. She jumps on you. Kisses you.*
+Yes. They are cut down. Destroyed and defiled. But our roots run deeper than any know. Our roots cross the world many times over.
+Traps: Pressure Plates
+Shame is powerful. Shame destroys authority. I am their Mistake. If they were to tell the truth about me, they&apos;d lose their authority. And rightly so, if you ask me. I&apos;ll kill them for that, if for nothing else.
+Just tell them I&apos;m safe. No matter what happens.
+House Interior - Upstairs A
+*The man swaggers up, shaking out the limbs that were bound tightly by the Magisters. As if this were a tavern outhouse rather than a bloodbath, he smiles lazily at you, revealing teeth capped with reflective black metal.*
+I hadn&apos;t pictured it like this. I mean... I guess I hadn&apos;t pictured it at all.
+*Reveal that Dallis has come to the Cathedral with the aim of entering Lucian&apos;s tomb. Ask if the Hammer succeeded.*
+*The woman doesn&apos;t acknowledge you, and instead stares at the bodies of her fallen comrades.*
+Only she knows if she atones for her sins.
+*A young Magister stands pale and silent. Her knuckles whiten around her weapon as you pass.*
+*Tell him that&apos;s some sound advice.*
+*Tell him his mother did what she did to protect him. He should go seek shelter, like she told him.*
+*The spirit paces up and down, completely absorbed in his own thoughts and definitively uninterested in you.*

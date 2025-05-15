@@ -1,0 +1,150 @@
+This is a &lt;font color=&quot;008858&quot;&gt;party dialogue&lt;/font&gt;. It allows you to roleplay discussions between your party members.
+Here I come...
+She&apos;s not the first to fall along the way. She won&apos;t be the last.
+I know that can feel... out of place. But he&apos;s a good man. A good, good man.
+Braccus broke Dallis&apos; leash and swore to the God King. We fought him. He summoned his kraken. We fought that too.
+Arhu&apos;s Prison
+*Ask her if anything she said before was true - about the pouch, about Magister Reimond.*
+Duggan and no Gareth. Gareth but no Duggan...
+Your funeral, lass.
+*A dog is quietly curled in the corner of the cage, seemingly trying to make itself as small as possible.*
+*Take your leave.*
+This character is inspired by Alexandar&apos;s presence.
+You know what? I changed my mind. You keep it. And your &lt;i&gt;distance &lt;/i&gt;along with it.
+I should find a way out of this mess, before someone comes to replace my collar.
+Find Magister Borris.
+|Soul Consumed|
+*...and for a moment you are the spirit before you; your name is Syrus Oates, you are in a tavern with your friends, but someone has barred the exits and set the place afire... &lt;i&gt;and you know that it&apos;s your fault.*&lt;/i&gt;
+I&apos;ve never heard of someone selling their soul to help... not &lt;i&gt;strangers&lt;/i&gt;, but whatever we were to her. We owe her everything.
+I shall not fear what&apos;s dead and gone... I&apos;ll fight to win the war to come...
+Tell me, what do you wish to know about our goddess?
+*Hold on! You saved his cousin Mari from Voidwoken. Tell him you&apos;d appreciate some respect.*
+Magister Bela
+This can&apos;t be my husband&apos;s work - there must be some sort of mistake!
+We have hope. It is more than I could have expected just hours ago.&lt;br&gt;
+I think ya might have a bit of brain leakin&apos; out yer ears. Ain&apos;t no-one here like that. Get yer act together, girl!
+No wonder I seek my way back to the throne.
+&lt;i&gt;Seriously?&lt;/i&gt;
+I- no. No, I couldn&apos;t. I-...
+Get on with you.
+To summon Malady back to the Lady Vengeance, we should talk to the figurehead.
+Human
+He gonna compose a poem for ya? Can&apos;t wait t&apos;hear!
+Heh - the Red Prince himself. What an &lt;i&gt;honour. &lt;/i&gt;I was told you might come through, but I hardly expected to see your royalness with my own eyes.
+*You keep your composure and listen, neither accepting nor rejecting Zorl-Stissa&apos;s song.*
+*Ask if there&apos;s anything you can do to help.*
+Just give me a minute, Seven be damned!
+*She&apos;s doing a lot of good here. Despite how she looks, she is a good person.*
+This is your last warning - trespass again at your own peril!
+*Wonder what you should do next.*
+*The chick&apos;s joyous flutters launch a few stray sparks into the air. It is elated by the very sight of its adopted mother.*
+I killed Alexandar. This time he&apos;s gone for good.
+[RED PRINCE] *Say you&apos;re of the House of War, but you might as well be of the House of Love. There is no greater lover than the Red Prince himself.*
+Beryl Griff told us that Kemm keeps his chamber locked. She believes he keeps secrets from his wife.
+Well, far be it from me to stand in your way. Get to it, Godwoken.
+Marcus Miles. You should get out of here. Go back to the high seas and sing your shanties and do whatever else your band of brigadiers does. We&apos;ll all be better off.
+*Turn away from the lake.*
+I can&apos;t- I can&apos;t quite remember...
+Tales of the Seven Gods
+*Argue she is clearly a master of her craft. Isn&apos;t she interested in pursuing new experiments? To see what happens?*
+Look, missy. I&apos;m here on Lohar&apos;s orders! He said to come and bend Micheil Ros&apos; ear, and I don&apos;t intend to do &apos;im wrong.
+Hair Style
+Ryker&apos;s Letter From Roost
+It does, doesn&apos;t it? Good times though...
+The Paladins believe that Magisters are up to no good in the Blackpits. They would like this confirmed.
+*Steel yourself. You can endure as long as it takes to get this door to open.*
+Let no-one say we didn&apos;t give it our best, though.
+This book looks old but unread. Like an afterthought that was forgotten. The author complains that wizards and warriors write about using elemental essences to create magical scrolls, to enchant arrowheads or create grenades, but how none of them ever promote potions from essences. You take note of one particularly interesting recipe that involves earth essence and is supposed to toughen your skin. You wonder what you could do with other essences, should you find any.
+Trusted advisors, eh? Who d&apos;you think it is? The Void dragon? Damian, Leandra, and Ulthring? Hah.
+*Could it be true? He can somehow enact the return of dragons? Ask if you, a fellow lizard, can become a dragon as well.*
+I did all I could. But credit lies elsewhere.
+The portal-master is dead. She&apos;ll do no more damage now.
+The Purged Dragon
+*Sebille! You thought her dead.*
+One of us paid Lovrik for an intimate liaison. Zharat will be waiting on the top floor...
+*The needle stings, but the pain feels good. You smile and think of the many left to hunt.*
+*Tell him he did what he thought was right.*
+*Say you like his positivity. It becomes him.*
+*The spirit&apos;s hate for the Magisters rages on unabated.*
+There you are - thank goodness. This is his house. Adramahlihk.
+I won&apos;t lose any more Seekers, if we can avoid it. We&apos;ve suffered enough.
+A word of warning to you, my friend the Beast, one you would do well to heed: &lt;i&gt;Do not make the Doctor wait - and do bring Lohse with you.&lt;/i&gt;
+Ever so grateful.
+And now, finally...
+*She stares through you in shock, glassy eyes trembling.*
+[RED PRINCE] *Alright. Yes. But, you tell the rat, you&apos;re not weird.*
+*Look at him closely. He can only be... yes, he&apos;s Jahan, the demonologist you were sent to find. Tell him you&apos;ve been looking for him and reach forward to shake his hand.*
+It&apos;s &lt;i&gt;awful.&lt;/i&gt;
+*Ask why it has to be that way - what quarrel do the humans have with the other races?*
+Peace. Interrupted.
+*You find an ocean of rage, storm-torn and heavy, with great black waves battering the shores of his conscious mind. At the bottom of this angry sea, you find the dark silt of regret.*
+[RED PRINCE] *Tell him several things will come next: answers; power; your throne.*
+I feel the magic in you, elf. Care to hone those skills of yours?
+*Big deal. Move on.*
+*Ask where you can find this Well of Ascension.*
+There I am, but who the holy hells is that?
+She&apos;s... she&apos;s dead. What a bloody waste...
+First I will break your body. Then I will find my creation and cast your cursed &apos;Gods&apos; into the same pit they threw our people.
+That&apos;s right. Horrorsleep is a realm &lt;i&gt;feared&lt;/i&gt; by the cosmic menace that is the Void. Ideal location for a summer house.
+Beast&apos;s hat, who has accompanied him through many adventures. It was returned to him by Duna.
+Don&apos;t be disgusting, we hardly know you.
+Assassinate the Shadow Prince.
+*Leave the door be.*
+Flay Skin
+&lt;i&gt;Unarmed? &lt;/i&gt;Let me tell you something: I fought in the Great War. I took this weapon from a Black Ring scout I killed with my own bare hands. Then I came home to work, and work I did. And what was my reward?
+*Lie and say that you are indeed their jailor, here to check on your prisoners.*
+*Cough* Well now! Hmmm. What a dream that was, what a palace we saw! Can&apos;t say I remember much else though. *Cough* Not a jot.
+We&apos;ve done well so far. No reason to split up right now. There&apos;s time for that later...
+You bless me. You bless us all.
+Fly Agaric Mushroom
+Beast Master
+With great power comes great fun! Return to Rivellon in this collection of four entirely new adventures, hidden across the world of Divinity: Original Sin 2. Overcome intense battles with an undertaker of the gods, outwit ancient undead pirates, uncover an eons-old secret of the elves, and more to lay claim to unique sets of powerful armour.&lt;br&gt;&lt;br&gt;This new content is applied automatically and available with the creation of a New Game.
+Never did see ya comin&apos;, but really - ain&apos;t that the wonder of it? I&apos;m prepared for most anything - the undertow draggin&apos; me off, or the royals catchin&apos; up, or releasin&apos; my people from their misery.
+It was you, wasn&apos;t it? You who woke the ship. &lt;i&gt;Godwoken&lt;/i&gt;.
+Against all odds, we&apos;re alive, and we&apos;ve plenty left to look forward to!
+Heretic... Traitor... the Void seeks you...
+Heel
+Shriekers
+The demon has an Advocate... The Advocate killsss...
+Bloodmoon Island awaits, my bony friend. It&apos;s a bit of a jaunt, but this gives me time to prepare my workspace. We&apos;ll catch up on the Lady Vengeance, yes?
+*Isbeil continues her introduction.*
+&lt;br&gt;Blinded!
+Only you know the truth.
+*Ask why they haven&apos;t passed on to the Hall of Echoes yet.*
+&lt;i&gt;*&apos;I followed my orders&apos;&lt;/i&gt; is a pathetic excuse for his behaviour. Take his Source for yourself.*
+But Lord Arhu must be found. Can you help? I... I am not accustomed to leaving my home. The outside is too much for me these days.
+*Say you&apos;re also looking for the stolen crate and ask if she has any leads.*
+*The intensity of the flame hurts, but then the fire makes way for a vision of the wheels of the universe spinning, and it&apos;s the Red Prince&apos;s hands that spin them.*
+I&apos;m not so sure it&apos;s an escape worth reveling in just yet. We will be hunted.
+Your mind is sharp, but so too must be your weapons...
+*Tell her you&apos;ve never heard of &apos;louse-ly children&apos;.*
+*Say you aren&apos;t sure - you ran as soon as you heard it.*
+It&apos;s simple. Kill the Sourcerers, and we kill off the Voidwoken. Sounds cruel, I know. But what else are we gonna do?
+Hold [IE_PartyManagement] and use [LeftStick] to highlight a party member. Press [IE_ActionMenu] to split them up.
+I don&apos;t think I can ever tire of hearing that.
+Hello again, sweet one!
+Fulton
+&lt;i&gt;I&apos;ll do you harm. I&apos;ll do you harm. I was on the Peacemaker and I&apos;ll do you harm at the elbow. I&apos;LL DO YOU HARM!&lt;/i&gt;
+Then... this is it.
+Wait until the House of War hears about this!
+The tree must fall!
+Magister Officer
+*The Magister pointedly hums a well-known anti-dwarf ditty.*
+*You recognise the spirit; this is one of the souls you met in the demon&apos;s home plane - one you couldn&apos;t snuff out.*
+Recognise you? Of course I recognise you. You&apos;re the Red Prince. That&apos;s about as obvious as a very obvious thing. Your point?
+Gawin&apos;s Robe
+*The creature ravenously gorges on a bloody cadaver. You look closer at his victim and notice the corpse&apos;s small size. His meal... is a child.*
+*Scoff. She can&apos;t manage a decent &apos;thank you&apos;?*
+What a creep.
+The Magisters saw *cough* fit to purge me. Not enough to turn me into one of their silent monstrosities, but enough that my power is all but gone.
+*Your hand passes over the needle and thread in Swann&apos;s satchel, and instead fishes out a roll of bandages. You wrap the woman&apos;s head tightly.*
+*The dwarven woman hums to herself as she works with total focus and concentration. Her ears twitch at your approach, but she does not turn to you.*
+That&apos;s not funny.
+*Turn away from the altar.*
+Return to Leya.
+I knew she was mad, but this? I never imagined...
+Marskwoman Deserter
+*Tell him you can&apos;t help but notice that he&apos;s... undead.*
+Stop peerin&apos; over my shoulder.
+Livy, you say...? The... &lt;i&gt;child &lt;/i&gt;of Lovrik?
+A letter addressed to &apos;Hannag&apos; mentioned that a Deathfog delivery device had been recovered and was being repaired.

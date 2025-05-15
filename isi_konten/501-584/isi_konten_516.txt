@@ -1,0 +1,160 @@
+*Try to engage him. Ask him for his name.*
+Hail, my multi-faceted friend. Bringing excellent word?
+Artistic licence, and all.
+I think I&apos;ve heard about you. Isn&apos;t there a song about you now?
+[HUMAN] *Tell the elf to stand aside, before you knock him aside.*
+We were &apos;aze-&apos;uilders. We &apos;uilt &apos;azes. We constructed la&apos;yrinths! &apos;raccus Rex hi&apos;self said the one with the gargoyles was the &apos;est &apos;aze ever. Right &apos;fore he cut off our heads.
+Sebille. The scarred one.
+*Excuse yourself.*
+*With a shake of his head he turns away from you and puts his robe back on.*
+Lone Wolf Firewater
+*A wide and sincere grin crosses the spirit&apos;s face. She remains silent - but her ghostly eyes sparkle with the memories of a love once shared.*
+Summon Ifan&apos;s Soul Wolf
+You look... angry, Lohse dear. Why is that? The gods are indisposed. This is our hour.
+Do I want to go again?
+Is anyone still... Wait! More Voidwoken!
+*The spirit stares deep into your eyes for a long moment, before sighing with resignation.*
+*The boots are resplendent with polished ivory, heavy but well-made, fit for a noble.*
+I seek myself, and you... you &lt;i&gt;steal &lt;/i&gt;myself! Those memories are mine, as was my hand. May &lt;i&gt;your&lt;/i&gt; every joy be stolen from you. May &lt;i&gt;your&lt;/i&gt; flesh betray you. MAY YOU &lt;i&gt;NEVER&lt;/i&gt; FORGET THE CHILL OF MY TOUCH!
+*Smile and thank Leya. You feel so much better!*
+*Peeper squawks into consciousness and pecks your little finger affectionately.*
+Oh. Pity. It seems the only way to get a little service around here is from whatever riff-raff blows through the place!
+Hannag&apos;s Ring
+Dragon Egg
+*Your shout echoes multiple times, a cacophony of sound multiplying in volume until it&apos;s almost unbearable. Just as you think you can&apos;t take it, it ceases completely. You are left, ears ringing, in the silence.*
+AI
+I should have stood up to him... once I realised what it was that he truly sought... I should never have told him what I found...
+Mods
+Shame on you! SHAME! BACAW!
+[1] determines how well you can Reason in dialogues.
+*Trembling, he smiles. Closing his eyes, he moves to embrace you too.*
+He did not leave empty-handed, unfortunately. I pity the poor salamander that he dragged back to his ghastly home...
+*The Dreamer watches you, serenity draped around her like a cloak.*
+Yet you appear no worse for wear. Ready to set sail, I presume?
+Frozen parties cannot use Waypoints.
+*Her lips go still, yet her plea lingers.*
+I have faced many curs and creatures in battle, but never demons like those.
+Load Scene Level
+A word of advice to the unarmed: Find a stick or a branch. Tie a sharp piece of rock to one end. Or do the same with a sharp piece of metal. Now you&apos;ve got a simple axe. You&apos;re no longer unarmed.
+With their queen dead and a dwarven Divine,
+*Tell him you don&apos;t have the gold.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+It is a tool to collect Source, until it is ready to be collected. Most likely by its creator.
+Why are you still here? You have a vault to uncover and a Soul Jar to destroy!
+Waterwheel
+Seek out survivors.
+Let&apos;s do good. You by yours. Me by mine. Together... though oft apart.
+Sister Cliodhna... rest your spirit...
+*Kneel before the altar and whisper a prayer.*
+Mmm... mama...
+Does this mean the nightmare will end? I can finally rest...
+Bring the Shadow Prince&apos;s heart to the Mother Tree.
+Is this...
+Pyramids incoming!
+Crippled
+I know what yer gettin&apos; at. But the Magisters say Sourcerers lure in those Voidwoken. Gather &apos;em up, I say.
+It is where the world changed! The Devourer opened our eyes. You must see this truth for yourself.
+I... I feel better again... maybe I&apos;ll actually get out of this alive...
+*Turn and walk away.*
+*Ask him how he can know the will of the Divine.*
+*A sharp shock of panic jolts through his body, and he shrieks:*
+A delicate pair of gloves fit for a queen. Indeed, this very pair were sewn for the tender hands of Justinia herself.
+*Insist that you will do no killing this day. They can sort it out themselves.*
+Hissing Tomb
+So what do you say? Shall we hit the road together?
+[FANE] *Indeed, you eschew the dull in all things. And he certainly seems like an interesting character...*
+*Say that if this investigation is so important, he ought to be out there leading it in person.*
+&lt;i&gt;Do&lt;/i&gt; watch where you step. There might be an... &lt;i&gt;accident.&lt;/i&gt;
+You and half of Rivellon, friend. But no, he hasn&apos;t made a sound. He&apos;ll be in for a rude awakening when he does come to...
+I must admit, Godwoken - at one time, I envied you. I wondered what it would be to feel &lt;i&gt;awake&lt;/i&gt; for the first time. Reborn.
+Creatures like this &apos;Windego&apos;. They mask themselves, spread their black magic to children with their songs and stories. Makes me sick. Our little ones... tools of demons!
+Yeah, well. Desperate times.
+*To your surprise Sebille proceeds to throttle the unsuspecting lizard with one hand, as she drives the tip of her needle into his lower belly with the other. Then the questions commence.*
+*Let it take you...*
+The Seven used and betrayed us every step of the way. Maybe the Eighth is on to something.
+A curse more like. Please, leave me be. I must reflect on this.
+*Ask how to open the chest. Just in case you happen to find it...*
+Well if you do see anything out of place, report it immediately.
+*Wish her luck and take your leave.*
+*The lizard bows so deep his nose almost touches the ground.*
+Many have been lost, and many more shall be lost too, if we don&apos;t win in the end. I thank you for the dispatches, and wish you well.
+Rosa Crossley
+*An empty pedestal stands before you. From the ostentatious nature of the carvings upon it, you can tell it once used to hold something of great value.*
+Levers
+Looks like a library. Books. How thrilling.
+Amadia, goddess of wizards and necromancers. Good riddance.
+It was... calling me. Saying it wanted to become &apos;One&apos;. That it wanted everyone...
+Oh, won&apos;t he be ever-so-happy to see us! This is going to be &lt;i&gt;extra &lt;/i&gt;fun.
+We couldn&apos;t pay our debt to Sanguinia Tell. She no longer had our vial of blood and was unable to punish us.
+*She looks deeply into your eyes and rattles off the riddles of all the other sisters, nodding as you reply correctly to each one.*
+*Sebille addresses the solitary figure. You hear but whispers - and hisses in return. Just when you think a fight is about the break out, Sebille&apos;s words seem to sway him into submission.*
+*Try to engage him in conversation. Aeteran? What is he talking about?*
+I see a cage. And there&apos;s something in it.
+Seven curse them for their insolence! The honourable Brahmos too sensed them closing in. He had no choice but to flee from Driftwood.
+Yes - and for what? Revenge would earn me nothing. One more corpse is just one more corpse, isn&apos;t it? All the others... they still dissolve to bone. None that I lost will return to me.
+Why do people perform rituals? To feel part of something. But I wasn&apos;t part of it. Mine was the loneliest role: I was the object of their worship.
+Are you sure you want to return to the lobby? This will cancel the hero selection for all players!
+I doubt anything can remedy how terrible I feel...
+A King Reborn
+Dorian Gall framed us for Ros&apos; murder and fled.
+Zanisima&apos;s Charm
+Ooh. Can&apos;t wait to hear this one.
+An animal sty. Freight - or food?
+Wizard Armour
+Gryst Bloodspawn
+*Tell him to remain strong. You&apos;ll get him out of here, somehow!*
+Vissar
+Character is sparkly clean.
+*Tell him that when he&apos;s talking to you, &lt;i&gt;you &lt;/i&gt;make the rules.*
+Moving to corporeal transposition engine!
+*Ask the skeleton what is worth knowing, then.*
+*Sneer that he could have swallowed all his rotten talk if he had just swallowed some damn drudanae in the first place.*
+[OUTLAW] *Insist she move out of the way under orders of... her boss!*
+Judging by those wings, you&apos;re the first to ever survive the Path of Blood. Maybe there&apos;s hope for the future after all...
+*Lean in and whisper that you found a drug den underneath the tavern.*
+I knew he was changed, but... but &lt;i&gt;this &lt;/i&gt;darkness? This terrible darkness within him? It seems impossible.
+*She embraces you for a long moment, her face pressed to your belly, then steps back, wiping a tear from her eye.*
+Spoke to the lady captain, didn&apos;t ye? I seen ye, scaleskin, cosying up. Are ye with her or sail ye with us?
+Justinia&apos;s dead father. Now THAT was a contract. Or so I heard.
+*Say yes - it is mostly useful.*
+Friendly flowers, but no more than that. Only a rose can tame a beast&apos;s heart, or revitalise your soul and spirit.
+*As you begin to pull his energy into yourself, he looks at you with the purest disgust.*
+Move Mouse Down
+*With a brief &apos;ahem&apos;, Isbeil carries on.*
+[SEBILLE] *Say that history differs from one memory to the next. It&apos;s as much in flux as the present and the future.*
+Create
+*Reason with them - say you could destroy their Soul Jars and free them!*
+Purple Button
+*You gather up the blackroot, obsidian lance, and ancient bowl, and kick the door of the cupboard closed.*
+Wands
+Chicken Claw
+Saam
+Grasp of the Mother Tree
+Can&apos;t start the game because we need at least two teams!
+Aren&apos;t they just &lt;i&gt;full&lt;/i&gt; of surprises?
+Alchemist&apos;s House Key
+*You knock hard against the wood, searching for a hollow space or hidden lock. No matter where you look or touch, the door remains stuck.*
+I said, &lt;i&gt;move along.&lt;/i&gt;
+*The spirit of the troll stands before you. He attempts to pick up a nearby rock, and frowns with confusion as his ghostly hand passes right through it.*
+On the other hand... I really could do with a dogsbody, and you&apos;ve already proven to be trustworthy enough. You came back for the others on that ship after all.
+Summon Inner Demon Scroll
+*You did find them, actually. Ask what she wants with them.*
+Well done, lass. Well done...
+&lt;i&gt;ENOUGH, shell. &lt;/i&gt;You&lt;i&gt; are the first - and your purpose is done.&lt;/i&gt;
+I... I don&apos;t know if any place is safe now... but Arx is home. We&apos;ll go back there.
+The very last witch&apos;s potion was drank.
+I suppose you cheered on those damn Paladins while they ransacked Arx, didn&apos;t you, dwarf? Well you won&apos;t be laughing when they double your taxes to pay for repairs!
+Undead Dwarf
+Trompdoy returned and is trapped here until his Soul Jar is destroyed.
+*Accept. Kiss her tenderly.*
+I believe we have a... friendly agreement. It would be a shame if you refuse to honour it.
+It would be a sweet joy to see the Magisters chased from this land, but I fear all I will see today is death.
+Can&apos;t blame her for drinking so much tea, not with Master Kemm bein&apos; the way he&apos;s been.
+Lone Wolf Deadeye
+Heh *spits* heh...
+Augur&apos;s Gloves
+If I had a forge I could do something. Maybe.
+And their hearts beat on! Can you hear them? Can you?
+That&apos;s the damned strangest part. The elf explodes, right, and these &lt;i&gt;vines&lt;/i&gt; crawl out of him.
+And it just so happens I can help you. Depending on what you can do for me.
+Keep exploring if you are new to the game, or climb the &lt;font color=&quot;008858&quot;&gt;ladder&lt;/font&gt; to leave the Tutorial Deck.
+*There&apos;s no mistaking it; this is the voice of the demon, the one who&apos;s been haunting your mind for so long now - the one who intends to seize your body, your soul for himself.*

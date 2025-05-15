@@ -1,0 +1,165 @@
+Move the camera when the mouse cursor is close to the edge of the screen.
+Got one on you, do you sire?
+Ornate Hymnal
+The Mother is angry. She desires the enemy&apos;s heart.
+Tranquil Twosome
+Lucian&apos;s Day arrives! Hopeful pilgrims take the Path of Blood!
+This peace I feel. Like every knot in my soul were unwound... I&apos;m going... I&apos;m going up...
+You don&apos;t even have flesh, for goodness&apos; sake! ... No offense, Quercus.
+*Nod, and ask what he&apos;ll do now that he&apos;s free.*
+*Flash the Lone Wolf&apos;s mark, taken from Baran Levere&apos;s usurper.*
+Noble Helmet
+I don&apos;t &lt;i&gt;feel &lt;/i&gt;good.
+Burning does fire damage over time.&lt;br&gt;Can target terrain to create fire surface, burn ooze or oil, evaporate water, or melt ice. Can explode some clouds.
+Forest
+My name is Bahara. Like you, I am a Sourcerer, but unlike you I am also a faithful servant of Amadia, praise be her name and praise be her starlit eyes.
+*Bow your head. If only you had done more...*
+Good to meet you, lad. Say, you don&apos;t look all that busy. I could use someone to watch my back, and it looks like you could use someone to watch yours.
+*Without a word, Ifan strides away.*
+[1] reflects received damage to your attacker.
+You need to put away your weapons.
+Seems there&apos;s a Black Ring spy operating from Justinia&apos;s inner circle. The queen&apos;s not just working for her own gain, but for theirs. Any idea who it is?
+&lt;i&gt;In void you fell, and from void you come. Reveal your truth to me!&lt;/i&gt;
+*Tell the pig to shut up and listen. Here&apos;s the deal: she pulls it together, and you remove the curse.*
+Really? You really thought I&apos;d fall for that trick? You&apos;re under arrest!
+Undead Human
+*Note that he seems rather indifferent to the events at the consulate.*
+[1]&apos;s Physical Armour was destroyed by [2]&apos;s Overpower skill!
+Grants Tag:
+*The figure pauses for a moment. A wide grin spreads over its face.*
+The Shadow Prince used a Deathfog bomb on the heart of the Mother Tree. Elvendom civilisation may never recover.
+&lt;i&gt;Wait. &lt;/i&gt;Before you leave: How&apos;d you like to make some coin?
+I&apos;m not so keen to welcome strangers to Driftwood, but Reimond must hear your words. You may pass. But tell me: did you see signs of battle? Of my Magister brothers and sisters?
+Throw the Magisters off Higba&apos;s trail.
+My destiny was unveiled to me in the Hall of Echoes - at last. I realised how Dallis had been sabotaging me all along.
+[SEBILLE] *Without a word, in absolute privacy, let her know you too have much to weep about.*
+I heard yer might be comin&apos; through this way. Good on yer for the help yer gave Lohar. Good on yer indeed.
+*She clumsily proffers some paper. It slips through her fingers, but you manage to catch it mid-air.*
+*Scratch at the opening.*
+From left to right, the order of the &lt;font color=&quot;008858&quot;&gt;character portraits&lt;/font&gt; determines the turn order of combat.
+*The proprietress gives you the same sweet smile. She arches an eyebrow to ask what you want.*
+Then I accept. And of course I will do well.
+Take a hike, would you, skipper? Wouldn&apos;t want you to work yer slaver magic on me!
+Godsdammit - !
+Then I may well have a job for you, if you&apos;re interested.
+*Hand the rapier back.*
+*The royal guard&apos;s eyes widen as you approach, and his calloused fingers reach towards the wolf insignia adorning his uniform.*
+You&apos;re perfect. You&apos;re &lt;i&gt;perfect.&lt;/i&gt;
+Waves crash and toss the tiny boat into the reach of a monstrous sea beast. Just looking at the painting makes you feel seasick...
+*Apologise for disturbing him and take your leave.*
+Solace
+Hell if I know. They talk to you, not me.
+Fool.
+You&apos;re certain? For some of us, death is merely a... temporary snag.
+*Tell him that sounds like a threat. He wouldn&apos;t like you when you&apos;re feeling threatened.*
+*He offers you an item.*
+*...or consume the dwarf&apos;s Source.*
+But as you are here, perhaps you could run upstairs and fetch my dear father-in-law&apos;s will?
+They are doing all they can to kill the Godwoken and defile our temples. But we will not be so easily cowed.
+You keep them friends of yours close, hey? Some of us haven&apos;t got anyone at all, anymore.
+*He blushes a red so deep you see it under his beard.*
+Take your coin, then.
+Miscellaneous
+This is the worst day of my life.
+*Ask what he&apos;s doing here, standing on that rock.*
+*Avoid answering. Ask if &lt;i&gt;she &lt;/i&gt;heard something unusual.*
+To deepen our mastery of our powers, Hannag would steal the Source of the forest. We refused. All the animals were saved.
+Lord Withermoore is well and truly dead.
+I think you know enough about me for now. Let&apos;s talk more later, when we&apos;ve made some more progress...
+Natalie&apos;s Fury
+You! Some cur has taken off with my belongings. I must search you!
+*The man rolls his sleeves back down and casually wipes some blood from his cheek. He nods at you, the shadow of a smile on his lips.*
+Sorry dear, that&apos;s not it. I wish I could let you have a discount, but... rules are rules.
+Well. It&apos;s not just decomposing flesh and bone dust underfoot, you know. Why, the very essence of decay flavours many an essential oil and tincture. I&apos;d expect a Godwoken to understand. Pity.
+*She holds her hand to the flame and seems to go into a trance.*
+Light... freedom... danger. Releasing me releases... &lt;i&gt;them&lt;/i&gt;.
+Vydia the hero secreted valuables away by some &apos;primordial caves&apos;. Our map will show us the way.
+Aerotheurge Skillbook
+[IFAN] *Tell Han you need a herald. Someone to bring the good news of Source to all the people.*
+[RED PRINCE] *Say it can&apos;t be. She&apos;s afraid? The goddess who blessed you with a kiss?*
+[1] took no damage
+But not as sweet as the Source you fed me. That rich ambrosia. Life&apos;s cloy nectar...
+And now the history of Rivellon... well, it hardly matters now.
+*Fane violently pulls his arm away.*
+The Law of the Order
+*Your heart nearly explodes. Tell her you love her too.*
+*Fane pushes you back, breaking the embrace. He steps away, a sad look on his skull.*
+Life Steal
+You are hurting me.
+What are you playin&apos; at? All I&apos;ve done, all you&apos;ve done, and you just show yourself t&apos;be the tyrant I thought Justinia was!
+Did you regret your deal with the Demon Divine -
+Selector Move Backward
+How boring.
+Select
+Poisoned Tomato Sauce
+*Something inside you strains. You are replete; you cannot absorb more Source.*
+Hope that fella makes it out of Driftwood. The Reds will kill him if they find him!
+Two-Handed Dwarven Glaive
+Freedom. It is good to walk where one wants to walk. It is good to go where one wants to go.
+That was damn fine work you pulled off there. Consider me in your debt.
+Ancient knowledge, yours to command.
+*Take your leave.*&lt;br&gt;
+Walnut
+*Ask if he has any idea who took the supplies Griff is after.*
+*Tell it Dallis sent you. She asked you to get the ship moving.*
+*Before you stands a figure, her body wreathed in cloth. All you can see of her eyes are two dark holes in an ornate mask.*
+Mound of Dirt
+*Say she&apos;s right; you still have business to attend to.*
+*Assure the panicked woman that you&apos;ll do what you can.*
+My husband is &lt;i&gt;dead!&lt;/i&gt; There is no cause to add insults upon my grief!&lt;br&gt;
+*Make the sign of the Lone Wolf.*
+Helping Alexandar
+*A warm hand grips your shoulder, and you turn to see... Gareth&apos;s face. Smiling, hopeful. &lt;i&gt;&apos;Brothers in Lucian forever&apos;,&lt;/i&gt; he intones. You grin back. &lt;i&gt;&apos;Brothers in Lucian forever.&apos;*&lt;/i&gt;
+*Wonder why she ever allied with the God King to begin with.*
+Confront Dallis.
+How dare you reject us!
+You can&apos;t buy your way out of justice!
+Ha! Sharp eyes, lass.
+The Magisters swore to defend the Divine, avatar of the Seven. This is Dallis&apos; ultimate betrayal.
+*All of a sudden, like a bellows, he exhales a fetid gust right into your face. The stench of rot shrouds you, coating you in a way you fear will never truly be washed away.*
+You tease...
+So if you happen across anything that seems capable of ripping a face off a body, please do let me know.
+White Magister Jonathan&apos;s got that Sourcerer on the ropes up there. Would be better if it were that Hannag woman, but I&apos;m not complainin&apos;. Not too much anyway.
+Welcome to Arx. You picked a fine day for it.
+Dog Bark
+That is good, for she is Change, just as much as you are.
+[LOHSE] *Tell him you don&apos;t feel like a real person. Not really. This feels wrong.*
+*Confirm that you, too, sense a troubling presence.*
+*The rat gives you a grave and meaningful look, inviting you to listen carefully.*
+The living cannot stand the sight of Undead. To avoid triggering panic and hostility everywhere you go, be sure to keep your head, torso and legs covered. You can do so in your equipment panel.
+Nothing worth mentioning.
+Freezing cold to the touch, this wand sucks warmth from the very earth itself.
+Black Knight
+*Tell her that she only needs to give you back your mask and she can walk away. There&apos;s no need for violence.*
+You bad, bad girl, Lohse. I shall have to teach you a lesson...
+*The oblong object is crystal-clear and unmarked by marks or chips. It rests snugly in your palm, as if meant to be gripped with a resolute hand.*
+*Say that you entertained the hope she wouldn&apos;t have brutally murdered you out of nowhere, yes.*
+Hey. You okay? Sorry, chief. Just playing around.
+So it looks like... oh wait, what&apos;s this? Well, I guess... I guess I should be going.
+Go on then. See&apos;f I care.
+*Ask him what he thinks will happen to the House of Shadows now that the Shadow Prince is dead.*
+You can insist until the cows come home, but you can&apos;t make a dwarf speak if he don&apos;t want to!
+*Say &apos;set&apos;.*
+There&apos;s nothing much left to say after all. You know what came after.
+*You suppose that in the metaphor, you&apos;re the sunlight. Correct?*
+&apos;Let&apos; me? Ho, my friend. Fighting words those are.
+The Magisters took the love of my life. Down to Fort Joy. Did you hear they&apos;re... they&apos;re turning Sourcerers into those freaks? I don&apos;t know if it&apos;s true, but I&apos;m not gonna wait to find out.
+*Bishop Alexandar lies supine on a bare wire cot. Though unconscious, his eyes are only half-closed. His swollen jaw hangs open at an odd angle.*
+*Tell her you don&apos;t have that much.*
+I- I would have said you had lost your mind, but...
+*...then shakes her head; you should not help. The elves send Sarias to his final resting place.*
+I should have dealt with you before. But no matter.
+*Note that home is where the heart is. A nation is its people, not its lands.*
+Just you wait...
+*Your head perks. You know these words. This is the language of demons; few have heard it spoken aloud.*
+*Ask where one might acquire a Source amulet and the Scroll of Atonement.*
+Are you ready to listen?
+They&apos;re dwarves. Of &lt;i&gt;course&lt;/i&gt; they&apos;ve got something to hide. I should know!
+*Ask why the King was so afraid of change.*
+What point is there in resisting the truth? When I speak, eternity answers.
+*Ask if it wants you to go where it&apos;s pointing.*
+He works as a toyseller now, right here in Arx. You may tell Sanders I sent you.
+Page Down
+Someone is hurt. Please say you aren&apos;t beating anyone up!
+You have no memory of Roost, I know you don&apos;t, but he is a man you hate as much as the Master himself.
+You&apos;ve been warned, Barnes. Now get back to your fish.

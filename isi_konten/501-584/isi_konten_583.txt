@@ -1,0 +1,150 @@
+*Ask her how the struggle between the Paladins and Magisters is going.*
+And what do I get? Lying dead in a cage. B-b-bugger &apos;em all.
+*Ask if she can help you.*
+*Say you have no interest in causing trouble here.*
+Throw Dust
+*Your powers stop as if they&apos;ve struck a castle wall - you pull your hands away from the shrine and claw desperately at your neck.*
+You know what has consequences, my friend? Being digested by a Voidwoken. &lt;i&gt;That &lt;/i&gt;has consequences. I&apos;ll thank you to leave me to my business.
+Jawless Skull
+An intact elven face flayed from the skull of its former owner.
+Spirit of a Magister Priestess
+If only you were as concerned with getting this ship moving as you are with the past, we might be in Driftwood by now.
+*Vredeman cackles in delight at this turn of events. His unbridled glee slithers into and around your pockmarked bones.*
+Conjures a trusty personal demon and elemental totems to aid in battle
+Oil Camp
+Then you&apos;re as useless to me as a Voidwoken, if much less ugly. I&apos;ll have to fight my own battle.
+Yeah. So it has.
+[LIZARD] *Your stomach turns. Your heart reaches out to your kin, but your hand feels frozen at your side.*
+W-what? What could we have to talk about? A Sourcerer&apos;s tongue may sing a lullaby, but it&apos;s as deadly as a blade.
+I can&apos;t just saunter away, who knows what might be lurking in a place like this?
+Are you sure you want to change the modification selection?
+*Your hands feel empty. Why isn&apos;t there a pickaxe in them, joining the crew?*
+*Take your leave.*
+I warn you now, little fingers, I only accept real gold.
+You, my child, I bless you.
+[BARBARIAN] *Ask if he doesn&apos;t want to watch you squeeze the jelly out of a Voidwoken&apos;s eyeballs.*
+You speak of your adventures with the flair of a father at his child&apos;s bedside. You should-
+Blood and bone. Fire and smoke. Death and... and worse.
+You should know better than to ask such questions. That we both work for Roost is all you need to know about me. Nowt else is pertinent.
+[SEBILLE] *Smile and thumb the needle in your pocket. Say they&apos;ll get what&apos;s coming to them.*
+Elite City Guard
+Answer my question, or you&apos;ll be seeing stars.
+I have brought you here for a reason.
+*Quick as a flash, the Magister has an arrow notched on his bow. He doesn&apos;t quite aim it at you... but something tells you he could bring it to bear in an instant.*
+*The spirit hums to herself, totally absorbed in tracing calculations in the air with the Source at her fingertips. She waves you away like shooing a fly, seemingly unable to see or hear you anymore.*
+Haha! And I worried we could not find common ground. Yes, Godwoken - I can teach you.
+|Explosive Resistance|
+*Ask what he intends to do, now that he&apos;s free.*
+I fear it is too late for them - for us. But you, my child, you are as removed from the other races as I.
+&lt;i&gt;You... you aided our master on Bloodmoon Island, did you not...? Some advice from him, in thanks - seek out Sanguinia Tell. She has many dark wonders to show you...&lt;/i&gt;
+Source Potion
+Your business here is done. &lt;i&gt;Leave&lt;/i&gt;.
+Just - just &lt;i&gt;stand still&lt;/i&gt;, sir -
+*Point out that from this angle, you have but to look down to see His Royal Highness.*
+*Choose &apos;anger&apos;.*
+*Wave the thought away. Rivellon will survive. It always does.*
+*Tell him he has a head to protect too. If he doesn&apos;t want it bashed in he should answer the question.*
+The Voidling&apos;s father told us the chick was an abomination that should die.
+The thugs said that it&apos;s up to Lohar whether to return the stolen belongings or not. We should seek him out.
+*He closes his eyes, and begins to chant an old mantra. His voice mesmerises, and as he calms, you too feel serenity descend upon the scene.*
+*He gestures around at the Voidwoken-wrought destruction in the area.*
+&apos;ullo, miss!
+Goblin Warrior
+Raise your voice, and sing your song...
+This painting is spectacular... in its ugliness.
+I failed him. You just wouldn&apos;t &lt;i&gt;die. &lt;/i&gt;Of all his punishments, the harshest was the &lt;i&gt;emptiness&lt;/i&gt;. &lt;i&gt;The lack of him.&lt;/i&gt; I thought if I could just... regain his affection, I might &lt;i&gt;taste&lt;/i&gt; again.
+Not much. At least not yet.
+They seemed quite... driven. I have not witnessed such devotion in a long, &lt;i&gt;long &lt;/i&gt;time.
+Please! The spear - seize it and pull! I can nearly taste sweet air once more... You &lt;i&gt;can &lt;/i&gt;taste the air, can&apos;t you? I do hope so, I should miss that otherwise.
+Give it up, Seeker! You can&apos;t escape!
+Sir Gareth... did you find any sign of him?
+Tell you what: promise me we&apos;ll go out of our way to find Brahmos and I&apos;ll join you; I&apos;ll fight by your side.
+*Take pity on him. He has expressed his sorrow; he may pass to the Hall of Echoes.*
+*Mumble through clenched jaws: What on earth is he doing?*
+Boar Head
+No. &lt;i&gt;No!&lt;/i&gt; I... there&apos;s still so much to learn! Please, no!
+*Back away from his touch in disgust.*
+[NOBLE] *Say that life always tended to work out in your favour... until now.*
+*Nod silently. It&apos;s time to depart.*
+I&apos;m one of &apos;em alright. Well... I &lt;i&gt;was.&lt;/i&gt; But yeah. Dwarf Magisters&apos;re as rare as a three-eyed imp, but when you&apos;re hard up... well, sometimes you&apos;ve gotta make choices.
+*GRR!*
+Look away from the past and into the future. There is so much work left to do.
+*Tell the door your password seems to have been changed. Ask to be reminded.*
+Hmm, yes. I suppose I could keep this conversation to myself. But I&apos;ve got my eye on you, you know.
+Perhaps they should be restored. This was all theirs long before it was ours.
+Farewell.
+*Tell her you&apos;ve seen and heard plenty of strange things lately. All you want is to see the picture behind the puzzle.*
+*The man&apos;s eyes are alight and dancing, although the rest of his face is grim.*
+...there was a great need, then. Unfathomable forces of darkness, forces so great the Seven themselves could not hold them at bay, began to gather like storm clouds over our great realm. And so they made a decision: they would put their differences, their rivalries, their pride aside and join in a single avatar - one who could unite their power into a single, almighty force of order and good.&lt;br&gt;&lt;br&gt;Lucian was chosen from among those summoned. Lucian the Worthy. Lucian the Holy. Seven times Divine was he, and yet... still he fell.
+Did you think nothing would happen? Did you think the lords would be satisfied to leave that power untouched?
+My mum is afraid of lizards. I&apos;m not! I think you&apos;re neat. I&apos;d be happy if I had a tail.
+Ah! You truly are my saviour.
+*You peer into the mirror and you see Sadha; the memory of her warmth against the sheets.*
+How felicitous that you merely have to spill a little blood to earn the same.
+*You hum a hymn to Lucian you once heard.&lt;i&gt; &apos;The law of life from Divine within, save me from death and the shackles of sin.&apos; &lt;/i&gt;You clench your eyes and brace for impact.*
+Undead
+Blood Explosion
+It smells like this particular pair missed more than one laundry day...
+We landed on Reaper&apos;s Coast. Ifan wants to turn in his contract.
+Imposing and imperious, this sculpted form of Bishop Alexandar of the Divine Order seems to have been carved in a hurry by trembling hands.
+*He places a thumb on each of Lohse&apos;s temples and one foot gently on hers.*
+*Wink and whisper you&apos;re not exactly a fan of the Magisters either.*
+Black Ring Encampment
+*Bwerk.*
+I figure you have the look of a criminal. Come on. It&apos;s a prison cell for you!
+And who couldn&apos;t? I have several who can fight their way out of a corner. Gimme specifics...
+It&apos;s time for me to go, little one.
+The Worker
+*The spirit gasps and turns, dissolving into nothingness just as his eyes lock onto you.*
+*Promise him destruction.*
+PEEP!
+Didn&apos;t you hear Malady? We&apos;re off to find the Meistr.
+A charming manner can untangle you from all sorts of tricky situations... but you already knew that, didn&apos;t you? You have a robust constitution - I can sense it!
+*Ask what Paladins are doing out here.*
+This place has been a wreck. You haven&apos;t been destroying stuff, have you?
+Courage Herbmix
+Only you know if you atone for your sins.
+[LOHSE] *Bow with absolute solemnity and say you&apos;d never knowingly breach royal protocol.*
+I give you the most valuable thing I own if you help us now. This I promise.
+*His helmeted head hangs slack at his side, but a barely-audible wheeze rasps from his lips.*
+Blessing of Spring
+Changes Incarnate&apos;s element to electricity, unlocking Electric Discharge.
+*On the page in thick black letters is written: &lt;b&gt;DUSTY KISS&lt;/b&gt;.*
+*Say that this Braccus and his ilk have poisoned people&apos;s minds against innocent Sourcerers.*
+Persuasion Failure! Your Persuasion: [1], Needed: [2]
+She tells me there is a way to save my people.
+Yeh misunderstand me. You&apos;re not leaving.  At least, not wearing that skin.
+These Eternals are no more, it seems. At what price did the Gods ascend to what they are now?
+Indeed? Impressive. But the amulet is useless without the Scroll of Atonement. And together, of course, they will only allow you to bypass the statue of Lucian. After that, you&apos;re on your own.
+Pallid Stormweaver
+I see through your pathetic ploys. Off to prison with you.
+You already do - the armour guides me now.
+I&apos;d best move on. See you around, &lt;i&gt;Baran&lt;/i&gt;.
+*Say that it&apos;s, er, Gil.*
+I have no more gifts to offer.
+Never mind.
+*Groan* Out my... out my face... or I&apos;ll... I&apos;ll punch yer lights out...
+We may have found the scroll.
+*She stops. Lets you come to her.*
+The witch lured children away so Braccus could feed on their Source. She returned the empty husks to their weeping parents.
+All that can die is prone to fear. I have seen it in so, so many eyes.
+Waiting for other players
+Your tongue betrays you sister - you spend too much time with humans. But you may enter.
+Nurse Do
+I will not say. I spoke of it once, and was damned to eternal hellfire for it. Were I to speak of it again, I could damn the whole world...
+Fairy Shoes
+Drudanae Seedling
+Draught of Intelligence
+We know you&apos;ve been helping Sourcerers escape, Atusa. We have proof.
+Malady: Let&apos;s do it.
+Mother dearest,&lt;br&gt;&lt;br&gt;I&apos;ll finally make you and Daddy proud. I&apos;ve got a job! I&apos;m not quite sure what I&apos;ll be doing yet, but I&apos;ll be working for another dwarf called Mordus in the Driftwood area. I&apos;m sure it will be productive, interesting and useful labour. I&apos;ll send some coin home as soon as I get paid.&lt;br&gt;&lt;br&gt;All my love,&lt;br&gt;&lt;br&gt;Stief
+[DWARF] *Promise Lohar you will go to Arx and deal with this bomb. The queen is clearly up to no good.*
+*Take the girl in your arms.*
+[IFAN] *Mutter that you&apos;d prefer to be slumbering in the dirt yourself.*
+*End your song with a rhyming verse: &apos;Then came a very hungry fox and bit them both in twain; their blood dripped down his wicked jaw; he revelled in their pain.&apos;*
+There is no &lt;i&gt;&apos;ours&apos; &lt;/i&gt;here, stranger. I am not like you. Not in the least.
+Sebille! It is so good to see you again. Now where are your friends?
+You... you consumed a teacher of the sacred academy? &lt;i&gt;Monster!&lt;/i&gt; You will receive no guidance from me - be gone!
+*Tell him of Mordus&apos; defeat. Dwarvenkind is in your debt, and that includes &lt;i&gt;him.*&lt;/i&gt;
+*Call out.*
+*Tell him you know about the weapons in the basement.*

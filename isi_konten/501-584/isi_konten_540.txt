@@ -1,0 +1,155 @@
+*Survey the room. Remark that the groom seems to have gone mad and killed everyone.*
+Glad to be out of the Joy, but I won&apos;t feel free &apos;til we&apos;re on the high seas.
+The hell you are, but you did the smart thing so I guess I won&apos;t hold it against ya.
+*The Doctor whips his head towards you.*
+*A shocked awareness spreads across her face, and she lunges towards you, just as the hanging Sourcerer breaks free of his bond.*
+*Shrieks!* Wow, you&apos;re REALLY smart! I bet... you know what? I bet my best friend would really, really, really, like you. Come on! I&apos;ll introduce you.
+&lt;i&gt;We have made so many sacrifices, Godwoken. All of us. Of ourselves and those we love. One last sacrifice is required, for the future of Rivellon. You must surrender your Source.&lt;/i&gt;
+We confronted Alexandar - he demanded our surrender. We refused and fought him.
+Meowch!
+Of little consequence to me, are you. My armour wants finding.
+What is this? Some sort of Magister weapon...?
+*Say that you&apos;re happy to help. Now, what&apos;s happening?*
+*Ask him if he&apos;s alright.*
+Mama...?
+*She nods sadly, gaze dropping to the carpet.*
+Stardust Herb
+Infected
+Enjoyed that, did you? Take your rotten carcass and that rotten armour out of my sight before I regain my strength and thrash you.
+Ballista
+Plenty of space for a beard within this fine Dwarven helm.
+Load Campaign
+Well then, fair enough. In you go. Apologies for the delay. I&apos;m just doing my job.
+I see the good in you, I see the bad in you, I see the all of you. We see you well, good friend, we wish you well upon your road.
+*He slurps something round and white into his mouth, thoughtfully chews for a moment, then spits it on the ground, where it lands with a sickly splat. He wipes his mouth and looks up at you.*
+I am glad to see you. You fill me with peace.
+Could be worse. At least Arx is now under the control of Lord Kemm.
+Longsword
+Now if you&apos;ll excuse me, I&apos;m sure you&apos;ve your own burdens to bear...&lt;br&gt;
+*Point to the nearby corpses and ask what happened here.*
+[VILLAIN] *With a straight face, say whoever did this should be brought to justice.*
+Jahan the demon-hunter found himself at a loose end, so he opened a museum of demonic artefacts.
+*The statue looms over Arx, hands reaching as if trying to claw above the charnel stench. Though her eyes are blinded to the horrors at her feet, a single tear drips onto your face from beneath her blindfold.*
+*...what do these things want?*
+I keep goin&apos; though. Hopin&apos; to get to Arx sooner than later. Lucian&apos;s Day crowds&apos;ll be wanting some musical trifles.
+Ugh, mating season - &lt;i&gt;again!&lt;/i&gt;
+Reimond, that old goat, always suspected there&apos;s more to the Driftwood dwarves than meets the eye. Hate to admit it, but I think he may be right.
+*Say it&apos;s a pleasure to meet him. Ask how he likes the crowd here.*
+With the Source released to the world, Arhu the wizard spent more and more time as a cat. One day he decided he would not change back.
+You accept my sincerest gratitude, and we take our leave. We never again set eyes on each other, as long as we live. That is, if all goes well. Goodbye.
+*Thus imprisoned, you can only dream about what is out of reach: your soul, and that alluring armour.*
+I am consort to Her Royal Highness Justinia. It is my business to know who serves the queen&apos;s allies and abets her enemies. You do not roam this land unnoticed, wolf.
+Whatever for? The other gods will either bow to you, or be undone!
+[OUTLAW] *Say one of the Magisters upstairs is injured and asked you to come seek help.*
+How comfortable and familiar are you with the game&apos;s various elements? Sneaking, trading, fighting, persuading, to name but a few.
+&lt;i&gt;Aaaaaaaaaghhh... what... what...&lt;/i&gt;
+I&apos;m telling you Quercus, we&apos;ll do what we can, but humans are a lost cause.
+What say you, Sadha?
+I always have.
+You don&apos;t understand. You couldn&apos;t understand. Please, I need it- please, give it to me...
+Oh, goodness, no. Don&apos;t even mention the demon&apos;s testes that are &lt;i&gt;turnips&lt;/i&gt;...
+I have nothing more to say to you. Enter the Council on your own accord if you can, but don&apos;t look to me for help.
+*Accept the offer.*
+Fluffball the Wabbit
+Fire Totem
+For that, if nothing else, you have my thanks. Now, was there anything else?
+*You&apos;re over the moon. Tell him you accept!*
+Decomposing Swordsman
+[SEBILLE] *Say that you have been a prisoner and slave twice over - this is the last time you will have to win back your freedom, you swear it.*
+Sweet thing. So young. So fresh. So ignorant.
+Then you wasted both my time and yours. We are finished here.
+*Pocket it.*
+Alrighty, then. Off with ya!
+Well hello, stranger! Interested in Driftwood&apos;s finest catch?
+So. How&apos;d I do, Fane?
+That&apos;s enough, now.
+*Say that you found someone hiding in a barrel, but you killed him.*
+[MYSTIC] *You think you can heal the creature&apos;s pain. Lay your hands on him and whisper soothing words.*
+Goodbye, my love.
+Medium Earth Resistance Potion
+*Tell him gratitude alone has no value. Ask for a reward.*
+* ...into an unknown horror&apos;s embrace. Huge fangs caress your neck. You shut your eyes with a whimper...*
+*Raise your weapon. You will join Gareth in battle against Alexandar!*
+You can say that again, dear.
+*Say she&apos;s probably right, and be on your way.*
+That soul survived down here for gods know how long, and in an instant, we snuffed it out. Sad.
+We told the Paladins about the Magisters, the Blackpits... and the Black Ring.
+*He smiles a jagged and magnanimous grin. Each pitchfork-pointed tooth seems to threaten you individually.*
+Paladin Shield
+You were just aching for some prison time, weren&apos;t you?
+*Beast raises his fists in a rage. You&apos;re not sure whether he intends to crush the dwarf, or the machine she&apos;s tinkering with.*
+Suffocates nearby characters and attempts to Silence them.
+The spore is in the new research lab. You can reach it through a hidden hatch on the shore behind the Barracks.&lt;br&gt;&lt;br&gt;Don’t  confuse it with the sewer grate - Reinardt made that mistake. Couldn’t get the smell off for weeks.
+*Inform him of Hannag&apos;s fate. She no longer lives.*
+Undead Swashbuckler
+Once, Lucian the Divine united the powers of the Seven against the Void. He lead the people of Rivellon to glory. Now, Fane, you will do the same. But unlike Lucian, you will not fail.
+But some horrid brute came along and smashed it all. All my progress... lost. You can&apos;t even imagine what a setback this is.
+Heart of Steel Scroll
+Black Fabric Dye
+*Say you can understand why they&apos;d be feeling down. Their caravan seems to be quite halted.*
+Curdled my blood when she appeared. Ship shook like a typhoon had struck, and then she was gone again. Look around. You see how that story ends. Nothin&apos; but Source can do this.
+*Mindaran. Old as trees, brittle of flesh. You killed him because the Master forced you to.*
+Like... death, really. A lesser soul wouldn&apos;t have survived it.
+There he is! Justice!
+Magical Hauberk
+Blocked Grating
+Wisdom of the Keeper
+*Bathed in the half light of these starless barrens you spot a figure you could only describe as... a second self.*
+Crippling Blow
+I will hide no longer. I am the Devourer. The Original. The Uncowed. The Dragon Above All. And I have chosen you as my champion.
+*Ask other questions.*
+You stand a better chance of gettin&apos; out o&apos; here than any of us. And with the collar off and your powers returned to ya, you&apos;ll be &lt;i&gt;unstoppable&lt;/i&gt;.
+Stone Statue
+*She flings her hands into the air, closes her eyes, and laughs.*
+*Sigh* You can just say &apos;go fish&apos;, you know...
+*The spirit seems incapable of forming words or thoughts. She looks to one side, then the other, taking in the lingering results of hate and violence.*
+...3... 2...
+Me? And all elves? You speak in riddles.
+*Next he leans over you with a firm spank on the bottom, his breath and his body hot along all your length.*
+[MYSTIC] *Assure him that this object pulses with immense power. It must be what he was seeking.*
+The Mother Tree suffers, kin. We are dying.
+Just one thing at a time I guess. First, I go back to the kingdom. The queen is dead and the court&apos;ll be in tatters. I&apos;ve got to find out what needs done, and get to doin&apos; it.
+Thank you. I needed a bit of good cheer. So cheers!
+*Ask the rat how she came by her name.*
+It breaks what was Sworn, it shatters what was promised.
+You have done me a great service! Now, allow me to help you - the Source barrier that blocks your way... I still have enough power to allow you entry...
+I could teach all these pretenders a thing or three.
+Now, it&apos;s... it&apos;s &lt;i&gt;this.&lt;/i&gt; I&apos;m stuck scrubbing Lady Kemm&apos;s filthy floors in exchange for coin most days, and I don&apos;t have the energy to shoo away the junkies that wander in.
+[NOBLE] *Tell him you&apos;re accustomed to going wherever you choose, and you don&apos;t intend to stop for &lt;i&gt;him.*&lt;/i&gt;
+He is gone. He is gone. He is &lt;i&gt;gone&lt;/i&gt;. I go too. I see my little ones, some day. Some day on the other side. He is... he is gone.
+*Tatcher looks victorious. Edden looks annoyed.*
+Everything I did, I did to fix &lt;i&gt;your &lt;/i&gt;mistake.
+Unfortunate? Yes. Innocent? No. These poor bastards dealt with a devil and paid the price.
+*Say that you&apos;re just passing through and aren&apos;t looking for trouble.*
+Adept Shadowblade
+Ingredients: Grenades
+Get away from me, unbeliever!
+Are you seriously...? This is... this is a &lt;i&gt;ship.&lt;/i&gt; It floats on water. It is a vessel that allows us to travel the sea.
+Switch between GM and Possess
+UI Paste call
+Black Ring Warrior
+[UNDEAD] *Ask if the dead don&apos;t deserve to lie in rest.*
+You are rooted. You are the Mother of Elves. Go, Mother.
+*Tell Ifan to focus on the bright side. He singlehandedly stopped the Black Ring. He&apos;s a hero!*
+I am the Paladin Grandmaster, the last hope of the Divine Order. I have &lt;i&gt;every &lt;/i&gt;right to purge traitors from our ranks.
+Electric Infusion Scroll
+*The fatigue ebbs away...*
+Varley...? No! This is &lt;i&gt;my &lt;/i&gt;design. Varley&apos;s work is adequate, but he couldn&apos;t have devised something like this, with the plaque phrases hiding the...
+*Offer to talk to the rat for her. Maybe you can butter him up.*
+*The bull flips its ghostly tail at a non-existent fly. It registers your return.*
+I am sure you have many talents, Godwoken, but the ability to juggle one&apos;s own skull or perform other &apos;impossible&apos; feats does not impress me.
+[LOHSE] *Say she&apos;s better off dead anyway.*
+Ugh - you can stow the mystical elven faff.
+Poison Nailbomb
+Maybe it&apos;s just that. An ambition. Maybe when it comes right down to it, I&apos;ll get in front of a crowd again and forget everything I saw here.
+Not just another oddity, it would seem. It... spoke to me.
+*The stony gaze of the gargoyle pins you to the spot as it spreads its wings before you.*
+Funny, ain&apos;t it? I&apos;d never even heard of these things my whole life, and suddenly they&apos;re poppin&apos; up like weeds every which way you turn.
+Glowing Key
+She led our sun through the darkness. I shall mourn the passing of Bahara.
+*Tell the Magister that the wrong person was killed - the chef was the real murderer!*
+Blessed Ice Infusion
+pure
+Scoundrel
+Black Ring... was it the Deathfog that got them, or something else?
+You must not sneak around like that.

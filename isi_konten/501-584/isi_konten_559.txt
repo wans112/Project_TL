@@ -1,0 +1,144 @@
+*With a snarl he raises his hands to you, trying to summon his many powers once more to his defence. But he is dead, his powers are useless...*
+He&apos;ll do it, too. Now he&apos;s got his armour back. &apos;Specially once I tells him you&apos;ve been snoopin&apos; around. And there ain&apos;t nothin&apos; you can do about it.
+A shame. Everyone&apos;s got a melody in &apos;em - ya just gotta look. Me brother Laslor couldn&apos;t carry a tune in a bucket when he were a wee thing. Now, he&apos;s got the voice of an angel.
+It was only a few questions - and now this?!
+Heed my second warning: shun the Advocate, whose very sentence is a &lt;i&gt;sentence.&lt;/i&gt;
+Looks like violence is the only language you understand.
+Dummy Status
+We persuaded Gareth to attack the Magisters and the Shriekers.
+My child, my child... Born in blood. A cry in hollow rooms. My own, my own... In blood to die. Heed the warning of Amadia.
+I believe it from the smell alone. But as you&apos;re here, perhaps you could be of some use...
+*The Magister leans back, not letting you get too close.*
+*Sob.* L-leave... leave me alone.
+[IFAN] *Shake your head. Even when battling beside Lucian you never felt a sparkle of the divine in yourself.*
+Farewell, Matis... you did the Seekers proud.
+The Seven governed this world for millennia, and they did a better job than anyone else has since.
+*Tell her you&apos;re looking for tales of adventure to match your own.*
+This fire is controlled by a hidden mechanism, like Huwbert said...
+Yes
+*Ask how the puppets are moving.*
+If granted Divinity, you would have the power of all seven gods at your disposal. You could heal any wound - pull islands from the sea - right any injustice.
+You must realise, Red Prince, that our fates are now as one, just as our souls are now as one. &lt;i&gt;We&lt;/i&gt; are &lt;i&gt;I&lt;/i&gt;.
+Plain as day! Don&apos;t take hawk eyes to see you&apos;re as queer as a pear-shaped apple!
+Dwarf Bandit Rogue
+Two-Handed Lizard&apos;s Axe
+[MYSTIC] *Tell her there is naught to grieve: the spirits of the dead live on in the Hall of Echoes.*
+No! Okay. I&apos;ll tell you! She&apos;s... she&apos;s gone to Arx. For Lucian&apos;s Day...
+Needle&apos;s Wand
+My friend, I consider it my scholarly duty to know what I can of all that lives and... unlives. Surely you of all people understand the quest for knowledge.
+*The spirit gives you a tortured glance, then turns away to stare at nothing in particular.*
+Return to Jahan.
+*The spirit doesn&apos;t even blink. She accepts oblivion as a release.*
+You hear me, right?
+Warfare skills are skills for warriors. High Strength improves some of these skills. Read this book to learn this skill.
+*Gareth smiles - a thin, frightening smile.*
+War Owl
+Source weapons? Here? What nonsense!
+The Battle for Divinity
+[DWARF] *Take your leave. You&apos;ve had enough of this self-serving opportunist.*
+Find the hens&apos; eggs.
+*Gwydian is safe. Say she may pass to the Hall of Echoes in peace.*
+Glowing Key
+*Attempt a bribe.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+If I were looking for your opinion, I would have asked for it. Now... good day to you.
+[UNDEAD] *Tell him you don&apos;t fear the dead - they&apos;re much like the living.*
+An explosive filled with nails that do [1] and may inflict bleeding to everyone in a [2] radius. Creates a small ooze surface with a [3] radius.
+You will probably think this highly uncharacteristic of me, but I&apos;m inclined to agree.
+*He turns his gaze toward the corpse of Lone Wolf Pigsbane. His peeping skull cracks into a grin.*
+Vasnya
+*The bloom&apos;s scent ribbons towards you until it fills your nostrils. Your whole body flushes. You&apos;re sure you must be glowing, so deep does the warmth dwell.*
+The Red Princess awaits me in the Ancient Empire consulate here in the city. She is in grave danger. I should go to her.
+*A grin cracks her stony face.*
+*The young woman looks over the remaining wounded, seemingly unsure of what to do... she sees you and nods.*
+Go away, dwarf.
+Thing is, I can never be free. The queen can&apos;t be trusted to rule unchecked. So I must choose the dwarven people&apos;s liberty... in exchange for my own. I &lt;i&gt;will &lt;/i&gt;be Divine. And I can&apos;t allow you the chance to decide otherwise.
+*You&apos;re fast, but the elf is faster. He hand whips out, deflecting your weapon like a leaf on the breeze. His eyes are deadly serious now - no hint of the bombast you saw just a second ago.*
+*Say that he shouldn&apos;t...*
+Gods have a different vantage point from our own. Perhaps their actions will prove to be quite justified should we know their true reasons.
+We helped the dog.
+Hmm. I&apos;m afraid I don&apos;t know any... Low-harr, you say?
+[MYSTIC] *Say you had a long black dream about a ship, sailing the river of the dead. But you&apos;re not dead, are you?*
+*Say you&apos;re glad it worked out for them, but you really just needed a way out.*
+*Lay your wrapped hand upon the old man&apos;s foot.*
+Children
+[HUMAN] *Shake your head. Would this be happening if you weren&apos;t human?*
+*Threaten him. You consumed Isbeil&apos;s source - and you are prepared to do the same to him.*
+B-but, but... oh no! My poor princess, I&apos;ve failed you!
+Well, that&apos;s good. I need someone to watch my back, not blow cool air on me.
+We left Reaper&apos;s Coast without resolving the egg matter.
+Like I say - none of your business. Paradise Downs out eastwards there is shattered, and so am I - and so too will you be if you venture there. And I&apos;ll leave it at that.
+Did he help the elves to reclaim the forests?
+[SOLDIER] *For some reason, your instinct cries out to salute to Ifan... but you hold yourself back.*
+*Wonder how he managed to die here.*
+Black Ring Fearmaiden
+*Hackles still up, the dog keeps on barking and sniffing.*
+The lizard. We find him. We destroy him. We pick his bones clean. We pass him through our bodies. We return him to the earth.
+Jolly good! Now that that&apos;s settled, first things first:
+If there is any truth in this pamphlet, you can make an actual love potion and, if your beloved isn&apos;t feeling especially thirsty, even throw it at someone. As it explodes, it releases its fumes and charms those that breathe them in. Apparently, you only need honey - how poetic - and a rather rare, magical heart-shaped bottle.
+&lt;i&gt;*&apos;Beast&apos;?&lt;/i&gt; Ask him how he came by a name like that.*
+A fading tribute to a withering God. How fitting.
+Character is frozen like an icicle. Cured by Magic Shell, Bless.
+Welcome...
+The farm&apos;s gone. The farm&apos;s... gone. And everyone inside it... Wonder if them strangers made it. I sure hope so. I sure... hope so...
+Sebille joined me. I fear for the fate of the lizard she wishes to &apos;question&apos;.
+Deathfog obscures any approach and hangs thick over the collapsed bridge that led to the isle from the Driftwood road.
+Nature
+*One by one, the barrels are loaded again and the cart departs. As it trundles out of the cave, the voice returns: &apos;Come. Come to me...&apos; And you feel your feet carrying you into the cavern&apos;s darkness.*
+Please. Please just go.
+What A Rush
+And you... you&apos;re totally unfit to become the next Divine.
+[FANE] *Finally, a human comfortable with physical contact! Reach out and gently tug on his cheek.*
+Oh, you get used to it after a while. But that doesn&apos;t change the fact that he left me stranded among a bunch of red-robes with prickly magic sticks!
+They&apos;ll see. They&apos;ll wish they listened - beGAWRK!
+*Say the Void is as good as done for. You are ready to travel to the Well of Ascension: you can feel it.*
+*You cannot bring yourself to harm him, so you shove him to the ground, steal his purse and run.*
+Statue of a Knight
+*The soul flutters in fear, but with a Source collar gripping your neck, your hunger cannot be sated.*
+Creates a magical field that increases Poison resistance for all allies inside it.
+*Say you would have thought him capable of dealing with a few unruly dwarves himself.*
+Black Shroud Scroll
+No spirits linger here... strange.
+That&apos;s just it, isn&apos;t it. That&apos;s just it. You ought to go see her. Dorotya. She can help you. She did me.
+One demands from one&apos;s lessers. I am your equal, &lt;i&gt;Godwoken&lt;/i&gt;.
+Warning Poster
+Certainly, &lt;i&gt;you&lt;/i&gt; cannot ascend. You are not ready. You will &lt;i&gt;never &lt;/i&gt;be ready.
+*Say you&apos;re looking for Dallis. It&apos;s a known fact that she came to the Cathedral. When was she here?*
+Stuck sitting here while Kemm goes rummaging around in the vault. Typical.
+*He scans the sea for movement. Then takes a deep breath... and steps into the water.*
+&apos;...may Count upon the Hammer&apos;s most benign and juft benevolence. &lt;b&gt;The deaths of the Evil Ones shall be rewarded in this life and the next.&lt;/b&gt;&apos;
+I do wish I could wander inside. It would be nice to look up some... old friends. See if they&apos;re in good spirits.
+Rhalic, &apos;the First&apos; of the Seven. He was as bullish as Vrogir, in his own way.
+What cargo is this, now?
+*With growing horror she turns her focus on something unseen, looming high above her...*
+If you see anything suspicious, report it at once!
+Lone Wolves prowl the region. They may be able to help Sebille find her old master.
+We left Reaper&apos;s Coast with the Voidling in tow.
+*Swear you have nothing of value on your person.*
+*Fane glances at you, the gem on his forehead sparkling playfully.*
+Those who ignored their instincts never returned.
+*Her eyes go wide.*
+*The spirit of a young woman stares down at the remains of her own warped form, aghast.*
+Hah! Collared like a dog! A very...leafy dog. I&apos;d pity you, but Septa the Ineffable has no patience for weakness.
+Toggle Talent
+I can&apos;t say where its entrance lays. The whispers that speak of the archive are all but drowned by my ancestor&apos;s grief...
+Hold it there! Back to your cell with you, fugitive.
+failed
+*Say Masters only beat slaves if they&apos;re naughty. She must have been very naughty.*
+*The Magister silences the prisoner, turns to you, and holds out her hands, as if to say, &apos;Well, I tried my best!&apos; The hanging Sourcerer winks at you, and another strand of rope falls away.*
+[ELF] *Catch your breath, and say that you saw the memories of the Voidwoken - them, their victims... they&apos;re all connected, to... someone. &lt;i&gt;Something&lt;/i&gt;...*
+*A sly smile creeps across the Magister&apos;s face.*
+*Offer your condolences. He&apos;s been through a lot.*
+[SOLDIER] *For some reason, your instinct cries out to salute to Ifan... so you do.*
+Oh, do go on. I won&apos;t hold it against you. Promise.
+Grrrrr.
+It&apos;s the cave - the hills, and the cave inside them. I had people there. People handling... dangerous equipment. Mordus has turned. He wants to take it. He wants to... misuse it.
+*The spirit is panicking, fighting against you, but you start to see flashes. The tavern. The kitchen. The chef. A forbidden recipe. The clink of gold. The chef. The stew.*
+Coins
+Thank you so much for helping my ma. All those Voidwoken! Sheesh. Thank the gods everyone is ok.
+*Tell them their toy is very pretty.*
+Chainmail Drop
+A new companion. Sebille, an escaped slave, wants to find and kill her old master. The slaver Lone Wolf Roost Anlon may lead her there.
+*She shakes her head, an inscrutable smile playing over her lips.*
+Should you hear anything, you are of course welcome to bring it to me.
+I should have dealt with you before. Why didn&apos;t I find a way... I should have found a way...
+Alice&apos;s Totem

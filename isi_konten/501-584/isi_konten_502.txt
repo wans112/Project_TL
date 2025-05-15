@@ -1,0 +1,143 @@
+I bow before you because I am a goddess no longer: robbed of my powers by the usurping Divine!
+My. Guess I&apos;ll have to find out the memory from marrow, won&apos;t I?
+*Say that you have to try, and demand that she unlock the cage.*
+*What does it mean - like one of whom?*
+Indeed! And QUITE DELICIOUS it was too!
+To lose a child... it&apos;s a mother&apos;s worst fear. I never imagined...
+[BEAST] *Roar that you will not allow the queen to succeed, and smash the device.*
+Winter, that armours our forest home in ice and snow. Let it make our enemies stumble and fall, and make them easy meals for our spears.
+*Malady says nothing. She dutifully summons the portal that will deliver you out of this place.*
+That&apos;s it! No more warnings - to the cells with you!
+Bone Pile
+[IFAN] *Deny it. You have always been true.*
+*Sigh* You seem to know how to handle it. Go on. Take it.
+ORDERS FROM BISHOP ALEXANDAR&lt;br&gt;&lt;br&gt;We are at a turning point in our great mission to preserve our realm from the darkness that threatens it.&lt;br&gt;&lt;br&gt;Thanks to Dallis’ formidable efforts and research, we have discovered a way to purge the Source from those overcome by its effects.&lt;br&gt;&lt;br&gt;The secret lies in an old technology, pioneered by the ancient Source King Braccus Rex.&lt;br&gt;&lt;br&gt;Our mission is vital: We must secure this technology – known as Purging Wands – and transport them all to the safety of Fort Joy.&lt;br&gt;&lt;br&gt;The Hollow Marshes are dangerous, but your efforts are for the good of all.
+*Produce the pieces of the Swornbreaker and hand them over to Almira.*
+Exquisite wrought-metal handiwork set with winking jewels.
+*You face a familiar foe. Before you is a dwarf you once knew - or at least, thought you did. You see in his sneer a new Beast - nobility twisted into arrogance, coarseness turned to cruelty.*
+*The injured Magister lies before you, in pain, clinging to life.*
+I can forgive a mistake. Even a big one. Whether you can live with yourself after this, well... that&apos;s your own call t&apos;make.
+I am &lt;i&gt;the Red Prince!&lt;/i&gt; The All-Conqueror. The World-Tamer. The Spouse of the Sun.
+*As Sadha takes the scythe, a black tendril becomes visible, rising from her heart into infinity. With a decisive cut she slices it through. A hiss, and it evaporates. She&apos;s free. She&apos;s sworn no longer.*
+Same to you.
+*Wonder if there&apos;s anything you can do to help her.*
+The Council of Seven: A History
+Too late now. We had our moment and we made our decisions. I, for one, will stick by them.
+*Sensing your rage, Ifan steps back a few paces at speed. He holds his hands up in placation.*
+And it seems that you have. Squeezed it tight, I see. There isn&apos;t much more for me to teach you.
+A daring mace-wielder risking life and limb to decimate evil head-on
+Now that that&apos;s taken care of... where were we?
+The maze rewarded us with an additional skull!
+Take care, friend.
+Without worship, Tir-Cendelius was deprived of Source. He weakened - and so did the Veil. It was the opportunity the God King was waiting for.
+Gonna go check this place out! Catch you later.
+If you need shelter, look for the Bishop and the rest of my comrades - they retreated north to our rendezvous point. We&apos;ll head there once we&apos;ve tended to our fallen.
+You see, the demon that you reported dead, the Advocate, he had a master...
+I wonder what they did in life to deserve such a resting place?
+*Repeat your question: did Voidwoken do this to him?*
+*He nods. At least - you think he nods. His head moves so slowly, so subtly, that you can&apos;t be sure.*
+With this bright little bauble on your hand, you&apos;ll be sharper than usual and ready to battle with your wits.
+&lt;i&gt;Don&apos;t you dare!&lt;/i&gt; If you violate the virtue of my carpet, I&apos;ll do a good thing worse than put a collar around your neck!
+*Ask him what he&apos;ll do now.*
+*The healer peers at you for a long moment, then sighs.*
+Damian was kinda cute though.
+*Cough*
+*Tell her you&apos;re Godwoken, not her; your decisions don&apos;t involve her.*
+Magister Knight
+Water resistance: [1][2]%&lt;br&gt;
+I never thought I&apos;d say this, but perhaps the Magisters are right?
+Sharp Stone On A Long Stick
+I never imagined such a well-read mind could be so &lt;i&gt;feeble. &lt;/i&gt;Could it be a simpleton is touched with Divinity? The Gods really&lt;i&gt; are &lt;/i&gt;cruel.
+Breast
+Cocky, cocky. That bloodlust could be used for purposes far more fitting of a Godwoken.
+|DESC|
+Source weapons? Damned be, no wonder the Void is getting stronger!
+Silence, slave.
+You really think she&apos;s all that dangerous?
+pickupable
+*Squints...* Oh hey, you&apos;re right. You look just like an lizard what had a run-in with boss last week. But now that I think of it, she was got rid of later that same day. Never mind.
+*Laugh at your little joke, then lean forward for him to kiss you.*
+Best served to a lifelong nemesis you&apos;ve lulled into your confidences.
+*Sebille is pensively tracing a new name on her arm: gilded letters in an ancient alphabet.*
+Deathfog? Why, don&apos;t be silly. Those Voidwoken probably emit all sorts of noxious gases and... odours. But don&apos;t you worry - the servants&apos;ll get it all cleaned up, lickety-split.
+No pocket here to pick!
+Duna, the stoutest of the Seven. No wonder the Dwarves pray to him...
+[MYSTIC] *Tell him you don&apos;t do smart, you do intuitive.*
+Well, isn&apos;t that a shame? Listen, my friend. There&apos;s no lover livelier than a lizard. And for an insignificant sum, I can introduce you to the most luscious lizard the world has ever known. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+I can&apos;t bear it any longer!
+*Say that Amadia told you the same thing.*
+[DWARF] *Say you&apos;ve known a few women who worked the anvil, but they were all dwarves... she seems to have a talent for it though.*
+I sense a presence here... a great multitude of spirits, left without guidance.
+So you&apos;re telling me you weren&apos;t malicious - you were just too &lt;i&gt;weak &lt;/i&gt;to know you were bein&apos; played? What a gods-damned &lt;i&gt;joke,&lt;/i&gt; Justinia.
+I... I don&apos;t even know how to begin to say what I want to say to you.
+Carved from an ancient metal-like material, the wand is heavier than it appears. Etched along the shaft is the symbol of the Source King, Braccus Rex.?
+*Consider Ryker&apos;s smirk. This all seems very suspicious...*
+You made it past the traps, fair enough - but you&apos;d still better step carefully, stranger, or I&apos;ll tear your throat out with my teeth.
+Please, there&apos;s a young girl here in need of help - is that why you have come?
+Online
+A small-sized potion that fortifies your constitution by scrubbing your insides from top to bottom.
+Looks like the big moment has finally arrived. I will do everything I can to support you Godwoken. I will &lt;i&gt;pray &lt;/i&gt;for you. I think you&apos;ll need it.
+You&apos;re in a tight spot. &lt;font color=&quot;008858&quot;&gt;Flee&lt;/font&gt;, if you wish.
+*Tell her half the truth. Say you met Duna, god of the dwarves, and he called you his champion.*
+*Red-hot rage burns within you. Whatever is inside you... you will make it pay.*
+Listen up, boy. You hear that?
+No... The Red Prince does not perish... Even here I hear the voices of destiny whisper...
+To say nothing of lovers.
+*Visions of Windego&apos;s attack on the vessel sailing to Fort Joy fill your head. You look to the cell - and your memories contort and coil.*
+Yes madam! I&apos;ve sent out a requisition order for more munitions.
+Hey, wait a sec... it looks like you have all the company you need. Maybe another time, when you&apos;re a bit more on the lonely side.
+[Translate90_bce344d7-6b33-4ace-afb9-54f4d9dfde8d]
+*He&apos;s leaning against a desk, a four-headed staff in his hand. His bluish-grey skin shimmers in the gentle light of the library.*
+*Lower your eyes. She has admitted her weakness. Now, you must rebuild. Together.*
+*Tilt your head. Is she coming on to you?*
+Oh yes, and she could be a most cruel mistress, I&apos;m sad to report...
+[SOLDIER] *Tell him to pretend he never saw you. Or else.*
+Finally, a place where we might find some answers.
+Town Crier Togrof
+Exploration Theme 06 Adventure A
+Kemm&apos;s Secret Passage
+*Tell him you found weapons in the basement. Source weapons.*
+Again? You really do hang about forever, don&apos;t you?
+Have a read of my contract and find out...
+Hah! A fair point. But a good imagination can get you far, I tell you!
+*Sebille lashes out, but Roost is fast. Damn, he&apos;s fast. He knew she&apos;d make that move: dodges it and slaps her on the back of the head with a wicked cackle.*
+A worn key once carried by Isbeil, Queen Justinia&apos;s  advisor.
+*Say it seems like things could go either way at this point. Five or six out of ten.*
+I am at the ready...
+Coded letters, passwords, security measures... all &lt;i&gt;my &lt;/i&gt;creation. Now that I&apos;m dead, you&apos;ll never decipher &lt;i&gt;any &lt;/i&gt;of it. My work will outlive you all.
+*She stops short, mid-stride; her eyes go wide.*
+Key to the Archives Chest
+*This must be the place the Devourer spoke of. His cult gathered here, making offerings to the dragon.*
+I&apos;m done bowing to some distant God. I&apos;m in this for myself.
+Leave your treacherous companion outside. The one who is sworn to the God King. The Doctor will kill this one on sight.
+Jorja Webb
+Video and graphics related options.
+*Note that he seemed happy to execute one of his own.*
+Pity. You could have been useful.
+*Ask her why he&apos;s telling her to look, but not touch.*
+*Insist that adulation is due. Those you defeated were not mere commoners.*
+[The text within this tome outlines the various uses of hammers in combat scenarios.]&lt;br&gt;&lt;br&gt;Your first inclination may be to always strike with your warhammer&apos;s head, but you mustn&apos;t ignore the opposing spike, should one exist. A hammer does not always deliver blunt force, but a piercing one. Where ogres and trolls are concerned, a puncture wound is every bit as deadly as a smashing one.
+*Share how you tangled with her at sea. You&apos;ve got a score to settle.*
+Tactical highlights
+High
+*Amadia surges forward, her essence filling your bones. When your mouth opens again, you speak with a voice that&apos;s not quite your own.*
+HOLD
+I don&apos;t understand it. There&apos;s a prison right here in Arx. Why send him so far away?
+The Voices
+*Ignore him. Keep walking.*
+[2] missed [1]
+Stay away from the Godwoken, Roost. They&apos;re &lt;i&gt;mine&lt;/i&gt;.
+I am the saviour of my people. The warden of Rivellon. The vanquisher of the God King. I am Eternal incarnate.
+I hope Lucian doesn&apos;t come back - if he did, we wouldn&apos;t get the day off.
+Fair enough. You bite off more than you can chew, you know where I am.
+[The paper is decorated with enigmatic characters and codes that, despite their inscrutability, have an air of order in their assemblage on the page. Arrows and lines imply that these might be battle plans.]
+*Announce that you saved Arhu.*
+LAN
+Roost and his Lone Wolf mercenaries are holed up in the nearby sawmill. Saheila must be there too.
+As you wish, my prince.
+Pasha
+*Reveal that you tried the stew that&apos;s being served in the Black Bull tavern. It contains flesh. Magister flesh.*
+We all know the one who gave the secrets of the Veil to the Seven Lords. The one who delivered the power to cast us into the Void.
+*Ask her what she&apos;s doing.*
+I saved you. I guided you. I blessed you. I built you into what you are. &lt;i&gt;I made you.&lt;/i&gt;
+Honour the memory of Xiuh&apos;s master. She deserves nothing less.

@@ -1,0 +1,166 @@
+Necro Cavern
+*The rat gives you a malevolent stare.*
+I tell you I&apos;ve had quite enough! Quite! &lt;i&gt;Hrmph!&lt;/i&gt;
+air
+Running like Clockwork
+*Extend a comforting hand. Tell her she&apos;s safe... for now.*
+*From the glint in his eye and the wicked smile he wears, you can tell he speaks in jest.*
+Prostrate yourselves before your champion!
+That music is quite soothing... you could almost think that all is well around here.
+Wait a... wait a minute. This tastes like... this is... this is... *BLECH* I. Don&apos;t. Eat. People!
+Draught of Constitution
+[LIZARD] *Sigh and state that only humans are capable of such cruelty.*
+Magical Wand Of The Wolf
+Or stolen. That happens too. Some secrets get stolen, &lt;i&gt;then &lt;/i&gt;buried. With some it&apos;s the other way &apos;round.
+Food Magic
+Whatever it takes to get stronger. That&apos;s the &lt;i&gt;only &lt;/i&gt;way I&apos;m - &lt;i&gt;we&apos;re&lt;/i&gt; - going to survive.
+I won&apos;t lie. This will be rough, Lohse. Our foe is a true arch-demon. We know him now. Adramahlihk.
+[SEBILLE] *Say you&apos;re not stuck: you&apos;re on the prowl. You&apos;re hunting.*
+[HERO] *Console him. He &lt;i&gt;tried&lt;/i&gt;. That makes him a hero in your eyes.*
+Alertness Herbmix
+*Tell the dog that you can heal its pain - but it must trust you.*
+Vitality, Physical Armour and Magic Armour
+Hunh?
+Nasty Deeds
+Ability points
+[LOHSE] *Remark that the smell of gore is bringing up unpleasant memories. And possibly your lunch.*
+*Give him the ring.*
+*Of course. You shouldn&apos;t stand in their way. Go on: tell them to fulfil their destiny.*
+*Pull him toward you and hold him tight.*
+Pipe down, Fara. It&apos;s time to accept reality...
+Thank you. That means... something.
+Small Salamander
+*Beast&apos;s eyes widen, and blushes a red so angry you see it under his beard.*
+[LIZARD] *Nod. You understand this fellow is a Dreamer, an honoured class among your kind.*
+Tha&apos;s right, princess. We&apos;re taking all your stuff. Any quarrel with that, you can take it up with Lohar.
+You look mighty familiar. Happen to know about a recent murder, by chance?
+*The voice fades away, and with it, the pain.*
+Brahmos the dreamer told me that the Red Princess was waiting for me.
+Vandals cause problems in the area. You know something, I am sure of it.
+Learn how to help the Ancestor Tree.
+You want to talk about &lt;i&gt;tea...? &lt;/i&gt;After what I&apos;ve learned about my husband? This isn&apos;t the time, damn you!
+*She turns her back on you and waits for your companions to leave.*
+*He screws up his face, as though trying to see a small dot on a far horizon.*
+*You&apos;ve always fancied yourself as something of a &lt;i&gt;scholar...*&lt;/i&gt;
+*As the flames die, you sense great turmoil within the spirit bound therein.*
+I must depart post-haste, but Julian here will stay behind and be a good little parrot. Ask, and he will answer.
+*Report that you&apos;ve uncovered a plot! The dwarf Lohar is smuggling Source Weapons through this factory.*
+And &lt;i&gt;I&apos;m&lt;/i&gt; here.
+Hold + click to queue commands
+*Say that if there&apos;s a way, you&apos;ll find it. And if there isn&apos;t a way, you&apos;ll make one.*
+Sadha must die... She must...
+Much appreciated. Let me take a look.
+Under her rule, the Dwarven Kingdom prospered,
+*It shouts and shakes as it enters battle stance. You reach for your weapons in response.*
+I swear I&apos;ve a mind to beat him to death with the nearest dictionary I can find.
+For you, &lt;i&gt;rav&lt;/i&gt;, no bother. As you know, it&apos;ll cost a little gold... if you have it to spare. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Why, sail for the mainland of course! The sooner Fort Joy is but a blemish on the horizon, the better!
+Raw Rabbit Meat
+*Ask him to explain how to use the amulet and the Scroll of Atonement.*
+Meistr Corfyr
+Hold your hand to the ground.
+*Ask where she comes from.*
+Hi! Do you like to play ball? We like to play ball.
+Hahaha! &apos;Belong to Rivellon.&apos; That might be the most dramatic thing I&apos;ve said in &lt;i&gt;ages. &lt;/i&gt;
+*The spirit turns and tries to run, but it&apos;s too late. Her power seeps into your bones and fills your soul.*
+Singed notes
+Turn ground surface into cloud
+Wherever you travelled, you&apos;ve returned with newfound energy. A story for the fireside, if I ever heard one!
+Pretty, pretty, pretty...
+Create a spreading water surface which douses fires. Set Wet status on characters in the area.
+A woman knows things. Nothin&apos;s gettin&apos; past me.
+She&apos;s... she&apos;s gone. She&apos;s gone. &lt;i&gt;She&apos;s gone&lt;/i&gt;.
+*Tell her you&apos;ve read the merchant&apos;s will. He has left her the entire estate!*
+Better get out there before Mordus makes it all the way past Arx.
+*Question whether he&apos;ll be able to join in the fight to try and escape this island.*
+*Another step. Even closer. The moment has finally come. You&apos;ve found the Master.*
+Allergic to blessings, are you?
+While you are at maximum Vitality, [1] grants you an extra [2]% critical chance and [3]% more accuracy!
+Temple of Duna
+A brave and innovative killer, you are renowned as the saviour who helped the Paladins defeat the Voidwoken in Arx.
+I lost them... I lost them... Accursed be my soul!
+Klaud, turn your head if you can hear me.
+Oh, no you don&apos;t! You can&apos;t use rift travel while you&apos;re in prison.
+I&apos;m working here - go find one of yer own kind to bother.
+We informed Alexandar of the Sallow Man&apos;s death.
+I pledge my life, O Lucian. Please return.
+Game Master set Health on target
+Shall I take you to the island? I shall! I shall! Step this way! All aboard!
+*Tell him you tire of his snivelling.*
+*Say that you hear she&apos;s the person to ask about Braccus Rex.*
+FOV determines the angle in which you can detect sneaking enemies
+All &lt;i&gt;that&lt;/i&gt; is over.
+Unless you do as I bid you; do what I blessed you for!
+Thola, the Thorny One
+Yeah, that stuff&apos;ll get ya. This is why I like to keep a clear head about me. I take a trip to la-la land, and there&apos;s no telling where my lightning might strike!
+You! Stranger! What are you doing here?
+He thought it was a reward. Kept saying how blessed he was. What madness...
+Maybe I should&apos;ve just stayed put in Driftwood. I can praise Lucian there just as well as I can in this bloody camp.
+Hah! Collared like a dog! A very tall, very... uh... beautiful dog. I&apos;d pity you, but Septa the Ineffable has a soft spot for beauty and you carry that choker off so very well.
+Oh, you know. I can see it in your eyes. You&apos;ve been telling the Magisters that I&apos;m behind the disappearances...
+Cleaning Up Level
+*Toss him a gold coin. Don&apos;t spend it in one place, now.*
+Do this, and I shall endeavour to forgive, and forget how you treated my loyal servant, your sister in faith, Isbeil.
+*The ghost grasps at the handle of his mug and stares in confusion as his hand passes right through it.*
+In the caves of the Blackpits, Dallis found a purging device of terrible power. Her intentions for it can&apos;t be good.
+There, I once more encountered the Gods. They were hanging from a tree, bleeding Source.
+*Expectorates.*
+Looks like somebody out there doesn&apos;t have a leg to stand on...
+*Insist she get to the point. Who is this other &apos;chosen one&apos; she mentioned ?*
+DON&apos;T O&apos;EN THE &apos;LOODY CHEST! There. That&apos;s what I think.
+Ugh. That mark. What&apos;s a disfigured slave doing in my lair? Come on, slave, show me your -
+*Change your mind and walk away. He can look himself.*
+Say what you will about Dallis and her minions, but their methods yield results.
+*Ask her what a girl has to do to earn that stare.*
+Bark At The Rune: On Rune Sizes
+Mm. I remember. What about it?
+*Before you can draw it clear, she shoves you backwards and brings her own weapon to bear.*
+Why, because I &lt;i&gt;care&lt;/i&gt;, of course.
+*Remark that this Arhu person sounds interesting. Where can you find him?*
+A thousand years... can it have been so long already? Gods, how the time flies...
+I... I can&apos;t. I can barely even catch my breath.
+And now that she is dead, to where will you sail?
+The &lt;i&gt;competition&lt;/i&gt;. Take out my competition and I could waive the usual fee.
+*A Master of the Source? Tell him you&apos;re searching for sages like himself.*
+A new Divine rose, a true heir to the Seven, more powerful than ever, and united Rivellon in its battle against the Void. All across the realm he was worshipped and adored. Humans, lizards, elves and dwarves all rallied to his banner.
+*This seems like Fane&apos;s home turf. Ask what he thinks you should do.*
+Thank the Gods! By Divine grace, what was -
+*Say that you&apos;re in a hurry: you need to find Dallis urgently.*
+*...pure.*
+An unexpected blow, that deals [1] and knocks down target.
+Trial of the Hidden Path
+[1]% COMPLETE
+W-whatever you want. Ask.
+Poisoncloud Arrowhead
+Little wolves should know better than to follow corrupted alphas. And who is it that you follow now?
+I tried to stop her, but - things don’t always go according to plan. She cast me out to a forgotten island, and made short work of my allies, too.
+And don&apos;t try it again!
+*A razor grin unfolds upon his lips.*
+*The armoured figure clasps its head, speaking to someone you cannot see. The armour writhes. It is made of living, creeping vines.*
+That&apos;s... plenty.
+Dough
+&lt;i&gt;you serve the god king now so kill the divine order pigs and kill the godwoken go kill them all go serve the king&lt;/i&gt;
+*Say you&apos;re sorry if you disappointed her, but you had to do what was right.*
+*Ask why you must be punished. The pigs are no threat to her, on fire or not.*
+I knew it! Whatever those dwarves are planning, they must be stopped.
+Saheila is alive and on Reaper&apos;s Coast. She may be with her tribe.
+I mean... no. I should do this myself...
+[OUTLAW] *Wonder aloud what would happen if you were to use magic on this gem. Or a great big hammer.*
+He has his own bedroom, does Kemm - and it&apos;s always locked. He&apos;s got secrets, y&apos;see. Trapdoors and ladders - where they lead, I don&apos;t know. But his wife knows nothing about them.
+And I remember saying I&apos;d probably never tell you...
+*Smile and ask if he&apos;s thinking of taking a holiday?*
+Poor slave girl. Master never gave you an education, did he? Let me explain: In the real world, treasure doesn&apos;t simply appear from on high.
+Gods, I haven&apos;t the *gurgle* energy for this. You want to know the truth?
+Can you let me out now? I don&apos;t think the Magisters are ever coming back!
+Halla&apos;s Chest
+Dallis&apos; Private Journal
+*Pinch your lips together, as if they were buttoned, then smile.*
+*Tell him this was a mistake, nothing more. You didn&apos;t really mean to free these demons.*
+*The girl&apos;s eyes are covered, but she turns as you approach. She smiles as though she recognises you, though she couldn&apos;t have seen your face.*
+It was one of them. I &lt;i&gt;know &lt;/i&gt;it.
+Don&apos;t know much. Everyone was out in the garden for the wedding. I was watching the shop and then... Guards were everywhere but those beasties just... cut through them. Like butter.
+Ready For Sale
+Page after page of amateur drawings.
+Beautiful. The Surrey tomb must be somewhere nearby. And whatever that object is in there, I bet it&apos;s... impressive.
+This &lt;i&gt;is&lt;/i&gt; vengeance! The one who forced you to kill wants all Scions dead. If you become the mother, new Scions rise and he is defeated!
+*Your eyes go wide. She let her assistant go through with that, even though she wasn&apos;t Godwoken?*
