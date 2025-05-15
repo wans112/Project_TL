@@ -1,0 +1,171 @@
+*He points to the location on your map.*
+You one of her little Seekers? Chasing down Godwoken and beggin&apos; &apos;em to save us all? I admit I didn&apos;t see that one comin&apos;, Beast.
+This is bad... you know who&apos;ll get the worst of it, eh, dwarf? The common man. Same story, every bloody time...
+I know what your God has asked you to do. The choices he&apos;s forced you to make. Was it right? Can you truly say it was worth it?
+I have nothing to give you - my thanks will have to suffice.
+You there! Whatever you are... did Braccus send you? Is he ready to apologise?&lt;br&gt;
+*Ignore her vain threat and demand to know who she was talking to.*
+Raw Red Meat
+Yeah, awright. Hur-hur.
+*She stares at you, her face frozen, then blinks once, slowly, and snaps back to life.*
+I&apos;m telling you, &lt;i&gt;one&lt;/i&gt; more kid shouting by the pool and I&apos;m swimming to Driftwood!
+I am more than capable of getting to my feet unaided, thank you. Assuming my feet are where I left them, of course...
+...yes yes, it has shown it can adapt to unexpected circumstances. I suppose we can give it this chance at least.
+Report back to the hens.
+May you feel the pain of death tenfold!
+[IFAN] *Tell him the Lone Wolves say &lt;i&gt;lizards&lt;/i&gt;: it&apos;ssssssssssss all in the tongue.*
+*Touch the statue with your swathed hand.*
+Radeka
+Ah, freedom! I thought I was dead for sure, but the kindness of others saved me.
+Human Children
+Warm the bird up.
+*Inside you, Duna rumbles in protest.*
+Ser Koor
+Nice day for it, all things considered.
+We directed the Deathfog away from the city and out over nearby waters.
+Pile of Dismembered Corpses
+*As you step forwards to stand by his side, threatening the helpless Sourcerer, Ifan gives you an appraising glance. He nods, once, then returns to his interrogation.*
+*Shrug. That&apos;ll do. He&apos;s free to go.*
+&lt;i&gt;...you have wasted your time and mine.&lt;/i&gt;
+Looks like it might&apos;ve been right about the gods. Suddenly I&apos;m pretty happy there isn&apos;t one camping out in my soul.
+Oh no! The painting&apos;s been stolen. Aw. Poor you. Bye-ee.
+Yeah! YEAH! You&apos;ll &lt;i&gt;make &lt;/i&gt;one! And I&apos;ll... I&apos;ll...
+You name it, I&apos;ve chatted with it behind my own two eyes.
+*Ask Han what he means by &apos;safety&apos;. Where are you to go?*
+Alone...
+*Apologise for your forgetfulness and ask her to remind you about this book she seeks.*
+*Gulp.* I think so.
+Servant of Death
+Toy Crossbow
+All that you give up, you give back to the realm. It&apos;s very simple. And very selfish to refuse.
+*Scratch your head. How are these useless things going to get results?*
+Let it end. Let it end. Let it end.
+I suppose, circumstances being what they are, it could be advantageous.
+Sewers Key
+That I have, ma&apos;am! Thank you, ma&apos;am! Bred and trained for service I am, ma&apos;am! And proud to be some help! Ma&apos;am!
+*Ask if he&apos;s sure. You don&apos;t know the first thing about wine. It&apos;d be wasted on you.*
+I woke up in a courtesan&apos;s bed with a vision of the secret of my soul. She called me to her.
+Battle is dangerous, is it not? I find it to be true, anyway, even when you&apos;re battling your own mortality. The angst can prove... terminal to the weak-willed.
+Razor
+*Bend down and stroke his head.*
+*Kemm&apos;s eyes turn very, very dark.*
+Hey, hold on a darn minute there!
+You&apos;re dead, Alexandar! Stay dead!
+the Beast o&apos; the Sea,
+I know the signs. They cannot be denied. Now come. The future awaits.
+Sallie
+You farin&apos; okay so far?
+*Step between the prisoner and Kemm. He can&apos;t do this.*
+Heh. You don&apos;t waste time on the niceties, do you? Well, I wouldn&apos;t show this to just anyone...&lt;br&gt;
+Brutal Mace
+&lt;i&gt;I choose... me. And I choose you. I choose us.&lt;/i&gt;
+No need to get rude. I come bearing a gift.
+The Red Princess awaits the Red Prince in the Ancient Empire consulate. She is in grave danger.
+Be careful, now. Those beasts are nothing to sneeze at!
+I don&apos;t know how it all went so wrong so fast. We came to get the Purging Wands from Braccus&apos; old armoury. Loaded up the last of &apos;em without any trouble.
+[BARBARIAN] *Roar your displeasure. You will not be denied Divinity!*
+Wand of the Elder
+By all means, get an eyeful.
+Thank you for your service.
+Unless you have proof that this... this &lt;i&gt;cook &lt;/i&gt;is responsible, you had best keep out of my way!
+Took a beating from Murga, did you? No shame in it... I just wish someone&apos;d give her a thrashing some day...
+*The child looks at you straight on, unafraid, searching the shadows cloaking your face. He lifts his mirror to his nose, closes one eye, and looks at himself again.*
+A thousand bottles o&apos; dust!
+It&apos;s a long story. But I think I&apos;ll leave it in the past, and look to the future instead!
+We healed Jules. He gave us a skillbook.
+Cursed Oil
+*Deny him.*
+And yet I suspect there&apos;s even more to know about you. Isn&apos;t that right, &lt;i&gt;Godwoken?&lt;/i&gt;
+*She doesn&apos;t need to worry about note-taking anymore. Consume the spirit&apos;s Source.*
+[LOHSE] *Say you&apos;re sorry to disappoint her, but that doesn&apos;t seem to be the case. You only met the thing in your head again. He was gloating over the condition of the gods.*
+Broken Grating
+Exploration Theme 01 Light B
+They&apos;ve always been snakes in the grass. Cheap labour, sure. And hard workers too. Half of them are their queen&apos;s spies: her eyes, her ears, her poison-pouring hands.
+*The spirit of a Magister jabs a spectral finger into the Paladin&apos;s wound, while muttering some profane-sounding curse...*
+Status Effects
+Heals allies or smashes skulls, depending on the direction of the winds
+*Nod. That&apos;s sensible enough.*
+*Admit that it does sound a little... nutty.*
+Maybe another one will show up if I wait long enough...
+Ah, go talk to The Raucous One. Tell him I sent you, and he&apos;ll set you up for a challenge. Prove yourself worthy fighting my acolytes &lt;i&gt;blindfolded.&lt;/i&gt;
+Fane pledged his support in my fight for Divinity.
+*Hunger rises deep within you. You - or the thing inside you - wants her Source, so badly you can taste it.*
+Goat&apos;s cheese? Mother, are you &lt;i&gt;mad?!&lt;/i&gt;
+Ah, of course it wasn&apos;t &lt;i&gt;luck&lt;/i&gt;, was it... Godwoken?
+*She looks into your eyes, her face set in a fierce frown.*
+I think you might find this... interesting, Beast.
+These things are &lt;i&gt;rank.&lt;/i&gt;
+[1] was invulnerable to [2]&apos;s attack.
+No.
+*She throws her arms around you in a tight embrace.*
+*He takes you into his arms, into his heart, into his very being...*
+Your Godwoken soul is my last refuge, my last bastion... and now you have brought me a gift...
+The words of Consul Zara are not inane babbling. Speak them or be silent.
+All yours. Just watch it round elves - turns &apos;em rabid.
+*Squints...* Reckon I mistook you for someone else. You&apos;re a might uglier than that fella anyhow.
+*Quietly take your leave without disturbing them.*
+*Looking  at the barrel, you see that someone has scrawled &apos;Black House&apos; on it in paint. As you cast your eyes around, you see that every barrel headed to Arx has the same inscription.*
+A Jar of Mind Maggots
+A yarrow. How beautiful. And large, too...
+Raanaar Amulet
+*Remind her of the phrase &apos;pride comes before the fall&apos;.*
+A truth! So rare to hear in this world.
+Their hearts have stopped beating. We may leave.
+Return to the Arena Master.
+*The spirit looses the arrow. It evaporates into nothing against your hand. No pain... though a shiver runs up your arm...*
+Thou art fortunate: when I still wore scales I would have cut you down without a thought.
+*Unseen hands force her to her knees. Her lips move more rapidly... there&apos;s a faint sound next to you, like an echo... the metallic rasp of a sword being unsheathed.*
+*The warg yelps in agony and bites your arm...*
+If you see anything, tell me or my men at once. Otherwise keep the hell out of our way!
+Urrggh...
+The war-drums keep the rhythm of patrol...
+Loading
+What&apos;s it look like.
+Your Highness! Yes! I&apos;m working feverishly to concoct a proper meal for you.
+*She drops to the floor, soundlessly.*
+Ctrl
+My fate is not for me to decide - remember, &lt;i&gt;master?&lt;/i&gt; Have your way with me, but spare me your sympathies.
+Ouch! Be careful... please, I&apos;m so scared... can&apos;t you open the grate?
+*You can feel a cold rage building inside you. You want vengeance!*
+*As she considers your statement, her nostrils start to twitch. She lifts her head and takes a long drag of the air around her.*
+And I&apos;m thankful, naturally. I don&apos;t know what I would do in this world without my people.
+*The figures retreats, angry and sore - but most of all weak. You sense that this is not something to which the figure is accustomed. You can feel its fear. And then an ominous rumble begins...*
+*You turn to walk away, but as you do you feel a cold, heavy thump on your shoulder. You look up into the fierce red eyes of the raven.*
+Time... time has a way of changing someone. Lucian did not start as the man he became. You are now a guiding star. I can only ask you don&apos;t lead your people astray.
+Silenced
+Well, &lt;i&gt;good. &lt;/i&gt;Come on over here then and show me what I&apos;ve been missing.
+Select
+A promise that you will never hear in this life!
+Please, leave me be! I don&apos;t want to draw attention, even here.
+Looking to trade? I&apos;ll give you &lt;i&gt;plenty&lt;/i&gt; for a very particular book I&apos;m looking for: a tome to teach me how to make corpses... &lt;i&gt;explode&lt;/i&gt;.
+*Ask what he&apos;ll do with himself now.*
+Fane travelled Rivellon,
+House Exterior - Forest Worker House A
+*Her nails dig deeper. They draw blood.*
+*Ask the dog if its job isn&apos;t to hunt Sourcerers. Tell it to go find the one who did this.*
+No. Never.
+*Take your leave.*
+But my darling kin, why ever not?
+&apos;ullo, sir!
+NnnnnNNNNNNNNGH! I can&apos;t bear this... this existential agony. &lt;i&gt;What have you...&lt;/i&gt;
+*Say that what is art to him, is the most ignominious of horrors to you.*
+Is that what you think, prince? *Sigh*
+Ow! I think I&apos;m missing something here...
+*Growl!* You! Stick! Behave! Or else!
+I had hoped Rivellon would never see them again, but these are dark days.
+Tavern Trader
+*Ask if he&apos;s afraid of what comes next.*
+Grants the user an additional level.
+Skewer
+*Offer some Drudanae.*
+The heart of the vile elven network is the Mother Tree. She is rooted on this island, and I believe she is aiming to extend her roots into the powers of divinity that lie here. The powers you seek.
+When one strips away from the term all the pomp, all the piety, all the manifold associations it calls to mind, one is left with a single word:&lt;br&gt;
+&lt;i&gt;Act with honour, or be consumed.&lt;/i&gt;
+*Ask to trade.*
+S&apos;what it looks like. We were on our way to Arx to set up shop for Lucian&apos;s Day, but there&apos;s no hope of that now. Whatever&apos;s going on in Paradise Downs has good and blocked the path.
+We were going to flee Arx, but not anymore. Even if the boat had survived the flood, I doubt it&apos;d survive the Voidwoken.
+*The sword slides smoothly free - but the silence of the cave is broken by the clank and whirr of machinery.*
+*Shake your head. You&apos;re just having a look around.*
+Let&apos;s, eh... let&apos;s keep moving.
+It&apos;s out in the swamps. Ain&apos;t a home, but you can breathe for a minute and figure out what to do next. Here, I&apos;ll mark it on your map. Maybe I&apos;ll see you there.
+*Tell him to stop interrupting.*

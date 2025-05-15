@@ -1,0 +1,168 @@
+You? &lt;i&gt;You&lt;/i&gt; of all people want to lecture me on madness?
+Scapor
+Oh. Pity. I&apos;ve been trying to get a little something to eat all day, but the giggle-heads who run this establishment don&apos;t seem to be willing to provide a fellow with his fair portion.
+Dead Lizard Assassin
+*Say you have a lot to think about, and take your farewell.*
+So, are you a servant to the King? Here to bring me back?
+Elite Paladin Elementalist
+Seek out somewhere that peddles alertness herb mixes. Adding these, ah, &lt;i&gt;unique &lt;/i&gt;ridgebacks might make quite the impact...
+I&apos;m a Lone Wolf. We work better alone. Now, the contract...
+Hole to Tunnel Below
+*You are a spy at the consulate, when a source at the Paladins delivers a bombshell - news of a Magister-Black Ring conspiracy. When the Voidwoken come you believe it is part of a dark Magister plot.*
+For such a bridge, only one toll is acceptable.
+...this world of war and cruelty they created.
+*Say you can be no help if you do not know what you&apos;re looking for.*
+The Black Ring have long studied the toxins that fester in the desiccated bodies of the Undead. Their charismatic necromancer Zaikk Dtell was the first to discover that by breaking off just one withered finger, a scheming villain can turn a potion of healing into one of poison...
+Sebille
+I see you, but you are no elf. This place is not for you. Its trial is not for you to attempt.
+The undead Zaleskar told us that the Seekers are friendly to Sourcerers. They should be willing to help us.
+Good for you. Good for you, cuckoo.
+*Ask if she knows where the thieves hang out.*
+Oh, alright, you can have a look. I&apos;m not planning on sticking around, so what difference does it make?
+Potential Combinations
+*Pet the dog.*
+*Thank her for generously passing this death-defying mission on to you and leave.*
+Nothing &lt;i&gt;untoward&lt;/i&gt;, I assure you! I&apos;d merely like to assess your experience so far - for the enrichment of all!
+[IFAN] *Tell Sebille that you know Roost very, &lt;i&gt;very &lt;/i&gt;well.*
+Sadha! The child will be a dragon, yes, but to expose it to such danger? I&apos;m just not quite certain this would be the right course of action.
+Ha! Leading a bunch of rats off a sinking ship to a volcano island in earthquake season...
+Moving to rapid-descent cranial disruptor!
+Godsdammit, that was my livelihood! Penny for a grieving beggar? I reckon I&apos;m owed it here.
+Go &apos;way. Hiding!
+The seaside doesn&apos;t suit them, does it?
+*She stands tall and proud, a great figure against the changing stonescape.*
+Spirit of the Craftsmistress
+&lt;i&gt;*&apos;Ifan - the prey that my master seeks... Godwoken...&apos;*&lt;/i&gt;
+Bugger off. Can&apos;t you see I&apos;m trying to relax?
+[NOBLE] *Sniff. Say he was just following orders; he bears no responsibility for the decisions of his betters.*
+A good day to ya!
+Lohar is dead. There&apos;s no-one to report back to.
+*Oh, um... right then...*
+Pyromaniac
+Do you love me too?
+But the great city of Arx took no further part in the conflict.
+Food (vegetables)
+*Say you&apos;re ready.*
+Nah.
+Don&apos;t worry, chief; I&apos;m on high alert.
+*She gives you a wry smile that makes her eyes twinkle.*
+Vredeman&apos;s cruel power is well known. Even the White elites fear him. Should we ever confront him, we must be prepared for a fight.
+*Demand that she stop playing games - the whole damn town can&apos;t be in on this.*
+*The Paladin bows her head. Her face wrenches into a hundred different positions in the space of a few seconds until she gasps and opens her eyes.*
+We have to get the ship moving, and moving fast.
+*Damn the elf. Tell him to take the drudanae he has: you want to know what he sees and hears in his dreams.*
+Doberman
+*Tell her you want her naked and in bed. Now.*
+Depleted Bloodstone
+Charming. Well, I guess I&apos;ll go back to bed then. I seem to have plenty of time.
+It&apos;s time to find a new home, it seems. Oh - and take this. You&apos;ll make better use of it than I ever could.
+[JESTER] *Ask him if he knows the one about the waiter and the horses and the dog.*
+Thank you, stranger...
+*Ask the spirit about the whereabouts of Dallis.*
+Yes! Kill! Crush the flies. Mord&apos; Akaim commands you!
+If we help Higba escape, we may earn some gold.
+*Allow her touch.*
+*Say you do; your heart feels more your own than it has in a long time. But you still feel him there...*
+Create Stat
+*She doesn&apos;t acknowledge you.*
+Investigate the statue.
+There&apos;s one Magister fewer for us to worry about.
+Lethal Strike
+You know how long I&apos;ve sought Alexandar. I need this.
+Alexandar: the boy bishop that would rule the world. Oh, the folly of youth.
+Oh hi, oh you, oh hi! Are you here for the pointy lock un-doer? Well... hum... I had one, but now I don&apos;t have one any more!
+*Take your leave.*
+[JESTER] *Hold out your arm to her.*
+Malady
+*Nod and take your leave.*
+*Ask what just happened here.*
+There&apos;s not a Magister within a hundred miles who&apos;d trust one of your kind to deliver any kind of message at all.
+Shush, I&apos;d miss you! I&apos;m glad we&apos;re together.
+*Ask how he feels, as a kin, about his man fighting against the Empire.*
+This boat&apos;s a treasure. Dallis wouldn&apos;t know what to do with &apos;er.
+This amulet was fashioned out of a broken Source collar with far more care than you&apos;d expect anyone to put into such a horrific device.
+Seems like my problem has taken care of itself then. Well - I am a man of my word. Here you go.
+The Divine would want the world free of Voidwoken.
+Saheila. She is... she is everything. A ruler... a seer... a knower... a &lt;i&gt;child&lt;/i&gt;. She cannot *cough* cannot be lost here.
+[Translate52_a246a8c7-be89-4f08-8109-c122f2990d6d]
+*The eyeless gaze alights on you once more.*
+All this time, to think I&apos;d failed? To think I just didn&apos;t get there in time? When the truth of it is... is I was sent on a suicide mission.
+Carpenter&apos;s Axe
+I should think not. The demon is getting closer to... himself. You&apos;ll meet him in Arx soon enough. And if you meet him like this, it&apos;s bye bye, Lohse.
+I bowed to the God King, and was sworn to his Covenant.
+Fight if fight you must... but do not dare... to hope to kill them all. &lt;i&gt;Unnnnh. &lt;/i&gt;But if you can... please kill them all! Haaaaah-haaaaah-haaaaah!
+Spirit of Brother Kalvin
+Spirit of an Orc Priestess
+Still, I may as well introduce myself: Baran Levere, at your service.
+The Sallow Man&apos;s enfeebling influence. Can be cured by Bless, Steam Lance, Cleanse Wounds, and Mass Cleanse Wounds.
+the Sourcerer Mordus proved a useful tool in the fight against the demons.
+Does anyone hear whut?
+Strength! Give me your vigour...
+A collared Source-freak thinks she can clobber a Red? Damned fool!
+[DWARF] *Offer a prayer to Duna for Sarias&apos;s soul.*
+The great city of Lucian the Divine faded from memory.
+The ones that live still? Cowering in some shrine in the depths of the swamp twiddling their bleeding thumbs. If you&apos;re lucky, maybe you&apos;ll find &lt;i&gt;them&lt;/i&gt; before something else finds you.
+*Smile and tell him he&apos;s welcome.*
+You... you&apos;re a dwarf, aren&apos;t you? You&apos;re not straw?
+No! My duty is not... it&apos;s not over... it... it... &lt;i&gt;arrrrgh!&lt;/i&gt;
+You&apos;re really fun! Hey - &apos;m gonna hide somewhere in the cave, and you come find me!
+Try not to fall overboard, I suppose, until we reach our own world again.
+Rajjarima
+Hey - maybe we get a happy ending after all! Well... sort of.
+Stop that. Stop that! You&apos;re HURTING him!
+*Demand to know what they&apos;re doing here.*
+Let&apos;s get moving.
+*Say that it&apos;s all part of a ruse - you are not truly with the Black Ring.*
+A soul-hungry Black Ring witch, Radeka wields blood and thunder, and enthrals the dead to her side.
+Erma&apos;s Doll
+You! My pocket&apos;s been picked. May I see the contents of your bags, please?
+*Reach into the argument.*
+Shocking Touch
+Unfinished Servant
+Not mine specifically, but he creeps from grave to sepulcher, taking what he wants. &lt;i&gt;Whatever &lt;/i&gt;he wants.
+Black Ring Destroyer
+*Be on your way.*
+I will watch with great interest.
+I&apos;ll head toward the Lady Vengeance. Then if... if you face the Magisters here...we should be able to take on anyone who&apos;s left aboard the ship.
+Look down.
+And who would&apos;ve thought it? You&apos;re sure not the collared kitten I first met, that&apos;s for sure! You belong to Rivellon now. You and that... demon, I guess.
+I snuffed out the souls in the demon&apos;s home plane. He&apos;ll be weaker now, and easier to kill.
+Don&apos;t you believe in &lt;i&gt;anything?&lt;/i&gt;
+Give the Red Prince his shot at Divinity.
+*Her eyes flare with recognition - she demands to know who Fane is. &lt;i&gt;What &lt;/i&gt;he is. No-one should be able to craft something like his mask.*
+*When he opens it again, his hand is empty. He smiles at you, lays his hand upon your breast, and gives you a gift, one soul to another - to enhance your talents as you see fit. Then he leaves for the Halls.*
+*The stone is cold against your palm. If your god once inhabited this effigy, it abandoned it long ago.*
+Friends only
+Missed quite the scene. The Bishop himself and his right hand laid down the law on a traitor among our own ranks. One o&apos; the last lizard Magisters left.
+Hello, pet.
+We killed the Scion.
+Walk It Off
+...and signs of all other cultures erased.
+*The spirit groans - no more and no less in agony than it was before.*
+And when he was strong enough, it turned him into... &lt;i&gt;that&lt;/i&gt;.
+We&apos;ll sing songs in your honour, when all this is done. You&apos;ll be one of us.
+as [1] damage
+*Cower in fear, and say you are too afraid of conflict to ever take someone else&apos;s belongings.*
+Ye nobs sure do a lot of lyin&apos;. &apos;Noble&apos;? Don&apos;t think so.
+*He leaps to attention, then whispers loudly to the other Magister.*
+&apos;ullo, mister.
+You... you made it all this way...
+Previous Item/Enemy
+*Tell him that unless he wants this realm to be consumed by the Void, he ought to tell you what you need to know.*
+I found the body of a lizard. If this was a dreamer, she dreams no more.
+Never.
+My friend, the Voidwoken feast on us. There is no longer a Divine to channel the will of the Seven. A new one must rise.
+Draught of Strength
+Cavern Entrance
+House Exterior - Forest Cottage A
+OK
+What blesses some smites others. By all means, bless the day away!
+As for me... my last hope of ever being freed of the God King&apos;s terrible tyranny faded when the Godwoken failed to seal the Veil. An eternity of pain and suffering is mine, in service of the King, until the day I am freed - the day the God King returns!
+Back atcha! Welcome to Effie&apos;s Emporium, where the real upper crust dwells - the freakies and the deakies, the dregs and the dreamers. Your kind o&apos; place, in other words.
+*Chuckles.* Infuriating as he may be, he has not been wrong yet.
+You may not believe me, but... what I did, I thought I did for the sake of my people. &lt;i&gt;Our &lt;/i&gt;people. The sinking of the Peacemaker. The Driftwood smuggling operation. The Deathfog. Blackpeak Isle...
+New Encounter
+&apos;ack away fro&apos; the chest!
+I&apos;m looking for someone, fork tongue. Grey cloak? Grey beard? Acting suspiciously? Perhaps you&apos;ve seen him?
+*She flinches slightly when you mention her &apos;true self&apos;, but remains composed.*
+Hrrm, is that right? Not a matter to be tightfisted over, if I may say so, but it&apos;s your life... care to make another selection maybe?

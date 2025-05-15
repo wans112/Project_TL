@@ -1,0 +1,154 @@
+Nowhere in this world is safe. The people of this world do not take kindly to bare bone. Thus, I find myself seeking a face.
+Think you&apos;re cute, do ye, dwarf? Business is business; even the Magisters know that. Get shoppin&apos; or leave me be.
+There must be some way to get this ship moving, there &lt;i&gt;has &lt;/i&gt;to be.
+*Draw your weapon and be done with him.*
+Hit_Melee_Std_4
+*He fishes out his pipe and tries to spark it alight with some flint. His trembling hands make it difficult work. He shoves the pipe back in his pocket.*
+*Tell him he could have mentioned he&apos;s a hunted man. Puts you in danger as well!*
+Character is invulnerable and Vitality is restored each turn.
+Forget Skill
+[IFAN] *Refuse to murder for him. You&apos;re not a common thug to be ordered about by some dandy.*
+Character receives bonus damage based on missing Vitality.
+*As you approach the relic, your Source collar grows tighter and tighter, burning and squeezing your neck*
+You shine Lucian&apos;s light upon us. Praise be!
+Grants additional mobility skills to a summon.
+Curse their hides, I&apos;m falling back to Fort Joy. I won&apos;t die in this ruin for the sake of one Seeker.
+Climbable Bricks
+*The spirit disappears soundlessly.*
+This note, written from one Magister to another, warns the recipient about Dallis&apos; powerful advisor.
+Baker
+*Ask what else is going on.*
+*She opens her mouth to respond but stops dead. Her head jerks from side to side, searching for something unseen.*
+Magical Padded Leggings
+Ranged Weapons
+Woolfe? I don&apos;t... I don&apos;t know any Woolfe. Tell me the truth: Who are you?
+It&apos;s everything to do with the Paladins! You sully the Divine&apos;s name with this place!
+You&apos;re as bad as the rest of &apos;em! A pox on you and every dwarf in Driftwood!
+*Take your farewell.*
+Where IS he?
+Scounnnnndrel!
+Spirit of Master Tremly
+Brother,&lt;BR&gt;&lt;BR&gt;The elves came again, looking for their rain amulet. We need it for the harvest, so I had to get rid of them. I&apos;ve hidden it in case any more of them come looking. I&apos;ve marked the spot. Tell no-one.&lt;BR&gt;&lt;BR&gt;P.
+Malachite
+*Insist that you&apos;re no jailor: you&apos;ve nothing to do with their imprisonment.*
+I will keep my eye on you, in spite of this recent failure.
+Statue Base
+*...into your mouth... your tongue turns dry... then rough... almost &lt;i&gt;scaly, &lt;/i&gt;and you feel your Source... unsettled, as if attracted to the man&apos;s black eyes...*
+*Fold your arms and watch. Alexandar had this coming to him.*
+*Question the urge. What is there to gain by freeing Windego?*
+That&apos;s not a risk we can take. Even if the chances of finding him are slim, we must keep searching!
+Please. Leave me. I mean no harm. Not anymore.
+A rune of magic, bone engraved; The cold of death must meet the bane; Of venom pure, a poison vial; Create the rune that&apos;s most reviled.
+Syncing cloud...
+*You&apos;ll speak of love later. Whisper that you want to taste her first.*
+It&apos;s most intriguing. A message from the House of Shadows. The ones who so fruitlessly sent assassins after my good self.
+Roost knew we were coming. It was a trap.
+Forgotten Cell
+Captain Kalwyn
+I must look a mess. Like my ship was attacked and sunk by Voidwoken.
+I did not seal myself in this tomb! I did not cast aside my life so I may fool some pathetic little creature millennia later.
+*For a few moments his hand hangs motionless in the air, then is withdrawn with a swift and determined finality.*
+How very right you are!
+So fret not, but revel in the promise of the lake! Even without my guidance you have become a true Master of the Source. You are ready, and I will guide you to the Well of Ascension, but first I have something else to teach you...
+Not mad. Practical. We are at war. I don&apos;t relish knowing there will be... civilian casualties. But they are necessary. The Order soon comes for the Dwarven Kingdom. Consider it a... pre-emptive strike.
+My thanks for your help. Please, report to Magister Carver at the barracks beside the tavern. He&apos;ll want to hear there are still brave souls in this town.
+*They embrace, lips hot upon lips.*
+*A lizard, tall and beautiful, turns towards you. She fixes you with a sultry look, and when she speaks it&apos;s like listening to honeyed smoke.*
+&lt;i&gt;...you did?!&lt;/i&gt; TO ARMS! Kill this one!
+Take control of the Lady Vengeance.
+*He bites his lip and shuffles away with an embarrassed whimper.*
+Hah! Removed your collar like disobedient dog, I see! A very stout, very ugly dog. I&apos;d pity you, but Septa the Ineffable has no patience for weakness.
+*Ask what the hells is going on here.*
+I&apos;m quite taken aback. I knew she wanted to help us, but I didn&apos;t know she&apos;d go to such great lengths...
+[JESTER] *Shrug and say that perhaps you&apos;re wrong, but something about the mysterious stranger with the flimsy story sets you on edge.*
+Mahalia
+*Ask about the priest in the other room. She seems - colourful.*
+Trousers of the Thaumaturge
+Pompous human arse. *Spits*
+We&apos;re not blind, you know. We watched as you crept around our city.
+And how many years did it take for her to see a single truth in a mess of lies? There&apos;ll be another, and another. She will &lt;i&gt;always&lt;/i&gt; be played the fool!
+Silly. It&apos;s not that big a secwet.
+*Continue searching the ship.*
+Treasury of the One
+Well, never mind... I didn&apos;t do much to help him either, but I&apos;m d-damn glad he&apos;s back! I hope he found those Source weapons, then we might stand a chance out there...
+Awake and travelling with a five year old apparently!
+Bah! Most vulgar, most repellent &lt;i&gt;deception&lt;/i&gt; that seeks to bend the will with feeble force.
+*Say you&apos;ve changed your mind.*
+You think to try a bribe? I&apos;ve had it with talk. Pay for your crimes!
+Now, where were we. Ah yes, defending my title!
+You boil my blood, then think to walk away? The indignity fans the flames!
+Of course, I&apos;d much appreciate it if we manage to find a Dreamer first.
+[NOBLE] *Nod happily. It&apos;s good to see they maintained proper etiquette, even back then.*
+Certainly.
+Magister Holind
+*He sighs.*
+Succeed, and perhaps you can join me inside the Council. There we can see who shall be the next Divine, once and for all.
+You&apos;re the slave here - enslaved by a life without Divinity in your heart. Embrace it. Abandon your wickedness.
+Spit up to three projectiles dealing [1] , each creating a blood surface under the target.
+Now, like I said, please kindly bugger off.
+*Hold up your palm. No need.*
+Please, I&apos;m sorry, but you must leave! My baby&apos;s terrified of lizards... she may be hiding from you even now! Erma? Erma, darling, are you here? Please, sweetheart, where &lt;i&gt;are &lt;/i&gt;you?
+I&apos;m getting paid. Ain&apos;t &lt;i&gt;stuck &lt;/i&gt;anywhere. Keep your hands off the merchandise, or you&apos;ll be hearing from me.
+Perhaps gang leader Griff will know some way to escape.
+About friendship... and enmity... and the fine line between them.
+&lt;i&gt;No.&lt;/i&gt; You speak like a Magister. The spores are meant for life, not death.
+*Ask him what he thinks of the new world that you helped usher into existence.*
+*Sir Lora takes a slow, deep breath and lets it out in a rush.*
+*Tell him his own Paladins allowed you in here.*
+The air buzzes with Source here.
+Hannag&apos;s Ring
+Adrenaline
+Oh, but you&apos;re a clever one, &apos;Beast&apos;, aren&apos;t you? Fine - you&apos;ve outed me. But it doesn&apos;t matter. You can&apos;t stop the Deathfog. The wheels are in motion.
+It certainly took it long enough. Where to begin...
+We left Reaper&apos;s Coast without finding the elves.
+*Say that there&apos;s no point - better to just end her suffering now.*
+Long-Buried Bowman
+You&apos;re still here being ugly, I see. No offence, etc.
+*The Sallow Man? Ask her if that&apos;s his real name.*
+May your god ever watch over you.
+*Consume the Seaman&apos;s Source.*
+Camera Center
+*Laugh. Bitterly. You&apos;ve called for death yourself, and now it dogs your heels.*
+Creates a poison cloud with a [1] radius. Creates a small water surface with a [2] radius.
+Ghost Town
+*Say you were... jealous. Jealous of Sadha...*
+*&apos;Weaknesses of the heart&apos;, he said. But what about Sadha? And yourself? Isn&apos;t he quite prone as well?*
+Look... I have an idea. I know we don&apos;t know each other very well, but time is so short and... and a connection is so rare. If we get out of here, will you meet me again in Arx?
+You and me both, mate. You and me both. You know what the funniest part is? The shop is still open. You believe that? The shop&apos;s still open! Go on, do your shopping!
+I&apos;ve seen this... seen Deathfog in action. Such horror has no place in this world.
+Never mind. The One does not ask such a question.
+The illusion of choice, remember? &lt;i&gt;I&apos;ll remember.&lt;/i&gt;
+Have I not shown enough devotion? Consume me, champion! Consume us all!
+Report back to Malady.
+Doubt it!
+Hammered Scale Pants
+None of us are perfect, sir.
+&apos;An acorn is not the answer. But it may be close. Closer than a chicken, at least. Answer search continues...&apos;
+Remember the pact.
+Narin&lt;br&gt;&lt;br&gt;You have served me well in the past, you will do so again.&lt;br&gt;&lt;br&gt;Use the scroll included with this letter and cast it in a public square in Arx. You will be arrested for Source use and shipped to Fort Joy.&lt;br&gt;&lt;br&gt;Once on the island, you will search for a red-skinned lizard. You will kill him. You will cut the body to pieces. You will ensure no magic in the world can restore him back to life.&lt;br&gt;&lt;br&gt;You have your orders. Your weight in gold awaits you.&lt;br&gt;&lt;br&gt;Good luck, and good hunting.
+If they were all working for the Black Ring - and I believe they were - there must be some sign of it in this building. Perhaps even a safe house.
+*Leave the child be.*
+*Suddenly, her grip tightens around you. She&apos;s holding you hard - too hard. Hard enough to crush you. Her lips remain locked on your hardened mug. You try to pull away, but she won&apos;t let go.*
+Step back from the prisoner! You are interrupting a Paladin court, stranger.
+*Admit you&apos;ve never tried that. Ask if it&apos;s even possible.*
+*Tell her that the Voidwoken spoke to you. You don&apos;t know what it means, but it seems important.*
+...and you were well rewarded for that! I taught you how to be like &lt;i&gt;me&lt;/i&gt;. What more could anyone want?
+Speak with my master. Speak, do his bidding, and &lt;i&gt;leave&lt;/i&gt;.
+*Tell him you don&apos;t remember asking for his help.*
+Praying at an altar once more, I heard the voice speak in the faintest of whispers.
+The elven seer Saheila was held captive by the Lone Wolves. We must lead her from the sawmill.
+[JESTER] *Mutter that from the painting, you thought it might be a pig wedding.*
+I did the only thing I could do: I appealed to our old champions of the House of Dreams and fled here, into a world untouchable by our foes.
+At last! This fire won&apos;t sink any more ships.
+*Tell him that cutting down Ancestor Trees is a terrible crime.*
+*The Meistr goes quiet for a moment, staring at the gashes that criss-cross her body.*
+The spirit of Brother Morgan, jailer to a possessed little girl, asked us to help her.
+Return to the Paladins.
+No. I&apos;m only bad when the occasion calls for it, darling.
+Unlocked
+*Her work is an abomination. Do not suffer her to live.*
+Team Score:
+An &lt;i&gt;elf &lt;/i&gt;viewing the mind of Consul Zara? How... unseemly.
+*The dog lies there, clearly still in pain.*
+*Bow your head. Close your eyes. Take a deep breath... and call to her.*
+Well, now. Then all my painstaking efforts haven&apos;t been in vain.

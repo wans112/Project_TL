@@ -1,0 +1,160 @@
+*The warrior drops to his knees behind you, a smouldering hole torn right through his torso. He pitches forward onto his face.*
+Of course you do, Godwoken. Why else would you seek out a tired old spectre like myself?
+You may proceed into the temple, but I pray the other Godwoken have more stomach than you.
+|Four Sisters Riddle Quest|
+*Say you had expected something different - sudden realisations about existence, about people, the power to create in the blink of an eye.*
+I see you gallivanting around. And now it&apos;s time to gallivant your way out of here.
+*Tell him you have no quarrel with him. He should go his way, and you will go yours.*
+*Your surroundings somersault around you. You find yourself lying on your side... gazing up at the curious sight of your own decapitated body teetering off its knees to the floor...*
+Abandoned Chest
+Spirit of Digger Dayvus
+That&apos;s for me to know, isn&apos;t it? You&apos;d heartily disprove anyway, and what could be more tedious than disapproval.
+Kill
+*It can&apos;t help itself? Ask what it means by that.*
+[SOLDIER] *Say you&apos;re interested in these weapons. Can she point you in the right direction?*
+Applies Source Linked.
+The Beast of the Sea returned to the dwarven kingdom, this time as a lawmaker. After a very public blunder, Marcus eschewed political power and returned to the sea. The Beast and the Lady Vengeance sail on.
+*The Red Prince turns to thank the spirit for its aid. The old soul concludes its melody, and with it, its stay upon this world.*
+*Nod and say he&apos;s quite right. But together you can overcome anything they throw at you.*
+Arrow Storm Skillbook
+*Ask him how you&apos;ve come so far, through Black Ring-held land, if you did not serve the King.*
+Dead Bandit
+Of course my first priority remains to find the Lone Wolves. They are in league with the one I search...
+Cheap Amulet
+Banish
+*Leave her to her work.*
+*The air between you cracks and shimmers with Source. Despite everything that&apos;s happened, you allow yourself to enjoy a moment of peace.*
+I don&apos;t care if the Seven themselves floated down to Rivellon and presented you a gold-threaded invitation - &lt;i&gt;I&lt;/i&gt; am the authority here.
+*Tell him you&apos;re looking for something a little more... exotic.*
+Mallet
+Spears
+Madness. What must you think of your Divine Order now.
+Letter from Windego
+We met Gareth settling old scores with a Magister he knew when he was younger. We helped him as best we could.
+*A mix of sweat and blood smears across Gareth&apos;s forehead. He offers nothing but his silent ire.*
+Well. Will you look at that?
+You see, once upon a bad old time, a lizard cut this thing, this &lt;i&gt;living scar&lt;/i&gt; into my cheek: the mark of a slave.
+I work for the Doctor. There&apos;s no condition he can&apos;t prevent... or cure.
+Giant Mountain Troll
+*The Watcher gives you an expected response: silence.*
+Unusual Artefact
+Navigate
+Flawless Ring
+Where&apos;s that then? The egg! Haha! We&apos;ll go back to the egg!
+New Ability
+[1] + 1
+Oh you.
+Better to be pursued than forgotten, eh?
+The things I do to complete a contract...
+Large Masterwork Rune Of Power
+Their blood is not lost forever. Their blood waters the roots of the world.
+*Ask the squirrel if it would join you again.*
+*Put on a grim demeanour. You&apos;re sorry to hear about people dying.*
+Stats
+Use positions at the start of combat
+I hate seeing him this way. I wish I could reach out to him. Tell him how proud we&apos;ve always been. Tell him to be at peace.
+[VILLAIN] *Mention that you&apos;re sure you heard him mumbling about some hucking door earlier.*
+Natalie&apos;s Fury
+[1] grants you immunity to [2].
+Move character up in group
+Forgiving
+&lt;i&gt;Dark as the moonset and father of all, unto you all worship shall be.&lt;/i&gt;
+Poisoned Mug of Tea
+Oh, what am I going to do...
+Oh, of course. We&apos;ve a wide range, including some &lt;i&gt;special&lt;/i&gt; stock that&apos;s not just for anyone...
+Unique Item
+For one thousand years I&apos;ve listened to talk. Nay, flesh, it is time for action!
+Another, so soon? Easy, or you&apos;ll end up like Safa there. Take it from me: A little abstinence and chastity will do you good. Such is the Divine&apos;s will.
+Don&apos;t think so. You broke the rules by coming down here, buck. Divine&apos;s rules.
+You do well, Sebille, in memory of Saheila. Now you must fight for all elves. Go to the Nameless Isle. The Mother Tree needs you.
+We healed Matis.
+No! Please!
+I. Am no. Mistake. Mistake was theirs. I cannot be held responsible for a mistake I did not make. The mistake was theirs and they make it still. You see...
+Hush, Lord Kemm is speaking.
+Alexandar, Son of the Divine, inspires his troops with an indestructible faith.
+*His features harden once more, and his eyes fill with contempt as he takes a step closer.*
+Citizen
+*Tell him you&apos;ll give your help - and accept his.*
+See that heap o&apos; bark? S&apos;what happens when you cross Griff.
+*He returns the smile with interest.*
+If I can&apos;t get this thing out of me, then I&apos;ll need to become so powerful it won&apos;t be able to control me ever again.
+*Pull your fingers back from the tablet&apos;s surface.*
+MA!
+It was all a bit ominous, wasn&apos;t it? With the Divine dead and divinity itself dying, it seems we have no choice but to venture forth and, for lack of a better phrase, save the world.
+Escape the war-torn desert.
+Magister Carver and Wyvlia the cook are both dead. The matter is resolved.
+This is Mihaly. We absconded together... I from the Black Ring, and he from the Magisters. We fell for each other while I was his prisoner. *Smiles.* Love will set you free.
+Murder Micheil Ros.
+Paladin Mage
+&apos;We are slaves only... to thee...&apos;
+The Seekers - what&apos;s left of them, at least - have been quite busy with the effort. One incinerated himself on the figurehead, and the others have been stymied by a set of doors downstairs.
+Thanks, missus! I&apos;ll go find my mum now. And I won&apos;t trust anyone!
+Ma...
+To pass the Path of Blood, we must place the charged Source amulet in a mechanism on a pillar to the left of the chamber with Lucian&apos;s statue, then read the Scroll of Atonement.
+Curse you! If the Master taught you... if he taught you all... No! Stay back! I will speak.
+We persuaded Buttons to let us help the little girl.
+*Tell her you&apos;re going to be Divine. Staying with you now means staying on the right side of history.*
+A sagacious decision.
+The plot thinnens.
+Patty Cake, Patty Cake&lt;br&gt;&lt;br&gt;Everyone knows how to bake bread. Go to the shop, get flour and water, and you&apos;re almost there. But out in the wild, you make your own flour.&lt;br&gt;&lt;br&gt;I don&apos;t suppose you&apos;ll be carrying a watermill around, so just make the best of it with a mortar and pestle and some wheat.
+You&apos;ve got a lot going on, Godwoken, so I won&apos;t take up your time, and you shouldn&apos;t take up mine.
+Malady lived up to her name. Whatever she did for &apos;us,&apos; I&apos;m sure she had an ulterior motive.
+*Pull out the Purging Wand that you found. You think it could help, if it worked...*
+I never thought I&apos;d see ol&apos; Dain up &apos;n&apos; fit as a fox again! Haven&apos;t seen a man closer to the Hall in all my days. A right miracle, it is. Maybe I ought to study a bit o&apos; magic myself... once I&apos;m out of here, that is.
+I&apos;m impressed by your bravery, though you shall never be as great as I, Murina the Brave!
+Are you sure? Look deeper, Lohse. Beyond our face.
+Answers I will find as soon as I am off this cursed tub.
+Search Music
+I am consort to Her Royal Highness Justinia. It is my business to know who serves the queen&apos;s allies and abets her enemies. You do not roam this land unnoticed - and your true form is hardly hidden to all.
+Unless I&apos;m quite mistaken (in which case I once more apologise profusely) you&apos;ll most likely find milord in the immediate vicinity of the Magister Headquarters - the Magisters, in case my previous sentence lacked clarity, being the firebrands I alluded to.
+We lead the world to &lt;i&gt;salvation!&lt;/i&gt; Sacrifices are inevitable, sad as it may be.
+You get on your way, understand? There&apos;s nothin&apos; here for you.
+The Executioner
+I can give you a greater understanding of your Source. I can increase your powers. I can show you how to take the Source from the world around you - from the animal world, the creatures of the forest.
+*Kari&apos;s spirit waits quietly and patiently for a release that may not come, and she may not deserve.*
+Iris
+Follow not the cat-man. His words are hot and black. He shimmies around the blood path.
+*Apologise. You shouldn&apos;t have presumed.*
+You are nothing if not reasonable, as far as beasts go.
+That&apos;s nice, Mother. It&apos;s the little things that matter.
+Ca-cawk.
+Raw Lumpy Giblets
+&lt;i&gt;I WANT TO SCRUB THE FLESH OFF YOUR BONES!&lt;/i&gt;
+I couldn&apos;t have expected better.
+*Click click.* Eep! Eep!
+...No, quite right. As terrible as the giants have been to us, we do not want to see them wiped out.
+I like my men the way I like my cheese: THICK.
+*Tell the spirit that the wedding is over. She and the other guests are dead.*
+We visited Daeva, the arch-demon Doctor. He offered his help with my quest for Divinity, but I refused and defeated him.
+GAMEPLAY
+The Eternals have been reduced to &lt;i&gt;this?&lt;/i&gt; And yet, could I trade the Source of all the people I have met, just to see them return to their arrogance?
+We are but servants to the Devourer&apos;s might! Praise his hunger!
+*Squint. You&apos;ve met her before. Ask her if she ever found her pouch.*
+Increased Physical Armour, reduced Magical Armour.
+*Whisper that you&apos;ve journeyed to the Hall of Echoes itself... and found it sorely lacking.*
+*Sneezes*
+This one might serve. But not for long.
+Malady believes that Dallis would likely make her way to Arx, the city of Lucian.
+Shadows
+Voidwoken Fish Exchange
+As for me... the Godwoken&apos;s sacrifice severed the link that bound the Sworn to the God King, and I was finally free. To atone for my sins I spent the rest of my days taking care of the sick and elderly, telling the story of the Godwoken, that the world may never forget the greatest heroes Rivellon had ever seen.
+Take this and go. Use your power to change the world.
+Exquisite Sword
+*Gently kid him - there are so few Paladins here, &lt;i&gt;you &lt;/i&gt;should be protecting &lt;i&gt;them.*&lt;/i&gt;
+Allow Clicking Through Chat Window
+Ooh, the mystery and intrigue of it all! Colour me interested.
+Move FreeCamera Backward
+But Alexandar bears no rivals. Only the son can follow the father, or so he is convinced. For him: divinity. For the others: the dungeons.
+A pity. But we must not &lt;i&gt;question&lt;/i&gt; his orders either.
+Chap called Baran Levere who wants to see ya. Black Bull Tavern. First floor.
+What&apos;s to discuss? You failed, now I have to saddle up and fix it!
+Well, I&apos;m glad to see your sense of humour has survived... everything?
+The Crossleys lost people to the Magisters.
+Well. I won&apos;t let you outshine me again.
+Better not touch that mushroom.
+*Tell him to hold on. You&apos;ve reconsidered and you want to see power shared.*
+Haha! You&apos;re &lt;i&gt;poor.&lt;/i&gt;
+[MYSTIC] *Say that&apos;s a very good question. Why are &lt;i&gt;any&lt;/i&gt; of us here, really, when you get right down to it?*
+I couldn&apos;t care less whether the people of Arx live or die. Gas &apos;em.
+Tortured Woman
+You&apos;ve come to the Hall of Echoes. You&apos;ve come to the realm of the gods - the same you see at war below.

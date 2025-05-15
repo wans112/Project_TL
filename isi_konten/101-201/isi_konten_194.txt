@@ -1,0 +1,147 @@
+*Ask her if she really wants to take on another crusade, immediately after this one.*
+[FANE] *Sometimes you miss having eyes to roll. The fool has no concept of what he&apos;s talking about.*
+I await but your word, Mistress.
+It showed me how bad things can get, but I&apos;m still here and it isn&apos;t. I think I&apos;ll be alright now.
+*The energy of the thrumming jar is palpable in the air. The soul within it calls to the Source within you.*
+*Say that he may have been right, but this is how it is now. Time to get used to it.*
+You... you what? You ate a &lt;i&gt;child?&lt;/i&gt; Savage! Cur! HENS! PECK!
+A stylish hat with a provocative feather. Shows your fashion sense along with a nice boost in height.
+I trusted you! I can&apos;t believe I put my faith in some skulking dwarf scum.
+*He turns back to the window with a grunt, anxiously twisting the rings on his fingers.*
+Paddle
+Curse your obstinence!
+Forest - Lost Statue
+*The Purging Wands are a result of Braccus&apos; Rex&apos;s experiments. Tell Gareth that by using one, he is no better than those he fights.*
+Find Griff&apos;s stolen goods.
+I found... &lt;i&gt;Godwoken.&lt;/i&gt;
+Draining Kemm&apos;s pond revealed a hatch. Where does it lead?
+*Tell her if it uses her arms, her legs, her weapon, and her voice, it&apos;s &lt;i&gt;her.*&lt;/i&gt;
+Isbeil was certain that destroying Arx was the only way to strike a killing blow to the Order. I couldn&apos;t see her true aim: to pave the way for the God King&apos;s arrival.
+*Rhalic, Vrogir, and Zorl-Stissa, worshipping the sun. Tir-Cendelius, Duna, Xantezza, and Amadia, all worshipping the moon.*
+*Handra. A vague flash of terrified eyes. You killed her because the Master forced you to.*
+*He ceases tinkering with some kind of mechanism that lies in his lap, and gives you his full attention.*
+*Griff is slowly, methodically peeling the skin from a potato. As you approach, he looks up, setting the potato, but not the sharp little knife, down on the table.*
+We&apos;ve only been frettin&apos; here for a few hours, but it&apos;s felt like days. That snot-nosed priest&apos;s as slippery as a snake in an oil drum.
+A bit fickle, are we? We&apos;ll have to work on that.
+[1] increases damage and Critical Chance when using bows and crossbows.
+*She leans in close to you, so close you can feel her warm breath on your cheek. Her hands tuck some paper into your belt.*
+Sacred Amadia is the mother of magic. She is the fount from which all wizardry springs.
+Listen... I could use someone to keep their ears open among the passengers. Sometimes they clam up in front of a uniform.
+*Dispense with their services, at least for now.*
+*Crunch* *SNAP!* *Crunch*
+*Griff tears into one of the oranges with both hands. Juice squirts through his hands as he desperately rips through the rind.*
+A letter to Dallis regarding information concerning the House of War.
+Lurker
+*Deadpan, say you don&apos;t get it.*
+Anaconda
+Your Steam files are newer than your local files. Do you want to download them? Otherwise, your local files will be uploaded to Steam.
+Aha! I suppose this is what I need to fix that lever.
+Hullo. You&apos;re a new face, but word on the deck says you&apos;re the one responsible for saving our skins back there.
+Slithering little worms...
+&lt;i&gt;Orrrders&lt;/i&gt;. We were told they&apos;d work - no reason to doubt that.
+My name is Bahara. Like you, my lord, I am a Sourcerer, but unlike you I am also a faithful servant of Amadia, praise be her name and praise be her starlit eyes.
+*Tell him he shouldn&apos;t talk like that about such a magnificent beard.*
+Tags determine what options are available to you in dialogue and how the world reacts to your party members. &lt;font color=&quot;008858&quot;&gt;Custom characters&lt;/font&gt; have race, gender, and background tags. &lt;font color=&quot;008858&quot;&gt;Origin characters&lt;/font&gt; have unique origin tags.
+Fort Joy - Square
+*Tell her Butter seemed well. She was under the protection of the camp boss.*
+Done! And cheap at the price, too.
+*Nod. It&apos;s crystal clear.*
+Sure are. You just gotta light them all at once. I don&apos;t know how to do that, but you&apos;re a grown-up! Maybe you can figure it out!
+&lt;b&gt;Will you sacrifice everything you ever were?&lt;/b&gt;
+*The words the Advocate uttered echo in your mind. Could it be true that the Deathfog ushered in the rise of the Voidwoken... and this God King that controls them?*
+*Give him hug.*
+Some cousin. Reimond. Do I have to go live with Reimond?
+Not &lt;i&gt;yet.&lt;/i&gt;
+I - ...I may have been studying some new scrolls I&apos;d bought. They might have been... well, they called for Source.
+Yes, &lt;i&gt;kalisti&lt;/i&gt;, I did indeed!
+Items in your inventory that are marked as &lt;font color=&quot;008858&quot;&gt;wares&lt;/font&gt; can be sold in one go. This is a good way to keep your inventory manageable.
+[JESTER] *Ask if she&apos;s talking about all the miniature people you&apos;ve been seeing everywhere.*
+*The Magister&apos;s eyes darken. His face closes over into a cold mask.*
+Spontaneous Combustion Scroll
+Arx - Cathedral
+*Ask if it knows what exactly goes on inside the fort.*
+Watch those torches, fools! There&apos;s enough oil in here to tear this place apart!
+Bloody... zealots...
+I don&apos;t want to hurt you. And I hope you don&apos;t want to hurt me either. But make no mistake: If you come for me, I&apos;m coming for you too.
+You&apos;re one of them, right? One of the ones who will bring Peeper to Papa?
+From the quantity of dried blood upon the handle, it appears to have seen more than one battle in the none-too-distant past.
+Black Ring Portalmaster
+Sebille killed the Mother Tree.
+We left a lot of corpses in our wake. Perhaps too many...
+You really don&apos;t, you know. Anyway, it&apos;s under control now, so you can move on.
+You are no longer required here. We have an investigation to conduct.
+We left Reaper&apos;s Coast with the situation at Cullwoods Mill unresolved.
+Don&apos;t mind me, I ain&apos;t looking for trouble... &apos;specially from the likes of you.
+Air Immunity
+*Toss it to him.*
+Sourcerers, is what the white one called them. If I&apos;m lucky, maybe he&apos;ll send more down here; this larder won&apos;t last forever...
+I know that look well enough. You&apos;re about to pop, ain&apos;t ya. Whyn&apos;t you enter a match and let some of that frustration out the right way.
+I cannot be purchased, thief. You are under arrest.
+Sword
+*The spirit takes in the damage surrounding her and shakes her head.*
+*The creature stands completely still, fingernails pressed hard into its palms. You notice dried blood streaking its knuckles.*
+Trial of Reflections
+You&apos;re really red. I bet that&apos;s why the Magisters took you. They took me &apos;cause I&apos;m MAGIC!
+Alexandar gave us a cowl that dispels illusions. We may use it to find the Sallow Man&apos;s lair.
+*Tell him a man has to know his limitations. There&apos;s no shame here.*
+Magister Payde
+*Ask if he knows anything about this fugitive the Magisters are looking for.*
+Ha! I see yer mother raised ya well, lad! I&apos;m doing grand, thank you very much. A damn sight better than them other dwarves! Bunch of patsies!
+*Cock your head as if to say &apos;what are you going to do about it?&apos;*
+Zombie
+Crash Course
+Nearby allies gain increased Retribution.
+Outcast Spellweaver
+My cooking will only hurt your gold purse. But there are a great deal of sharp implements and hot liquids in here. Please, I must insist...
+You ask for it now!
+The others have gone to get us a ship out of here! Hurry on - they&apos;ll need you!
+[FANE] *Not entirely, but assure him you have more important things to do than sit in some decaying swamp.*
+I won&apos;t stand in your way - so long as you promise to take her away from here. Cured or not, she shouldn&apos;t be left here any longer.
+Come. My claws ache to slice through bone.
+Needle and Thread
+*Complete the triptych - place the Second Passion replica where the original once stood.*
+There&apos;s no fire in your blood that I can smell.
+Life&apos;s bloody &lt;i&gt;wasted &lt;/i&gt;on the living...
+Cave - Blue Passage
+True Brew: Earth Tongue
+Stun targets in a [2] radius and deal [1] to them. Creates a small fire surface with a [3] radius.
+And kill the Lone Wolves all.
+[Translate20_4254f920-467c-48f4-9434-a68fe4132d14]
+*Ask about the Path of Blood.*
+Never mind. It doesn&apos;t matter. Let&apos;s... just get on with it.
+*Insist that it&apos;s a very old, traditional folk song. It isn&apos;t your fault if she doesn&apos;t like it!*
+[1]% chance to condense cloud surfaces into ground surfaces
+This was not my first death, but by the God King&apos;s grace, I will rise again.
+*They don&apos;t seem very friendly. Draw your weapon.*
+*Yes. Say they are hunting you, but that the Dreamers are on your side.*
+Jahan showed us how to better use our Source powers. Now he needs the name of the demon haunting Bloodmoon island.
+You have once turned the tides of this war. You could do so again. I can&apos;t just... put you at the mercy of this witch&apos;s whims.
+*Tell her that that&apos;s a most distasteful comparison.*
+*Explain that you&apos;re just trying to help her. She doesn&apos;t need to push you away...*
+A hunting handbook concerned with all of the possible (and several impossible) ways there are to skin a cat.
+But now you are here, Godwoken. And that means there&apos;s still hope. Will you accept my help?
+And perhaps I can get rid of this tacky neckpiece? Your mortal fashions are simply not for me.
+Talents
+*You cannot stomach watching this beast wolf down its innocent victim. Move in for the kill.*
+Sometimes we choose greatness; sometimes it is forced upon us. You may not have chosen this path, but it will lead you exactly where you need to go. You have the fire of potential that may burn brightly enough to light the great darkness that threatens our people.
+Bet you&apos;re glad to be rid of it. Amazing, to meet the Beast in flesh. Let&apos;s see if we can get you back to sea, fightin&apos; the good fight, yeah? Your lungs&apos;ve gotta be starved for the salt air.
+Water can be turned into ice via freezing spells or into a steam cloud via fire.
+*She stretches out her ghostly arm and wriggles ethereal fingers into the slightly-chewed and more-than-a-little-decomposed hand.*
+*Reach out your hand and touch the relic.*
+[UNDEAD] *Undead, he says? Express your surprise.*
+Who are you to judge a soul? You who are not a god. Who are you to judge a soul?
+Malady should know what to do next.
+We can&apos;t get this ship moving, Godwoken. We have every free hand looking into it - help, if you can.
+I assure you: the &lt;i&gt;people&lt;/i&gt; of Arx are perfectly safe. Provided they stay out of my way, of course.
+Time&apos;s up, &lt;i&gt;your &apos;ighness!&lt;/i&gt; Let&apos;s dance!
+[IFAN] *Chuckle and say you&apos;re not known for paying your way.*
+This elixir temporarily coats you in an invisibility spell. The bottle appears to be empty, but...
+[MYSTIC] *Something inside you whispers that there&apos;s more to this plaything than meets the eye - reach out and touch it.*
+This painting of the late Lucian is at once graceful and gaudy - easy to appreciate if not quite easy to look at.
+Are you sure you want to cancel your changes and exit?
+I see you, sister... but I do not see myself... I was once an elf, that much I know. Then I passed, and grew into an ancestor tree...
+If this one was enslaved by Dallis, then he could still be under her thrall. We can&apos;t risk keeping him around.
+Have you lost your wits? This is a spear wound, plain and simple.
+No-one gets through this life completely clean.
+Is it something you can take from a corpse, boy?
+Daddy&apos;s going to fix you right up...

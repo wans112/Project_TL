@@ -1,0 +1,185 @@
+This luminescent jewel is clearly meant to resemble an eye. Luckily, it doesn&apos;t wink.
+*Scratch your head. Where should you begin?*
+Moving Container Panes
+Say my name, you cankerous boor. &lt;i&gt;Say my name.&lt;/i&gt;
+*Say you have a healing potion; perhaps that could help.*
+*Ask Ifan what he did to find himself at the mercy of a subordinate.*
+You fight well - and you fight on the right side, too. Keep it that way.
+Give them your protection as they search for the Soul Jars in your name.
+High Judge Orivand
+*...there&apos;s a loud BANG as a rivet flies across the cavern, followed by an intense hiss of steam. The contraption sparks and trembles...*
+*As Voidwoken attacks go, you think, that one was particularly devastating. The great city of Arx may be finally ready to fall.*
+Wind Generic 05
+*Say she&apos;s not the first to play this game. A Dreamer showed her to you as well.*
+Puffball
+Or... I &lt;i&gt;was&lt;/i&gt;, I guess. In heart if no longer in name. Duna rest his soul.
+*Note that he seems a little dazed - perhaps he&apos;s in shock, after everything that unfolded.*
+*Hand over the gold.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+Is that the Lord Dread? Or what&apos;s left of it?
+*Tell her not to worry, you&apos;ll be fine.*
+I ain&apos;t buyin&apos; that without an order from Julian or Reimond himself. Think I&apos;ll leave the prisoner right here for the time being, and you can be on your way.
+Bak bak bak bakahhhhhhhhhhk!
+And so we fight and fight again, and fight until the moment where we find our home once more.
+Turquoise Necklace
+*Turn and walk away. Quite fast.*
+*The gargoyle stirs, the dust of millennia drifting from its pocked wings.*
+*He smiles a foxy smile as he stabs claw-like fingers at your chest.*
+*Say that you know that the Lady Vengeance led Dallis to you on the Nameless Isle.*
+Now then. On a more serious note. How about a hug?
+Hotbar Assignment: Skills and Inventory
+Black Flag Huntsman
+*He smiles shyly in remembrance of that special night.*
+Yes.
+*The dog squeaks the ball repeatedly, happy as a clam.*
+I... don&apos;t dare say it now. Not while her &lt;i&gt;guest &lt;/i&gt;is listening.
+Times are hard... there&apos;s not much gold to be made in scholarly pursuits. I can&apos;t ignore my first calling though, especially when there&apos;s so much to learn...
+*Ask what this place is.*
+Meanwhile, the Magisters feast on honeyed meat behind this very wall. The indignity...
+You are fortunate to have found this place. The Hollow Marshes swallow life and regurgitate only the dead.
+*Crouch closer to the ground and tell the figure you have no quarrel with it; you don&apos;t even know what you&apos;re doing here.*
+Axe of Braccus Rex
+Unlock Hotbar
+*Tell him that&apos;s a rather specific vision he has there. Why an empire?*
+*Tatcher doesn&apos;t look disrespected. Tatcher looks amused.*
+I want that wall reduced to rubble, do you hear me?!
+A sliver of honour maybe? Not all rewards come in coin, dwarf.
+Ifan fought me for Divinity.
+In-game Time
+*Dodge the issue. Ask why he killed Baran.*
+I&apos;m not supposed to talk to lizards.
+The Mother would bid you leave. Do not wait for her to change her mind.
+Nothing to be concerned with, I assure you. Mere husks. Nothing like yourself.
+You know, as in &apos;gorilla warfare&apos;? Girl, I thought you had a funny bone in ya, but I swear some witch doctor&apos;s gone and yanked it out!
+Scale Gloves
+*He giggles coquettishly, then bellows like a bear.*
+Come on, now&apos;s no time for chatter.
+*Shrug. You&apos;ve had practice.*
+Wonder what it means. We could use something useful!
+Ballistic Shot
+*Sashay over to him. Undo the clasp on his robe.*
+This- this is wrong. This isn&apos;t mine. Where is mine? Where is my Soul Jar?!
+My tummy hurts.
+What are you doing here?! This is private!
+*Say you haven&apos;t seen any spirit.*
+You&apos;ll be silent or you&apos;ll be gagged.
+*Lie there and hope they won&apos;t notice you.*
+*Smile and say somehow you doubt that.*
+*Tell the door you came to apologise.*
+Vampiric Voidwoken
+Flanged Mace
+*The forceps slip from his hand and strike the floor. He gives you an abashed look.*
+You&apos;d do well to get in his good graces. Won&apos;t last long in here without &apos;em. Runs the kitchen, he does. Make yourself useful and he&apos;ll take good care of ya.
+Static Cloud Arrow
+*Though his wounds are heavy, Lohar begins backing away from you.*
+*End the conversation.*
+Ancient runes? Weird contraptions? This place is an arcanist&apos;s dream!
+I consider that an admission of guilt. Prepare yourself!
+*He&apos;s right. Give the Swornbreaker to Sadha.*
+As such, my first priority remains to find Roost. He is the pawn that will eventually topple the king.
+Spiritual Boots
+Braccus Rex, the long-dead Source King raised from the dead in the search for the Aeteran, vanished entirely.&lt;br&gt;&lt;br&gt;Some say he still walks the world, others that he has gone back underground.&lt;br&gt;&lt;br&gt;One thing is true - no-one has met him and returned to tell the tale.
+*Give him the go-ahead. This is his time to shine.*
+[IFAN] *Lean in close to catch the scent of the stone.*
+*He gives you a grim nod, then turns away.*
+There&apos;s comfort in that, at least. Some.
+Escape from Fort Joy
+Just... see that he&apos;s safe. Please.
+A worn-out sheet of paper addressing insignificant topics, which was probably used at some point to clean up a cup of wine.
+The Whites are in their hidden vault, and that&apos;s all I know. Now please, leave me the hells alone.
+Amulet of the Deep
+Very well then, but if you find anything suspicious, report it at once.
+Fine, you got me. Now can we please move on with the investigation?
+Living forever under the rule of a wise king is one thing, but if that king should turn into a despot?
+Find the place where the Dreamer discovered her people. I will draw strength from there to speak again.
+Pilgrims. Probably here for Lucian&apos;s Day.
+Get away from me, foul blasphemer!
+Ha! You fell for it! Get it? Fell for it? *Giggle*
+You could say that my darling herbs flower in the flesh and blossom in the brain.
+*Refer to his second riddle and ask what he meant by the &apos;cure&apos; to Source.*
+W-w-whatever do you mean by &lt;i&gt;that?&lt;/i&gt;
+&lt;i&gt;This tome contains no text. Instead, sketches of dragons fill every page. The artist is hardly talented, but clearly enthusiastic.&lt;/i&gt;
+You&apos;ll have to do better than that, merc. I&apos;ll need &lt;i&gt;proof.&lt;/i&gt;
+*Ask Ifan just how he plans to &lt;i&gt;do&lt;/i&gt; that, exactly.*
+It is over. For now.
+Did you... hear something? When you were in the water, I mean.
+*Decline. You have companions to think about.*
+Can&apos;t cast, attack, or interact with objects. Bock-bock-BOCKAW!
+Beetle Die
+This herbal brew is infused with falcons&apos; tears to imbue the drinker with superior speed.
+Using a &lt;font color=&quot;008858&quot;&gt;Teleporter Pyramid&lt;/font&gt; on the ground will leave it behind. Pick it up first if you wish to take it with you!
+Why is this happening? I didn&apos;t &lt;i&gt;do &lt;/i&gt;anything!
+I have no plans whatsoever, beyond dusting my head for crud and cobwebs. After that - well, as long as the essence of Nemesis finds a way to leak into Rivellon, there&apos;ll be hunting to do.
+Demon elf! I should do unto you as you did unto him!
+*Pat the cub on the head and turn away.*
+We read The Essence of Existence, Volume One.
+Alright... so be it. Now please, listen carefully:
+Toggle Camera Rotate
+*Kinnet raises feeble hands to fend off your approach, shuddering in horror.*
+He kept a socket peeled for signs of the Eternals, hoping to find the wife he&apos;d lost.
+*Say that there must be a way to overcome these things - nothing&apos;s invincible, after all...*
+*Sigh and try to think of something else to ask it about.*
+[UNDEAD] *Slowly nod. You&apos;ve had occasion to receive Amadia&apos;s blessing as well.*
+There are powerful Sourcerers in the region. They might be able to help us where Siva cannot.
+Knocked Down
+If anyone knows how to get to the crypt of the Divine it&apos;s Arhu, Keeper of the Cathedral.
+Just one thing at a time I guess. First, I go back to the kingdom. There&apos;s a lot to do there. Damage that needs undone. Dwarves&apos;ve lived in fear for too long, on the outside &lt;i&gt;and&lt;/i&gt; the inside.
+I knew you would say that. But I also know you need hope and fellowship. I&apos;ll mark a place on your map where you can find both.
+*Admire its size and girth.*
+New Save
+*Suddenly, a great energy enters the crown of your head and melts downward, infusing every inch of you with a feeling of great power.*
+Nebora
+*The skeleton&apos;s jaw clicks.*
+*His tongue darts out from between his lips to taste the air once more.*
+Leech
+*Still reeling from the pain you heed his command and kneel.*
+*Say you read it - but you&apos;re not sure why you need to be involved.*
+Roost expects Ifan to deliver the Godwoken to a sawmill somewhere in the region.
+*For a moment, his mind wanders to memories of friends and enemies, of Malady and Magisters, of demons and Divinity. He is then in the present once more, and smiles at you.*
+*Say that if she knows a way for you to get out of here, you&apos;d really like to hear it.*
+Haven&apos;t got a spare soul in your pack, do you? No, no.. this is all, you know. You know...
+Some say he still walks the world,
+None of your BUSINESS, you rat!
+Best of luck, Red Prince.
+Vermin. Thieves. Pests. Leeches.
+(I think she&apos;s leaving, Mabel!)
+*Press on further. What curse threatens her?*
+I&apos;ve sent Magister, er, Barwick to investigate the tavern&apos;s kitchen. We&apos;ll soon know if you&apos;ve been truthful or not...
+The magic this ring bestows upon its wearer allows them to charm friend or foe, then ravish them in any way they see fit.
+*She slaps you hard across the cheek.*
+Oh, yes. I imagine it was.
+Marrow
+There was, of course, &lt;i&gt;some&lt;/i&gt; singing involved.
+Let alone forgive.
+*Nods.* &lt;i&gt;*Grunt...*&lt;/i&gt;
+*Your words are swallowed by the chamber&apos;s thick air.*
+*Tell her that her groom doesn&apos;t love her. He only married her for her money.*
+*Daring escapes? Talking to gods? Boast that it&apos;s just another day for you...*
+It is by far Sanders&apos; greatest achievement. He was one of the engineers, you know. Brilliant fellow. I suspect the strain left him... broken. He makes toys now. A waste of his genius, but a great gift to the children of Arx.
+Speak with the Magisters.
+The presence within wakes. It wants to be whole.
+Fort Joy - Dungeons
+*Relent and say you&apos;ll try to find Arhu first.*
+A place like this must have plenty of secrets.
+Red Button
+Delorus
+You will? Oh... bless you. Bless you.
+Delete
+Find Sadha.
+Defeat the Eternal.
+*Tell him you know his family, and they&apos;re waiting for him. But not all of them made it...*
+*Your body convulses with Zorl-Sitssa&apos;s displeasure. Your head pounds; your bones ache. Ryker&apos;s smile grows at the sight of your agony.*
+Madness within, madness without.
+*Shake your head. She doesn&apos;t remember anything?*
+[SOLDIER] *An attack on one is an attack on the unit. You understand his zeal.*
+I tell you one final time: keep your hands to yourself!
+*Quietly step away and leave them in peace.*
+[OUTLAW] *Offer to find the culprits. You&apos;ll have their heads!*
+I want Lohar&apos;s head on this here table.
+Thank you again for all you&apos;ve done for us.
+*Stand back and watch her.*
+I&apos;m - ah - not supposed to be trading with the other... guests. Roost&apos;s orders.
+*Pocket the money and walk away.*
+*A spirit peers down at his own remains with morbid fascination. His ghostly form takes on a queasy shade of green.*
+*She yanks her head towards the far end of the room.*
+Sword of a Devotee
+What&apos;s &lt;i&gt;your &lt;/i&gt;deal?

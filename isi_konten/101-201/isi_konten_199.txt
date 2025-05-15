@@ -1,0 +1,165 @@
+Dwarves? The pox on those bearded devils!
+[BARBARIAN] *Growl that you&apos;re not comfortable with a problem you can&apos;t club into submission either.*
+&lt;i&gt;Wait!&lt;/i&gt; Don&apos;t do this, please! I owe you my life, but I have to protect the Bishop. Don&apos;t make me raise my bow against you.
+Gold Key
+The city won&apos;t go down without a fight from me.
+We told Corbin that he&apos;s free to go.
+Long-range attack that deals [1] damage to a single target, leaving them Blind and Burning.
+*Tell her to be careful or you&apos;ll pick up the rock and bash her brains in with it.*
+&lt;i&gt;I lost everything&lt;/i&gt;. If you will not accept your rightful blame, then I shall return to my prayer.
+*You stand in the dimly-lit room once more - the altar before you.*
+Hero Stats
+That Magister... he&apos;s the one from the jail in Driftwood. His &apos;better offer&apos; lead to his death, it seems.
+We have all five pieces of the legendary Armour of Contamination.
+Ya got anyone t&apos;help ya out? Can&apos;t see ya offin&apos; that thing on yer own!
+*Note that he probably means Isbeil, the poisonous thorn in Justinia&apos;s side.*
+*Tell him to go right ahead. You trust him.*
+I&apos;ll do business with you. But keep your distance.
+*Silently decline with a shake of your head.*
+Pag Joph
+You buyin&apos;, or just browsin&apos;? Make it quick either way, lizard.
+Very well.
+You&apos;ve got no call to go looking for no cargo. Far as anyone&apos;s concerned we sailed with an empty hold, and if there&apos;s anything left to salvage you leave it where it is.
+*Without looking once in your direction, Kemm hefts his sword.*
+*He glances up, and you see his eye sockets glow faintly. He seems to be taking in every detail.*
+A phoenix egg is a priceless treasure. It should be cared for.
+*Insist that Gareth kill Jonathan, here and now. It is the greater good.*
+I&apos;d say we&apos;re making good progress already, no?
+Spore-Infested Zombie
+Petrified Burglar
+Let us away - this primitive craft may not hold for much longer.
+- &lt;i&gt;Dead. Dead! Demon scum, I&apos;ll flay your skin. I&apos;ll tear your&lt;/i&gt; - *grunt* Silence! Have some respect...
+*Remind her that &lt;i&gt;she &lt;/i&gt;attacked &lt;i&gt;you&lt;/i&gt;.*
+Marge&apos;s egg! Margey! EGGY! EGGY BABY, MARGE! WAKE! UP!
+Armoured Voidling
+Blessed Steam
+Boys! This&apos;n stole from Cap!
+Contaminated
+[FANE] *It is one thing to chase the unknown, but quite another to be caught. Assure her the risks are too great.*
+As for &lt;i&gt;you&lt;/i&gt;...
+Nothing amiss here. These puppets must need further calibration...
+Come, give your heart to me.
+Fair enough. Onwards?
+*Tell him you&apos;re a creature of the world, always looking to explore the many hidden delights of this existence.*
+*Snap your fingers and produce a Source flame. She should tell you where to find her helpers - for her own safety.*
+Eternal Plate
+Jahan&apos;s Lesson
+*He pauses as if about to say something else, then shakes his head. With one last nod, he whistles up his soulwolf and lopes away.*
+This puddle it... glows. What could this mean?
+*The Source King Braccus Rex gives you a long, malevolent look - the glint in his eyes like bait, the smile below; the hook.*
+Are you serious?
+*Panic rises...*
+*The spirit cannot speak - or perhaps chooses not to.*
+Five gold pieces for a tomato? These bloody lizards are responsible for this. The sooner we wipe them out the better.
+Thanks... for standing with me back there. For taking her out.
+*Maintain your position.*
+A fine choice. Jules should serve you well.
+Sterling Amulet
+[IFAN] *Tell him that you have a job to do. And apart from that, you intend to find answers and deliver vengeance.*
+Magister Cryomancer
+*Scowl. Zaleskar you presume? You &apos;learned&apos; from Griff you&apos;d find him here.*
+Help Stewart investigate the Magister disappearances.
+Item Interaction
+It isn&apos;t just slaves that suffer, though, is it? You eternally seek perfection, though offer no room in the creaking Empire machine to the sage or the savant. &lt;i&gt;What say you?&lt;/i&gt;
+Don&apos;t worry that someone else got the big prize, darling. You&apos;re still &lt;i&gt;marvellous &lt;/i&gt;in my eyes.
+*The eagle glowers at you balefully with eyes like shiny little buttons. One manicured and be-ribboned claw shoots forth to claim the stringy offal before him. Stretching his neck forward, he peers closely at you.*
+*Stand back.*
+*The rat gives you a desperate look. &apos;Help me!&apos;*
+A hidden bridge? Clever. Very clever.
+*Work, work, work. That&apos;s all there was in Driftwood for a dwarf like you. Until you got involved in the anti-Magister resistance. Then, the work was still there, but also &lt;i&gt;purpose&lt;/i&gt;. Purpose worth dying for.*
+*He grits his teeth in anger.*
+*Promise you&apos;ll help her friend.*
+We have entered a heavily-guarded section of the Fort. We had best not alert any Magisters to our presence.
+*You come up empty. Perhaps there is nothing to find.*
+Hope you ain&apos;t lookin&apos; fer work in this dyin&apos; town. Besides, you ain&apos;t got the look of a fisher about ya, I&apos;ll tell ya that much.
+No &lt;i&gt;harm?&lt;/i&gt; I&apos;ve heard that before - right before a Sourcerer blasted a hole through my partner!
+I wonder what prize was sweet enough to make &apos;em into this.
+I can&apos;t say I&apos;m sad to see Murga ousted. She was a sore winner; spoiled it for the rest of us...
+This isn&apos;t the Divine Order I signed up for - not anymore. I&apos;m done.
+Order&apos;s been telling us all kinds of this-and-that about Godwoken. Haven&apos;t seen any evidence of &apos;em myself.
+[SCHOLAR] *Tell him that you&apos;ve never seen such a thing... if you destroy it, you can&apos;t study it... you&apos;ll have to decline.*
+Hmm. Not that I could judge a dwarf for his drinking habits. After all, the Kingdom is a shadow of its former self. &lt;i&gt;Who is to blame for its collapse?&lt;/i&gt;
+Sooner or later, you&apos;ll have to make up your mind.
+*Say that you suppose the entire race of elves will always be grateful for her sacrifice.*
+I know it&apos;s the same ol&apos; sea breeze I&apos;ve always smelled. But it&apos;s different now, with Malady gone. I don&apos;t know how to explain. Maybe you do.
+Permission indeed...
+Rajjarima stole some of our Source powers.
+And you&apos;re just an overweight newt, yet somehow your kind *sniff* has built an entire empire. Now leave my sight, lest I make an unseemly squeal.
+Cannot use skill: skill not memorised&lt;br&gt;
+Earth Resistance
+&lt;i&gt;Haw! Dig your hole wherever you like. Dig your hole wherever you like. The Void is coming and all is nothing. Dig your hole wherever you like, that&apos;s the key.&lt;/i&gt;
+We learned &apos;The Taming of the Holy Fire&apos;.
+Maybe not now. And maybe not ever, too. Doesn&apos;t change how I feel.
+The spirit of the Craftmistress proudly proclaimed that she shaped the Devourer armour from dragon&apos;s bones. She clearly worshipped the Outlaw Empress, and does not believe that she&apos;s dead.
+Huwbert&apos;s Encyclopedia Vol. 14: Hydrosophy
+Like a newborn babe, this dough&apos;s potential is as vast as the imagination itself.
+Despite what she did to me, I can&apos;t help but admire the woman a little... she&apos;s unwavering. She will break before she bends...
+I stole it from Lord Kemm&apos;s house, didn&apos;t I? And so what? I only took one of them. The other two were too heavy.
+Arrow Freezing
+*He draws his sword and heads towards the barrel.*
+*Ask her why she suddenly wants the Mother dead. She was telling you to listen to the Mother last you saw her.*
+Clear Surface
+Stop that elf! Her Sourcery must be silenced!
+Have you made any progress with my request, dear? Have you found that tablet?
+UI Cancel
+It&apos;s good to be wary. But you needn&apos;t be wary of &lt;i&gt;me&lt;/i&gt;. I&apos;d sooner cut off me own hands than kowtow to a tyrant - Boy Bishop least of all.
+We found the graves of the stag and the poacher who&apos;d killed it.
+Rogue
+Explorers
+The Covenant is broken. I feel it in my blood. I am sworn... no longer.
+HOLY MOTHER OF DIVINE, THAT&apos;S LOUD!
+DICE TYPE
+*Both of you die.*
+*In the span of just a few seconds, panic crosses her face, then sadness, then numbness.*
+Holding Cells
+Game Master
+Fulton? What&apos;s going on? Can you hear me...?
+You can do that?
+We entered the vault. What lies within?
+*She looks up to you, eyes wide with shock.*
+Malevolence. Darkness. It hangs off you like an ill-fitting cloak, like rancid skin.
+*The man taps his foot in time to the bard&apos;s tune - though he stills it as you draw near, and clears his throat.*
+Swann&apos;s cellar was being used as a makeshift infirmary - with only one patient.
+You shouldn&apos;t be sneaking around like that.
+*Assure him that he&apos;ll probably have new work soon.*
+I... I don&apos;t know. The names... They are Scions?
+Once you see the world for what it really is, there is no un-seeing it. It&apos;s amazing, really - the lies we tell ourselves. The lies we tell others.
+Stairway
+*Unscrew the top of a healing potion, hold his head in your hands, and tip the contents into his mouth.*
+There is no time to waste. I wait for your signal.
+Be that as it may, whatever divinity committed to the rather dubious honour of being your creator, he does leave us with a question, doesn&apos;t he?
+*Tell him you bring word of death. The beach is soaked in blood.*
+We gave Gratiana her Soul Jar. She was deeply grateful.
+She fell for you. It happens. I wouldn&apos;t get big-headed about it.
+Potion of Focus
+I am here to serve, Master. In this realm and any other, for as long as I must.
+Now, now. Let&apos;s not intimidate our guest further, Isbeil; I am yet too intrigued to give him leave. Why do you allow the crimson prince before me?
+Now get the hell out of my face.
+*Say you&apos;re sorry, but you don&apos;t know what she means. If she explains, you may be able to help.*
+*She bobs her head back and forth to an unheard hymn, then bids you a pensive farewell.*
+&apos;Here lies an unknown thief&lt;br&gt;Who drank too much&lt;br&gt;And gave herself away.&lt;br&gt;We are glad to give her rest.&apos;
+Find shelter. They search for you.
+I tried potions already - no use.
+You are not friends with the truth, it would seem. Tell me true &lt;i&gt;now&lt;/i&gt;, or be on your way.
+If those things get to Ma, they can get to me too.
+Rocks ahead, Cap&apos;n! Avast! Hahahahaha!
+*He winks at you so hard and so theatrically, that one whole half of his face seems to squint.*
+May he return indeed. Maybe then we can stop praying and get back to our lives.
+My kindness only extends so far. Let her go - but keep the Swornbreaker.
+[MYSTIC] *Tell him you value what you see beyond the veil more than what lies upon the earth.*
+You&apos;re a slaver prince. Why would I chain my fate to one like you freely, like I was once forced to?
+Yes, I can imagine it might be somewhat difficult for you to forever be in my shadow.
+*Ask about the &apos;oss. The boss. The chief.*
+*He slaps his thigh, tears of mirth rolling down his cheeks.*
+Feral Howl
+I did this... I did this...
+*Insist that elves are not addicted to memories. They simply record them, so that all might learn from the mistakes of the past.*
+But we&apos;ve got to move, then. The Order will be upon us soon.
+Do not weep for their fate, my child: their doom is of their own making.
+Maybe.
+Not an imbecile. Just misguided. Wiser ones than him were lured by the promise of all that power. And it brought them to nothing but ruin.
+Corpse Explosion Void
+Barin! He still shoutin&apos; high hell from that cliff? I tell ya: that is one loyal lad.
+&apos;Arthyr Bree lies here.&lt;br&gt;Sadly missed,&lt;br&gt;By customers and family alike.&apos;
+Language
+That&apos;s the demons&apos; way. They give out promises like sweets. Lure in the weak.

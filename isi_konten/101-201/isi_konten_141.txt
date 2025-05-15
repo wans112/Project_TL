@@ -1,0 +1,167 @@
+Alexandar has fallen! The son of Lucian is dead! MURDERERS!
+I am Braccus Rex! I am the Source King! You shall not seal the Veil. &lt;b&gt;And I shall not be struck down!&lt;/b&gt;
+My wounds have only just healed - I&apos;m in no state to go roaming around that accursed-looking island.
+Plain Bow
+*You recognise this lizard as a dreamer. Tell him you&apos;ve been looking for one like him.*
+I don&apos;t expect a great intellect to offer much welcome at all. But I respect your point. While most residents of Arx lunge for each others&apos; kneecaps, I see you seek a better way.
+Take me. Just a bit. Just enough.
+I see through your lies. Prison is where you belong!
+*Before you continue, ask if she has strong opinions about travelling with an undead.*
+Now then, if there&apos;s nothing further...
+Do you understand combat and all its elements better &lt;i&gt;now &lt;/i&gt;than you did before?
+It&apos;s hardly any use now. I&apos;m on a ration - but never mind. Fallow sleep, wash over me once more. Goodbye.
+*Tell her another time. There&apos;s still plenty to do before you can rest.*
+*The sword feels good in your hand, in a sickly sort of way. You&apos;d rather be at this end than the other.*
+*You are! Say that you  can now channel enough Source to proceed.*
+&lt;i&gt;I disappear at midnight, but I&apos;ll be back very soon.&lt;/i&gt;
+Hefty and uncompromising, this safe won&apos;t budge for even the strongest arm.
+Didn&apos;t hear me the first time, parrot?
+You keep that thing in your pants, lass! He dies, and the Beast returns to the sea - with a new crew.
+You are formidable to break me twice over. Respect to you, Sourcerer.
+*She returns your smile, though you can read the scepticism in her eyes.*
+Magical Lizard&apos;s Spear
+Good luck out there. You&apos;ll need it. We &lt;i&gt;all &lt;/i&gt;will.
+Ngh! In an instant, my wounds have all but vanished. I didn&apos;t think... I was certain I wouldn&apos;t...
+*Ask why you can&apos;t open the door.*
+*Look at her closely. Her eyes are blood-shot and bleary, and worry lines her face. Tell her she should stop drinking. Really.*
+*Very well. Say that if this is so very important to him, he has your blessing.*
+*Wonder how they&apos;d recognise a Godwoken.*
+She changed, she did. She wasn&apos;t just my cousin, but my best friend, if ya can believe that! We once went catchin&apos; snakes. I watched her wrestle a viper into submission at the ripe ol&apos; age of eleven. Caught hell for it, too.
+A fine key, bright as a new penny, marked with the emblem of the Magisters.
+[OUTLAW] *Shake your head. All life is chaos, and no-one can ever be in full control.*
+Well, let&apos;s not go so far as all that. You got a certain kinda blood in you, I got a certain kind in me. Don&apos;t mean we can&apos;t get together now and then to split a skull, but it don&apos;t make us friends.
+*Think better of facing his entire crew and tell Griff it was Stingtail who took his supplies.*
+I believe you did. Although I was wearing the face of an elf at the time.
+Give it to me. Now!
+Ser Ydra
+Lucian&apos;s Day: Suggested Hymns&lt;br&gt;&lt;br&gt;Be Thou My Light&lt;br&gt;Divine Mercy&lt;br&gt;Onward, Upward&lt;br&gt;Sing Loud His Song&lt;br&gt;Awoken In The Seven
+*Darkness. You paw at your face with the stumps that were once your hands - they find empty eye sockets, sewn shut. You cry out, but without your tongue you can only muster a pitiful moan.*
+You... you&apos;d do that? Bless you - bless you!
+What use Fort Joy had, has been spent. New hunting grounds wait across the sea, so by all means, let us sail.
+Procyon Lotor
+Handmade Chain Armour
+Still, no harm done, I suppose. I may as well introduce myself: Baran Levere, at your service.
+You know what I mean, you filthy moss-muncher! Now leave me be - my Magister comrades are missing, and I&apos;m going to find them.
+Giant Slippery Voidling
+The one house; the true house - the House of War.
+*Sympathise - it&apos;s hard to be crazy. Promise to put him out of his misery.*
+A tongue that speaks such nonsense deserves cutting! I think I&apos;ll give you a good thrashing, slave girl!
+*Say her sob story is meaningless to you. Consume her Source.*
+Summon becomes immune to Poison damage. Also grants Acid Spores and an additional Geomancer skill (depending on summon).
+*Note that at her friend&apos;s darkest hour, she was not there.*
+The God King is punishing me for my disobedience.
+Good. Who aids you? Choose wisely: whether you fail or succeed, you do not fight more than once.
+*Focus your attention on the terrified young Magister.*
+Mass Oily Carapace
+Some poor chicken went through a lot for this.
+Bahara the dreamer is dead. The Red Prince will have to find another dreamer.
+Sadha! Where is she? Out with it, man!
+I don&apos;t know if I was dreaming, but I met someone. They claimed to be a god, and they gave me a great power.
+*The colour drains from her face...*
+Ifan&apos;s attempt to save the elves failed - the Deathfog attack happened before he could complete his mission.
+Some undead seek to return to life; others long for the sweet embrace of oblivion. They move amongst the other races unseen, apex predators who can&apos;t afford detection. Lately, an unfamiliar voice beckons to them from a world unknown.
+The Shakedown
+Magister Colwyn
+Good... I thank you. Hopefully that creature&apos;s lies will rot alongside him...
+You&apos;re dead to me, thief. Mother, tell her she&apos;s dead to me.
+Keep it moving, toots...
+Turf
+And how goes this search?
+Looks like you can&apos;t afford to pay the price.
+*Kindly ask the child why she seems to fear you so.*
+Personality
+*Thump.*
+Elegant Two-Handed Axe
+And then suddenly I&apos;m here, apparently facin&apos; the lizard inquisition.
+Oily Blob
+Die_Magic_Elec_2
+[UNDEAD] *The second drink seems as likely to affect you as the first. You gulp it down.*
+I won&apos;t forget you either, Fane. Good bye.
+Learned a trick since last we met, have I.&lt;br&gt;
+*Change the subject to something more... interesting.*
+She doesn&apos;t feel like playing, but. *Pouts.*
+Deathfog Rising
+Such a &lt;i&gt;pristine &lt;/i&gt;hide. Your skin will make a beautiful canvas...
+Create Poison Surface
+Weapons
+Ah. Yes. That&apos;s right.
+*She registers your presence, and gives you the sweetest smile.*
+Wooden Pitchfork
+*Shake your head. You don&apos;t want to hear it, whatever it is.*
+No. I just don&apos;t believe you.
+Watch it!
+I know it&apos;s the same ol&apos; sea breeze I&apos;ve always smelled. But it&apos;s different now. I don&apos;t know how to explain. Maybe &lt;i&gt;you &lt;/i&gt;do - oh divine one. Hehe.
+*Repeat: she&apos;ll know when the time comes.*
+Where you find Shriekers, you can trust the Divine Order is hiding something they desperately want to keep private. The fate of my dear ones proves there must be some such thing on this very island.
+Antiques and antiquities! Buying and selling!
+Very well. Attack!
+*Absorbed in her work, the scientist sighs with exasperation as she hears your approach.*
+T-they were Sourcerers once, but after whatever... perversions the Magisters subjected them to, they&apos;re death incarnate. If they c-can see you, they can kill you - instantly.
+Print Screen
+I don&apos;t do this for money, merc. I was born to it. Like you, perhaps?
+You lowly creature... not unlike me once. Storm the elven temple, and strike down the Shriekers. Perhaps the God King will smile upon your efforts.
+P-please... help...
+*Say you are a believer.*
+Oh yeah? What&apos;s that?
+Well, on your way then - I need to concentrate here.
+I&apos;ve seen sketches and stories of such demons from ancient texts, but I&apos;ve never seen them for myself.
+*Leave the Paladin be.*
+Indeed, Quercus. Let&apos;s be off.
+Lightning flashes from this ancient blade, crackling around the wielder&apos;s arm with fiery splendour.
+The only thing you earn with that load of rubbish is a prison sentence!
+Another one of my Magisters is missing! That blasted Higba can&apos;t be behind this one... he must be far away from here by now. There&apos;s still someone out there, mocking us!
+Master wants Sourcerers. I&apos;ll find them!
+*Smirk and tell him you can free him from this mortal plane right now.*
+We left the Nameless Isle without helping Alexandar.
+*Apologise for your somewhat brusque enthusiasm.*
+My god named me its champion. I am Godwoken, with the power to bless. My god warned me not to trust other Godwoken.
+*Suggest that you should work together to enter the Council - the trials within can decide who will become the Divine.*
+*She looks at you derisively and spits on the ground, close enough to your boot to make her point.*
+*He&apos;s being rather too clever. It&apos;s disrespectful. Take your leave.*
+Please. I &lt;i&gt;see&lt;/i&gt; it on you, like an aura.
+*You&apos;ll go find these items. Ask what happens once you&apos;ve claimed them.*
+*Claim that you only mean to borrow it.*
+A beak never goes empty for long in Kemm&apos;s house!
+[SEBILLE] *Say that you don&apos;t like to see the helpless suffer in captivity.*
+You should&apos;ve been more careful, idiot!
+Huh, another Magister caravan...
+[ELF] *Frown and tell the elf that he&apos;s no kin of you, nor do you remember crossing paths with him...*
+*Leave him bound.*
+*She who&apos;s been in your dreams since the sunburst that was your own dawn.*
+*The spirit bows its head as oblivion approaches. It recoils in horror, but can&apos;t escape.*
+Bye-bye, lizard.
+*The spirit of a Magister stares dumbly at her translucent hand - the fingers of which have been sheared off...*
+Don&apos;t be such a defeatist. If you want to be great, you have to do just that.
+Arx - Kemm&apos;s Gardens
+Keep a sharp eye.
+Black Mirror
+*You embrace. It&apos;s sweet and wonderful. You wish it could last forever.*
+*Wonder how he recognised you as a Sourcerer.*
+*The Magister leans in and whispers urgently.*
+I&apos;ve watched you be incompetent in a wonderful variety of places and circumstances.
+*The Voidwoken was a colleague from Fane&apos;s days at the academy - his assistant.  It claims it knows how to save the Eternals.*
+*Tell her you&apos;re glad she made it back in one piece.*
+*Lean down and pet Quercus.*
+He sure did eat a big dinner. Aloysius saw him really cramming it in not five hours ago.
+This well-kept compass shows not a lick of salt or spray damage from its time at sea.
+*Say that of course you will - all shall know of your royal engagement...*
+Laced Scale Armour
+Create Smoke Cloud
+*Announce that you have come to save the queen on behalf of Micheil Ros!*
+Huwbert&apos;s Encyclopedia Vol. 13: Geomancy
+Huh. Well, I can&apos;t argue with that. Be on your way.
+Amazing, isn&apos;t it? That so many of us must beg for scraps while royalty feasts on fresh meat and grain? &lt;i&gt;Condemn our queen - if you dare&lt;/i&gt;.
+Clean and empty, this pristine vial looks like it has never been used before.
+*Say no. In fact, the Shadow Prince convinced you she&apos;s a danger to this world...*
+Bring me proof that the Sallow Man is dead, Godwoken. Until then, I have nothing further to say to you.
+You&apos;ll meet some associates of mine. Tell them Madam Zoor sent you, and they&apos;ll let you pass.
+*Ask Fane how he feels about his people after everything that&apos;s happened.*
+Close
+*Demand that Gareth bow to his new Divine.*
+Gratiana told us about wands that siphon Source from its host. I went to Braccus&apos; armoury in search of one, but Magisters had already ransacked the place.
+*Firmly state that you don&apos;t want healing. You want to get out of here.*
+Incarnate
+*The world plunges into darkness, and the last thing you hear is the dragon moving towards you.*
+Watch them well then, for they are dangers, as much as any Magister. They are your &lt;i&gt;rivals.&lt;/i&gt;
+Forest - Ruins in Glade A
+End Times

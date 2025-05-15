@@ -1,0 +1,145 @@
+The Magisters kept records of each and every Sourcerer in the area - the good, the bad, and the dangerously insane. You have the privilege of seeking out the final of the three.
+Spirit of Bishop Alexandar
+Ah yes. Discretion is the soul of valour, as they say. I may have a job for a man of great valour and discretion. Interested?
+I suppose you recognised the Hall of Echoes from those visions you&apos;d had before. Realm of the dead, realm of divinity. *Shudders.*
+Ben Buttons
+There is no challenge, Godwoken. There is only flame. My chosen will overcome!
+You&apos;re very kind. How about another one? Penny for a lost dog?
+*Ask where he stands on the issue. Is he grateful for your choice?*
+*Tell him you&apos;ve had your heart broken.*
+*Ask if you can ease her pain.*
+&apos;Here lies an unknown vagabond.&lt;br&gt;Who died in her sleep.&lt;br&gt;With her boots still on.&lt;br&gt;We are glad to give her rest.&apos;
+Destroy [1] on target character. Silence target.
+Unseemly! Especially for a webless wonder like yourself.
+Spirit of Magister Timort
+The Mother Tree and her Scions do not seek to carve out their own part of peace in this world, they seek to carve out the whole wide world for themselves.
+Mutton
+Now show me why they call you the life-shaper. Go on, go on, make love to me!
+What? Go on! Live a little! Try something new! O&apos;en the chest! See what ha&apos;ens! You only live once!
+What&apos;s got into them?!
+Yes indeed. Our union will definitely be of value. Even with today&apos;s rather... &lt;i&gt;dark &lt;/i&gt;start.
+If I can stand then I can fight.
+Come back if ya need. I&apos;ll be whittlin&apos; away.
+A fine trophy to commemorate the slaughter of an innocent beast.
+Between the chaos in the streets and the throngs of pilgrims seeking to walk the Path of Blood, it&apos;s vital that Lord Arhu is kept safe. Without him, the Divine&apos;s tomb would be lost to us.
+Constitution: [1][2]&lt;br&gt;
+[BARBARIAN] *Growl that you have better things to do than read about some long-dead necromancer.*
+You there, elfling. A word!
+*Play along with her and hold out an imaginary cup of tea.*
+A fine abode. A pity the location&apos;s so... inadequate.
+The Nameless Isle
+*You press your palm against the door to open it. The wood feels neither cold nor warm, but simply &lt;i&gt;grey.&lt;/i&gt; The colour drains from your hand, and you are left... numb.*
+*Wonder why they&apos;re hunting a tinkerer.*
+*Accuse him of having stolen Griff&apos;s oranges.*
+I&apos;ve killed many, but there are more. Free me. Free me, Godwoken! Release me and receive Lucian&apos;s favour. We&apos;re Godwoken, you and I. Practically brother and sister! Free me and we&apos;ll save Lucian from the traitors!
+*Ask what they will give you in return.*
+Say what you like, do what you like - my lips are sealed. If Her Majesty found out I... oh, shite.
+*Take the yellow fish.*
+B-b-b-b-CAW!
+But I will be with you, dear child. I will guide you; stand by you. I will watch as you drink from the Wellspring.
+You are a male of one of the races; you are perceived as male by those that encounter you.
+Ifan&apos;s target is Alexandar himself! His contact is a Magister Borris.
+No time for chatter. We&apos;ve got to get out of here...
+*Say you hope she knows you wouldn&apos;t abandon her over some apparition.*
+You there! Boy! Over here, damn it!
+Ambition stains every dream. That stain will define you, in this world and the next.&lt;br&gt;&lt;br&gt;
+Gareth&apos;s Rallying Point
+You see what the Void is doing, don&apos;t you? Taking shots at anyone it fears might stop it. It&apos;s coming after you, Lohse. It wants us both.
+Cultivated and exported from the equator by expert Lizard horticulturists.
+It&apos;s a deal. Must be moored off the Driftwood harbour, right? I&apos;ll meet you there.
+Phase Generator
+The ship&apos;s awake. Good.
+The Queen&apos;s seal? She... she couldn&apos;t be involved in this?
+I do not misspeak. Hands off!
+&lt;i&gt;Anan, falen riveil? Anan, falen riveil... &lt;/i&gt;what in the Void comes next...
+&apos;Who shall avenge you, darling one?&apos;
+Time flies when you&apos;re having fun.
+It&apos;s really uncanny, you know! Though your kind all look the same to me.
+[RED PRINCE] *Claim that you know a fellow of intelligence and reason when you see one - he can confide in you.*
+But don&apos;t be a fool - mortals are not to be trusted. If I revealed myself I would be broken, ground to ash, and cast into the mire. Keep your secrets if you value your existence.
+Mmm hmmmm.
+*Shout into the stillness.*
+Ah come on, I&apos;d sooner take a hundred of the Ring than one Voidwoken.
+Decide Higba&apos;s fate.
+My, aren&apos;t you a pretty cup full of sugar and spice?
+But no, in my family marriage is a more practical matter. Our union means I can continue my work.
+*Tell them their friend is very strong and brave to go looking for his mum like that.*
+*Note that you still live, while he does not. Not a very impressive assassin, is he?*
+*Tell him he&apos;s lucky to be alive, then leave him be.*
+You have earned the &lt;font color=008858&gt;Villain&lt;/font&gt; tag! Specific Villain options will be available to you from now on.
+House Interior - Attic
+*He looks at you incredulously, but then you spy a... tenderness in his eyes.*
+*Cough* Thank you. I just... just want to... *cough* be done.
+*Ask about the captive. What did she steal?*
+Who shall rise? Who gains the title most divine?
+All I can hope is that the encounter is etched into your mind, for what you saw was the conception of a new world.
+I am. Already. Closed.
+Explode, dealing [1] in a large area around you, creating a Poison surface.
+*Tell her you&apos;re not interested in doing her dirty work for her.*
+No, them friends of mine are dead or silenced. All on account of the Reds. All on account of Dallis, damn her heart!
+That was an odd little interlude - one better forgotten. Onward.
+Hand it here.
+*Ask how she could have seen all that. Her eyes were closed when you arrived.*
+*Sensing your rage, Ifan steps back a few paces at speed. He holds his hands up in placation.*
+*The puppet looks at you with what almost amounts to &lt;i&gt;curiosity&lt;/i&gt;. You sense power from within it... a measure of Source - just enough to make the plaything seem alive.*
+*The thought of Deathfog gives you pause. A weapon like that should give &lt;i&gt;everyone &lt;/i&gt;pause.*
+You are not worthy. I cannot bring myself to help the likes of you.
+Even dead, thinking of my mates coming at me with their blades drawn gives me the shivers.
+I wish you well. *Bows.*
+Let our allies rejoice and our foes tremble. From now on, one has the choice to bask in our suns - or by their fire be undone!
+Wooden Figurine
+Moo.
+for all the people and every creature to share.
+Dearest friend of the field!&lt;br&gt;I humbly present you with my gardening knowledge. I pray this little book will guide you to the joy of many plants blooming all around you!&lt;br&gt;-Willow Herbert&lt;br&gt;&lt;br&gt;&lt;br&gt;CHAPTER 1 - PREPARATION&lt;br&gt;&lt;br&gt;To begin cultivating your herbs, you should prepare:&lt;br&gt;1 x trusty bucket&lt;br&gt;1 x grown plant&lt;br&gt;&lt;br&gt;Now, combine them. Well done! You just separated a brand-new seedling, ready to be planted.&lt;br&gt;&lt;br&gt;&lt;br&gt;CHAPTER 2 - CULTIVATION&lt;br&gt;&lt;br&gt;Now, take your new seedling and drop it on the ground. Yes, anywhere will do! Plants have their own wisdom, and your herb will sprout and be ready to harvest in no time. A miracle!&lt;br&gt;&lt;br&gt;&lt;br&gt;CHAPTER 3 - SATISFACTION&lt;br&gt;&lt;br&gt;Sit back and enjoy the fruits of your labours. And then? Start all over again with a new plant!
+My good, wonderrrful, wise woman. You bring drudanae, yes?
+Trader Glas
+*Step away.*
+Take this key. Nicked it from the Whites. It opens a chest in the Magister barracks - second floor. Be careful getting at it - if they spot you, it&apos;ll be lights out. Should be some good stuff in there, though. Real good.
+The city is swarming with pilgrims. The house is swarming with salamanders. My patience is wearing &lt;i&gt;quite&lt;/i&gt; thin.
+...and now that he&apos;s back, we might actually stand a chance at getting out of here alive!
+*Ask what it was that he discovered.*
+There you are, little egg.
+When the elves learned of Saheila&apos;s death, they tried to kill us.
+My manners. Master would not be pleased. He awaits you. West of here. He will not harm you. Others may.
+Kniles&apos; Notes
+Joyous Ring
+*Snorfle snorkle snorfle snorkle snork snork snork.*
+*Agree that you did, but it&apos;s no thanks to him.*
+Heart of Steel
+I hate you people. Go on then, go do whatever it is Reimond&apos;s paying you for. If I don&apos;t ever see you again it&apos;ll be too soon. Alright lads, we&apos;re moving out! &lt;i&gt;Look lively!&lt;/i&gt;
+*Push past her. You&apos;re not afraid of the guard, &lt;i&gt;or &lt;/i&gt;whatever&apos;s behind the door.*
+*Confirm and ask how he knows about such things.*
+Soon, prince became emperor -
+Shoes of the Acolyte
+We need only follow in its big, wide shadow, and be safe.
+*Wonder who could have done this.*
+Hm? Ah yes. Welcome back.  You want access to the &lt;i&gt;full&lt;/i&gt; range, let me know.
+Hah. True enough. Don&apos;t think this makes us pals, though. I don&apos;t mingle with your kind, no matter what. In fact, you oughta git while you&apos;re ahead.
+There you have it, Lohse. Do you feel it? How weak he&apos;s become?
+Wait! Where are you going - what are you doing?
+Copy
+What... What are you getting at, lass?
+*Express your admiration - silent monks are hard to kill.*
+I noticed a certain limitation in your vocabulary. You&apos;re welcome.
+Dallis and her forces attacked the Lady Vengeance. Most of the Seekers died.
+Leave me alone, wretch.
+Carriage Driver
+[IFAN] *Turn away from potential drama. Not your circus, not your monkeys.*
+I- I- they&apos;re going to the Black House in Arx. I ain&apos;t got the buyer&apos;s name -- not sure he even &lt;i&gt;has &lt;/i&gt;a name!
+*Ask what he means.*
+The arch-demon Adramahlihk claimed his share of Divinity.
+The Divine&apos;s tomb is a fortress, a gauntlet. No single person was entrusted with the entire sequence necessary to enter... not even I. Lucian insisted that no one ever approach his remains. &lt;i&gt;Especially&lt;/i&gt; a Godwoken.
+Dallis sought an ancient artefact known as the Aeteran - a device with which one could supposedly purge the world.
+This is heinously unfair...
+My Lady:&lt;br&gt;&lt;br&gt;I hope my letter finds you well, and that my messenger has not intruded too greatly. I have heard of your magnificent garden, and I have several seeds I cultivated long ago that could make an excellent addition to your collection.&lt;br&gt;&lt;br&gt;I suggest your husband, the wise and virtuous Linder Kemm, tend to them himself. With no offence meant, their care requires a surgical touch that only a man of his training can provide.&lt;br&gt;&lt;br&gt;Please do inform me once they bloom. Perhaps I may travel to your garden personally to admire the results.&lt;br&gt;&lt;br&gt;Yours,&lt;br&gt;The Doctor
+...but I won&apos;t forget what we shared. I&apos;ll &lt;i&gt;never &lt;/i&gt;forget that.
+Greetings! You must be another of the new arrivals. It seems I owe you all for my freedom.
+*Inform Zaleskar that it was you who squeezed Borris.*
+*The spirit makes a weak attempt to free himself. It&apos;s no good.*
+You can ask. I will not answer. It is not your business.
+Well - you know a thing or two of madness, don&apos;t you, my dear? Call me what you like. I&apos;m not afraid of being the villain to your supposed &apos;hero&apos;. I&apos;m not nice, Lohse. I&apos;m just &lt;i&gt;right.&lt;/i&gt;
+At the time I wanted you to defend me. I didn&apos;t realise how bad things had gotten. I know better now.
+You are strong. I make you stronger.
+Seven preserve me, are you entirely ignorant, dwarf?
+Grrrurrrghhh.
+*Let him know you accept the offer. Alexandar&apos;s head for the secrets of the Council.*

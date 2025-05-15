@@ -1,0 +1,146 @@
+*Tell him he may have all that, but you have his Soul Jar.*
+Security Log
+*Sadha... You dream of her, but she could engender the end of all lizards. &lt;i&gt;Agree to kill her.*&lt;/i&gt;
+Brazier
+*Ask what it means.*
+But please, tell me about yourselves...
+I do not welcome this fate. But I will not fight it.
+Vines
+Ah! It&apos;s good to meet a fellow green thumb! Here, a gift from one gardener to another...
+*Tell him he&apos;s crazy; you don&apos;t want to travel together after all.*
+Thank you! Thank you for *Cough* saving me! I... I do not have much to give, but I owe you all I have. Take this. Thank you, thank you...
+*The Hammer&apos;s voice falters and her coolness vanishes. Every crack and rasp betrays her grief - but her next words burn not with sadness, but anger.*
+[BEAST] *Tell him he can call you &apos;Beast.&apos;*
+Success! One has survived the Path!
+Target character regenerates Vitality and Magic Armour according to the number of allied characters and totems in their vicinity.
+You beastly thing. I abase myself serving a dwarf, and you reward me with that filth? Stay away from my bar, you hear? This is a &lt;i&gt;civilised &lt;/i&gt;establishment!
+Do you ssserve the God King, ssscum?
+Yes. In a brief moment of supremacy, followed by annihilation.
+Range: [4]&lt;br&gt;Stunned makes target unable to move or act.&lt;br&gt;Can target some surfaces and clouds to electrify them.
+Lizard Leg
+I wouldn&apos;t think to build a mansion in a graveyard, but... I can see the appeal.
+Spirit of Lord Withermoore
+Poison Ice Grenade
+No, you can&apos;t. I- I was promised eternity. I- please! *Sob* Please...
+I sent some of my best people there. It&apos;s not like them not to report back in so long.
+*You can feel the thing stir deep within. Your plea has angered it, and you can feel it pounding against your ribs like a beast against the bars of its cage. You wince, but Amadia intervenes and the pounding subsides.*
+Magister&apos;s Diary
+*The squirrel lays his hand on you and a strange feeling ripples through your body: a sense of power. Your mind opens to the possibilities of new magic.*
+Old Twohander
+Fascinating.
+*Demand to know more about Dallis and her plans.*
+Get away from us, you damn fool! You twisted degenerate!
+I was victorious, but I had a pact with the arch-demon Adramahlihk. I tried to deny him Divinity. Bound to the pact, I failed.
+The prisoner. She&apos;s nourished not just by Source, but by something... blacker. Something depraved.
+We fought, of course. The King scorched our land, but by uniting we overcame his evil.
+*Decline the offer.*
+SqueakSqueakySqueakSqueaky!
+We met an undead knight, skewered with a lance and pinned to a wall for centuries on end. Do we help him or leave him?
+Leave her alone, Gill! This one&apos;s mine!
+*Ask her if you have to.*
+Skill requirements not met.
+*It sounds like he&apos;s spent a lot of time studying this family. Wonder if finding this heirloom is worth the trouble.*
+Kasper.&lt;br&gt;&lt;br&gt;You will never read this. I don&apos;t know why I write it. Composing a letter to the dead seems as fruitless as wearing wolfskin in the heat of summer.&lt;br&gt;&lt;br&gt;I hate you. I hate what you did to our family, to our parents. They saw you as special. I knew you for the horror you really were. I hate that because of you, all I had was taken from me. I hate that because of you, I spend each moment fearing that I will lose the new family I have made for myself.&lt;br&gt;&lt;br&gt;The Divine&apos;s son will see to it that no-one can suffer the same fate. Would that he could have saved our family. But at least he saved me. And for that, I owe him my allegiance.&lt;br&gt;&lt;br&gt;Ames
+It&apos;s nothin&apos;. If I haven&apos;t learned that by now, I haven&apos;t learned anything at all.
+Spirit of Jahan
+*He gives you a look that says &apos;Really?! You went with that?&apos;*
+No, I&apos;m holding.
+*Raise your hands and back away to show you mean her no harm.*
+A little girl much like the child we rescued from Bloodmoon Island was seen fleeing the carnage at the harbour.
+Maybe... maybe there&apos;s someone out there who wants a broken old dog like me. Never hurts to look, I guess. I guess I... I guess I better get to lookin&apos;.
+Tovah
+...
+...but it&apos;ll take more than a little hocus pocus to save Isbeil once I wrap my hands &apos;round her stinkin&apos; neck.
+Huh? Do people want mechanimacal horses now?
+So make no mistake, Sebille: chances are the road to divinity will be paved with dead gods, their blood on your blood-red hands.
+*You&apos;ve no use for a Magister - and even less for a Magister spy. Consume his Source.*
+*She searches the darkness cloaking your face. A grin spreads upon her own.*
+Oily Carapace Skillbook
+*Shrug. There may be others. Their days are numbered too.*
+I abhor thieves. I am watching you. Go.
+I was wrong to think I could hold it off. I might hurt you. I might hurt anyone.
+Breeches of the Arcane
+*Scowl and say that he has a duty to fulfill  - it&apos;s up to the gods to decide whether he succeeds or not.*
+But enough talk. It is time you returned to a tomb, traitor.
+*Cock your head. He mentioned Siva. Is he... Godwoken?*
+The paladins are gone. Now finish what&apos;s been started. Release me.
+*Peel back the skin. Take up a bone hammer and a chisel, and start to gently tap away at her skull.*
+So fret not, but revel in the promise of the lake! I will lead you there when you are ready: when you have remastered the Source and once again speak the language of creation.
+&apos;Here lies Amelia Harkwood.&lt;br&gt;Daughter of Roland and Prudence.&lt;br&gt;Sister to Carlyn, Farron, and Kniles.&lt;br&gt;Knifed in her bed by assailants unknown.&apos;
+*Thank them and be on your way.*
+A long, &lt;i&gt;long&lt;/i&gt; time ago now. Long before Source became reason to leash a man like a dog.
+According to the thugs, Lohar has our stolen stuff.
+[LIZARD] *Remark that Alexandar is but human. If he&apos;s really all that&apos;s left, we&apos;re in dire straits indeed.*
+Braccus Rex! King, Sourcerer, and scholar. Though not quite a gentleman.
+Gold
+*But the horses, you say, stare at the dog for a long time. Finally they turn to each other, and one says...*
+*Cast your gaze to the ground. You&apos;ve disappointed your goddess.*
+But of course! They&apos;ll happily dump your meagre boney corpse into the sea when they&apos;re through with you! Oh, the tragedy of it!
+*The jar stands before you, cold and still.*
+None of your BUSINESS, you shrub!
+Magister Yvette
+It were a wedding. Event of the season, over at Micheil Ros&apos; estate. We were goin&apos; in place of our boss.
+Catapult
+- &lt;i&gt;Slaughter them all!&lt;/i&gt; - Urgh, I do beg your pardon.
+Go on in, madam. I need to close the gate behind you.
+*You&apos;re intrigued. This all means very little to you, so how could you be involved?*
+The Sallow Man will tell us how to enter the Academy... if we bring him Alexandar&apos;s head.
+Gwydian Rince
+*You&apos;re not in the mood for a chat - only for Source. Consume his.*
+Must be Ryker&apos;s place. Fancy.
+*As the smoke swirls about your skull, your vision starts to swim and cloud. There is an intense pounding in your head and you can feel the world fading.*
+Bone
+To Basement
+*Presume there is a method to its madness, and leave the creature be.*
+*Search her for Mudbarrow&apos;s money.*
+*Reach for your weapon.*
+*High above your reflection, the full moon stands vigil.*
+*Say you&apos;re surprised the store wasn&apos;t closed for the wedding.*
+[SEBILLE] *Is she kidding? Tell her you&apos;ll &lt;i&gt;never&lt;/i&gt; sing a slave song.*
+Agitated Silent Monk
+So: We have a job.
+Bad enough all we could find was rubbish. Now we&apos;re stuck. Lohar&apos;ll have our heads.
+*Tell her the groom&apos;s name is... Dayve. Dayvey. Dayvey-dayve.*
+I am no-one&apos;s fool, you know. Today, you die!
+Of course he is. It&apos;s so obvious, it&apos;s just that we could never prove it. Try to weasel your way into his network, why don&apos;t you? See how deeply the rats are tunnelling...
+Dead Black Ring Grunt
+Does that mean this nightmare will end? Ruphus! We might be free.
+May Lucian guide me!
+Got sword and shield over here!
+My prince, your children will help you! Here, take one of the eggs and engulf it with fire. Do so, and your child will be born, ready even now to fight by your side!
+*Ask if the Mistake killed the other tutors.*
+*Gently inform the dog her master isn&apos;t going to wake up - ever.*
+Wrong - that proves I am the only one who is worthy! I have to decide who lives and who dies, for the sake of the greater good. That is what true power demands of you.
+Cluck cluck! Cluck?
+*The spirit&apos;s focus is affixed to the nearby candle. He waves you away as you approach.*
+*Say that you understand her - which is different from being comfortable with it.*
+Speak the spell... and see...
+A gargoyle in the maze congratulated us on our progress. Perhaps we are going the wrong way?
+Mari&apos;s House Key
+*Offer to scratch his nose for him if he&apos;ll pass a simple test. A riddle, as it were.*
+*Note that the loss of the homeland is a great one - but the loss of a scion would be greater.*
+But don&apos;t you worry, handsome. I wouldn&apos;t &lt;i&gt;dream &lt;/i&gt;of betraying your... secret.
+Loremaster&apos;s Safe Key
+*A well-dressed dwarf paces around the room, overseeing the packing of trunks. He doesn&apos;t look up as he addresses you.*
+This tavern is key; of that much I&apos;m sure - it would be far too easy for the culprit to hide in such a place. If you see &lt;i&gt;anything &lt;/i&gt;suspicious, let me know.
+*Sigh* Can&apos;t stand those types. But I don&apos;t blame &apos;em. Some folks, they got the short end of the stick. They got lots of anger in their hearts. When your queen tells you who you&apos;re s&apos;posed to hate, well - that&apos;s who ya hate.
+The Temple of Rhalic
+Squee squee!
+*Keep to yourself and wait to see what happens.*
+You &lt;i&gt;lie&lt;/i&gt;... You &lt;i&gt;lie&lt;/i&gt;... You &lt;i&gt;lie&lt;/i&gt;... Steady as the heart, &lt;i&gt;You lie...&lt;/i&gt;
+Nothing mystical about it, chief. But you can&apos;t teach a blunt dog subtle tricks, so I won&apos;t waste my breath.
+*The Knight&apos;s spirit solemnly gazes upon his mortal remains.*
+I&apos;m pretty sure the results were different yesterday, but I&apos;ve changed nothing.
+*It wants a magic word! Try the last thing the sleeping man said - &apos;blood&apos; and &apos;oil&apos;.*
+If the Eternals come home to this world, they - we will live in it as your masters. You will be our slaves at best, our food at worst.
+*Say that you urgently need to speak to Micheil Ros... on behalf of Lohar.*&lt;br&gt;
+The seeds of interference that you planted in the Blackpits have yielded rather bloody fruit here in Arx. Spreading lies about us allying with the &lt;i&gt;Black Ring?&lt;/i&gt; You are so very wrong...
+I know that many will say I&apos;ve failed our people, but I don&apos;t think I have.
+*A tale of two battles unfolds; first come the Voidwoken, and you are on point. You fight and you live, while around you your friends die. Then a war owl passes overhead, bringing news from afar...*
+Hmm. A topic for another day, perhaps. We have other issues to discuss.
+*Say that you&apos;re on your own, though you wouldn&apos;t mind some company.*
+Pretty Amulet
+We discovered a Lone Wolf contract putting a bounty on Godwoken, dead or alive.
+Now if you&apos;ll recall, despite having little or no regard for personal hygiene, as per your own testimony you can cook and tailor: two quite indispensable talents.
+*Wish Jahan well, and be on your way.*
+*Swear that you have always respected the Source of others.*

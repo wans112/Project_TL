@@ -1,0 +1,156 @@
+You must realise, Ifan, that our fates are now as one, just as our souls are now as one. &lt;i&gt;We&lt;/i&gt; are &lt;i&gt;I&lt;/i&gt;.
+*Tell her you&apos;re a Sourcerer and Alexandar&apos;s blood is on your hands. You are no friend to Magisters.*
+Isbeil&apos;s Laboratory
+I underestimated you, Godwoken. You have proven to be a formidable foe. You have my respect.
+[DWARF] *Tell him a little plank ought to be no match for a strapping dwarf like him!*
+You just don&apos;t know when to stop, do you? Prepare to die!
+*No amount of sheer force you exert can budge the slab even a hair&apos;s breadth.*
+*Step aside. Tell them to go right ahead.*
+Invite Only
+*Ask where he heard about that.*
+Nnggh... I better try clean this wound...
+Judge
+&lt;i&gt;Tsk tsk.&lt;/i&gt;
+*Say it&apos;s about earlier. On the boat. When you had a moment alone with one of the team.*
+I saw what you did there. Convincin&apos; Burro not to lay down the law on that elf. Your kind stick together like stink on garbage, don&apos;t you.
+[SCHOLAR] *Question his approach. Did he try reasoning with Justinia?*
+*Shake your head. You&apos;re not going to do it.*
+Using Magic Scrolls
+I decided not to travel to the demon&apos;s home plane. I&apos;ll face him here, as he is.
+*What does it mean? Who drained it?*
+Empty Potion Bottle
+*Whistle along with him. Things aren&apos;t looking good.*
+Must find it, must find it, must find it...
+But I know one thing - I may be the last of my line, but the hope for my people lives on through me. I must try to save them.
+Yes. You&apos;re right. It wasn&apos;t a burden I was ready to bear. Thankfully, I&apos;ve had time to think. My parents led good lives. I&apos;d rather celebrate them for the love they gave me than to wail over their loss.
+Travel, they said. See all the wonders of the world, they said.
+I taught that boy right. Taught him to fear the Divine&apos;s hand. Taught him &apos;til he was black and blue and cross-eyed.
+Jewellery Upgrade
+*Tell her that you don&apos;t need some wand to kill Magisters. You&apos;ll do just fine.*
+A magical, mysterious dye that can turn mere cloth scraps into something... out of this world!
+*Say you&apos;re looking for an elemental powerhouse - a Wizard will do.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca] gold)
+Something has these creatures agitated, and they do not seem prone to fear. I, however, am quite ready to be terrified.
+Excavations. Digging out old weapons. More- urgh... more Purging Wands. Enough to turn the tide against Source.
+Magister Document about The Mistake
+But threatened by the Void, they rise together...
+It would mean &lt;i&gt;everything&lt;/i&gt;. The One will prove himself above all others.
+I&apos;m sorry. We can&apos;t do business unless you pay the man downstairs.
+My eye you got lost! What are you &lt;i&gt;really &lt;/i&gt;doing up here?
+Francesca
+Whether we&apos;re any safer on this beach remains to be seen.
+This is not the real Lohse.
+You&apos;re on thin ice, mate. And I&apos;m very close to cracking.
+On the contrary, I expect to be rewarded! But not in the same way as you. Come, let me show you...
+Donate
+*Remark that Dallis put him through a lot - if he wants revenge against her, then he&apos;d be wise to be honest with his new allies. You could all help each other.*
+*Sharply command him to come to his senses! You seek answers, not riddles.*
+*Black Cat blinks awake and looks right into your eyes, purring.*
+*Back off.*
+They&apos;ll tear &lt;i&gt;us &lt;/i&gt;down if we don&apos;t stay quiet!
+Mmhmm! I bet you are. That&apos;s why you left me to drown, right?
+I make that it&apos;s one fine instrument. As soon as I&apos;m able, I&apos;m gonna play the hell out of it. Something that&apos;s made with love always sounds the sweetest, and you can tell Fingal loves her work.
+*Scowl. Zaleskar you presume? Griff told you you&apos;d find him here.*
+Please, no more!
+I think I&apos;ll take this one to the grave with me. Or... wait. You know what I mean.
+Doll
+They say one of the pilgrims endured the Path of Blood. I didn&apos;t think anyone had it in them, honestly.
+Farewell, Mistress. Our paths diverge here.
+Let&apos;s get outta here!
+You&apos;ve had your fun. Bugger off.
+You&apos;re covered with the stink of Source. We&apos;ve got prison cells just for your sort!
+*The spirit&apos;s tail flickers in unabashed delight.*&lt;br&gt;
+Gareth. He&apos;s... gone. His face and voice now just memory...
+*Blink. You&apos;re not sure that&apos;s a real number...*
+We&apos;re... we work to protect Source, and its most gifted wielders. We&apos;re looking for Sourcerers with... special talents.
+*Say you seek to see a debt repaid.*
+That doesn&apos;t matter. Let the rest of the world worry about right and wrong, good and evil.
+[The smeared ink makes the journal difficult to read, but you manage to make out much of the latest entry.]
+*She gives you a steady look that tells you she&apos;s not in charge... and neither are you.*
+Besides, not like Alexandar is a delicate little innocent, now is it? You&apos;ve seen &lt;i&gt;his &lt;/i&gt;work.
+Not much to say ya can&apos;t figure out on your own. The Magisters run most o&apos; the show, but they leave us alone down here. Mostly. Then there&apos;s Griff. Collared like the rest of us but a bully all the same.
+*Say that you feel... great!*
+Thou art back... Let me guide thee, Red Prince...
+*The dog looks sadly at you, then looks away. The cat looks at you, sighs, and... seems to... &lt;i&gt;shrug.*&lt;/i&gt;
+Sir Lora
+Corrosive Spray Scroll
+Been nice knowing you Ifan, but you&apos;re a goner now, no matter what. And I might as well be the one to collect on the contract...
+Dungeon - Empty Room (Square Stairs)
+*Produce the blade you found in the archives.*
+Fair enough. But the longer you wait, the more the Void may swallow. Stay vigilant.
+*His eyes narrow... and then he smiles&lt;i&gt;.*&lt;/i&gt;
+There&apos;s bad things in the caves. Bad dwarf things.
+*Look around and say he must feel very proud of how the Divine Order turned out.*
+Well, not nothing. I have enough to buy your silence forever.
+*It was nothing. Wave your hands and walk away.*
+*Holding a bloodied hand over his ruined eye, Stingtail stands before you a broken mess, quivering with fear and pleading miserably to spare his life.*
+*Request that he repeat what he told you about your reward - this fish recipe...*
+Teleport Disappear
+Magisters colluded with Black Ring! Paladins clean house!
+See that you are. If I so much as catch a whiff of that demon of yours, I&apos;ll put you down myself.
+Find your stolen stuff.
+Still with the lies, Marcus? Brought Justinia nothing but harm then, and will bring nothing but harm now. You are no beast - you are &lt;i&gt;less&lt;/i&gt; than beast. You serve&lt;i&gt; no &lt;/i&gt;purpose, spread &lt;i&gt;no&lt;/i&gt; warmth, bear&lt;i&gt; no &lt;/i&gt;burden.
+Key to the Chest in the Doctor&apos;s House
+I suppose we&apos;ll see about you. If we ever make it out of here, that is. But before that, I&apos;ve got the injured to see to.
+My sisters and I make trinkets. I tagged along with the Seekers for safe passage to sell them, but now - now there&apos;s nowhere for me to go.
+[IFAN] *Tell him a scrap metal merchant&apos;s got no place in battle.*
+*Ask what else she can tell you about Ryker.*
+*Keep a straight face as you express your astonishment - a Sourcerer! &lt;i&gt;Here?!*&lt;/i&gt;
+[HERO] *Reach out and take &lt;i&gt;all&lt;/i&gt; the straws from Kinnet.*
+*No. This is a bridge too far. There is a limit to your subservience, even to a god!*
+Now that you have that *cough* that delightful little nugget of gossip, perhaps you could do your damn job and let me loose?
+Fran! My hat! Dammit. Floatin&apos; a few good miles out by now.
+So! Still a bit groggy are we? Don&apos;t worry, the sedative will wear off soon enough.
+Noxious Void Salamander
+The Princess... she will take your life... she will EAT YOUR SOUL.
+*His face grows stern; disbelief apparent in his eyes.*
+Tell me, where will you go from here?
+The future of the lizard race stands before us. We will fight the God King - and we &lt;i&gt;will win.&lt;/i&gt;
+*Say you&apos;ll always be back for a little more Lohse.*
+To liberate the elves, Saheila wants the Mother Tree dead. Do we help her?
+*Ask if there&apos;s any way you can help him.*
+By all the hells, what happened?!
+*Tell her she ought to have a look around with you. You can watch each other&apos;s backs.*
+*Show him your charity once more.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*The world shakes, and a set of draconic fangs impale you. They rip into your insides, digging deep as they can.*
+Locked
+Fish
+More wax? Another soul, snuffed out with a single breath...
+&lt;i&gt;Fear not, Godwoken. Dallis is on the side of all that is good. She is helping me rid Rivellon of the influence of the Source. Listen to her.&lt;/i&gt;
+We found a bloodied Magister&apos;s ring hidden in the kitchen at the Black Bull.
+*Ask him what he&apos;s talking about.*
+*As your palms press the warm stone, you feel the depths of your being crack open. Power flows from you into the relic.*
+Ah! You truly are my saviour. This won&apos;t be my first bowl today, but I&apos;m certainly hoping it&apos;ll be more rewarding than the last.
+Mine started out tough at first too, but it sure did get better.
+You think you can poach my contract? You should know better, old boy. This whole place is a trap... and you&apos;ve just sprung it.
+This again. You know, I could really do without the... the &lt;i&gt;attitude.&lt;/i&gt;
+*Ask him how he does that glint-in-the-eye thing. Is it a trick of the light?*
+Return to the Watcher.
+Congratulations to our champion!
+I&apos;d tell you that was a nice try, but I&apos;d be lying.
+This isn&apos;t the paradise I expected. Much hasn&apos;t been as I expected.
+This is the worst day of my life.
+Sailfish
+Might sound crazy to ya, but that&apos;s just the way of it. Ya battle in the arenas. You get divine power if ya come out on top.
+Moving to orifice manipulator!
+...but I see now that my prejudice was foolish. Without you, Quercus and I might still be stuck on that abominable prison island.
+*Rub your hands together; feel the energy that swells between your palms.*
+Wait. I can hear it. I can hear it in every rustle underfoot, every breath you take.
+*Say that what&apos;s done is done; only &lt;i&gt;one &lt;/i&gt;was destined to survive.*
+Almira
+Divinity itself: by all means I crave it.
+Green Tea Leaves
+*Shake your head - idealism exacts a price. A very high price: consume the spirits&apos; Source, all in one go.*
+Ahhh! I can feel my Source powers draining at the merest touch of that fuligin metal.
+Ha! Sharp eyes, lad.
+*Thank her for her time, then leave.*
+*Raedalus awakens as if from a daze. He takes what would have been a breath, were he still alive, and breaks into a run...*
+I can&apos;t. Not yet. First, you must look into my ring and tell me what you see there.
+Alexandar&apos;s advisor Dallis noticed that the Voidwoken are attracted to Source. Alexandar quarantined the Sourcerers.
+was a secret advisor to Lucian, and to his successors.
+*Ask if this is why she remains masked at all times. To hide her true self?*
+End it here and now. The queen&apos;s continued rule will only lead her people to ruin.
+If you help us, then I&apos;ll help you, my dear. Reciprocation is important to me.
+[IFAN] *Tell him you found evidence of Deathfog in the cave. Say that you have experience with Deathfog. &lt;i&gt;Bad&lt;/i&gt; experience.*
+Thank you, Lohse. Here, we are one. Invincible in our bond, invincible in my black haven. Isn&apos;t it &lt;i&gt;perfect?&lt;/i&gt;
+The vault was Kemm&apos;s shrine to the God King - and Arhu&apos;s prison. Now it is neither.
+Effort_Lg_1

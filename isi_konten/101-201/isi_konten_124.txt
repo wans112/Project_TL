@@ -1,0 +1,167 @@
+The Indomitable talent won&apos;t have any effect while this status is present.
+On with ya, then.
+*Say nothing.*
+&apos;Course once the Voidwoken landed, that were the only thing on anyone&apos;s lips.
+Attack Item
+*Take your needle and jab it about an inch into his lower jaw.*
+*Scoff at his arrogance. He&apos;s just a dog.*
+Return to Eithne.
+That sounded dangerously close to an independent thought. How surprisingly self-aware of you!
+Things are under control. For now.
+Spirit of a Woman in Love
+So... I guess this is it.
+Messenger Owl
+Sacrifice yourself to bring an ally back to life. Deals [1] to you, and resurrects target character with maximum Vitality.
+Hatchet
+*Hold out your arm. It is free to take some of your blood.*
+*ALARM! ALARM!*
+Available
+This handwritten diary is bound with barrel clasps holding it together.&lt;br&gt;&lt;br&gt;The contents rhapsodise about the divine nature of barrels. Lovingly-drawn sketches show various things that can be placed inside barrels. One thing&apos;s for sure: the author was clearly very passionate about their weird interest. In barrels, in case that wasn&apos;t clear.
+Chapter 2 - Escape from Reaper&apos;s Eye
+Audrey! What happened? W-what is this place?
+Dead Black Ring Painweaver
+*The troll&apos;s spirit roars in anger and swings a fist at you - to no effect. He&apos;s gone before he can swing the other fist.*
+Strength
+Gods know how much blood you have on your hands now. You &lt;i&gt;can&apos;t &lt;/i&gt;let &apos;em go. This is our only hope against the Voidwoken.
+Haven&apos;t got a collar for you. &lt;i&gt;Dammit&lt;/i&gt;.
+Chop, chop!
+Pants of Battle
+*It looks haggard and weak, its very voice but a feeble echo of your own.*
+If I weren&apos;t on orders from Griff, I&apos;d smash in that mossy little face of yours.
+Livewood? You have taken a dead elf and carved it into a pleasure yacht?
+*Ask who he is.*
+Already Equipped
+Move along.
+Keep your weapons sheathed. There&apos;s a reward in this for us, surely.&lt;br&gt;
+Sentry&apos;s Helmet
+*Say you know the voice belonged to the Devourer.*
+It&apos;s... MAGNIFICENT.
+Pfft, we have all swatted flies. That is not what lies ahead of you.
+*So what happened next? Say he can&apos;t stop his story there!*
+*Order him to tell you where this island is.*
+Dwarf
+His was a lesson - meant to discipline, not to edify.
+Magister Ranley, Caulker&apos;s Mate of the Divine Eminence vessel, &lt;i&gt;Lady Vengeance.&lt;/i&gt;
+Not so fast! I will give you anything you desire, anything at all. &lt;i&gt;ANYTHING.&lt;/i&gt;
+*Consider a moment, then nod. Sure you do.*
+Missive to Remove the Secret Entrance
+[ELF] *Ask if Griff won&apos;t be angry to see her selling to an elf.*
+It is only natural, after so long spent alone. But you must be wary. Some of these creatures are more dangerous than they seem.
+Dallis is the queen bee now, and all those little Magisters drone to her heart&apos;s content.
+Find Alexandar.
+*Breathless, the Magister fishes out a canteen of water. He gulps half of it down, then splashes blood and grime from his face with the rest. He nods to you, a touch wary.*
+More of them! These beasts are damn persistent!
+UI
+*Tell the elf to get lost, you&apos;ll go see the Doctor if and when you&apos;re good and ready.*
+You must know she is my deepest desire, that I have longed for since my soul slipped into consciousness.
+We got arrested and thrown into a cell within the fort. Perhaps we can turn this to our advantage.
+No... You&apos;re alive and you&apos;re having a conversation. You &lt;i&gt;are&lt;/i&gt; on a ship of course, but luckily for us both we&apos;re merely sailing the plain old sea.
+Remember that client? Lord whatever it was?
+So dark. So cold...
+Fire Slug
+Bandit Dwarf Huntress
+Quit yer spittin&apos;! There&apos;s work to be done at the dig. Where&apos;s yer shovel?
+What are you waiting for? Go on then, give me the short, sharp shock I need! &lt;i&gt;Please!&lt;/i&gt;
+Cat Jump
+Thou art fortunate: when I still wore scales I&apos;d cut you down without a thought.
+*Insist on speaking with Arhu. It&apos;s an urgent matter.*
+Come, mortal. My claws ache for your flesh.
+You stay away from that man, do you hear me? Erma isn&apos;t... what Jeth says is a &lt;i&gt;lie&lt;/i&gt;. You hear me?
+Dallis the Eternal told Lucian about Divinity and the God King. Together they plotted to prevent the God King ever returning to the world.
+What can you do to me now? Look: I had orders from Queen Justinia. And, to be honest, I&apos;d reached the end of my tether with what I could do here. It was my time...
+Even with the world as it is, people will buy anything.
+You freed a master of the magical arts. For that, I&apos;ll leave your bones intact. For demolishing Mordus&apos; minions, I&apos;ll give you a skillbook of your choice. Choose your subject.
+Indeed not - but they have been corrupted by their own vanity. By the pettiness of the mortals they crafted.
+Save yourself - embrace Divinity. Your kind is... troubled... but not beyond salvation.
+*One...*
+*She trails off and her eyes flit upwards, as if listening to a voice only she can hear.*
+&lt;i&gt;Not&lt;/i&gt; if one seeks to elude the shadow.
+...don&apos;t hurt me, don&apos;t hurt me, don&apos;t hurt me, don&apos;t hurt me, don&apos;t hurt me, don&apos;t hurt me...
+*Tell him that you&apos;ve come seeking help. You want the thing, the &lt;i&gt;demon&lt;/i&gt;, cast out for good.*
+If I didn&apos;t know better, I&apos;d swear you could see me clear as I see you.
+*Say that this is just what your face looks like.*
+Redbrand Outfit
+*He looks relieved. Then he looks worried.*
+*The tip of his tail starts to wag.*
+What are the Magisters really up to?
+*Offer to give her the missing amount.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*Ask it what crime led to its imprisonment here.*
+A great battle is being waged. It is the twilight of the Seven and the day-to-dawn of the One.
+*You are Mrazxken the engineer. After long years of quiet work, the gem falls into the jaws of two great Black Ring wargs, who treat it as a toy. The machine suspects you of sabotage and responds in self-defence.*
+If I can&apos;t fix the road I&apos;ll be in the shite. Literally.
+*Now that she&apos;s safe, ask where she&apos;ll go.*
+Yes. Yes, you look just the type. Egg thief. I knew it.
+Let this be a lesson to you. Those you trust the most can surprise you terribly.
+I thought you were here to help... I was wrong. Leave this place.
+Paulina Kemm&apos;s Chamber Key
+*In lieu of laying a comforting hand on her shoulder, lay it on the armrest beside her, and say you&apos;re sorry for what happened to her.*
+You what? No, mate. I&apos;ve got orders.
+Won&apos;t budge!
+We brought Saheila safely out of the sawmill.
+Blades won&apos;t mark, magic won&apos;t maim, and I won&apos;t budge.
+*Tell her you&apos;ll keep an eye out and be on your way.*
+*The tree-form spirit roars in anger, pain, and fear, as if for all the elves.*
+*Remind him that earlier he mentioned a second part - something to help you be rid of the demon. What did he mean?*
+Well, at least they added a shrub to the ghastly place…
+An odorous mixture of mutton, Source, and a pinch of fresh earth, as is customary. Used as an offering to Duna’s Undertaker.
+*Actually, you think you might be better off alone for now.*
+There are always more. Don&apos;t you know that?
+We ate the untainted egg.
+Can we... help you?
+Go on. Haven&apos;t you been dying to sink your teeth into me?
+You must leave me, ever so briefly. You must defeat the God King and become the new Divine.
+So, report. Did you find anything?
+*Reassure him he needn&apos;t worry: he has an ally in you.*
+You... you will die... all of you...
+Backpack
+[ELF] *Ask him why not; what has he heard about your kind?*
+Turn Action Points: [1][2]&lt;br&gt;
+*Resist.*
+Lucian&apos;s legs, no-one&apos;s ever felt me liftin&apos; off &apos;em. You&apos;re good.
+*Approach and touch Lohse&apos;s arm. Tell her it&apos;s time to get out of here.*
+Hacker
+*The altar lies in silence, glowing faintly with a familiar, comforting warmth.*
+Well...&lt;i&gt; maybe.&lt;/i&gt;
+*Inquire as to whether he has a home to go to.*
+There is little to celebrate in the world today and much to regret - and the death of Karon the Godwoken is neither. One suspects it&apos;s a relief for all concerned. It certainly is for me.
+Lucian&apos;s liver, how did you cut up your leg so badly?
+We gave Lagan his wedding ring.
+It got damaged in the fighting. It&apos;ll fix up just fine.
+How&apos;s about a trade? Our deaths for your... well, let&apos;s call it &apos;life&apos;? You walk out of here, and leave us your word that you&apos;ll destroy our Soul Jars?
+Sadha entrusted us with one of her eggs. If I cast fire on it, a dragon will be born!
+Marksman
+*Laugh and ask if he&apos;d like to catch up on his reading first. He&apos;s a few centuries behind.*
+*The spirit continues to stare at you unwaveringly.*
+*You chew it for what seems like forever, yet the texture does not change in your mouth. Tough, yet moist; leathery, yet slippery. As an elf, you are used to eating flesh. But this? This is &lt;i&gt;disgusting.*&lt;/i&gt;
+Your request is noted and ignored. The Seven lords sealed me in this tomb, and I will need my strength if I am to retrieve the Aeteran and have my revenge.
+*He nods his thanks to you before turning and following a path into the unknown.*
+*Smile and say it&apos;s no problem. Ask what&apos;s going on here.*
+No! I&apos;m sorry! Don&apos;t leave me!
+For one thousand years I&apos;ve listened to talk. Nay, it is time for action!
+Ugh. So many questions. I would say curiosity killed the cat, but you already know that, don&apos;t you?
+You&apos;ve been proven a friend to Duna&apos;s spawn. So from one friend to another, I say: get out of Arx. Leave it far behind and never look back. I can&apos;t say why... but trust me. Just do it.
+&lt;i&gt;Let me show you the error of your ways.&lt;/i&gt;
+Unusually Large Orange
+[SOLDIER] *Your eyes harden. The wounds in his back - he was cut down while he ran away.*
+Hm? What? How did I get... Hey, stop following me!
+Hehe... Hehehe... Hehehehehe... come, hear my joke... What is it that I guard?
+The Dreamers took her away, but I don&apos;t know how their magic works. You&apos;ll find the answer in the consulate, my prince - amid the fire and the chaos...
+Dorotya&apos;s Kissing Spot
+*Nod along. But why do they hate &apos;giant&apos; races so much?*
+Mine
+Good day to you, you large and terrifying lizard!
+I&apos;m glad you told us. &lt;i&gt;Thank &lt;/i&gt;you.
+I am different. I think and feel. It is the work of Vredeman - Dallis wanted more than a ship; she wanted a warrior slave who was bound to obey.
+*Pause. &apos;Always does&apos;? Ask if this sort of thing happens often.*
+*The spirit before you is paper-thin, as though there was hardly enough Source in it to manifest at all.*
+*&apos;Help...&apos; You splutter weakly, your mouth producing more water than words.  Rough hands grab you, rolling you over to stare into the face of a sneering dwarf.*
+*Explain that you&apos;ve found a Purging Wand in the vault, but it&apos;s inert.*
+Can&apos;t chat, I&apos;m afraid. Kemm&apos;s got us working round the clock...
+*Shrug and accept his overture at face value.*
+Or what? Your threats carry no weight...
+Press [IE_ActionMenu] to open your &lt;font color=&quot;008858&quot;&gt;Hotbar&lt;/font&gt;, move the cursor to an empty slot and press [IE_ControllerContextMenu].
+By Duna&apos;s dagger! You here to free us, or kill us?
+*You take it he&apos;s no Lone Wolf. Ask what he was doing here.*
+*Frown. Do the mainlanders really think of you as a monster?*
+*The hanging Sourcerer winks at you, and cuts another segment of rope. He&apos;ll soon be free.*
+*Note that the honey smells... &lt;i&gt;odd.*&lt;/i&gt;

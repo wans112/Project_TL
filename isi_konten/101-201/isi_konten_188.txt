@@ -1,0 +1,150 @@
+*The sky is dark and the roaring fire is now a sad flicker. The others lie around it in a circle, but you hear no snores. Their chests neither rise nor fall; their eyelids never twitch.*
+True Brew: Amadouvier
+In his cavern lair at the base of the mountain, the Sallow Man demands Bishop Alexandar&apos;s head.
+*Flinching, look away.*
+...
+Infernal Gateway
+A deep turquoise pigment, vibrant as the beaches of Fort Joy. Sniff it; it even smells like the sea. Ugh.
+I&apos;m glad that your doubts have been put to rest, my undead friend. The last thing we need here is more... &lt;i&gt;unpleasantness&lt;/i&gt;.
+Woke up this mornin&apos; in a sweat. Can&apos;t get that... thing... out of my mind.
+I&apos;m Butter. Nice to meet you.
+That&apos;s the spirit.
+Huwbert&apos;s Encyclopedia Vol. 3: The Divine
+Oh, Sebille! We must speak. Too long do I keep silent. Too long do I wait. No more.
+Anyway, you may leave me for the moment. We&apos;ll go over your duties once we reach Fort Joy. Now shoo.
+[SCHOLAR] *Tap your head. Divinity revealed an archive of knowledge within you - and you can&apos;t wait to explore it.
+Exploration Theme 06 Dark
+[UNDEAD] *Sniff right back at her - aggressively, sarcastically. She&apos;s not exactly a rose garden.*
+The Red Prince
+All this cowering rubs me the wrong way. Time for these cowards to die a coward&apos;s death!
+You - you, you, cannot come here. I am not done, I, I, I - *SNARL!*
+The Red Prince&apos;s would-be assassins seem to have vanished. For now.
+*Shout to the dog it has to get out of here - the ship is going to sink!*
+Rat Die
+I guess... that&apos;s that. Do you think it&apos;s true, what Malady said? That I&apos;ll never be rid of it now?
+The ship snapped like kindling! That Voidwoken was quite impressive. Terrifying, but impressive.
+Wolf Roar
+Move along there.
+You woke up and your world was gone. The last of your kind, you hide behind a charmed mask, searching for the truth about a history that no-one knew existed.
+*No - it must have been the wind. The bony arm is lifeless between the rocks.*
+*The child seems beside herself with sorrow and doesn&apos;t acknowledge you.*
+*Nod your head. It&apos;s got to be Isbeil.*
+Glad to have you with us, Prince, but I can&apos;t talk right now. If we don&apos;t figure out how to get this ship moving, we&apos;re dead.
+*Tell Fane that you&apos;re sorry, You can&apos;t imagine what he&apos;s going through.*
+Deflecting
+*Believing it comes from her own mind, she realises the truth - she was murdered by Lucian the Divine. Raedalus too must be dead - or he would have come for her by now. She bows her head and cries.*
+I am not certain that is true. I hope it is.
+Hey, I know that face! Lord something or other... or something. Justinia&apos;s dad!
+No lie, missus?
+*He glares at you silently, a malevolent wisdom shining from his flickering parietal eyes.*
+*...and the pain is gone. You are &lt;i&gt;you&lt;/i&gt; again. The spirit drops his arm to his side, dejected.*
+That&apos;s just bloody lovely, that is! I hope you die of a long and horrible disease involving lots of pain and an appalling odour! Goddamned son of a swine!
+In death I dream, Red Prince... Let me guide thee...
+I &lt;i&gt;know&lt;/i&gt; you, remember?
+White Necklace
+*You look around at those who have accompanied you so far. In each one, something unique shines through.*
+To the Lumberjack Magicians
+*Say there must be some way to save him.*
+*Tarquin understood the language spoken by the shard. Ask how that&apos;s possible.*
+Incinerated Corpse
+*He wiggles his unsheathed blade as if it were a child&apos;s toy.*
+He lives in the big house by the gate. I ain&apos;t about to wander up and ask for a name, mind you.
+[OUTLAW] *Draw your weapon. He has no idea just how unwelcome you can make yourself.*
+Like I told them Magisters, yer can search the house all you want - the Sourcerer ain&apos;t here, the door&apos;s locked, and the house ain&apos;t even mine!
+I am to meet the dreamer Stingtail at his shelter near the shore.
+[BARBARIAN] *Sneer. If this is misery, she should see your childhood home.*
+[1] has initiated a Ready Check.&lt;br&gt;Are you ready to move onto your next Adventure? You may be unable to come back?
+*Thank her for the information and take your leave.*
+*Ask Kemm to tell you about Arhu.*
+*The spirit takes a deep breath and bellows silently...*
+Current Music
+Take my advice - get out of here.
+*He looks at you a long moment. Suddenly, his blank, scarred face cracks into a mask of madness, his eyes bulging, his mouth open in a wide snarl baring blackened teeth. He bellows:*
+You&apos;re talkin&apos; to me, not him, Saam.
+Melee AI
+Mooooooooooo!
+Trophies will be disabled when playing with add-ons. Do you want to continue?
+*Offer him some of the house stew.*
+Your kin dies - for you and all of us. But you disrespect him. Leave me.
+Stop following party
+Well. You are right in that regard, at least.
+Fireball
+*Tell him you&apos;re keen to take the Godwoken to Roost: but where is he?*
+May Zorl-Stissa ever watch over you.
+I&apos;ll stop your play-acting, you smelly Sourcerer!
+*Chuckles* Give them hell, Godwoken.
+Sir honours me with his applause for my humble assessment.
+Ain&apos;t no-one goin&apos; nowhere, far as you&apos;re concerned. Ain&apos;t no-one packin&apos; up and movin&apos; out of the city in a hurry. An&apos; that no-one ain&apos;t no dwarf. Geddit? Now go on, clear orf!
+I am here to serve, Mistress. In this realm and any other, for as long as I must.
+&lt;i&gt;...you are not enough... you were never enough...&lt;/i&gt;
+Don&apos;t see many lizard-folk around out and about. They stick to Effie&apos;s Emporium. It&apos;s dark &apos;n&apos; damp down there, just the way they like it.
+*But your mind, you suspect, is not. You lust for the man who lives next door. You covet his wife&apos;s fine dresses. You push these thoughts away - for you would run the Path of Blood, and for that you must be pure. To &lt;i&gt;win,&lt;/i&gt; you must be pure.*
+*Shake your head. It isn&apos;t for you.*
+[FANE] *Reach out to lay your hand against the carved stone. The Lady Amadia, whom you trusted above all others...*
+*A shadow falls across her and you see a large, weeping face. She reaches out as if to comfort, but Braccus drags her back. You see her fall into the mire of the swamp, trapped.*
+*Ask what she means.*
+*Stare her down. Tell her you know she&apos;s hiding something. And you think you know what it is...*
+*The spirit&apos;s resistance is strong. For a moment you feel like it will win - but you are stronger than the spirit, and suddenly its Source is yours.*
+Effort_Sh_4
+Ah, how sweet it is to have you in my arms once more. Safe and sound, right where you belong...
+*Shrug and pay the requested toll.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+There was also some form of decaying shroud that aggravated Mihaly&apos;s wounds, but it appears to have dissipated. Small blessings...
+The following items should first be published to Steam Workshop through the Divinity Editor:
+I came back to see if I could help any others, but I got a sabre through the heart instead. *Spits* Murderin&apos; bluebloods. The Void&apos;s welcome to the lot of &apos;em.
+You&apos;ll ace it. I&apos;m sure of that.
+It&apos;s... it&apos;s a miracle!
+*The gate guard stands to attention with the professionalism her royal uniform would demand. But when she speaks her voice quivers. Something has left her badly shaken.*
+*Ask what makes her think you&apos;re a Sourcerer.*
+Soiled Letter
+Hmm. &apos;Isle of vaults&apos;, yada yadda yadda. &apos;Priest Surrey&apos;, and so on and so forth.
+Oracle Palms
+Profiles
+Vrogir was large and strong as his orcs, Xantezza quick and witty as an imp, and Rhalic prone to bouts of fighting and boasting. Much like every human I&apos;ve ever encountered.
+And I think it&apos;s time to start repaying the favours. I could fetch some stuff you need, maybe? Ma always said I was a great runner.
+Bless his heart. I&apos;ve already sent word to him; he can rest his mind now. Micheil is no man of courage, but he&apos;s as loyal as a fresh-fed pup.
+*Shake your head and ask what she means.*
+&lt;i&gt;With the Source they stole from the Veil, the Seven created the races so they would have worshippers. &lt;/i&gt;
+*Tell him you won&apos;t fail him.*
+Of course. You are no thief. No &lt;i&gt;Magister.&lt;/i&gt;
+I think you should be on your way now.
+Orc Tusk
+*Unlike a butler, say.*
+*All goes black for the briefest of moments, but when you come to, you see your own name grafted into your skin. Gone is the god&apos;s name. Only yours remains.*
+*Accuse the rat of being an illusion.*
+Goblin Trapper
+*Say he&apos;d make a fine bard in any court. Now what about the other song?*
+The bell rings no more. I&apos;ll away, with thanks. My sailing days are done, I&apos;ll to the Halls.
+Meet with Baran Levere.
+*You feel an overwhelming sense that she&apos;s at attention, listening to the gentle thrum of your pulse. Suddenly, a shudder passes through the rhythm.*
+Your kind belongs in prison. Come on, let&apos;s get moving.
+Civil Ability points
+It&apos;s not too late, you know. You could still accept the Covenant. You could still join Him - join me - in eternal life. But you won&apos;t, will you? You&apos;re too much of a coward.
+There y&apos;go, Dot. Listen to the nice lady.
+Spirit of Auntie Flann
+*Confront her. How could she take so much joy from inflicting cruelty?*
+*The blinding force of the flames pushes you back, driving you away from the glade, away from the vision, and away from the altar.*
+*Her kisses go lower still. Your belly, and below. Her tongue right there. That delightful pressure, again and again.*
+Little girl, little girl.
+I told you to stop it once already. Consider this your last warning.
+Why would you do that? Help!
+Die_Magic_Fire_1
+She&apos;s close to you, along Reaper&apos;s Coast. There&apos;s a camp to the north; it&apos;s where I was headed before the House of Shadows caught up with me.
+Dungeon or daylight, it does not matter... I am immortal... Immortally bound...
+*As the soul spills from the jar, the arm in your bag revolts. It clambers out and falls to the floor.*
+TARGET DUMMY
+Bloody Obsidian Lancet
+Come on! Lemme out!
+*Her face contorts, the uncovered half going sallow, demonic, lined with ridges along the bones and flames beneath the skin. Suddenly, it goes totally lax.*
+*Ask Geraldine what&apos;s in this secret stash.*
+*Ask what&apos;s on his mind.*
+To identify, use an identifying glass and select the item you want to identify. To examine a monster or NPC, select them and choose Examine.
+As well you should! I am an assassin of ants and crucifier of crickets. All rodents bow before me. So do lesser beasts. Like dwarves, for instance.
+You bring me hope, friend! I&apos;ll gather the other Seekers and travel to shore. Meet us there, as soon as you can. Just be sure to have Leya remove that collar of yours first. It doesn&apos;t suit you.
+[VILLAIN] *Offer your sympathy. Perhaps he&apos;d have better luck siding with the Void?*
+*The spirit looses the arrow. It evaporates into nothing against your skin. No pain... though a shiver runs up your arm...*
+*He lowers his head and turns towards the young boy&apos;s corpse.*
+*Tell them you are not here to talk. You are here for the Aeteran.*
+Better to take them out now.
+Vulture&apos;s Wing
+*You look into a skeletal face. Rotten meat still drips from its bones. You reach out to it, fitting the creature with an ornate mask...*
+*Say you really don&apos;t have time for this. Better to get a move on.*

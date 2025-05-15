@@ -1,0 +1,170 @@
+*The dwarf stands straight and tall - or at least, as tall as a dwarf can manage.*
+I warn you. You do not listen. I am sorry for you.
+That&apos;s... that&apos;s an idea.
+Funny. &lt;i&gt;So&lt;/i&gt; funny.
+He woke something - and it killed him. The armour...it calls itself an Ancestor.
+Hah. Happily. Get out of my face and don&apos;t come back. I mean it.
+*Tell him you know nothing of which he speaks, but you suspect it&apos;s ancient history now.*
+*Sidestep the attack.*
+And now you are silent. If only all humans were so thoughtful.
+Talisman of the Pilgrim
+Freedom is yours, my pets. Enter the world. Own it. Destroy it. Discard it.
+*He looks at you and shakes his head.*
+*Say her squatters are gone. Best not to ask how...*
+&apos;Here lies Maggie Sandanney.&lt;br&gt;&quot;Her body lies in cold embrace.&lt;br&gt;Her soul went to another place.&quot;&apos;
+I can hear the guilt in your voice. I do not believe you without proof!
+Finn was killed by Source. If a Magister could do that... they wouldn&apos;t be a Magister.
+You rot here too, Godwoken. We all rot!
+*You reach out to Amadia, but all you can hear is the chirp of birds. Getting up, you see the emblem of a moon carved into the altar.*
+*The cub looks like it&apos;s going to cry again.*
+Tok.
+[UNDEAD] *Ask him if he thinks it&apos;ll be truly worth it in the end - all this just for the taste of wine, the feel of warm flesh...*
+Business is business; even the Magisters know that, gator. Get shoppin&apos; or leave me be.
+UI Map Down
+&lt;i&gt;We must fight.&lt;/i&gt;
+There is fighting. I hear Magisters in white fight the Paladins. &lt;i&gt;And &lt;/i&gt;I hear of Voidwoken.
+Perfect! Simply perfect! Now, teleport me to that mossy rock across the gulch - just by the torch. We&apos;re almost there!
+Carpet
+*Whisper that she should check her pockets for her spore.*
+That&apos;s your idea of fun? What&apos;s wrong with you?
+I&apos;ll never forget you, Geraldine.
+*Tell her she&apos;s safe - from you at least - as long as she keeps her mouth shut.*
+*Then, before your eyes, his spirit dissolves into the sound, his own voice joining the cacophony that you can hear.*
+Max
+*The warrior charges right through you like a passing shudder. Just as he emerges from your back, you hear an echoing &lt;i&gt;shriek &lt;/i&gt;and feel a curious phantom pain jolt through your senses. You turn...*
+*Tell her she needs to lighten up. Maybe some drink and dirt would do her some good.*
+*Ifan&apos;s anger rolls off him in waves. You can &lt;i&gt;feel&lt;/i&gt; it. He stands, fists clenched, staring at the ground.*
+Let&apos;s just say... folks leave here, but they don&apos;t seem to take their &lt;i&gt;effects&lt;/i&gt;. Maybe I happen to know where everything ends up.
+&lt;i&gt;I&apos;ve&lt;/i&gt; noticed.
+You can&apos;t be serious. I&apos;ve sought this cur all over Rivellon. You wouldn&apos;t deny me the chance to confront him &lt;i&gt;now?&lt;/i&gt;
+*Stare in horror. You&apos;re not going to risk that!*
+Explore the temple.
+*Ask her to play an old classic. Something you can sing along to.*
+Thank you, Lohse. I know this is &lt;i&gt;your&lt;/i&gt; battle above all, but if I&apos;m successful you&apos;ll be free to claim your divinity...
+Maol
+The gem transported us into a pocket realm.
+*You fold your arms, your fingers tapping against bare bone. What&apos;s in it for you?*
+*Ralvo counts out the entirety of the table&apos;s pot without breaking eye contact.*
+[NOBLE] *You are at the top of society. You don&apos;t know about happy, but it certainly feels &lt;i&gt;right.*&lt;/i&gt;
+The White Magisters are hiding in a secret vault beneath the barracks.
+No evidence of a crime in here, as far as I can tell.
+The eyeballs engraved into the head of this warhammer are unsettling in the extreme. You could swear they blink whenever you look away...
+Please, stop toying with me! I&apos;ve waited too long for this!
+What?! Paladins. On the double!
+*As you reach down, the hound&apos;s flesh twists, forming sharp, jagged spikes. Maybe not...*
+Woof!
+Level [1]: +[2]% Critical Multiplier, +[3] Movement speed.
+* Take your leave. *
+You do your part. Then I do mine.
+*About Kemm...*
+HP
+*Despite your efforts to stop it, the feeling expands from your gut, down to your toes, up through your heart, into your hands... and into your head.*
+Maybe they&apos;re on to something, then. Maybe we do belong here.
+[SEBILLE] *Say you can help him find whatever he needs, but first he must listen to you carefully.*
+No cave for you - I tell you this before.
+*He ceases tinkering with some kind of mechanism that lies in his lap, and gives you his full attention. A curious smile plays across his lips as he takes you in.*
+*She reaches for her face, shocked by the sound, glaring at you in anger. But then she realises - the panic is gone. She can breathe again.*
+*She smiles and moves faster, harder. Sweat glistens across her collarbone.*
+Magister Prisoner
+Spoke to the lady captain, didn&apos;t ye? I seen ye, elf, cosying up. Are ye with her or sail ye with us?
+I wonder what this does...
+Well, I&apos;m a rat. And you&apos;re some kind of... hm... stick-similar corpse-gobbler. Never the twain shall mix, thus spaketh the reddish large-style flesh-beasts!
+Hmm? What? Oh. Kin! New, are you? Very good, very good, make yourself at home.
+Don&apos;t worry, I&apos;ll keep watch.
+*Tell her you&apos;ve changed your mind, and you wish to hear more.*
+Cherry Necklace
+A voice! I can still hear it in the dark. I can hear it whispering. He won&apos;t stop...
+This is not your judgement to make, but the God King&apos;s. He has come. I am ready for his gift, and his sanction.
+I&apos;ve had some time to think, and there&apos;s a few matters I want to discuss before we carry on.
+Lohse&apos;s Theme Ambient version
+*Chuckles.* They&apos;ll be the first god in history to do so, but I&apos;ll pray you&apos;re right.
+Black Ring
+Race Info
+*Ponder the strategic implications and say you&apos;re starting to understand his motivations.*
+*Mention that she owes you her life. A reward would seem to be in order...*
+The cells are empty. Where are the prisoners?
+*His eyes flicker open, but he looks like he&apos;s still asleep.*
+You... It is you... I have found you... Lohse... womb of demons... vermin...
+But what if you could do more? What if you could save them all?
+Yes, I suppose you&apos;ll do.
+*Ask how an Eternal becomes a general in the Divine Order.*
+-ow, Quercus! There is no one that &lt;i&gt;we &lt;/i&gt;would rather have walked this world with.
+*He whispers there really is no need for your assistance, but from the weight of his arms around you, you can tell he&apos;d have trouble getting back up by himself.*
+*Fight.*
+It is your loss. I only try to help you, as you help me.
+You again. Still think you&apos;re too good for me? Or have you changed your tune? I might still compose a poem for you, if you&apos;ve come to your senses...
+I knew him, and knew his secrets. I saw his rise and fall as woven into the Tapestry of Time. He branded my truth as blasphemy, and I &lt;i&gt;burn&lt;/i&gt; for it.
+Be damned if I know. We had him locked up tight in the hold beneath his office, waiting for Lohar&apos;s go-ahead before we threw him off the cliff.
+Hall of Heroes
+as [1] damage
+Combat highlights
+Didn&apos;t you hear me, you bleedin&apos; fool? Stay &lt;i&gt;away &lt;/i&gt;from my bar!
+Inventory Intro
+A... Swornbreaker? Please - I beg of you. End this curse.
+*Note that if he&apos;s sent to the Empire he&apos;s likely going to war. On your kin.*
+*Foaming blood begins to gush from the eyes, mouths, noses and ears of several bystanders. Their flesh melts away, revealing hellish figures beneath.*
+And I&apos;ve found the limit of my patience. Your lies won&apos;t buy you any favours from me, reptile.
+&lt;i&gt;...you are not enough... you were never enough... you will never be enough... come face the truth... come face up to your lies... YOU ARE NOT ENOUGH...&lt;/i&gt;
+*Tell him you ssserve... &lt;i&gt;serve...&lt;/i&gt; the God King.*
+Look. Divinity is an immense responsibility. All that power... it &lt;i&gt;corrupts&lt;/i&gt;.
+Yes, yes, I know he&apos;s dead. I am still obligated to perform his wishes. He may not live, but the threat of his curse hangs over me.
+I am the rage that reigns...
+No sense in losing our heads protecting a thief.
+Prices are up, quality is down. Times are tough, and it&apos;s no thanks to you, lizard.
+*The spirit&apos;s face contorts in agony as it caves in upon itself and is consumed.*
+*Ask what she&apos;s talking about. What darkness?*
+*Her wet, fearful eyes flick to you. She lowers her fist just enough to hiss a warning...*
+*With great respect, take a piece of heart, put it in your mouth, and chew.*
+Hotbar Decks
+And then, target in sight, what&apos;s your preferred execution method?
+*Use your key.*
+*Keeping one hand behind her back, she gestures to the door with the other.*
+*You look at the Source around you. The power is immense. Divinity, at your fingertips.*
+[SCHOLAR] *Tell her she&apos;s in a state of shock - you &lt;i&gt;need &lt;/i&gt;her to try and focus on you.*
+Lohse&apos;s passenger took control and tried to kill the elf Saheila. We woke her up just in time.
+If you ever go to Driftwood, stranger, tell Edderd to make his father proud.
+Belt
+*Tell the door that you are Godwoken, and you come seeking knowledge.*
+[1] allows you to backstab enemies with weapons other than a knife.
+Praise be. Very well, Godwoken, listen carefully...
+*Cut the ropes and set her free.*
+Desert Night 02
+Spirit of Baran Levere
+*Tell him there&apos;s no time to waste. Those Voidwoken won&apos;t kill themselves.*
+*You&apos;ve no use for a Magister - and even less for this traitor. Consume his Source.*
+Ain&apos;t that the truth. So. Can I keep the gold? Come on. I really do need it. Swearsies.
+I suppose it&apos;s good for one&apos;s peace of mind to show a little compassion once in a while.
+Infest
+Elvish Flammenschwert
+There&apos;s no-one I would trust with this responsibility but you. I know you&apos;ll do what needs to be done - what &lt;i&gt;ought &lt;/i&gt;to be done.
+[BEAST] *Say you&apos;re sure she will, if this old tub can stay afloat long enough.*
+*Tell the ghost you&apos;re looking for Mordus.*
+You did? Where?
+Blaithin
+We have chosen to impose our will on the ship. It must now do as we command.
+*Nod and take your leave.*
+Nice &apos;n&apos; slow...
+*Ask what it was like, snuffing out all those souls, taking all those lives.*
+Lucian help us...
+Then I am a free agent! Free to live, laugh... and love... Tell me, oh prince... are you a... bachelor?
+*Shake your head and state that you are well-loved the world over.*
+Welcome home, master.
+Wind Deep Forest 08
+I remember running away, with blood on my hands...
+Vacuum Aura Scroll
+Not really! Violent, sure, but we can deal with &apos;em.
+Well - yes? Aren&apos;t you curious?
+*The first thing you notice is the figure&apos;s empty, eyeless sockets. The second thing is that your skin is crawling. The third is that your senses feel... heightened. The fourth is that he is - or was - Black Ring.*
+Reckon they know what they&apos;re doing. Right?
+*Gratiana&apos;s head is bowed. From within her mask you can hear the whispered words of a prayer. She falls silent, turning to face you.*
+Rivellon Fries
+*Tell her one egg survived, but then... &lt;i&gt;someone &lt;/i&gt;ate it.*
+Cover of the Guardian
+Add potions
+F22
+*She freezes in confusion, unable to work out what&apos;s happening to her.*
+Least here we still got &lt;i&gt;some &lt;/i&gt;Magisters to look over us.
+[1] increases the damage bonus when attacking from high ground.
+*Look more closely at the item.*
+What kind of Divine were you, as the world battled on?
+*Once more she spits on the burning corpses.*

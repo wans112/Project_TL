@@ -1,0 +1,153 @@
+Possess
+I touched nothing. Was touched by nothing. The greatest horrors and heroism were no more than footnotes to me.
+Torture Mechanisms
+Nothing yet, madam... the Black Ring captive you executed was the only one who knew how to operate it...
+I can&apos;t force you to do the obviously correct thing; I can only tell you that once you&apos;ve made the decision to face him without my help, you&apos;re quite on your own in the matter.
+You&apos;re an unexpected visitor. We can&apos;t do business unless you pay the man downstairs.
+*Take a step away from him. Ask what happened here.*
+But I do, &lt;i&gt;Master&lt;/i&gt;, with the heat of a million suns.
+Item Name
+*Frown. You are an Eternal, what further requirements could there be possibly be?*
+*It may be pointless, but you push back against the claw. You strain and sweat, but you damn well keep pushing back.*
+*The woman stares into the far distance, gently rocking back and forth.*
+*A dreamy smile spreads across her face.*
+Noxious Void Salamander
+*Imagine the honeyed voice turning to poison in your mind. Use the thought to resist.*
+Almost there - a little longer!
+Yit Koor
+You! You&apos;re a comrade of the brave soul who&apos;s to retrieve my supplies - isn&apos;t that right? So? What&apos;s the word?
+It&apos;s a bit on the tall side for my liking.
+Mordus is dead. We should bring back proof to Lohar.
+She made a deal with some mighty dark forces and now she&apos;s lookin&apos; for a way out.
+*Nod. Does he know a way?*
+True enough, but all in good time. She needs to rest now. Settle into herself again.
+Not interested in the son of the Divine himself? Ha, I don&apos;t blame you one bit... but Vik here&apos;ll blow a blood vessel if he hears you talking like that.
+Explode target corpse, dealing physical damage in the area.
+no new Divine had risen.
+Do not look at me like that. I said it was &lt;i&gt;simple&lt;/i&gt;, not easy. Now get to the Magisters&apos; barracks and find that list! You no longer have the luxury of time.
+*Ask about Rosewood.*
+*Gesture to the Sourcerer. While the Magister was babbling, her prisoner was trying to escape.*
+Are you creatures really so deeply insecure? Good heavens.
+Divine&apos;s Lament
+Do as I say, Lohse.
+I blame Damian for this. Lucian never should have taken him in.
+Owlmistress Aoife:&lt;br&gt;&lt;br&gt;We bring word from the east, from the deserts of Mezd.&lt;br&gt;&lt;br&gt;The spice trade is flourishing this year, and the tented stalls are filled with jewelled fruits and honeyed ales.&lt;br&gt;&lt;br&gt;We read of the difficulties in the Arx environs with pity and hope that your troubles will be allayed soon.&lt;br&gt;&lt;br&gt;Wishing you the bounty of the sun, and the protection of the moon,&lt;br&gt;&lt;br&gt;Acquillah bat-Mezd
+No spirits here either. All purged.
+*A vision appears. It wavers, then becomes clear. In the reddish light cast by flowing lava, you see a cave. You recognise it - this is the Sallow Man&apos;s cave. The roof has fallen in. Nothing there lives.*
+Undead almost got me on the way in. Had to kick his head right off to get free. Put my foot through his skull and, well...
+Your flesh isn&apos;t worthy of the steel of my blade, but by all the dead gods, it&apos;ll just have to set aside its pride!
+Ha. HA! HAHAHA! They don&apos;t involve me, do they? Think again: What you do involves all the realm.
+As the new Mother, Sebille founded a new elven homeland. Elves flocked to her, and she became a demigoddess. Sebille swore never to kill again. But when the demons went to war, her needle would draw blood once more.
+*Fane tosses the book over his shoulder. It flutters in the air as it sails over the ship&apos;s railing and disappears with a faint &apos;splash&apos;.*
+Elixir Mixer
+Our search for Godwoken&apos;s at a standstill. Those Shriekers Dallis deployed at the shore - they&apos;ve grounded us. We&apos;ll overcome though, as long as I have steel in my hand and Lucian in my heart!
+The ravenous Weaver will reward us for flesh. Three more limbs, to be exact.
+Driftwood. Old master. Hot heels. Got it.
+You nobody.
+Poison
+&lt;i&gt;No more games. Only liberty.&lt;/i&gt;
+*He looks deep into your eyes and sees... &lt;i&gt;something.*&lt;/i&gt;
+*Before you stands a shrine to Amadia, her solemn face carved of ancient stone.*
+Then why, pray tell, are you wasting time? You may have eternity, but Rivellon does not!
+This yellow fish is the last, eh, &lt;i&gt;sample &lt;/i&gt;that I wish to study for now... if you care to do the honours...
+*Respond with &apos;The House of Pleasure&apos;.*
+Hold [IE_PanelSelect] and point [LeftStick] in the direction of the &lt;font color=&quot;008858&quot;&gt;equipment&lt;/font&gt; panel to open it.
+And who would&apos;ve thought it? You&apos;re sure not the collared landlubber I first met, that&apos;s for sure! You belong to Rivellon now. You and that... demon, I guess.
+*Tell him you&apos;ll do everything you can.*
+*The spirit of a man looks around, distraught and confused. He doesn&apos;t notice you.*
+Move along then - I&apos;m behind in my duties.
+Savage Axe
+I love you too.
+*Say that you&apos;ll do the right thing - you&apos;ll save the world with those powers, as you&apos;re supposed to.*
+I proclaim thee the Champion of the Driftwood arena! Get yer gloat on, &apos;n&apos; take a swig of ale. Hell, take a dozen. We&apos;ll be singin&apos; for years to come of the great Void-slayer!
+Don&apos;t say that! It&apos;s beautiful!
+*Turn away. You&apos;ve done all you can.*
+*Tell her Amyro asked you to bring a token back to her people, so that they might come and rescue her.*
+You will pay!
+*Sacrifice two Source points to the device.*
+However, Lady Kemm may not appreciate fielding questions from someone of your, eh, &lt;i&gt;unrefined &lt;/i&gt;stature. I trust you won&apos;t take offence - nobility must adhere to protocol.
+I agree. You and he have long been on the road; I suppose you trust one another. The God King must burn, so under your joint command let our child be the all-consuming fire!&lt;br&gt;
+*Tell him to get the hell away from that body!*
+*The Paladin presses a wad of fresh bandages upon a steadily-bleeding leg wound. For a moment, it seems to work... but then, the bleeding suddenly gets &lt;i&gt;worse.*&lt;/i&gt;
+Hmm? Oh. Yeah. I know. Your buddies came with a full report...
+Setting you free was my own cowardly act. This ends, right here and right now.
+You&apos;ve never heard of Her Royal Highness, Princess Zenthia of the Firelands?!
+Does this look like my workshop? What are you waiting for?
+*Tell Ifan you did what you thought best for Rivellon.*
+Crusher
+*The hatch is firmly locked.*
+Alright, I&apos;ll allow your presence in Lord Arhu&apos;s chambers at this point in time. Please be mindful of the Lord&apos;s belongings. Do not give me a reason to change my mind.
+You can&apos;t go in there, mister. The Meistr isn&apos;t home an&apos; the Magisters locked her house up for her.
+Explode, dealing [1] in a large area around you, creating an Acid surface.
+AHEM!
+Mashetou na-pathen, sh&apos;danilou! Caomail s&apos;aravel, damerail s&apos;aravel!
+*It might seem like a bad time, but ask the dwarf if she could remove your Source collar.*
+Target is out of sight!
+FreeCamera Rotate Mouse Right
+Far be it from me to criticise, but were these truly what passes for &apos;heroes&apos; in this world?
+*Siva&apos;s face freezes, her eyes burning. You&apos;d swear her spirit&apos;s form flickered, threatening to lose its shape before she regained control.*
+Kemm? Well why didn&apos;t you say so? Go on.
+It&apos;s a shame, it is. An absolute shame.
+Only, I never intended to make it through this alive. And now, neither will you...
+You... you... you &lt;i&gt;ate &lt;/i&gt;the eggy baby? HENS! PECK!
+*Dizziness. It lasts just a moment - but long enough for you to feel the demon&apos;s presence. You hear no words, yet understand: it&apos;s imperative you accept Ryker&apos;s bargain.*
+As am I. A prince should die of old age or on the battlefield. Anything else could be construed as weakness of character.
+I also see you are not yet... whole.
+*He mentioned barrels. Ask if he knows about the marked barrel at the shore.*
+[LOHSE] *You&apos;ve got to be kidding me. He deals with demons?*
+Royal Fire Slug
+I... I saw. I saw, I saw. I saw - BACAW! - I saw...
+At the sawmill, the spirit of a mage murdered by a Lone Wolf asked us to avenge him.
+*Tell him to go right ahead. What&apos;s the worst that could happen?*
+*Cough*
+*Look inside and bark at the thing to stop. You don&apos;t want to hurt this elf. It can&apos;t make you.*
+Oh, do I?! Why yes, yes I do!
+Careful you don&apos;t get in the way up there, shorty. Jonathan&apos;s blade is ready, &apos;n&apos; I doubt he&apos;ll be caring much who or what he slices.
+As will I.
+*The traitor himself - the Divine you once selflessly served, the one you thought dead - lords over the chamber from a granite throne. He moves to speak, but it&apos;s Vredeman&apos;s voice that next pierces the air.*
+The lock&apos;s melting away! Mordus turned the key into an amulet. Cunning...
+Malady&apos;s Beacon
+They&apos;re kind though. Magisters kicked &apos;em something fierce, but still they gave me water and bread and shelter when I needed it.
+ruled over by by the Sworn and the Eternals.
+Got no reason to scramble out, me. S&apos;hot and busy out there. S&apos;cool and quiet in here. Or at least, it &lt;i&gt;used &lt;/i&gt;to be.
+The third Passion of Lucian. Hubert Oak&apos;s brushwork is unmistakeable!
+*Shrug. You&apos;ve fought a fair few, but it was no big deal, really.*
+Explore the Hall of Echoes.
+The servants, they got nothing up there. Ryker has it all now.
+Weep, my friends, for Alexandar the Innocent...
+*Wonder what he plans to do next.*
+Were it not for the princess.
+Oh, but I did.
+*Tell her to shut the hell up or you&apos;ll cut her head off.*
+&lt;font color=&quot;008858&quot;&gt;Move&lt;/font&gt; objects by clicking and dragging them.
+Phew. I was afraid I was going to have to smack you upside your nut, there.
+*Squint. What the hell is he talking about?*
+Get away from my chest.
+*Tell her you can both escape through the back.*
+Still going east? Pick another, that&apos;s my advice.
+We ventured on, leaving Sanders behind us.
+Open the &lt;font color=&quot;008858&quot;&gt;party radial menu&lt;/font&gt;, highlight a party member, and press [IE_Interact] to select. Then select another party member in the same way and press [IE_ActionMenu] to group them.
+HehehehehEHEHEHEHEHEEE... BOOM!!!
+Soulcatcher
+*Continue to listen.*
+Cornered!
+themselves
+Magister&apos;s Twohander
+Good god, that is NOT something I like to see.
+*Say that perhaps she owes you divinity...*
+It&apos;s just-... that thing you did with your tongue. It was... quite unexpected.
+Ballista
+There&apos;s a Lone Wolf named Zaleskar out in the Hollow Marshes. I&apos;d like to interrogate him.
+You damn fool. Every second wasted is a second he could use to escape. Next time, have something worth reporting.
+Dunes Indoor 01
+GARVAAAAN!
+That metaphor works, right? I&apos;m goin&apos; with a &apos;yes&apos;.
+From the desk of Her Ladyship, Dallis, Right Hand to Bishop Alexandar, Son of the Divine&lt;br&gt;&lt;br&gt;To our brave troops in Fort Joy,&lt;br&gt;&lt;br&gt;Be warned: A tediously bothersome, but not altogether disorganised, group of rebels calling themselves &apos;Seekers&apos; have set their eyes on some of our Sourcerers. They may or may not have facilitated the escape of at least two &lt;i&gt;special&lt;/i&gt; ones, and you are forewarned to be on high alert.&lt;br&gt;&lt;br&gt;If any so-called &apos;Seekers&apos; are found, they are to be delivered to my person directly for a treatment I and only I may administer.&lt;br&gt;&lt;br&gt;Mistakes and mis-steps will NOT be tolerated.&lt;br&gt;&lt;br&gt;-D
+He would never stop seeking.
+*The spirit shivers and shimmies - and then is gone to the Hall, relieved of his mortal pain and penitence.*
+You are pure - you can be my champion.
+Resurrect
+Unlikely Lovers
+Feldspar
+I have lost a husband. And I fear I may lose a son, too.
+Lucian&apos;s tears, DeSelby, what have you done?

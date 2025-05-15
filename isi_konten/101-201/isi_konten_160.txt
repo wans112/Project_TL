@@ -1,0 +1,172 @@
+Nice try honeyplum, but you&apos;re a bit of a &lt;i&gt;tall&lt;/i&gt; order for me...
+Supernova
+*Look at the dwarf curiously. What voice?*
+*With a mischievous twinkle in his eye, Cranley glances from you to some nearby skillbooks - &lt;i&gt;rare ones&lt;/i&gt;. He raises an eyebrow; impress him, and we might win a prize, it seems.*
+She&apos;s a tidal wave that will take wing, become a murder of dragons - red as the setting sun - that will alight every corner of this world with the terrible splendour of fire.
+*Nod. You are Amadia&apos;s chosen.*
+There&apos;s a madness among &apos;em. Can&apos;t say for sure what it is... but I haven&apos;t been able to crack it.
+Oh, he&apos;s not tame. He&apos;s not tame at all.
+My, this is useful...
+*Say you&apos;d love to hear her play a song.*
+*Ask if she has any notions about where you should start the search for Dallis.*
+Dead Monk
+[IFAN] *Shrug. Say it&apos;s up to them to believe what they like.*
+H-hey.
+Pull your party portraits apart to &lt;font color=&quot;008858&quot;&gt;unchain&lt;/font&gt; them. Breaking the chain stops them from following the party member they are chained to.
+Don&apos;t embarrass yourself. A drunken orc shows more subtle sleight of hand.
+*Snarl. That&apos;s right: there&apos;s a mutiny. And if he wants to see his family again, he&apos;ll stand down.*
+*The shade of a spirit shimmers before you, barely visible. Its Source has been sucked nearly dry.*
+*Assure her she&apos;ll be freed, but you&apos;re curious how she knew you were Godwoken.*
+See the cook for stew, friend elf.
+You&apos;re still barred.
+*Wave your Writ of Passage in her face. She needs to leave you alone.*
+I knew I&apos;d see him again. I wish it hadn&apos;t been like this...
+A few dozen, at least. Would have been more if the Seekers hadn&apos;t proved so... sacrificial.
+*Ask Ifan if he knows anything about where the ship&apos;s headed.*
+*Fane ambles up to the unhinged-seeming Magister and engages him in conversation.*
+*A flicker of recognition crosses the girl&apos;s face, before the demon regains control.*
+Signs
+Very well, child.
+*Thank her; you&apos;d much appreciate the help.*
+*Warn the Magister that the tinkerer has a bomb.*
+Well, I hope you feel better! I hate those cranky days.
+Once Gareth has returned, the Seeker Leya may remove my Source collar.
+And I know I must stay here until it&apos;s done. Maybe in the end that&apos;s all I know.
+You have earned the favour of an elven leader.
+*He turns his head and spits.*
+*The groom looks like he&apos;s about to speak, but thinks the better of it as you walk away.*
+*Tell him you&apos;re far from impressed. After all, his prisoner is about to escape...*
+When this character dies, all nearby allied characters receive an increase to damage and resistance.
+Thanks, mister! I&apos;ll go find my mum now. And I won&apos;t trust anyone!
+Soul Jar
+*Mention that you did see someone hiding in a barrel...*
+All you see is red. You&apos;ve lost sight of all reason. You know how the scar works. You know I have but to sing a single tune.
+&apos;Here rests Clyde Wellows, a devout follower of Lucian.&apos;
+The ship docks at the mainland before this island. Where exactly, I do not know.
+Stunned makes target unable to move or act.&lt;br&gt;Damage dealt depends on your weapon&apos;s damage rating.&lt;br&gt;Can target some surfaces and clouds to electrify them.
+Fort Joy? Praises be, but that&apos;s where my boy Kniles is stationed! He&apos;s the physician overseeing all the camp.
+*Ask about Gratiana.*
+*The child departs, and night falls. You hear voices and the dull thud of axes. A human approaches you and pats your trunk. He raises his axe and - *
+*The Source pearl you gaze into grows dark and disappears. You are left with the endless blackness, blacker than black, of the spirit&apos;s depthless eyes.*
+*The spirit barely has time to utter an outraged hiss before he vanishes.*
+I pay what I must pay. You still escape. You still go on. You still do what you must. None stops you.
+Yes. I am afraid. I am always afraid. When the Voidwoken came...
+Statue of Praying Monk
+I have the Shadow Prince&apos;s heart. Enjoy...
+But... but if you find him, maybe you can help him.
+Look around, lizard. What ya see is what you get. It&apos;s a fighting arena. You step into it when it&apos;s your turn, and take whacks at whatever comes barrelling towards ya.
+Web
+*Ask her to clarify: What side of &lt;i&gt;what?*&lt;/i&gt;
+Sorry friend. If I&apos;m to shine a bit of sun on the people of Arx, I&apos;ll need the coin. I can&apos;t go lower for a poem than what I ask. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+A man of stature wouldn&apos;t be moored on a dock with no-one but dead fish for company!
+I know. I know.
+I didn&apos;t think it&apos;d be possible to make it into the Consulate, but you&apos;ve proven me wrong...
+*Life is full of surprises. You have now seen a cow cry: Geraldine sobs like a baby.*
+Are you sure you want to return to the main menu? You will lose your progress.
+Listen. We&apos;re both busy men. Why don&apos;t you get busy somewhere else, while I stay busy here?
+*Tell Exter you need a few moments to prepare. You will return shortly.*
+[FANE] *Pause. The last time your curiosity got the better of you it did not end well...*
+But I did what I had to do. And I&apos;d do it again.
+The Divine is truly on our side today!  We are glad to have you.
+*Hrm* *Hrmph*
+Halt, prisoner! I don&apos;t know how you escaped your cell, but I won&apos;t let you make that mistake again!
+*...and then opens the door. With a jerk of her head she motions you inside.*
+Blood Rose Seedling
+Well, your sense of humour must&apos;ve drowned. Think you&apos;re a big man in here, Mr. Silver Claw? All&apos;s I need to do is whistle, and my dogs&apos;ll tear you open eyeballs to bollocks.
+The goal of Dallis&apos; excavations in the Blackpits was the artefact known as the Aeteran.
+Lizard
+*Roar in anger. She locked you up on that stupid island! She tried to purge her own father!*
+Our sister is with us once more. Hope returns.
+...I &lt;i&gt;hoped &lt;/i&gt;I was delirious, but eventually I realised what had happened.
+Taste steel, Godwoken!
+What can I get you, my dwarven friend?
+Peridot
+Poison Elixir
+*Ask him what he&apos;d like to know.*
+I&apos;ll... I&apos;ll show you!
+*Refuse to answer and take your leave.*
+What the flying hell...? Carin, you said this way was clear!
+*Insist that only a bow will do and incline your head.*
+You have put your trust in me - and so I&apos;ll put my trust in you. I&apos;ll gather the Seekers and we&apos;ll meet you at camp. But I implore you to find a way to squelch the Shriekers. Our lives depend on it.
+*Ask why she speaks of these spores as if they&apos;re alive.*
+*Tell him you&apos;ve met Rosewood.*
+It is a pain too great to speak. It is a wound too deep to heal.
+Let her go. Imagine the heroes&apos; welcome we&apos;ll get in the kingdom after Ros tells the dwarves what we did!
+Skeletal Hailcaller
+That&apos;ll be the regular toll. ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+Delorus is a fool. Went and got himself caught, and now he&apos;s handing out our secrets to whosoever may pass by.
+This isn&apos;t right. We need the whole team for this!
+When the crackdowns and decrees came, I defended her. When she exiled you, I joined in the applause. But this new plan of hers... I want to believe, I do. But... Deathfog? Something&apos;s not right, Marcus.
+Please sir, you should not be back here. It&apos;s not safe.
+This place is already overrun with addicts and orphans, and now I&apos;ve got to deal with... what? A rogue corpse-muncher?
+*Leave the jar alone.*
+I became Divine.
+The Arena of the One
+Lady o&apos; War
+Fane
+*Then suddenly something coils within your chest and a shout lacerates this brief moment of serenity.*
+*Think it over and say that actually sounds... exhilarating.*
+*The creature before you stares with sightless eyes and leans from side to side, like a puppet without strings.*
+A kiss of sunlight, the brightest burnishing for your equipment.
+Piss off.
+*The skeleton glances up, big, sad eye sockets taking in your every detail.*
+Restore [1]% of weapon damage as [5].
+*Demand that he yield. The quest for a Divine supersedes his juvenile need for revenge.*
+*Take your leave.*
+After pulling the skeletal arm out of the sand, we found out it&apos;s missing a body. When on the ground, the arm points in a certain direction.
+Do you still not see? You are more than what you once were. More than what our people &lt;i&gt;ever &lt;/i&gt;were.
+Hey! That&apos;s not right!
+Level [1]: up to [2]kg or [3] total gold value.
+*Ask if she doesn&apos;t feel regret about snuffing out all those lives.*
+Faith
+Corrupted Ancestor Tree
+Create fire surfaces. Set Burning on enemies.
+She really is much stronger than she looks.
+Harmony
+*Your head spins as you drink in her essence. Every inch of your body tingles...*
+Mystical Giant Masterwork Rune
+Giant Diamond
+You come find me if you come across anything interesting.
+Spirit of a Prisoner
+You are here to bow before me and see my Lord&apos;s power.
+Open your eyes. Time to die.
+Aren&apos;t you distracted by the chi-chi-chi-CHI-trinkets I gave you in return?
+...&apos;tis through their might that peace may multiply.
+Sanguinia Tell collected payment in death.
+*Take your leave.*
+Hahaha! That might be the most dramatic thing I&apos;ve said in &lt;i&gt;ages. &lt;/i&gt;You can rip the Beast from the sea, but you can&apos;t rip the sea from &apos;im!
+*Remind him that The Lady Vengeance was only a ship. What made her special was the crew.*
+Difficulty
+&lt;i&gt;Take one down and share it around, then there&apos;s... wait... damn it! Lost my count again!&lt;/i&gt;
+This... this is the archaeological discovery of a lifetime!
+MAP
+*Tell her you thought better of the deal.*
+Driftwood became a centre of industry, trade and transport.
+[VILLAIN] *Say that it sounds like the work of some kindred spirits.*
+The staple weapon of malevolent lumberjacks everywhere.
+Damned right I did. And just you wait &apos;til you hear what I call my beard!
+*As the cursed tendrils slacken, Zorl-Stissa inhales deeply, air wheezing into her throat.*
+&apos;It just happened&apos; that you take her life.
+With him dead, it should be all the easier. I highly doubt Lady Kemm&apos;s prepared to resist any... resourceful intruders.
+No. I can&apos;t risk any more lives. I&apos;ll wait here. Return when you&apos;ve got a wand in hand.
+Pinewood Bow
+They&apos;re holding mistress in the prison downstairs, asking her questions. She&apos;s locked in a cage - a cage of metal bars, but of &lt;i&gt;magic &lt;/i&gt;as well.
+Back for a return visit, are you?
+Vengeance II
+What do you mean. What do you mean &lt;i&gt;passed.&lt;/i&gt;
+W-well there&apos;s only one Seeker left to help to help you with that...
+We left Reaper&apos;s Coast without all the heroes&apos; treasure.
+Trader Friel
+You &lt;i&gt;will&lt;/i&gt; learn to make your heart a stone. All life is priceless, unless the price is all life.
+These have velvet inlays!
+A couple of skeletons would be nothing, but they&apos;ve been relentless. Undead and Voidwoken both, attacking in waves.
+*ROAR!*
+*Note that the loss of the homeland is a great one - but the loss of a scion like Saheila would be greater.*
+Moon.
+Sourcerers dance while Magisters pull the strings. Fools, all! Their tomfoolery won&apos;t save them from the destruction the Void shall wreak upon them!
+Life shall be restored...
+You are a fool to pull a move as thick as that one. C&apos;mon, then. Off to prison with you.
+Golden Black Ring Shield
+We have seen what your limits really mean.
+*Ask who &apos;he&apos; might be.*
+With [1], you start every combat round with Maximum AP, but Magic and Physical Armour do not protect you from statuses.

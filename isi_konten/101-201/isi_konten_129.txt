@@ -1,0 +1,149 @@
+*The child whimpers, poking at a paternal instinct you&apos;ve rarely acknowledged.*
+(If he doesn&apos;t have the ingredients he&apos;ll have to find Arrabella and take them off her, won&apos;t he?)
+*He stares deeply into your eyes.*
+Just get yourself masked up. I&apos;m not terribly keen on that... toothy grin of yours.
+*As the flame gutters out, a voice cries out in anger. A spirit, bound for oblivion. And then it is gone.*
+Woof!
+What a shame. All this wealth&apos;s just been going to waste...
+*The goddess&apos;s tears still stream freely, and an aura of immutable dread permeates the moist,  gaping air.*
+Radius: [1]&lt;br&gt;Duration: [2]
+I know because I&apos;ve known others like you: those whose fates are chained, for better or for worse, to that of the gods themselves.
+*Wonder if this is what love feels like...*
+[LOHSE] *Tell him there may be good reason for that. Perhaps you just don&apos;t have much in common.*
+&lt;i&gt;No&lt;/i&gt;.
+BACAW! Peeper isn&apos;t Peeper! Peeper is a... a... MONSTER!
+You know it!
+I am summoned. Speak the password.
+Truth be told, I couldn&apos;t have done it without your help.
+Graphics
+Clear-Minded
+Target is too far
+If you show me a little love.
+Dallis will succeed. You and your kind will fall.
+Blessings come today. Blessings from the trees. From the gods. From all.
+During the war, Ifan took the elves a portal device to save them from a Deathfog attack. But he was too late...
+Thank you for your help with that &lt;i&gt;thug&lt;/i&gt;. Humans hate us both the same here. It is so strange...
+*The squirrel absentmindedly runs a paw over Quercus&apos; spine. The air fills with the sound of soft, dusty purring.*
+I find our thief. Death is the only proper punishment for criminals like you!
+Magister&apos;s Journal
+*A haughty-looking Undead woman - &lt;i&gt;unmasked&lt;/i&gt; - surveys the ground around her, seeking something. Suddenly, her head swivels and she trains an imperious gaze upon you.*
+You won&apos;t take it off me! You won&apos;t take it off me!
+*Resist arrest.*
+*Look at her in frustration. They can&apos;t stay in this swamp forever - what does she suggest?*
+I&apos;ve plenty of fighters for hire - experts in blades, bows and bewitchment.
+*Tell her that you can deliver a message - what is it?*
+Blue Noxious Bulb
+Not... &lt;i&gt;one. HAHAHA.&lt;/i&gt;
+Thassa spirit. How about just one more? Penny for a sick dog? Dog&apos;s sick, after all.
+*She remains still and rigid.*
+[Translate97_00448364-0da8-4fdb-91df-5ca1b1e5e723]
+*Ifan&apos;s eyebrows raise, and his cheeks colour beneath his beard.*
+*The couple tenderly kisses.*
+*Give in to your flailing God - let it speak.*
+FAIL
+Filthy Iron Key
+Encourage allies around you, increasing their primary attributes.
+The Empress was my first champion. She laid the path for those who would follow.
+*Fib that Meistr Siva sent you. She said he might be able to help you.*
+[1] lowers the Action Point cost of spells by [2] when standing in a surface of the same element.
+*Note it sounds that he&apos;s trusting his instincts that Higba isn&apos;t responsible - how sure can he really be...?*
+Wait. Before you go.
+Stay lit, dammit!
+Do not doubt my power. I merely &lt;i&gt;wish&lt;/i&gt; you gone! You are gone! BEGONE!
+Embrace who you really are. Why did you become a crusader in the first place? You heard my call. &lt;i&gt;My&lt;/i&gt; call, not Lucian&apos;s. So fight for &lt;i&gt;me&lt;/i&gt;.
+Let&apos;s get out of here, chief.
+*Ask her about this &apos;ritual&apos;.*
+Huh? What? But I was - it was... Please, tell me, tell me, *ahem* WHY did you wake me? I was so close... so close...
+Well - not as ignorant as you look, are you? Yes, Marcus. The Order comes for the Kingdom, and so it must be silenced. It is the only way.
+Mutated Flesh
+PUZ_InvisibleBlocker_2x4_Camera3
+Be well, Fane. Good-bye.
+Heh. I&apos;m right chuffed to have my supplies back, so I&apos;m gonna give you one last chance.
+*Tell her the Magisters spilled blood at the Crossley house - Crossley blood.*
+Barracks Prison Chest Key
+Move items
+&apos;Horrors&apos;, eh? Easy to say when you haven&apos;t looked a Voidwoken in the eye. The Order - and their &lt;i&gt;horrors &lt;/i&gt;- are all that&apos;s protecting you from that fate. You and everyone else in Rivellon.
+Kemm wants to enter Lucian&apos;s crypt; Dallis says to allow no-one inside. That the Order still stands is a miracle of Lucian himself. Thus far I have denied all persons entry. Yet even if I were to allow him to enter, Kemm would perish in the attempt: the engineers ensured the defences more than adequate.&lt;br&gt;&lt;br&gt;I cannot help but question the Divine&apos;s wisdom. The Void threatens to swallow us all; would it not be better to share the powers of Divinity with all of Rivellon than to leave them buried with Lucian?
+[SCHOLAR] *Bow and tell him you&apos;ve been sent here as an expert on these ruins.*
+Whittled from Lucullan timber and wound with bright silken ribbon, this versatile staff is as well-crafted as it is powerful.
+I don&apos;t believe we have anything further to say to each other, child of men.
+*Say you&apos;re touched she trusted you with the song that controls her scar.*
+&apos;A lonely traveller did pass,&lt;br&gt;We found her lying in the grass.&lt;br&gt;We saw the smile upon her face.&lt;br&gt;And gave her a final resting-place.&apos;
+*The way forward is suddenly clear to you: You must ascend. Only a god could rid the world of the demons that plague it. That god will be you.*
+*It&apos;s a one-man job. A job &lt;i&gt;no&lt;/i&gt; man wants. Your sly-eyed troop leader holds out straws to you and the others. Who will investigate?*
+*Keep distracting the White Magister. He should tell you all about this Hannag...*
+*Say it was you who undid Braccus&apos; magic. You who released the captain himself.*
+That was... lovely. Thank you. Your compassion means everything.
+*Tell him that Alexandar is already dead.*
+With Amadia silent, the priestess Gratiana left the swamps and re-entered the world. With more undead than ever before, she founded an abbey in the Dragonspine mountains, offering them shelter from hatred and fear.
+A new dawn, a new day. Now to get control of this barge before sundown!
+Hardly. I cry for peace; they yearn for war. They stray from civilised thought, ignore the lessons and memories of the fallen.
+*Remark that she&apos;s too well-heeled to be some homeless drunk, and ask what happened to her.*
+I hear half-witted ogres give better excuses than that!
+Dark paths lead only to tragedy. He needs a divine light to lead the way. I pray he finds just that.
+*Stay put. After all, he has a flair for drama.*
+Nazad Hunola
+*Decline his request. You&apos;ll go where you want.*
+Peep?
+Be not frightened of me, delicate fleshed one. There&apos;s far worse than &lt;i&gt;my&lt;/i&gt; bite in this quagmire.
+She don&apos;t listen to reason! Maybe you&apos;ll have better luck than I. If I have to hear her callin&apos; after Erma another day, I might lose my head. And there&apos;s not a soul here who&apos;d blame me!
+I am not one to break an oath lightly. But I am also not one to ignore the truth, not when it&apos;s written in my own blood. The Void nears. I&apos;d sooner the future be in the hands of a Godwoken than with the Black Ring.
+No more words. The Arena will decide.
+*Admit it. You&apos;re the Scion killer.*
+*Tell Slane you&apos;ve changed your mind. You want to keep Radeka&apos;s Purging Wand.*
+*Mention you&apos;re still unclear on why you need to be the one to do this. Are his legs broken?*
+*She shoots you an angry look.*
+[BEAST] *Shout that you know Isbeil&apos;s plans, and you will make her pay for her treachery.*
+no memory
+*Say you&apos;ve heard far-seeing is as much a burden as a gift.*
+The door let us through. The captain&apos;s quarters are free for us to explore.
+*Ask who that voice belongs to.*
+*The spirit still doesn&apos;t see you, but he seems to sense encroaching oblivion. He closes his eyes.*
+You... you &lt;i&gt;fiend!&lt;/i&gt;
+I see my people safe again. Thanks to you.
+In Braccus Rex&apos;s old armoury we may find means to defeat the Shriekers.
+Left Ctrl
+Jxxrrr-rrsx. Lu-cian TrrXXk-rr.
+That&apos;s quite a diversion you concocted there, but it won&apos;t work on me.
+This is the place. The entrance to the archive must be near.
+*Like a mortal?*
+&apos;Within the Stonegarden&apos;s Walls&lt;br&gt;Peace Be Thy Immortal Fortune&lt;br&gt;Relieved of Toil, Free of Indignity&lt;br&gt;Until Thou art Called to Serve.&apos;
+*The cook looks wounded for a moment... then draws a knife.*
+As Source flooded Rivellon, Fane set out to record everything he could of this new world. As he travelled, he kept a socket peeled for signs of the Eternals, hoping to find the wife he&apos;d lost. He&apos;s still looking.
+*Say you&apos;ve learned what you set out to learn, and you know the way to the Nameless Isle.*
+*Sigh.* This is my mistake. You are no pig. I am no bull. Please - just leave us.
+*The cat stares at the scene before it, every muscle tense. It seems ready to pounce or flee.*
+Malady... Half demon, and yet I mourn her.
+[DWARF] *The symbols are an ancient dwarven dialect. Read them.*
+*As your vision clears you realise that the spirit before you is... or was... a childhood slave. Old Stinky went on to become a poisoner known as &apos;The Black Widowmaker&apos;, shunned by all the Houses. *
+Yeah, dollface is right! Why don&apos;t you show us some balls then, Yer Highness? Can&apos;t do what you came here for without &apos;em, can you?
+*The &apos;Sourcerer&apos; screams and runs away. &apos;Dallis&apos; and &apos;Alexandar&apos; in hot pursuit, all three children laughing.*
+Bust of Alexandar
+Let me mark your chart... but you be warned - stay off the wreck itself. Let her lie as a monument to her dead crew, and as testament to my mistake.
+You... you must hurry. I hear it singing to me.
+You assume I&apos;m a fool!
+My soul is bound to joyless obedience. Purged of my Source by the wickedest of witches, I stand in thrall to her every whim. She has only to command, and my traitorous body complies...
+*The imp God rolls her eyes, throwing you an exaggerated bow before she fades to nothing.*
+A Voidwoken attack left the Ancient Empire consulate in Arx burning. In the garden, we found a portal to a twisted magical realm.
+*Jahan&apos;s incantations befog your mind. All of you is thumping blood. Pumping, pumping, &lt;i&gt;pumping.*&lt;/i&gt;
+A score to settle in skin.
+[1]% chance to freeze surfaces
+What do you want, elf? You can&apos;t just come in here as you please - there&apos;s Magisters missing; I&apos;m trying to conduct a bloody investigation!
+You look for a fight, so I bring it to you!
+We always knew Gareth was fated for greatness. As a boy, he&apos;d leap through the fields with wooden sword in hand, slaying imaginary demons, protecting us from whatever evil he would dream up.
+As it should be. Now, I return to my prayer.
+Stay away from Shriekers if you want to live. I know not how much longer my friends here have...
+Oh, you pay for trying to weasel your way out of this one!
+We’ve found a few pages that were ripped from a book.
+&lt;i&gt;And you, lizard-&lt;/i&gt;slaver? &lt;i&gt;Do you come to chain&lt;/i&gt;-bind-burn? &lt;i&gt;We have a vessel already.&lt;/i&gt;
+*You won&apos;t relent. Consume her spirit.*
+Oh. You... you poor thing. That can&apos;t have been easy.
+Oh like all good things in life, one has to experience these things firsthand.
+*Tell him he must know he can&apos;t ascend. With the actions he&apos;s taken, he&apos;s not fit to be the next Divine.*
+Alcove
+*His role in life was to serve. So, too, is is role in death. Consume his Source.*
+Staff Kit Part I: Branch
+*Ask the imposing undead who he is.*
+Woof! *lick*
+Cloth Armour
+My Prince! Please, forgive the state of my garb. I barely escaped the consulate with my life, no thanks to Lucian&apos;s supposedly elite Paladins.

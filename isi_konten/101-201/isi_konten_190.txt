@@ -1,0 +1,150 @@
+*Gesture toward the demolished ship and congratulate her on the landing.*
+*You are the sister and you know that something is wrong. You climb the stairs to rescue your brother - and find him fighting for his life against the dwarves who would rob him.*
+White Cat
+Numpad Multiply
+*Ask her to tell you more about these Shriekers.*
+My darling Lohse. Tell me, what ails you?
+[Scanning the interminably boring language of this bureaucratic report, you find mention of suspicious activity being witnessed close to Doctor Daeva&apos;s mansion.&lt;br&gt;&lt;br&gt;The main thrust of the suspicion lingers around scruffy dwarves delivering barrels directly to his docks...]
+Go on, Godwoken. Don&apos;t waste any more time with me. You destiny awaits.
+I see your dark intent, Ifan ben-Mezd. I see the blood you seek to spill.
+We&apos;ll go demon-hunting in Arx with Jahan.
+*Even in death his eyes are black holes in a black-skinned sky. He bows with the deference of a noble among nobles: swinging ever so playfully between sincerity and sarcasm.*
+The altars shall show the way - but only to those deemed worthy. Bow and pray to each altar. The way &lt;i&gt;may &lt;/i&gt;be revealed to you then...
+Essences
+Good to have my blood &lt;i&gt;inside &lt;/i&gt;me again. I&apos;d best get back to my duties.
+&lt;i&gt;You are unworthy.&lt;/i&gt;
+Oh, you &lt;i&gt;are&lt;/i&gt; feisty. But I&apos;ve tired of this endless banter. Unfortunate, too. We could have been so &lt;i&gt;good&lt;/i&gt; for each other.
+Soon I&apos;ll be able to get up and move around.
+Though of course I hope it is.
+Nothing to see here.
+*The spirit cocks her eyebrow judgementally as she critiques another guest&apos;s choice of wardrobe.*
+*Tell her that the Magisters have been visiting terrible tragedies on the Sourcerers in Fort Joy.*
+Some dialogues require you to voice your opinion. This opinion gives you a &lt;font color=&quot;008858&quot;&gt;Trait&lt;/font&gt;, which can result in a Stat or Ability &lt;font color=&quot;008858&quot;&gt;bonus&lt;/font&gt;. Over time, your traits can change.
+*Tell her it&apos;s too late for regrets.*
+I confess I follow the path of Lucian!
+Around here? Get used to being assailed at every corner, regardless of &lt;i&gt;what &lt;/i&gt;you wear.
+Hm. You are not the One.
+Bone Destroyer
+*Promise to be more careful next time.*
+&lt;i&gt;You raised your hand to us... now you shall dieee...&lt;/i&gt;
+*Tell her to stop playing coy. She understands you full well.*
+Touched, were you? I could have sworn you were anything but.
+*You can almost hear his heart sink. He draws his sword, knowing he&apos;s hopelessly outnumbered.*
+*You disagree -  you have left the rest of your race behind - the undead enjoy the perpetuity of the bone: you will live forever.*
+Believe me, it gets old real quick.
+Beware his underlings though. If they challenge your presence, pose as a thrall of mine, and you should gain safe passage. My name should still command respect among them.
+You cannot change the difficulty when you are not the host.
+Leave me be! Please!
+Arena King
+Source made for an excellent ally in matters of a demonic nature. The Voidwoken may no longer seep through the Veil, but the beasts of Nemesis remain another matter.
+Set Local Player
+*With no suitable host, or perhaps sensing a threat, the magic retreats back into the jar.*
+Our hope, our salvation, hear our prayer: Rise from among us, O chosen one, and deliver us from the horrors that haunt us...
+My red friend! How good it is to see you!
+I feel weird, like I&apos;ve got ants crawling in my belly.
+*The Paladin says that indeed he did, but that Brahmos left in a hurry when a band of rather intimidating-looking lizards showed up.*
+*Ask if this has something to do with the Voidwoken attack on his wedding.*
+unknown items
+The kind of weapon that universally marks out its wielder as bad news.
+*She closes the mirror. Looks at you directly - almost as if she can see you. And then she smiles - a smile to melt the heart, a smile to drown in, a smile to send an army off to war...*
+We may have to take her down. But not yet!
+Along Reaper&apos;s Bluffs we came upon a lich, feasting on the dead.
+Very well. The future is yours to shape.
+*He reaches out and hands you something small and shiny: a &lt;i&gt;key.*&lt;/i&gt;
+One is unlocked. But now the other is stuck fast.
+UI Module Menu Move Add-on Down
+Source-Muted
+*The spirit stares, absorbing your question. Finally, she points her fingerless hand...*
+Blank Fire Scroll
+She healed the sick and soothed the wounded; I saw it with my own eyes. I brought her close. Her words were wise, and her aims... well, they seemed so pure.
+Spirit of Brother Robert
+[This is a most curious stone tablet. Most of the etchings carved upon its faces are not words, but pictographs. They do not relate a history or tell a fantastical tale, however: they detail the construction of a scythe.&lt;br&gt;&lt;br&gt;The artefact is not pristine, however. Someone has crudely scratched a modern word below the ancient drawings:&lt;br&gt;&lt;br&gt;Swornbreaker.]
+Preferred weapon of jealous hags and fratricidal worms.
+*Say you had a feeling about her from the beginning.*
+*Ask him about his work here on the island.*
+[1] improves your ability to brew potions, prepare food, write scrolls...
+Malady said this Meistr lady&apos;s the key. So we follow &apos;er lead.
+Oh, but you&apos;ve come a long way - just as I have...
+Have faith! We can always find our own way out.
+Special Stew&lt;br&gt;&lt;br&gt;A fine delicacy. One creates a nice bone broth, adds available vegetables, and as much of the fresh meat as one can carve from the bones. Discard the rest in the dead of night. Feed it to their friends.
+*Windego appears in a flash, bound and broken. Her bones are the colour of old ash, and her teeth crooked and yellowed.*
+I respect your journey, but your journey is not yours alone. &lt;i&gt;All &lt;/i&gt;our people depend on your willingness to perform the great task I have lain before you.
+That makes two of us.
+The Houndmaster&apos;s crossbow, used by him to fire bloody chunks of meat for his curs to fetch. It reeks of wet dog and rotten flesh, but it&apos;s functional.
+Open Records
+This may aid you on your journey. It is a powerful rune. You may use it as you wish.
+Flurry
+*Say you understand it well.*
+*Tell him you&apos;re looking for a way out of this place.*
+Then what&apos;re you telling me for? Get to the factory and tell the Magisters there!
+Zoom Out
+*Marg listens to your expert advice, nodding along all the while.*
+*Tell her you&apos;ve met her cows.*
+*Remark that it mentioned others - are there more like it, in the place it came from?*
+*Demand to know who his master is and what he wants.*
+[LOHSE] *Smile sweetly and say that this &apos;waif&apos; will rip his throat out if he doesn&apos;t stand aside.
+We opened the locked desk and found the Scroll of Atonement.
+*Thank him for training Featherfall.*
+I- I&apos;m sorry. Truly, deeply sorry, but I couldn&apos;t leave them. I couldn&apos;t doom them to the Void. Not again.
+I don&apos;t have time to talk, move along!
+A dwarf of noble blood. The Queen&apos;s dead father, I presume.
+Pay for your insolence with your life!
+*Lohse glares as you pass, her mouth set to a frown.*
+Suit yourself. Probably wise, given the rashes you can pick up around this place.
+In life, I knew Duna&apos;s Knight well. He would hate to be like this. Believe me, you would be releasing him from torment. Please do.
+The Eternal Worshipper
+The time has come. I have no choice but to trust you.
+You see that thing there? It tried to... to... do something. I guess I don&apos;t know what. Someone saved us just in the nick of time!
+Whoever&apos;s behind these disappearances is good at concealing themselves... at concealing what they&apos;ve done... they must have a way of disposing of the bodies...
+Gareth... you are gone. And yet you stand before me...
+Hold In Hand
+|Sourcerer|
+*Tell the kid you hate to break it to him, but his friend is really an undead, and a quite desperate one at that.*
+A Paladin Sword
+Keep an eye out, and let me know if you see anything unusual.
+We made it into Meistr Siva&apos;s cellar.
+*Tell Gareth that Lucian would call for Jonathan&apos;s death. It is the greater good.*
+*Lie. Say you met with no caravan.*
+I owe you an apology, Shield. At the start of our journey, I wouldn&apos;t have believed a &lt;i&gt;lizard &lt;/i&gt;would lead me to the discovery that would save us all.
+Dissident Magisters may be in league with the Seekers. We should track them down and learn more.
+*She&apos;s looking for Hannag? Tell her you know of her whereabouts.*
+*Purr.*
+Good, but you will need to fill the amulet with Source, and to find the Scroll of Atonement also. Only then can you proceed.
+You make your choice!
+My love... gone...
+*Suggest that they&apos;ve brainwashed her. She might not be responsible for her actions.*
+You are about to leave for a higher level area. If you have unfinished business around the Nameless Isle, you should take care of it before venturing forth. Are you ready to leave?
+Don&apos;t you dare mention  Her Majesty! And there was nothing I could have done.
+[RED PRINCE] *Bite your tongue and say you&apos;re from the House of War.*
+Here&apos;s hopin&apos;! I&apos;ve heard many a bull that&apos;s been sold off after the work&apos;s dried up. I doubt they were happy.
+*Beast inhales deeply, as if drawing in the clean sea air.*
+A Magister caravan! I remember one just like this picking me up.
+Silence the demon! She must be stopped!
+It would seem that miracles abound today. It gladdens my heart to have you with us. Now - to the ship!
+Doggy Dart
+Comfort? Even Lucian has none to spare. I&apos;ve prayed to him, an endless litany. How many tears do I have to shed? &lt;i&gt;How much must I lose for him to listen?&lt;/i&gt;
+Waiting for a letter to arrive is tedious. What I have gone through is torture.
+Sneak Attack
+Prince. &lt;i&gt;Godwoken.&lt;/i&gt;
+There are... &lt;i&gt;measures &lt;/i&gt;in place to protect the vault against intruders. I had a ring that allowed me to bypass them; I&apos;d give it to you, but alas, I seem to have misplaced it.
+What kind of Divine was he, as the Eternals took their place in the world? Did he show mercy? Did he sacrifice others to empower his people? Did he wish he&apos;d given his soul to the Veil, or was he sure he&apos;d done the right thing?
+*Harumph...*
+Giant Half-Rotten Zombie
+*Tell her you&apos;re dead serious about it. And when you find a way out... she should come with you.*
+Spirit of the Authority Master
+*Consume the spirit&apos;s Source.*
+Spirit of Master Awen
+*He holds the damaged blade up to the light.*
+Well that&apos;s a nice chunk of change. Let&apos;s just pretend this conversation never happened, shall we?
+Decide what to do with Alexandar.
+Damn, the end of divinity can&apos;t come soon enough for me. I&apos;m ready to live, ready to live a &lt;i&gt;human&lt;/i&gt; life.
+*As soon as you touch the jar&apos;s cracked surface, you see a vision of splendour. Silks, fine food, and decadent lechery.  But underneath it all lies bone and blood.*
+Blank Air Skillbook
+Only if your truth isn&apos;t fair to begin with.
+Ha! I see yer mother raised ya well, lass! I&apos;m doing grand, thank you very much. A damn sight better than them other dwarves! Bunch of patsies!
+Looooooook! More meeeeeeeat!
+*Its head leisurely lolls toward you in response.*
+Hello, dear one.
+What is this treachery? Have you gone quite mad?
+*The Goddess shrugs noncommittally. Whatever you want to believe seems to be fine with her. She leans in, her eyes wicked.*
+Unable to join game: Different version
