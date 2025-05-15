@@ -1,0 +1,154 @@
+*Your stomach churns; your mind goes numb. This is the end, this is the - *
+Aren&apos;t you a tasty one? Careful you don&apos;t get in the way up there. Jonathan&apos;s blade is ready, &apos;n&apos; I doubt he&apos;ll be caring much who or what he slices.
+Anyhoo. Isbeil&apos;s been at the queen&apos;s side for years, poisonin&apos; her mind with her filth. She&apos;s like two things from that story: she&apos;s the advisor, and she&apos;s the disease.
+MAMA!
+Mind your way, now.
+*Consume the spirit&apos;s Source.*
+Demon of Fear
+I met a lich, drained of his Source. I set him free and he drained the Source from some nearby mortals. It was rather ghastly, but I did the same when I first escaped...
+Candle
+Ironbound Chest
+Steel Bar
+*Whimper.* Thanks.
+*His Most Gracious Highness Braccus Rex.*
+[FANE] *Wish to know what happened to his people. Where are the Eternals?!*
+Dunes Indoor 02
+It seems to be a simple form, at its core: a Source vat. A walking, unfortunately talking, Source vat. Fascinating...
+The Magister caravan held captive Sourcerers, so the dwarves intervened.
+Catrianna
+Gotta keep ourselves entertained, haven&apos;t we.
+[UNDEAD] *Tell her that indeed music is one of the last few pleasures remaining to you.*
+I wouldn&apos;t even know where to begin. Besides...
+Oh, don’t stare. How would you look after aeons in some ghastly crypt? But your people are rather prone to death. Mine are not.
+I&apos;m not really rarin&apos; to chat. At least, not with &lt;i&gt;you.&lt;/i&gt;
+Now isn&apos;t that just the question of the hour. I can&apos;t be sure just yet. I&apos;ll be surprised if it&apos;s a demon. Definitely not a sprite, either. M-a-a-a-ybe a spectre, but I wouldn&apos;t bet money on it...
+The Meistr must have the combination to the hatch in her house.
+Fine, fine. Just get a move on. And stop looking so suspicious.
+*You won&apos;t be disrespected. Sneer right back.*
+Determines finesse-based damage you deal
+*Inside the vial, your blood turns from scarlet into dunnet brown, and thence to black. And then, in a puff of smoke, it vanishes. She returns the empty vial to her pocket. You are free.*
+Can poison a target. Does [1].
+I would think that obvious, my good fellow. You&apos;re &lt;i&gt;dying&lt;/i&gt; to show off those smouldering talents of yours. You just don&apos;t know how to handle them.
+Praying at the altars taught me what I needed to know. I no longer need the Sallow Man to reach the Council.
+Find out what Cat the Appraiser is up to.
+Oh - hey. Hey! I thought you might be Emmie. *Sigh.* It&apos;s... it&apos;s nice to see you.
+I&apos;ve come to collect, &lt;i&gt;Beast. &lt;/i&gt;I presume you intend to honour our agreement?
+Well, your bags are clean.
+Here, Shield: a little something that I found while rooting about in a tree trunk a while earlier.
+*She nods.*
+My daughter. My people. It&apos;s just one tragedy piled upon another, really...
+*She slowly opens her left eye, then her right, and wipes away the slobber.*
+&lt;br&gt;From Strength: +[1]
+I&apos;m no fool. But his legacy is... alive. In all of us who... who long for justice. We can&apos;t... can&apos;t have that while his relics are being used against... civilians.
+[SCHOLAR] *It dawns on you. The stew. Nothing like a hungry village to help get rid of some meat...*
+Grandal
+Of course you have. Bloody know-all.
+It&apos;s a pay-to-play situation, I&apos;m afraid.
+*Smiles.* Maybe that&apos;s a good thing. I&apos;ve had to share my head for so long, it&apos;ll be good to be alone for a while...
+We came across a pair of &apos;cows&apos;. Humans who had been enslaved by a witch, these bovine sisters wanted to return to human form.
+*Relent. Tell her to go find her love, then.*
+Here you, dwarf-face. Got anything interesting to trade?
+[LIZARD] *Inform her that even the lower-caste citizens of the Ancient Empire are highly educated.*
+*Admit you&apos;ve yet to retrieve the ring.*
+Well I think you&apos;re a big slithery leather-guy and I wouldn&apos;t play with you if you were the last talking crocodile who ever lived!
+Eliminate the dreamer.
+Forget it. My silence is worth more than you can offer.
+[DWARF] *Tell him you&apos;re Duna... to the bone.*
+Investigate the altar room.
+Thank you for helping me. Without you I am already dead.
+One of us got lucky. Afterwards, thugs came to steal their gear. The courtesan, regretfully, was in on it.
+Oh, but all roads lead to Arx around here. And you &lt;i&gt;will&lt;/i&gt; visit us, won&apos;t you? The more pilgrims pray for his return, the sooner Lucian will walk among us once more, just like the prophecy says!
+Void-touched Fire Beetle
+*There&apos;s a hustle and a bustle and a rush of naked bodies. Next thing you know the Red Prince has opened the window, grabbed you by the collar, and lifted you up into the air.*
+*Lurch backwards, severing contact with the spirit.*
+*You realise what he&apos;s insinuating. Ask him if he truly believes that Lucian would kill everyone in the Academy, just to aid his son&apos;s chances of ascending.*
+I crafted one for my child once. She spent the day trying to convince me that she was her mother, even though the face I used looked nothing like her.
+Dead Black Ring. Live ones can&apos;t be far away.
+Hair Style [1]
+*She reaches out to shake your hand, stumbles, and falls a little into your arms. She laughs, embarrassed, and quickly rights herself, stepping back.*
+The only way to keep Arx safe is to smash this thing to pieces. Do it!
+All elves should know better than to disregard the will of the Mother Tree. That is what we are told since birth.
+Help...
+*You see a shape through the fog. Reaching out, you touch the figure. It turns and you see... your mother.*
+Sweet Amadia, mother of magic, hear my prayer.
+Ha! Nice try, I&apos;ll give you that.
+*Groan and say that your stomach is on fire... don&apos;t mention the &lt;i&gt;things &lt;/i&gt;that you saw.*
+Eternal Stalker
+Tell me it&apos;s time. My sword&apos;s at the ready!
+*You recall Dalia. House of Law. The evidence you planted was so flawless she had no choice but to condemn herself to death.*
+And you saved Gareth from the Magisters too. I&apos;ll remember my debt to you, if we find ourselves fighting Magisters together soon...
+That is no mean feat. But!
+*Ask why she risked such a thing, if she was aware of the dangers.*
+[BEAST] *Stare him hard in the eyes and say you can always beat it out of him. Very, very easily.*
+Black Ring indeed! I&apos;ll need more than the word of some woman before I believe the likes of that.
+*Say that you&apos;d like to do some trading.*
+*Tell her that you&apos;re confident they can win.*
+I wish! No, the Magisters kept me chained to the bulkhead - arms held above my head, feet barely able to touch the deck... now me joints are payin&apos; the price.
+Precious wares, are they not?
+Excellent. Now - just one more question, if you please. *Ahem*
+Jonathan is dead. Gareth will return to the Lady Vengeance.
+...and you can always come find me. If you want. I&apos;ll never not want to hear from you.
+*The thing places a hand over your heart and you suddenly feel it, an unmistakeable pull in a new and distant direction.*
+*Muse that that sounds about right, and turn away.*
+*Stow your weapons and say there will be no further bloodshed here today.*
+I am sorry you feel that way, Ifan. You weren&apos;t raised by my father. If you were, you would understand: the life of some is nothing compared to the lives of all.
+You can&apos;t invite players to the party while they&apos;re in a dialog.
+*Bid the elf farewell in the traditional manner.*
+*Tell them he&apos;s nice and warm in the belly of a shark, then walk away.*
+Good work, son!
+&lt;i&gt;*&apos;You will return, yes. The lord of lords will return. Yours is the Covenant; the Covenant my sworn salvation.&apos;*&lt;/i&gt;
+*Say it&apos;s urgent that you&apos;re allowed to pass.*
+It shouldn&apos;t have to come to this.
+I see. Well, that&apos;s... That&apos;s unwelcome news.
+The dwarves are in on this too? The treacherous little beasts! I will make sure Magister Carver is informed.
+*Pain spreads across her face as she looks at you in shock. She opens her mouth to speak, but you notice the pink glow fade from her eyes and the pain is replaced with anger.*
+Who said you could see the Doctor? Outside with you. Now!
+&lt;i&gt;Hear and heed my call, my love, your hand is mine to hold; hear and heed my call, my love, I&apos;ve secrets to unfold.&lt;/i&gt;
+Next Round: [1]
+*Wish them a long and happy life together.*
+*She runs a finger up your torso, making you jump*
+This might be the safest room in the city today. Unless you&apos;re Arhu...
+Well, you may be innocent of one crime, but you sure are guilty of others. Looks like you spend time in a prison cell!
+*He strains at the ethereal ropes that bind him, resisting their grip.*
+*The lizard&apos;s eyes, cold, search your face for a moment.*
+*The young man throws a furtive glance towards the shrine looming out of the water nearby, then leans in to whisper...*
+Until master says so.
+*Her eyes narrow; her fists clench, and her mouth tightens to a thin line.*
+If wielded well, that line will mean stability, order. A comfort against the unknowable, changing forces of chaos. If wielded poorly, the line will mean domination, terror - different from chaos, but no better.
+I&apos;m damn lucky I met you, chief.
+*Thank him for his time and ask him to point you towards the exit.*
+This place is turbulent. I can feel the ground quake and the seas boil. Be on your guard here.
+&lt;i&gt;My&lt;/i&gt; Deathfog? Please.
+I had no idea that you felt this way.
+There&apos;s got to be another way. I&apos;d rather not walk into an ambush.
+Your inmates have long awaited your return, Your Highness.
+*Ask about this stuff...*
+How could I ever hope to lead the world out of darkness, when I can&apos;t even escape my father&apos;s shadow?
+*She blows you a kiss. You swallow back rising bile and turn away.*
+THE HUNT CONTINUES! Empyreo, away!
+Kindly enter the combination as I call it out. I believe you are capable of that.
+*Ask what&apos;s in the bottle.*
+New Folder
+Good choice. He&apos;ll see that some Magister blood is spilled on the sand, I&apos;m sure.
+*You frantically try to climb over it, but it&apos;s too high. Claws envelope you, and drag you into darkness.*
+Why leave flowers around to beautify the environment when they can adorn the inside of your backpack instead?
+From here on out, there are two things that await you: death and divinity. Yours will be the choice.
+&lt;i&gt;...a kiss.&lt;/i&gt;
+Woven Handwraps
+HRGH!
+*Focus and press the spirit harder. Guide him back further in time.*
+There are marks on his body. Something in the water got to him.
+Did ya, now?
+Deal with the fugitive Lich once more.
+Burning House
+*Sniff-sniff.*
+Thank you, stranger... maybe now some of the consulate can still be salvaged. Here; a token for your efforts.
+Don&apos;t send me away! I&apos;m not a dirty lizard!
+Abyssal Regurgitation
+*The Dreamer&apos;s eyes do not see you - his mind is elsewhere, locked in a dark rapture as he torments the Magister.*
+This character has been driven mad. While in this state, they will attack friend and foe alike.
+Bishop Alexandar... If Lucian were alive, what would he think of his son&apos;s Divine Order?
+Now I fear I never will...
+*Laugh. After all you&apos;ve been through, he&apos;s just now warning you about danger?*
+This raft has seen better days. Barely held together with butcher&apos;s twine, taking a ride on it looks like a risky gamble.
+*Tell it &lt;i&gt;you &lt;/i&gt;are Godwoken - not it.*

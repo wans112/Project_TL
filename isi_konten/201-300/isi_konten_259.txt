@@ -1,0 +1,160 @@
+*Taking your time, you carefully enter the combination. The metallic sounds of the tumblers falling within the mechanism let you know you entered the code correctly.*
+Seriously, this oughta be good! Yer only gettin&apos; the one shot, so keep yer eye on the prize. Who&apos;s comin&apos; with ya?
+Careful not to bite off more than you can chew!
+Yeah! You know what? You&apos;re right! What&apos;d they ever do for me, anyway?
+Aw. Oh well! Bye then!
+You&apos;re back! Good to see you again.
+[IFAN] *Say you &lt;i&gt;do&lt;/i&gt; know - and you &lt;i&gt;were&lt;/i&gt; there. Leave her to suffer.*
+Shoot a volatile bolt that deals [1] of a random type, and then creates a corresponding surface.
+I met someone claiming to be a god. They gave me a gift. A great gift.
+*A saltwater crocodile looks around, seemingly disoriented. It utters an uneven growl.*
+Someone always seems to be hurt. Please, I hope you aren&apos;t hurting people!
+[OUTLAW] *Tell the door you&apos;re the locksmith, here to replace the... oh, how &lt;i&gt;awkward.*&lt;/i&gt;
+The four heroes rose from their graves to attack us. They knew we were Godwoken, and claimed that &apos;the Covenant&apos; would be fulfilled.
+I&apos;ll have you know that threatening one&apos;s Master is punishable by death! You&apos;ll never attain the rank of slave with manners such as &lt;i&gt;that&lt;/i&gt;.
+*Point towards the forest. Tell them you saw a cat. You&apos;ll mind the gem &apos;til they get back.*
+Inimitable Amulet
+*The Deathfog stream has become a veritable geyser. The machine is going to blow!*
+There&apos;s a mine ahead! Trigger mines by &lt;font color=&quot;008858&quot;&gt;attacking&lt;/font&gt; them with a ranged weapon or by &lt;font color=&quot;008858&quot;&gt;dropping&lt;/font&gt; something heavy on them.
+Whisperwood
+This richly-designed warhammer is of Dwarven origin. From the quantity of dried blood upon the handle, it appears to have seen more than one battle in the none-too-distant past.
+The Seeker asked me the same question, and I fear you&apos;ll fare no better than he. But on your head be it.
+*Lie and say you don&apos;t hear voices anymore.*
+Report back to Arhu.
+*Consume the spirit&apos;s Source.*
+Hounds! Take them down!
+Soon I see them again. I see them on the other side. Soon. Soon.
+Beach - Shore
+Legends say this ancient weapon could even defeat the mighty Braccus Rex.
+Ryker,&lt;br&gt;&lt;br&gt;The contract is mine.&lt;br&gt;&lt;br&gt;I will pay you an execution fee of 25% if you take out any of my marks, but do &lt;i&gt;not&lt;/i&gt; presume to go over my head.&lt;br&gt;&lt;br&gt;Roost
+Claymore
+*He raises an eyebrow and folds his arms, appraising you.*
+*A lizard in heavy ritual garb stands before you, awaiting your attention.*
+Vegetable Stew
+on any controller to begin turn
+*The statue rotates with little resistance.*
+Doors
+Fatal Blade
+This modification will be baked into your saved game. You won&apos;t be able to disable it later. Are you sure you want to enable it?
+You dare interrupt Braccus Rex?! How... novel. &lt;b&gt;WHO ARE YOU TO CHALLENGE THE SOURCE KING?!&lt;/b&gt;
+He say he likes it big &apos;n&apos; strong...
+Wind-up Toy Skillbook
+*You start to slowly creep forward. Your hand touches the floor. It&apos;s slick with something.*
+*Smile and tell her... someone told you the same thing.*
+Trader
+*Leave him to his vengeance.*
+So true! And you can stay as long as your heart desires, free of charge.
+We paid Grog&apos;s toll, but it didn&apos;t improve his temperament.
+But I&apos;ve reached the end of my tinkering abilities. N-n-not my fault, but only the original creator could fix it now. And &lt;i&gt;she&apos;ll &lt;/i&gt;be along any day now.
+Do you know, lover, I &lt;i&gt;do &lt;/i&gt;want to go again. Come here!
+You&apos;ve yet to experience the joy and pain of true combat, I see.
+We couldn&apos;t be together here. They wouldn&apos;t allow it, remember?
+Right you are. Right you are.
+*Remark on the rather unique-looking painting. Don&apos;t mention that it&apos;s the Second Passion of Lucian.*
+You! Baddie? Buddy! Buddy? Buddy! Erm... BADDIE!
+We remain. Our ritual is not complete. Sarias is not home. We remain.
+*Tell him to explain. You haven&apos;t agreed to be anyone&apos;s champion.*
+Almira&apos;s Hideout
+You have, have you? Then you&apos;ll mourn his loss, like t&apos;rest of us.
+*If it&apos;s looking for an answer, ask what the question is.*
+We&apos;re aboard the Merryweather, on our way to the Sourcerer colony of Fort Joy. We are told there is a murderer on board with us.
+BYE-BYE!
+*Ask about the gauntlet he&apos;s wearing - is it Magister-forged?*
+Your local files are newer than your Steam files. Do you want to upload them to Steam? Otherwise, your Steam files will be downloaded.
+I was dying anyway. The Magisters&apos; purging made certain of that. I should probably send the Void a thank you bouquet. At least they were efficient about it.
+I can&apos;t hear this ship&apos;s voice. It should sound like a song... or maybe a cry. There&apos;s got to be a way to speak to her.
+*The spirit of a Black Ring reaver looks down at his corpse in dismay. He notices you approach, and challenges you in a throaty rasp.*
+*Shrug.* I dunno. The Deathfog covered the forest an&apos; everybody died, dint even have the time ta scream. If a tree falls then, I don&apos;t care if anyone heard it happen, I wanna know if anyone &lt;i&gt;cares.&lt;/i&gt;
+*The egg is warm to the touch... but not from the ashes. This warmth comes from &lt;i&gt;deep within &lt;/i&gt;the egg.*
+Indeed not, Your Majesty. But you live still, and by your own devices. A formidable feat, that much I assure you.
+Bishop Alexandar
+We&apos;re playing with fire... and we better make sure we have a way to put out the flames.
+Damage is based on your level and receives bonus from [1].
+*Look around the gore-streaked room. You&apos;re not sure, but it&apos;s his call.*
+I&apos;ve tasted better brews, but from the look of you, the refreshments won&apos;t be improving.
+I wish I could feel it. Just once, before our God King raises the faithful to immortality. Before the chance is gone forever...
+Alright, alright. Be on your way, then, but know I&apos;ve got my eye on you.
+*Wonder why it would have her name inscribed on it.*
+*Laugh along with him. What a song! He almost had you dancing.*
+Gauntlets
+&lt;i&gt;The Voidwoken. Disgusting things. They ravaged the land they touched and infected the air they breathed. They were also an &lt;/i&gt;incredible&lt;i&gt; stroke of luck.&lt;/i&gt;
+Oh, dear Prince. You are much too concerned with how I speak - and not concerned enough with &lt;i&gt;what I know.&lt;/i&gt;
+*Ask what makes her think you&apos;re so special.*
+- PECKER?
+But whatever you do, hurry it up. The longer we sit here, the higher the chance the Order will get their hands on you.
+*Ask him why. Why have they been hunting your kind?*
+[VILLAIN] *Kill her. Obviously.*
+*Tell him his form of justice is simply revenge. He brings shame to the Seekers.*
+*Nod. Time is short - let&apos;s go!*
+As it so happens, I do... &apos;afraid I wasn&apos;t able to take advantage of it myself though...
+*Gareth grasps your shoulder as you turn to go.*
+Melee attacks deal additional fire damage to burning targets, poison damage to poisoned targets and physical damage to bleeding targets.
+*Isbeil turns the valve - but no fog wafts forth. In that moment, you feel your marrow awaken. You&apos;ve regained control of your own bones at last.*
+Ralvo
+Learn skill
+*The spirit&apos;s stern demeanour melts into a look of panic as you banish her to nothingness.*
+*Bittersweet. It&apos;s the only word that comes to mind when you try to interpret Jonathan&apos;s expression, ghostly as it is. He looks both impressed and indignant, nostalgic and enraged.*
+Range: [1]
+May the goddess&apos; rays fall upon thy person and thy house, kinsman. Blessed be your devotion.
+Blank Air Scroll
+I don&apos;t know. Maybe the Paladins have finally had enough of this clampdown. The Magisters&apos;ll just go and lock up anybody. That wasn&apos;t Lucian&apos;s way. Was it?
+*Two tight-bound masses of hair and fang amble away in search of food.*
+*Say farewell. You have much to attend to.*
+Hatch
+Now where was I? Ah, yes! The succubus.
+Assign point
+And I thought that smell was the sea...
+Quercus! Quercus! Do you think they recognised us?
+Unlocks [1]
+Very good.
+He&apos;s gone? You&apos;re absolutely, &lt;i&gt;positively &lt;/i&gt;sure...?! That means... that means I&apos;m free! I can take suitors, find myself a real prince, not like that scoundrel Braccus!
+My dear, sweet love. Thank you for being here. For the end.
+*His soul is yours. Consume his Source.*
+*Ask who&apos;s drowning.*
+*Put your arm around him. He should consider you a friend. And friends tell friends the truth, do they not?*
+Vydia&apos;s Chest
+*Lie and claim to be travelling with friends.*
+*Spin it counterclockwise.*
+[IFAN] *Tell the Magisters that it looks like they need some professional help.*
+Fight Theme Tambura
+One foe the fewer to worry about. But there remain the Shriekers. Our day is not done yet.
+*The black ink turns blood-red as it touches the parchment. A burst of energy shoots out from the desk and shocks you.*
+*Say: &apos;My self-respect&apos;.*
+*Say you&apos;re still getting the lay of the land.*
+[DWARF] *Confidently proclaim that dwarves make the best lovers.*
+*Smile and say you&apos;ve faced plenty of danger in your time - a kitchen doesn&apos;t hold any terrors for you. Why is she so keen for you to leave?*
+The God King has birthed a new son. I don&apos;t fight the comin&apos; storm. I &lt;i&gt;am&lt;/i&gt; the comin&apos; storm. An&apos; you won&apos;t be escapin&apos; it, old friend.
+Lucian said, &lt;i&gt;&apos;Only fools despise discipline&apos;.&lt;/i&gt; We wait until the Shriekers are purged. It&apos;s not up for debate.
+We found the book from which the pages were torn. It’s called ‘Dwarven Customs &amp; Traditions’.
+*Tell him that he should leave then, and join up with whatever this venture is.*
+Stoneskin Potion
+*Fix her with a stare and insist &lt;i&gt;most forcefully&lt;/i&gt; that you need to pass.*
+You. You interfere? &lt;i&gt;What do you do?&lt;/i&gt;
+All that you have left to give.
+Relic of the Eternals
+*The Magister cocks his head, seemingly surprised at what he heard.*
+Sebille! You return. There is much to talk about but first, the Mother needs you! She is in danger. A shadow hunts her. You must rid us of the shadow. Use your special talents.
+Will you sing?
+*Smile and take your leave.*
+The Divine Order have a Lone Wolf contract out on the Godwoken.
+*Take a moment to appreciate the clean air and sunshine. Tell him it&apos;s a fine day, indeed.*
+It&apos;s a good thing I&apos;m in a generous mood. Fine, then. But next time, I&apos;m not so forgiving.
+Get an eyeful. I expect it&apos;s the last we&apos;ll see of each other for some time.
+But - learned a trick since last we met, have I.
+Distinctive Boletus
+Each lever is named for a virtue of the Divine. Find the levers whose initials spell the word &apos;power&apos;. Select these five, and these alone.
+Well, how fortunate. You may be of use.
+*Say that you found some of his remains.*
+Think, damn it... where would a Magister hide something?
+The Dreamer asked us to enter the Devourer&apos;s dream and face the dragon there. Once he is dead, the spirits bound to the armour will be free.
+We&apos;ve gotta stay alive, ain&apos;t we? I aim to survive as long as I can in this hellhole.
+*Offer him a handful of coins to change his mind.* ([GEN_CheckMagicPocketGold_4_5dac5eea-faeb-459c-b675-46c51519b784])
+So what? Do you want me to give you a medal now?
+Figurehead of the Lady Vengeance
+I blame Alexandar for this.
+To the Lower Vault
+*Note her pallor and ask if she needs help.*
+*Tell him &lt;i&gt;you&apos;re &lt;/i&gt;thinking he should shut up and get naked.*
+I wish I could think like that. All I can picture is us, alone, unprotected... and the Void so close...
+Cross
+*You see an undead figure chained to a torture rack, bones glowing a sickly green as if lit from within. It raises its head to look at you before lowering it again, exhausted from the effort.*

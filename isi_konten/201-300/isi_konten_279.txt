@@ -1,0 +1,156 @@
+*Reach for your weapon - they&apos;d murdered that elf.*
+*The cat licks his lips and sets his glazed eyes on the feast in front of him.*
+*Ifan shrugs off his backpack and reaches into its depths. After rummaging around, he holds out a tattered page to you, upon which you can see a broken wax seal in the shape of a wolf&apos;s paw.*
+Polished Ring
+It doesn&apos;t matter. He&apos;ll fetch me, like he always has. He won&apos;t deny me his glory, his presence, his &lt;i&gt;scent...&lt;/i&gt;
+Back-alleys and rooftops know well the tread of your boot. You&apos;ve got friends in low places, and enemies to match.
+*The menacing skeletal guardian looks at you wearily, then yawns.*
+Well, no worries there. It was keeping me wide awake, so it was! I&apos;ll give it to you later, turn your hairs grey.
+*The undead dwarf looks quickly over its shoulder, his gaze darting from shadow to shadow.*
+Come play with me, Sebille. Come die with me.
+Potion of Authority
+I think we should know who hunts us and why.
+Area still under development - Closed off for now
+Thing is, I can never be free. I have taken their queen from them. So I must choose the dwarven people&apos;s liberty... in exchange for my own.
+*Say that the Magisters&apos; top suspect in the disappearances, Higba, is dead.*
+Not that it matters, really, for I&apos;ve the distinct feeling I wasn&apos;t meant to die today.
+Like you and Wither could&apos;ve been.
+*The ghost takes a step back in fear as Source pours from your body. The lizard tries to slash at it with her claws, but they pass through it like smoke.*
+Law. But I obey our laws no longer. Their authority does not extend into the endless days of death.
+Woof! WOOF WOOF! Go on, I know you can do it.
+And I do &lt;i&gt;not&lt;/i&gt; invite you to look at the subtext in what I just said.
+Looks like dying a hero&apos;s death doesn&apos;t count for much these days...
+An elf craves those memories like an addict craves drudanae. A pity that you turn to the dead for emotional sustenance. &lt;i&gt;Would you not rather form bonds with the living?&lt;/i&gt;
+[VILLAIN] *Grin. A kindred spirit at last!*
+He&apos;s a sweet lad. He doesn&apos;t belong there. But I&apos;ll sort it out. That&apos;s for certain.
+Lucian be praised! She&apos;s not tried to use her powers once since Gareth left. That were really something.
+*Hannag? Tell Lyn you met her not too long past. The Magisters got to her, though.*
+As well you should! I am an assassin of ants and crucifier of crickets. All rodents bow before me. So do lesser beasts. Like humans, for instance.
+*Tell him you&apos;re terribly sorry for his loss.*
+We bested the Magisters, but they&apos;ve more ships in their fleet, so let&apos;s get this show on the road on the double!
+*The woman chokes back a sob, putting on a brave face.*
+*Crush your boot into Master&apos;s remains. Tell him you &lt;i&gt;are&lt;/i&gt; the new Master; he must come with you.*
+*Advise him to shut up, if he knows what&apos;s good for him.*
+Numpad 3
+Lucian. &lt;i&gt;I come.&lt;/i&gt;
+Egg! Egg! Bring it to Big Marge. It&apos;s her little Peeper!
+*Note that the carnage extends beyond their farm. There&apos;s more to the story.*
+I&apos;ve picked up the scent I searched for. Such a happening comes coupled with very different emotions indeed.&lt;br&gt;
+*You try to close your eyes against the pain but your eyelids have burned away. You haven&apos;t breathed in what seems like hours. You desperately want to scream. But Syrus Oates did not scream.*
+After you, milady.
+*You hear only one gruffly-barked word before the hands seize you - &lt;i&gt;&apos;Gotcha&apos;.*&lt;/i&gt;
+*The spirit clutches his mouth in shock... and then realises what has happened; he removes his hands - and the crossbow bolt is gone. He can speak once more, if painfully.*
+Twig With A String
+*You hear rumours of a God King who would free you to be with Taryan. You seek the Chancellor&apos;s knowledge of this King. But when you find the Chancellor he lies dead. A figure stands over him.*
+Besides, you ain&apos;t one of the Reds! You ain&apos;t Red, you ain&apos;t wrong, that&apos;s what I say.
+Kitchen Knife
+He is a god for the godless. A beacon for those who have no place in this world. He seeks to cast down the world of the Seven, and build a new world, with the Sworn at his side.
+Next Level [1]: [2]% damage reflected.
+Show user page
+*A look of confusion crosses the Seeker&apos;s face. His head droops back down, senseless once again.*
+*Tell her she&apos;s a sad excuse for a healer if alcohol&apos;s the only remedy in her repertoire.*
+TUTORIALS
+Quirky Bones Fast
+We should talk to Malady when we&apos;re ready to leave.
+Dead Lizard Cultist
+&apos;Here rests Mya Hallowdale, a devout and pious woman.&lt;br&gt;She was taken too soon.&apos;
+In our tribe, we eat the flesh of the dead only in ritual. We honour them. We share their memories.
+*She looks down at her hands, still stained with the blood of others, and begins to sob.*
+*A dark shadow passes across his face.*
+Cool!
+Spirit of a Magister Ranger
+Refresh
+Find some other way to occupy yourself, dwarf. I have nothing to say to you.
+Come to stomp my lights out, have you? Tread lightly - ratribution from my clan will be swift and painful!
+This is the wreck of the Peacemaker.
+You can&apos;t get me!
+*Whisper that you can&apos;t wait to see him purged either.*
+*Note how irresponsible that is. He shouldn&apos;t pursue Divinity if he isn&apos;t going to take it seriously.*
+*Remark that you hadn&apos;t heard the Black Widowmaker had passed on.*
+&lt;i&gt;*Creak...* &lt;/i&gt;You. Must. Leave.
+Void-touched Bear
+A ruler who kills indiscriminately doesn&apos;t elicit sympathy. He should have known better.
+*Reach out to consume the spirit&apos;s Source.*
+That&apos;s us one step closer to freedom. Listen! You can hear the sea calling.
+[LOHSE] *Easy. Tell her life is short, mean, and unpredictable. Any little bit of sweetness is damn worth it.*
+[SOLDIER] *Scoff that you won&apos;t run from soft-handed clerks and second-rate warriors.*
+Teach you? I&apos;m no tutor, but-
+It is a good thing for the life-shaper to possess such affection: for she too, your secret love, has her part to play, in downfall and divinity.
+&apos;Here lies an unknown wanderer.&lt;br&gt;We are glad to give her rest.&apos;
+The new champion of Fort Joy claimed their reward.
+*Let him continue.*
+Confess your sins, Paladin. You will find no mercy in the Void.
+Look who we have here! The would-be slave, no less. I wouldn&apos;t have bet tuppence on your survival, yet here you are.
+Ranger
+Elves flocked to her, and worshipped her as a goddess.
+*Repeat her ritualistic phrase: &apos;praise be her name and praise be her starlit eyes&apos;.*
+It&apos;s my fault.
+City&apos;s a bit of a mess, it&apos;s fair to say, but the worst has passed. We&apos;ll have the place cleaned up in no time.
+*Say he&apos;s in luck - you found his cargo. Hand him the crate.*
+*That face... it&apos;s almost familiar... Like a long-faded memory...*
+*Tell him you&apos;re a woman of the world, always looking to explore the many hidden delights of this existence.*
+*Tell him about the time you met... a dragon!*
+*Tell him not to get complacent. The Black Ring&apos;s influence is vast.*
+You seek aid. I provide it.
+Times have changed. The gods are at war. The victor will choose the terms of peace. If we fail - if &lt;i&gt;you &lt;/i&gt;fail - our race may well be lost.
+*A little girl looks you square in the face. She doesn&apos;t smile, she doesn&apos;t frown, and she sure as hell doesn&apos;t look shy.*
+Magisters or Paladins - whoever&apos;s in charge now, I&apos;ll &lt;i&gt;make &lt;/i&gt;them listen.
+*It outlines him in a green glow, shimmering about him as if his spirit was stepping out of his body.*
+*He turns his back on you and waits for your companions to leave.*
+*Ask him if he&apos;s ready for what&apos;s ahead.*
+Return to Magister Julian.
+Heal the freed Winter Dragon.
+What is this thing...? An engine?
+Mother Tree
+*Wonder why she isn&apos;t down there fighting too. Why is she different?*
+I hope you won&apos;t be a stranger, my dear... I do like to keep in touch with old friends...
+*You know enough. It&apos;s time to exact your revenge.*
+*He sighs and points a foot towards the harbour.*
+*Say you don&apos;t recall. That was a while ago.*
+Magister Waters
+Ryker&apos;s Visitor Ledger
+*The figure materialises behind you and grabs your head with one hand, pressing his sword to your throat with the other. If you so much as breathe too suddenly, it will slice your jugular with ease.*
+Whoever it is they&apos;re doing a bloody good job so far.
+*Stand firm. If he wants Jonathan dead, he&apos;s on his own.*
+My, you are impressive. Let me help lighten your purse. Come, trade!
+Spirit of Magister Gremory
+*Push the point - to be admired is not to be loved. Her owner loves the cat&apos;s elegance and beauty because it makes him feel cultured and urbane. But he no more loves the cat than any of his possessions.*
+&lt;i&gt;I scent Source on you...&lt;/i&gt;
+*He shoves his gnarled fist to his maw and bites down on his knuckles. His response reaches your ears as a muffled plea.*
+You... you saved her? I didn&apos;t think anything could save her!
+*Malady smiles at you - bright eyes, cruel mouth.*
+Throw Dust
+Oh of course there are! How many hundreds of thousands of you people have died over the years?
+Either that scarecrow just spoke my name, or I&apos;m going mad. Not sure which is preferable...
+*Tell him you&apos;re the only survivor.*
+*Your grip tightens around the blade&apos;s hilt. You&apos;ve never felt such rage. These... freaks. They are tearing the world apart. They must not live. &lt;i&gt;Rivellon must survive.*&lt;/i&gt;
+Yes. This will be jolly good fun...
+We lost a man in the search. Malady might not appreciate that, but I do. And I hope you do, too.
+*Raise your eyebrows in wonder. Is he suggesting what you think he&apos;s suggesting?*
+Ghoul
+Squeak squeak.
+We kept our bargain and delivered the tablet to Ryker.
+*Show her the vial of your blood that you stole. Tell her she&apos;s powerless over you now.*
+Greatness doesn&apos;t care for class, accomplishment, or rank. It is a bit of kindling cultivated by those with intention; those who intend to stand close to a spark.
+It&apos;s a hope I can&apos;t afford myself. But if you should ever offer such a gift, I wouldn&apos;t refuse it.
+*Keep your mouth shut.*
+*Wait.*
+*Shake your head to clear the vision.*
+Housegirl
+*Say you haven&apos;t heard very much about it.*
+*You slapped away his hand if you recall correctly.*
+*Ask the elf who he is.*
+Cancel, Hold - End Turn
+*His words don&apos;t halt - instead, they hasten. It seems this dwarf doesn&apos;t take hints.*
+I wasn&apos;t always as you see me now.
+Goodness. I thought lizards were sophisticated, but your mind is so &lt;i&gt;feeble.&lt;/i&gt; To think, a simpleton touched with Divinity. The Gods really &lt;i&gt;are &lt;/i&gt;cruel.
+Touché.
+*Take your leave. There are still loose ends to take care of.*
+*Scream at the figure to stop this.*
+Rotten Disembodied Foot
+Enjoy the fruits of your labour.
+*Say that you know how to reach your next destination - the Nameless Isle, where the Council of Seven can be found.*
+We gave the Sourcerer demonologist Jahan the true name of his arch-demon nemesis. We invited Jahan onto the Lady Vengeance.
+[SOLDIER] *Explain that he was rabid as a war hound. He had to be put down for everyone&apos;s safety.*
+Spirit of Brother Morgan
+What cannot be saved must be secured one way or another. This was one of those ways.

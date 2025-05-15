@@ -1,0 +1,166 @@
+*His lips part. Drool trickles from his lower lip, but he speaks no words, and there is no meaning to be found in his formless throat-burbles.*
+I landed on Reaper&apos;s Coast. Lone Wolf Roost Anlon is hiding here - he may know where to find the Master.
+*The troll grimaces and spits a melon-sized glob of phlegm onto the ground near your feet.*
+*Wait! Tell her not to listen to the voice...*
+Fine. I am in no mood to argue. Now get out of here.
+When enabled, the hotbar will automatically add new potions to the hotbar when you first pick them up.
+Is that all you think my silence is worth? Bah!
+There&apos;s food, bedding, and ash in here.
+*Tell the Magister they killed an innocent man - the chef was the culprit.*
+*He glances at the corpses once more. A flicker of regret registers across his spectral features.*
+Mmm.
+*With a flash of agonised rage, the Sallow Man backs off... and gives you a long cool look, while the torches crackle and nearby lava rumbles...*
+Bandit Dwarf Jarl
+Hell, I could&apos;ve told you that. You&apos;ll do great. By me and by my whole realm. I don&apos;t doubt that for a second.
+Death stops everyone eventually. And from where I&apos;m standing, it looks like the third time&apos;s the charm...
+*The elf is reading a volume of Cranley Huwbert&apos;s famous encyclopaedia. He looks up, his big, round eyes scanning your body, absorbing every detail.*
+*The creature utters what might be a gasp.*
+I need to dream. &lt;i&gt;I&lt;/i&gt; above all others. It is my vocation. My responsibility. Now more than ever.
+A lovely-looking wand. For the moment, it has no magical properties. It&apos;s a very nice, straight stick though!
+*Tell him yes, Lohar sent you.*
+Well, I suppose you&apos;ll have to figure it all out for yourself.
+Because it will be a turning point in the history of my people... but its outcome is not yet set in stone. The Empire can weather all storms, with the right guiding hand.&lt;br&gt;
+Staff
+Angry Cat
+Light &amp; Life, by Cranley Huwbert
+*Mention that her sister told you about the game of riddles they like to play.*
+*Take him by the arm and rest your head on his shoulder. That sounds divine.*
+Salamanders - Any
+&lt;i&gt;Notes on Automating Oil Barrel Creation&lt;/i&gt;&lt;br&gt;&lt;br&gt;... the only thing that will save my life is the knowledge that those Order puppets don&apos;t have. Yet. At least, I hope so.&lt;br&gt;&lt;br&gt;Machine restart sequence:&lt;br&gt;Ember&lt;br&gt;Sapphire&lt;br&gt;Emerald&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;[There is also an image of a Garnet at the bottom marked out with a big red X]&lt;/i&gt;
+Strong Sinew
+The Gheists, dummy! The Hammer and Alexandar had two in tow just a moment ago. *Sighs.* Thought you lot&apos;d be interested in a thing like that.
+Come, and look at the fruit of our union. A dragon as yet unhatched. And there are more eggs lying upon velvet cushions in my tent. Dragons-to-be, yet all too vulnerable as they lie dormant in their shells.
+I&apos;M F-R-E-E-E-E-E-E-E-E-E-E!
+Malady has decided that we should come with her aboard the Lady Vengeance.
+Spark
+&lt;i&gt;I crave you.&lt;/i&gt;
+*Wave her away. You&apos;ve no time for such groveling.*
+And where else would you have had me turn? Each path led to my sure end; this was the only one in which I could see any future at all.
+*Crack your knuckles. You&apos;re going to enjoy destroying him.*
+*Cry out that you&apos;re being framed. You&apos;re no Sourcerer!*
+[FANE] *Quietly tell him that secrets are dangerous, unpredictable creatures. You have seen the damage they do.*
+Dreamcatcher
+We all have secrets - do I oblige you to spill your heart to me? No, I do not. Besides...
+Of course - my finest work. I drew upon everything I had for that piece - all of my skills, my experience... why, there&apos;s even my own blood and Source on that canvas.
+*Tell her that now the bells have stopped, it&apos;s time to face her shame.*
+Calm yourself, you foolish creature! I only mean to warn you not to disturb her Royal Highness!
+[1] Poison Damage
+*You flee to the one place where you know you will be safe from the Deathfog and the rockfire. But before you can plan your rush to the core - where you&apos;ll apply the failsafe - a falling object hits you on the head.*
+Travel
+The people must be informed at once! Princess Zenthia of the Firelands is to be &lt;i&gt;married! &lt;/i&gt;Precious prince of mine, will you see this declaration is dispersed throughout the land?
+Ghangha
+You&apos;ve given me such wonderful gifts. Your lips, your touch - and your vote of confidence. And I hope you&apos;re right. I just want my men, my women, my people - for them to be safe from Justinia&apos;s iron axe.
+*That&apos;s it - the elf! He&apos;s the elf that was reading the book...*
+I meant to summon an imp or two. Instead, I ended up hosting a damned arch-demon.
+Seeing as it would be easy as a snap of the fingers for them to compel my co-operation by more unpleasant means, I consider myself quite lucky.
+You can say what you will, guv&apos;nor, but you ain&apos;t convincing me! It&apos;s one thing to give these fellas a boost; poisoning them is quite another!
+It&apos;s... it&apos;s a monster!
+The Great Guardian
+[1] cast [2], making targets in range [3]
+Attention Sound
+Longshank
+There were at least a half-dozen Magisters out there. They can&apos;t all have...
+[UNDEAD] *Give him a distasteful look and walk away. A maggot-riddled pauper&apos;s grave would smell fresher than his catch.*
+Finesse: [1][2]&lt;br&gt;
+*Say all you need is names. Those won&apos;t cost him anything.*
+I&apos;d implore you to accept my help, Godwoken. Once it&apos;s gone, I will not have the energy to perform another feat. This is my swansong as an educator.
+Ngh... let&apos;s talk about this later. I need to rest. We&apos;ve still one big jump to go, but... it&apos;ll have to wait.
+Thanks again, for your help. Stay safe.
+Never hurts to get your claws dirty now and then.
+Ah. Hello. So much... so much you suffer. So much suffering you have &lt;i&gt;and &lt;/i&gt;you make. Does causing pain stop yours?
+A little leaner than when we first met, and a little less Divine than you&apos;d hoped, I imagine.
+*Tell her the uncorrupted egg was, er, eaten...*
+[BARBARIAN] *Give the imp face a threatening sneer.*
+*The altar seems to respond. Beyond it, something creaks, as if the pipework was... moving... The sound comes from beyond the altar, but also echoes and gurgles &lt;i&gt;behind.*&lt;/i&gt;
+It was foolish to leave when we did. We&apos;ve left the demon strong as he ever was.
+Do &lt;i&gt;not&lt;/i&gt; do it again. Nobody but I can lay a finger on my darlings.
+It ain&apos;t about the bloodthirst. It&apos;s about doing the right thing, not the easy thing. Not everyone gets it.
+*Tell him to hurry. This has taken long enough.*
+*She studiously ignores you.*
+See you on the battlefield when the time comes, Monster-slayer. The honour&apos;ll be mine.
+*Hesitate. Tell him It&apos;s a terrible weight to place on one man&apos;s shoulders.*
+Kannox
+*You look down to see your own face reflected back in the now-crystalline waters of the lake.*
+Find Saheila&apos;s people.
+*Tell her to go ahead.*
+Do not linger. Go and see the Doctor.
+&apos;Here lies Phyllen Surrey,&lt;br&gt;Whose Fam&apos;ly&apos;s Gen&apos;rous Patronage&lt;br&gt;Help&apos;d Build These Burial Grounds,&lt;br&gt;And who Refused&lt;br&gt;to Be Buried&lt;br&gt;in the Surrey Crypt.&apos;
+&lt;i&gt;Why would we need an army? There will be none to oppose - all will be One.&lt;/i&gt;
+Applies Invisibility, Removes Silence.
+*Resist her advances.*
+I have to go. They&apos;re in danger. If they&apos;re still alive...
+Fired like a prayer, this blessed water arrow might be just the divine intervention you need in a hot situation.
+City Guard
+Get out of my sight, you damn savage!
+*Bow deeply. Tell him he looks like a good man, and he knows a reward is the right thing to do.*
+Gods know what&apos;d stop those beasts...
+Don&apos;t be such a baby. He&apos;s as gone as the rest of &apos;em. Unlucky family, that.
+The forces of the King are hunting us down, leeching us in ways we never thought possible. Droplet by droplet we are being drained.
+Barricade
+Humming under your touch, this dagger has the chance to set Stunned on those stabbed with it.
+Involuntary death assistant deployed!
+[1] gives you [2]% chance to recover a special arrow after shooting it.
+*Tell her you&apos;re not in the mood to discuss this Amadia figure, whoever she is.*
+Search Scenes
+*Amadia smiles and you notice for the first time two vampiric fangs glistening beneath her upper lip. A gulf of magic envelops you, and you feel an insatiable hunger for Source.*
+Sidestep
+*Ask what happened here first - how did she die?*
+Deliver Roost&apos;s hand to Tovah.
+We left the island without making it through the maze.
+Nicholas
+This ancient-looking seed’s shell is dry and brittle. A firm grasp may cause it to shatter.
+As am I.
+Captain Ablewether asked us to stop her torment.
+That&apos;s a mistake you regret, fool!
+*Scritch his ears and speak calmly. You&apos;re sure he meant no harm.*
+*They tried to hide you. They put you in a cellar. They put you in a cave. They put you in the hills. They put you in a pit.*
+Magister Waters is dead. The Sourcerer&apos;s murderer is still at large.
+No online community detected
+How you doin&apos;?
+*The Magister&apos;s spirit has the thousand-yard stare of the death-shocked.*
+Your moment of freedom is at an end. Back to prison with you.
+*The statue considers this, then...*
+Wand Of Nature
+[OUTLAW] *Tell him you value freedom more than coin.*
+Seems like a good deal to me. I go my way, and you go yours.
+They&apos;ll talk themselves out of that cage if you let them. You&apos;ll be their key before you know it.
+*Say one who is evil.*
+What&apos;re you waiting for? I&apos;ve been prisoner here for... I don&apos;t know how long. Can&apos;t you help me?
+Don&apos;t think even Lohar can handle this one. I&apos;ll need t&apos;see the Queen. She&apos;ll want t&apos;know about Mordus.
+&apos;The Hammer shall take Counfel from Her Most Trufted Advisers.&apos;
+*Tell her you put a little boogie in it.*
+A drawer for all your hats and gloves.
+My queen... gone. If there&apos;s any solace in her death, it&apos;s that I might again see her in the Hall of Echoes.
+*Let him go.*
+Flight
+*The spirit of a half-dressed Magister stands before you, fumbling to draw his phantom blade from its sheath.*
+Still sniffing around? What do you want here, anyway?
+It&apos;s off to Fort Joy you go, nasty Sourcerer!
+*The woman is scrabbling at her throat, as though she can hardly breathe.*
+The old girl was born from good stock.
+Hence the heavy defences.
+Uru Koor
+*Well? Ask who he met.*
+You can&apos;t afford the offer you made! You&apos;re not only a con artist - you&apos;re a bad one.
+|Strange Pillar|
+Like hell you will!
+Hm. Ok. I believe you.
+*Stay silent.*
+*Tell him that yes, you&apos;re alright. You&apos;re free now, and he helped you win your freedom.*
+Activate
+You are quite formidable, my prince, but you underestimate just how much more formidable you could be!
+You have no business here.
+Rhymes Of The Ranger, Part 4
+North Star
+Ancient Turtle
+Not enough to silence me, but enough that I would not turn their insides to lime.
+Well, I could use the coins. Now go on, before I change my mind.
+I will never write &apos;liberty&apos; or &apos;justice&apos; on my shield. I fight only for survival.
+*He smiles and mutters the phrase to himself under his breath, repeating it several times.*
+Search for survivors.
+A magic mirror revealed the location of the Red Princess.
+*Decide you&apos;d be better off leaving this man to his project.*
+*The Dreamer chants in a swift, ancient cadence. Ethereal shackles burst from the void around you, seizing the Devourer.*
+Hatchet Of Horror
+*Look away.*
+Set Language

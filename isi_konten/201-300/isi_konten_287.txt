@@ -1,0 +1,153 @@
+[RED PRINCE] *Point to the escaping Sourcerer. What good is a slave if you&apos;re going to let him escape so easily?*
+The old stories say they&apos;re weapons, devised by the mad Source King, Braccus Rex... they&apos;re these tortured, purged wretches... crucified, a-and forced to channel sheer destruction at whoever their master bids...
+You know all the tricks in the book, I suppose. Feel free to have my back.
+[IFAN] *Show her Borris in his element... arranging the assassination of innocent people.*
+*As the flames die, the spirits call out - one, gently; the other, in a furious rage.*
+This language change will be applied after reset.
+*Shield yourself and duck, hoping to avoid the blow.*
+Soon as the Inquisitor gets here, we&apos;ll hang you right over the side of this ship with it.
+Warrior AI
+freed of the burden of being the Godwoken.
+It is a dark day. And it will get darker still.
+*Say they&apos;ve given you trouble in the past, and you&apos;re not here looking for trouble.*
+I cannot do anything to prevent it. We are bound together.
+[Translate21_09d640ee-4755-4652-8897-d585067dee3d]
+Peace be, peace be, peace be...
+*Say that, were you a lizard, you wonder what House of the Ancient Empire you&apos;d belong to.*
+Hey! I feel... okay! Thanks, woman! Think I&apos;ll wander off now. &apos;ere, &apos;fore I go, what can I do to show my gratitude?
+*Your whole body flushes. You&apos;re sure you must be glowing, so deep does the warmth dwell.*
+Dust Blast Skillbook
+You... you wouldn&apos;t, ben-Mezd... no, &lt;i&gt;no&lt;/i&gt;, there&apos;s no coming back from that!
+Elven Mask of the Shapeshifter
+I... I can&apos;t. That&apos;s Donna in there. She was a friend. OUR friend.
+*Express surprise at his welcome. He&apos;s been expecting you?*
+I don&apos;t need this distraction. Why don&apos;t you go stroll in the garden, or something?
+Sorry, I- I- almost forget sometimes.
+*An ancient memory overwhelms you. You are no longer you - but you still sense Source saturating the air, more than you have ever felt before.*
+Requires [1]
+Something stirs in my memory. Something long buried! I... I don&apos;t...
+Perhaps you are right. Perhaps not. Give me time, let me think. Whatever may be, Lucian shall guide me.
+Am I? Am I being stupid? Think, Stingtail, think...! &lt;i&gt;The scar!&lt;/i&gt; That is why you seek me...
+I thought this place was supposed to be abandoned.
+*Your scales tremble and your tongue is numb. Your inner Source pours into him, and his into you...*
+Animators Reference: SH WeaponSet
+You have created
+[1] gained [2]
+GREETINGS LORD AND LADY KEMM - GRACIOUS AND BELOVED
+*It&apos;s the name of a goddess, isn&apos;t it?*
+Please, don&apos;t flatter yourself. The wound wasn&apos;t that grievous, it just put on a bit of a bloody show for a time.
+Well, well. This is more like it! Finally, a structure with taste…
+Find the Red Princess.
+[RED PRINCE] *You recall the power building inside you: the stare that enthralled a demon. Unleash it!*
+Dear lord, I might as well try and teach mathematics to a dog chasing its tail...
+And by the by, you oughta find Griff in the kitchen. He&apos;s always lookin&apos; for more of &lt;i&gt;our &lt;/i&gt;kind to get in on what&apos;s good to get.
+*The Godwoken may die here. &lt;i&gt;But a new Divine may rise.*&lt;/i&gt;
+We left the Nameless Isle with the conflict between the Mother Tree and the Shadow Prince unresolved.
+Civil Abilities
+Wait. I must ask you something.
+*Your blood is up. Ask him if he wants to... go again.*
+Nenny
+*Say you washed up on the beach not too long ago. You&apos;re still getting your bearings.*
+Two-Handed Slicing Axe
+*Ask him where you are - what is this place?*
+*Prudence regards you with humility. It gives her strength. She carries no fear.*
+There.
+Lucian&apos;s righteous light guided Gareth and Siva. They blinded him, caged him, but the damage was done. The Seekers were disbanded, Dallis was empowered, and I, well...
+You can fool the eyes of those simple creatures. But we are not simple creatures.
+*Agree, and ask what they were doing here.*
+*She rises from her bow. The deep blue veins on her face pulse violently.*
+I miss you.
+Lizard&apos;s Warhammer
+*The elven priest fervently prays.*
+Considerate
+We learned how to consume the Source of spirits and claim it for our own.
+*Hesitate. Something seems off...*
+Marg the troll is dead. Grog will be happy. Or at least less grumpy.
+I could do with a few things for my satchel and a sharper blade - let&apos;s see what goodies the Magisters left behind.
+*Under his hood, you can see old, fading tattoos marking his neck. An image of Lucian in profile; the symbol of the Divine Order; cursive script spelling out a prayer to the Seven. In his eyes, no faith remains.*
+Emperor of the dead? To sit on a cold, grey throne amid a vast necropolis? Never.
+An Introduction to Sourcerous Sundries&lt;br&gt;&lt;br&gt;Sourcerous Sundries comprise three distinct products, each one designed for upgrading specific gear:&lt;br&gt;- Azure Flint upgrades weapons&lt;br&gt;- Diamond Dust upgrades equipment&lt;br&gt;- Quicksilver upgrades jewellery.&lt;br&gt;&lt;br&gt;To upgrade your desired item, simply choose the correct Sourcerous Sundry and then combine the two together. Your items will upgrade to your current level.&lt;br&gt;&lt;br&gt;For upgrading items of a higher rarity, more units of Sourcerous Sundries will be needed.&lt;br&gt;&lt;br&gt;We wish you every success!&lt;br&gt;Signed: Donna, Dagmare, Demira, Deidara.
+*Apologise, but you don&apos;t have any Source to give.*
+Ah. It&apos;s a bargain you seek. So here&apos;s one: I give you the information you want if you do the same for me. A perfectly even deal.
+[JESTER] *Tell him he&apos;s ugly too.*
+Now, if you don&apos;t mind, another query:
+Secret Vault
+Undress...
+I&apos;ve found a new Master. A kind Master. A promise of eternity.
+Next time we should ask how it knows us &lt;i&gt;before &lt;/i&gt;stomping it to slime.
+I think I&apos;ve heard about you. Didn&apos;t you catch the Magister-killer in Driftwood?
+Hold it right there! I&apos;ve been authorised to search all of your belongings. Now let&apos;s have a look.
+Dungeon - Chasm
+Me too. What wuzzz we doing?
+Dungeon - Empty Room (Two Squares)
+*Agree to keep things peaceful.*
+&lt;i&gt;You &lt;/i&gt;will be the Divine of the light.&lt;i&gt; I &lt;/i&gt;will be the Divine of the darkness. All things in moderation - isn&apos;t that right?
+*The dwarf bangs his palm against his head.*
+Excuse me. You travel with Lohse, do you not? We need to have a word, you and I.
+[BEAST] *Ask her to help you. To help you help your people. To show you exactly what to do.*
+*Say you think so.*
+Off to hunt? Stock up here.
+I feel &lt;i&gt;nothing&lt;/i&gt;. Neither the strength of your hand nor the warmth of your touch.
+Well, do make the most of your visit. And be sure to stroll through the gardens. I have quite a green thumb, you know. I planted every bulb and scattered every seed myself!
+*You feel your God stirring. Ask it to intercede, just once, and spare you from the sacrifice.*
+To learn the combination we must gain the favour of all seven gods.
+Truly impressive, how you navigated your way through my little test. It&apos;s only a shame that you weren&apos;t willing to have a meeting of minds in private...
+If you side with &apos;life&apos;, then you best keep to yourself - as best as a lizard can manage, anyway. The louder you cry and the harder you pray, the closer to death you tread.
+I hope you understand them to their full extent. The other gods must either bow to you, or be undone!
+I tried one of your potions already, remember? It didn&apos;t help.
+No... no, I suppose it wouldn&apos;t... But I remain torn. Hmmm. What to do with it?
+You would be, too, if you had a yellow-haired Yarrow child like mine. Sweet thing. Papa&apos;s pride.
+*The three fawn-coloured stags shake their antlers; the clouds clear from their eyes.*
+They thought that having a single Divine to unite them would aid in the fight against the Void. But look at them now: weak, fragmented, desperate. Even weaker than I expected.
+*Say something sounds off about her offer...*
+Remorse
+I put my faith in the Bishop. Reminds me of his father. And what he&apos;s said has been true: Wherever there are Sourcerers, Voidwoken strike.
+So you would end your path to Divinity here and now, then? How... unfortunate for you. No matter. I&apos;ve kept my promise. But there is another bargain I must fulfil...
+*Point to the machine. She didn&apos;t notice the leaking defraculator? Or the redundant Source array?!*
+*Tell her you&apos;ll do whatever&apos;s necessary.*
+Those who demand your service are rarely concerned with your well-being. I know this. I am living proof of this.
+You are my champion, after all. I saved you from the darkened seas, where you would have been lost and forgotten forevermore. I need to know how badly I&apos;ve chosen before we proceed.
+The captain left with a warning.
+*Chuckle along with him. Good stuff, good stuff!*
+Team 1
+*Place a hand under what&apos;s left of her dress and move it up along her inner thigh.*
+Very well. Now keep still. I can&apos;t let you distract me.
+Friend of Master&apos;s. Used to smell old. Now he smells rotten. And he&apos;s mean! Threw my ball away!
+You met my brother? Really? Hm. Alright. We have a deal. You first.
+Lohse returned to her music and enjoyed a storied career as the Divine&apos;s premier musician.
+You would barter for your life? Like some pathetic fishmonger?
+*She mumbles to herself. Something about &apos;dumb dwarves&apos;.*
+*Ryker closes his eyes and spreads his arms, but stops and flashes you an inquisitive look.*
+*Scoff and say that nothing&apos;s impossible.*
+*She falls into a contemplative silence for a moment, then perks up once again.*
+He died to save us all. Yourself included, though you don&apos;t deserve it. And when a new Divine ascends, the Voidwoken will be cast back from whence they came.
+Very well then. Let&apos;s see if we can&apos;t snatch Divinity from the jaws of the Void.
+*Tell her that her husband has a shrine to the God King - the patron of the Black Ring - in his vault.*
+[FANE] *Tell him it&apos;s been an eternity since you&apos;ve tried.*
+Come on - and hurry.
+*Pay up.*
+Vampirism? It is as twisted and cruel as the legends say. But these vampires suck no blood, only Source.
+My faithful eagles work still. They know their duty, they need me not.
+Thankee kindly. Any chance of another one? Penny for a lost dog and all that?
+Proving Ground
+What would he have to gain by killing me? Strange forces are at work...
+Adramahlihk possessed Lohse, body and soul.
+How bad is it? Say on a scale of one to ten.
+You&apos;re on thin ice, human. And I&apos;m very close to cracking.
+Tschhhh, adults always want to &lt;i&gt;talk&lt;/i&gt;. Can&apos;t I just play here with my shells a while?
+Perhaps you can succeed where I can&apos;t. My heart breaks for our ascendant. Find a way to relieve its suffering, and I will find a way to reward you.
+*Ask about your reward.*
+*Awkward as it is, offer to trade with her... if she&apos;s still interested.*
+Undead Warrior
+The Hall of Echoes
+*Try to wriggle free of his grip.*
+Skyfort
+*He shrugs. His face is a bland mask, but his voice is heavy, muted.*
+I hope Arhu is well. He was kind to me when I first came here as a child. I remember it well.
+Applies Burning.
+If yow be not with the God King, yow be against. &lt;i&gt;So rejoice, I bring yow death..&lt;/i&gt;
+There&apos;s more to this ship than meets the eye... We&apos;re not out of the woods just yet.
+A hefty club as dense as the head of its last owner was.
+Indeed! It&apos;s not just decomposing flesh and bone dust underfoot, as you know. Why, the very essence of decay flavours many an essential oil and tincture.
+*Say you hadn&apos;t expected to meet her here.*
+Most wise. Good luck to you.

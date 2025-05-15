@@ -1,0 +1,151 @@
+*The young woman chews her lower lip, gazing at the Seekers before her - some dead, some dying.*
+*She looks around the chamber, taking in the sea of cracked, broken eggs and dead Voidwoken.*
+*What&apos;s left of the corpse on the floor bubbles once and then pools, cooling quietly on the stone. The point is made.*
+Hours spent on scholarship are never hours wasted.
+Your duty on this island is done. Two pieces of the armour remain in the greatest city ever built by mortals.
+*She stares out over the sparkling sea, a contemptuous smile upon her lips.*
+Beast died in Dallis&apos; attack on the Lady Vengeance.
+Damn shame to see a good vessel dragged down by a beast so filthy.
+*Casually remark he should find a place in the shade. Looks like he&apos;s been standing in the sun far too long.*
+Easy to say.
+I proclaim thee the Champion of the Driftwood arena! Get yer gloat on, &apos;n&apos; take a swig of ale. Hell, take a dozen. We&apos;ll be singin&apos; for years to come of the great human Void-slayer!
+Equipment Trader
+*Tell her she can try, but you don&apos;t promise any great wisdom.*
+W-what...? No, of course not!
+Curmudgel
+Old Twohander
+By the Seven, where are you going?! Get me down, you human-touched cretin!
+I don&apos;t know. None of us were meant for divinity today, Dallis made sure of that.
+Well well, there you are. My darling. Just look at you...
+*Swing your head back, slicing your neck along his blade, and slam the back of your head against his face.*
+[A title is etched on the thick bible&apos;s cover: &apos;Chronicles Of The Ever Age&apos;. Every page speaks either of tragedies long past, or those still to come. As you leaf through the tome, a name catches your eye: Braccus Rex.]&lt;br&gt;&lt;br&gt;...There was no lamp or sun, yet the light blinded me. It was Divinity, not as man or woman, not as creature or homunculus, but as element. Pure and whole, a sea of Source both above and below.&lt;br&gt;&lt;br&gt;The light was soon to fade, however. The shadow of a great dragon passed below, chilling my nerves and blanketing Rivellon in darkness. Upon the great wyrm rode the Mad King, Braccus Rex. He cast an impossibly long leash into the Divine light, as a fisher might cast his line into the sea. The mighty dragon plunged, pulling the brilliant aura with it.&lt;br&gt;&lt;br&gt;I was suddenly engulfed in nothing. Void. Emptiness. From the silence came one unmistakeable sound: the pounding of a hammer...
+*The cook nods at you curtly.*
+The Doctor is dead.
+The spirit of the One is everywhere. It exists beyond us, yet will some day live in one of us.
+Dear gods, look at you! Not even a beard like that can hide that sort of ugly. Why&apos;s your beard so big, dwarf? Is it to make up for your teeny, tiny -
+*Tell the Magister where he can find the barrel.*
+How very novel of you, sir.
+*Tell her the God King prefers respectful subjects.*
+Entrance to Ghetto
+Witch&apos;s Potion
+Paladin Rusher
+*Hold stock-still and wait for the figure to make a move.*
+*You embrace. It&apos;s sweet and wonderful. You wish it could last forever.*
+[SOLDIER] *Note that this place smells worse than any corpse-filled battlefield.*
+*The wound forms, then heals, then forms again as you rise.*
+Some dwarves - locals - attacked a Magister caravan. Must&apos;ve been Sourcerers inside...
+*Ask if she knows who killed Alexandar. Point at yourself.*
+You&apos;re so much like him. Lucian, I mean. My instincts tell me to kneel to the new Divine. I&apos;ve done so before, after all. But... this pact you&apos;ve made. I cannot. I must not.
+Only a ruddy lunatic would lie about being a Sourcerer, given how the Magisters hunt them down...
+Mysterious Pillar
+*The skull grins, regarding you with a scornful gaze.*
+[LOHSE] *Tell the girl that you know her struggle. She has to cling to who she truly is.*
+Talk to Saheila about escape.
+Amadia. You have heard my prayers!
+The entrance is through the ruins, o&apos;er yonder. For all the good it&apos;ll do yeh.  Might be swarming with Voidwoken by now.
+*The shrine remains as you left it, having revealed its long-kept secret.*
+This is a list of pain and suffering. A world that does not grant these people justice is one not worth saving.
+[IE_ToggleMap]: view the quest &lt;font color=&quot;008858&quot;&gt;marker&lt;/font&gt; on the map.
+*Tell her it sounds like &lt;i&gt;she &lt;/i&gt;has a job - not  you.*
+*Tell her not to think of it as charity, but as two people looking out for one another.*
+Toggle AI Bounds
+Oh. That. Won&apos;t be my first or last roll on a lost boat.
+*The dwarf backs away, hands raised.*
+The Great Schism of the Divine Order, and the Ruination of Arx... this will be my masterpiece.
+*Introduce yourself.*
+Return to Saheila.
+Target totem or summon deals [1]% more base damage during its next turn, but then dies.
+Gold
+Mordus offered to help us deepen our grasp of Source power. In order to do so, we would have to consume the heart of a Voidwoken. We agreed.
+Soul Shackled
+My King. Do you see? Do you hear? Your will is done. Your kingdom cometh!
+*You peer into the mirror and you see Sadha; the memory of love amid satin.*
+Sourcerer vampire! The Order are right about your kind, you are no more than &lt;i&gt;Voidkin&lt;/i&gt;...
+*Laugh. One death usually suffices.*
+Don&apos;t judge me, shortshrift, and I won&apos;t judge you.
+*State that you would under normal circumstances, but you&apos;d be beyond embarrassed for someone to see what&apos;s in there.*
+*Ask him who gave him the contract to kill Godwoken.*
+We were just sitting about, enjoying the sun, when something possessed our brothers. Turned their eyes black and their hearts to murder.
+*Ask to meet Livy, Lovrik&apos;s child.*
+Demonic Celerity
+*Her stare pierces into your very soul like a dagger from the Void.*
+I&apos;m prepared to offer a generous reward, my good fellow. You&apos;re &lt;i&gt;dying&lt;/i&gt; to show off those smouldering talents of yours. You just don&apos;t know how to handle them.
+There are many Sourcerers in the world, but we have to help a special few above all others... Sourcerers with... unique talents...
+Come. Your hands.
+The Black Ring came, and sacked the temple... the one that leads them... the &lt;i&gt;Sallow Man&lt;/i&gt;... he cursed me - a curse of madness and... terrible visions...
+Let&apos;s play...
+Armor (leather)
+*Keep trying to talk about your adventures on the road.*
+[1] turned into charcoal.
+It&apos;s all in the m-i-i-i-nd.
+Bodypart
+*Godwoken? Ask what she means.*
+I renounced her, and Tir-Cendelius came to me. He soothed me with his gentle words, and I was whole once more. He could do the same for you, if you would have him, when you fail.
+So?
+*The creature falls silent and still for a long...*
+*Ask her to remind you.*
+Cache
+*You&apos;re still standing exactly where you were, a faint burning sensation in your chest. Perhaps this ritual is not meant for you...*
+Well, little bit&apos;s better than nothin&apos;!
+Seems to me you should be a little more... afraid. There&apos;s a killer about, after all.
+That&apos;s the best lie you can come up with? Vandal!
+Map! Map? Show me your map!
+A word of warning to you, ben-Mezd, one you would do well to heed: &lt;i&gt;Do not make the Doctor wait.&lt;/i&gt;
+*Even in the grasp of Roost&apos;s cruel hands, Saheila&apos;s face softens. She smiles.*
+*The demon turns to Lohse. His eyes are terrible and familiar as they burn into hers. This is the monster in the mirror; the demon inside her.*
+*He mentioned Isbeil. Who&apos;s that?*
+The hunt, like always.
+Perhaps we can be of use to each other in time, elf. We shall see...
+That&apos;s... reassuring, actually. Can&apos;t say I know everything she&apos;s got planned. But I know she&apos;ll do anything she can to halt the revolution. Who knows how many lives she&apos;d end to see it done...
+The witch&apos;s chicken-scratch handwriting is filled with antiquated language and arcane symbols.&lt;br&gt;&lt;br&gt;You understand that elements of this text relate to polymorphing, but you cannot piece together the scholarly concepts.
+*Say you cannot say what you seek.*
+*Ask what has him so spooked.*
+No! Not like this. I won&apos;t let them!
+[IFAN] *Tell her your name is Ifan.*
+Cat, obviously.
+Blood among blood you will be,   for   I   will   bend   you.
+*Shake your head and clutch your pack tightly.*
+Breaking doors and chests, rather than picking their locks or looking for an appropriate key, will damage your weapon&apos;s durability.
+But my worst fears came true when the Black Ring came. I fled here. I made sure the temple was defended, and went to the altar. I prayed to Amadia for help. But...
+I am PURE. I can do this. I AM pure.
+*Turn away and shiver. There must be a way to expel the horrible beasts from inside you.*
+Give Lohse her shot at Divinity.
+*Ask how death compares to life so far.*
+Unless you want to...
+Of course, it&apos;s up to you whether or not to listen. I know how &lt;i&gt;I&apos;d&lt;/i&gt; respond, but... you do you.
+Keep it down, will you?!
+Helmet
+*The eight of you rush forth as shadows, past the globe, past the man whose body now lies limp on the floor, past the jeweled walls.*
+*Tell the kids that rules are made to be broken. &apos;Alexandar&apos; can come back to life if he wants to.*
+Find a lizard dreamer.
+*This hole is too small for you to squeeze into.*
+What else do you want to know?
+Go to the authorities.
+Attack_Skill_Cast_2
+That is a wise decision. I do not suffer thieves.
+[OUTLAW] *Tell him you don&apos;t care one way or the other about a few missing Magisters... unless there&apos;s a reward involved.*
+[Translate54_a3246571-0c7b-4d0e-b7ed-9b4f88f63f58]
+Vice Grip
+A map that looks like it has been scrawled in oil and blood.
+Hmm. I heard the sick sound of Source from over here. What do you know about this?
+This bow&apos;ll help against Alexandar. And so will &lt;i&gt;you&lt;/i&gt;. A good weapon&apos;s one thing, but there&apos;s nothing on Rivellon like a good companion.
+*Ask him to tell you the latest.*
+One of those damned Sourcerers.
+&apos;ullo again!
+*Sniff, sniff.* You. Clear! Go!
+Elemental Arrowheads Skillbook
+Whatever it is, you&apos;ll ace it.
+Master?
+*Ifan catches you looking over at him. He raises his eyebrows.*
+*She purses her lips. Tuts. Tut. Tut. Tut.*
+And then what? Watch silently as she razes Arx to the ground?
+*Tell her you came on Lohar&apos;s orders, and show her the invitation.*
+[BEAST] *Laugh. Washed up, eh? Perhaps he&apos;d like to put his money where his mouth is.*
+Notes on Black Tea&lt;br&gt;&lt;br&gt;The finest tea for the one who likes to sit close to the winter fires is undoubtedly Black Tea.&lt;br&gt;&lt;br&gt;A brew of this hot stuff will keep your eyebrows un-singed no matter how close you lean in to the flames.
+Look, by all means, but do not touch the merchandise. Human skin&apos;s impure oils may taint even the least delicate of my herbs and tinctures.
+*Tell him you&apos;re not used to taking insults from walking rocks.*
+Are you a poet? Do you know it? Do I show it?
+You have sensed the goddess and your words ring true. But I wonder if you really know her - know her the way I do. Allow me to enlighten you, my lord:
+She is taken by their leader - a savage man named Roost Anlon. I do not know why. But I know she must return to me. If I lose her... I &lt;i&gt;cannot &lt;/i&gt;lose her.
+Well, that&apos;s quite the story, now. Let&apos;s save it for a better day - say when we finally make it off this damned island.
+They were already among us, Isbeil said, preparing to steal our children in the name of the Divine Order, masquerading as the poor, the helpless, inciting our people to violence. I... only wanted the kingdom to be safe.

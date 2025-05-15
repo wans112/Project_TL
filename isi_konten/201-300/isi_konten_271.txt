@@ -1,0 +1,164 @@
+Legend tells of the most precious rose - the &lt;i&gt;Blood Rose&lt;/i&gt; - prized by kings and men from ancient times. The Blood Rose grows only in soil suffused with suffering and fertilised with filth. In the days of Braccus Rex, the rose was grown using methods esoteric and vile: the only methods proven to grow the rare blossom.&lt;br&gt;&lt;br&gt;The Perfumer Awanel persuaded Braccus to bury the bones of the tortured dead within a deep cave. He sowed the seeds within their emptied skulls, watered with the tears of the tortured living. In such a soil, the Blood Rose flourished.&lt;br&gt;&lt;br&gt;The scholars say that even today, were you to find this mythical cavern, the roses would grow there still.
+You will beg me for death. You will &lt;i&gt;beg&lt;/i&gt;, little maggot.
+*Tell him his supplies have been destroyed.*
+Magical Helmet
+Perhaps I should thank you. If not for your cruelty, I would not have met Him.
+Magical Wooden Staff
+It was a time of selflessness and sacrifice in the face of our old enemy. It was an act of heroism, and a dreadful mistake to boot - which we must rectify.
+Some of the passengers were trapped between decks, but we fought off the Voidwoken and made it out of the ship.
+Very well, let&apos;s be off!
+*Shake your head and say there&apos;s a special place in hell for people who leave behind their pets.*
+*Lucian&apos;s statue creaks and groans. When it speaks, its voice is stony - it grinds and crackles with magic.*
+Cute as a BOCK-BOCK-button. A button that could DESTROY US ALL!
+Voidwoken.  Damnable, bloody Voidwoken...
+Not before time. Good day.
+Gwyd. Look at me. We can be strong again.
+Fiery Inferno
+*Ask what may cure this troublesome affliction.*
+Hmm... can&apos;t find it. I must have dropped it on the way out.
+*Stall for time. Maybe she&apos;s just not asking the right questions.*
+*Ifan&apos;s eyes flicker rapidly from side to side, as if trying to take in an expansive sight.*
+*Nod noncommittally. You&apos;ll see what you can do.*
+*She seems to relax; the colour returns to her face. She crosses her arms and scoffs at you.*
+*Toss his Soul Jar from hand to hand. He&apos;s in no position to be making threats.*
+I, Sworn follower of the God King, fought for his restoration. But I failed him.
+Such beauty. Such stupidity. Such a pity.
+UI Create Profile
+*Tell her that the last you saw of him, Hardwin at least was still alive.*
+scene
+Spirit of Natalie Bromhead
+*Dip your head. That&apos;s all you need to know - you&apos;re done with him now.*
+*He returns to himself. The screaming stops. Both eyes settle upon you at last. He looks tired. He looks... haunted.*
+Atta slaver!
+I know. Or did you think I chose you for those ember eyes alone?
+*Say you tried to make a run for the boat, but you didn&apos;t make it. The rest is blurry.*
+I should have taken more, if this were the end I would&apos;ve gotten. I should&apos;ve robbed them blind!
+*Nod. He&apos;s right. Unsheathe your weapon.*
+*Lie and say that you have no idea what happened.*
+Retribution now. Conversation later.
+She gave me this handkerchief. Something to remember her by. Who would have thought so soon would come our parting?
+It&apos;s just... well, all these books promised a transcendental experience. Instead it was merely... biological.
+Kemm was seen in his garden with a cat.
+Dwarven Book
+*Try to catch the dwarf&apos;s attention.*
+It turns out you&apos;re no better at cooking than a sock puppet.
+End your turn by pressing [IE_UIEndTurn]. Any Action Points you have left will be &lt;font color=&quot;008858&quot;&gt;saved&lt;/font&gt; for your next turn. You can&apos;t save more than your &lt;font color=&quot;008858&quot;&gt;Maximum Action Points&lt;/font&gt;.
+*Cough* Go on then... finish the job.
+*Lohse suddenly snatches up both the elf&apos;s hands and leans close to her. Her voice rises.*
+*Beast hums to himself while he runs his hands through his beard. You note a few scars on his face that weren&apos;t there before. The man is nothing if not resilient.*
+Owlmistress Aoife&apos;s Key
+[1] new journal updates available [2].
+I should&apos;ve told him so hard he&apos;d never get back up.
+Even Roost doesn&apos;t know. All he told me is that the Master wanted you above any other. You who were no sadist, no killer: an innocent. He wanted you above any other.
+*Hold him back. You want to talk to this Paladin yourself.*
+The Advocate told us about the Nameless Isle. We&apos;ll find the Well of Ascension there.
+Ma, this is my friend. Friend, this is Ma. Ma made it back. See? She&apos;s here! Thank the gods!
+*It promises Fane that if he can snatch the powers of the Seven, then he can restore his people. Not under the rule of the God King or the Void - they would finally be free.*
+And believe me when I say you&apos;ll need me if you&apos;re to withstand it.
+But there&apos;s more. Listen &lt;i&gt;close&lt;/i&gt;.
+*Say &apos;nothing&apos;.*
+*He takes a step forward.*
+Protect the bishop, no matter the cost!
+I don&apos;t blame you. To brush shoulders with someone of &lt;i&gt;my&lt;/i&gt; stature must be overwhelming.
+Oh aye? Not worth my bloody life - I&apos;ve got orders.
+*The White Magister spins on her heels just as the hanging Sourcerer breaks free of his bond.*
+*Ask her to remember the fight against the elf Saheila. She&apos;d really want you to let all those people attack her?*
+*As your song ends, she stops moving. She&apos;s calmer - still and quiet.*
+Willpower Lowered
+*Eh - well, you were going for a little more subtly, but... yes?*
+Flattered, I&apos;m sure, but - &lt;i&gt;immolate him&lt;/i&gt; - ahem, you should not be wasting time speaking to me.
+[Arena_AvailablePlayer_1_3b7981f5-c807-44bc-b2cd-a434ba7b6b35]
+Think what else they grow. I complete the armour.
+But now I&apos;m free - of sorts - and I&apos;ve traced that lizard here, to Fort Joy.
+[1] came to a shocking end.
+Jahan&apos;s Diary
+Unghhhh.
+*Frown and say she doesn&apos;t beat around the bush, does she?*
+*The image quivers and shakes. The roar grows to a deafening cacophony, and the figure opens its mouth in a silent scream. It covers its head as the rocks start to fall...*
+Nice company you keep, Ifan.
+Whatever he was, he seems harmless enough now. Let&apos;s leave him be.
+The day will come that you realise your mistake, and on that day you&apos;ll come crawling back to &lt;i&gt;me&lt;/i&gt; in search of absolution!
+Stained Pants
+But don&apos;t you worry, darling: your secret&apos;s safe with me.
+This is the exception then. If there&apos;s nothing else, I truly must get back to work...
+*Beast&apos;s shoulders slump as he turns away.*
+What did Sssallow sssay?
+*Say that, in all honesty, you aren&apos;t her biggest fan.*
+Civilians
+*He narrows his eyes at you and turns away.*
+Wait! Stop! I have gold!
+*Do nothing. Allow him to sing.*
+...wheel of the good stuff.
+Rubble
+...I guess I can be okay with that.
+Silly... silly... I mean the rich... warm... &lt;i&gt;red... &lt;/i&gt;smell of raw meat.
+*Shuffle from toe to toe and apologise for your intrusion.*
+*Tell him you&apos;ll not seek justice for the Seven. Their time is over.*
+Unlock failed
+Gil
+Maybe. I guess the loremaster will figure it out.
+Accept
+Vampiric Hunger
+Care-taking! My gnomans get a hot-head if you danger-make their treasures. Go easy.
+*Put a hand on the boat. It&apos;s time to get out of Fort Joy.*
+Did the murderer take him into this room? Or was he already here?
+Happy little family, aren&apos;t we? Yes we are!
+Merciless Twohander
+Buzzard-bait.
+A trader&apos;s inventory refreshes when you &lt;font color=&quot;008858&quot;&gt;level up&lt;/font&gt;, so be sure to come back often to see new goods.
+Replica of a Statue of Duna
+*Inform him that Murga is dead.*
+She&apos;s tellin&apos; the world not to muck with the dwarves. Can&apos;t blame &apos;er for that.
+They did, but they didn&apos;t outweigh the dread of destiny.
+...Yes, Quercus, obviously our gargantuan friend is doing its best, too. That goes without saying.
+*...&apos;Take me, I&apos;m yours.&apos;*
+*He nods once, turning from you.*
+[BEAST] *Tell her you&apos;re called the Beast.*
+*Talk about the giant Voidwoken you slaughtered to escape Fort Joy.*
+Did... did my order send you? To cure the child?
+Sister, though you are fire and I am ice, it pains me to be so wretched before you. Look not upon me, I beg.
+*Tell her... him... it... to get lost.*
+And what kind of Divine was Marcus Miles, the Beast o&apos; the Sea, as the world battled on?
+With Justinia dead, the dwarven kingdom descended into chaos. But although they did not join the Divine Alliance, many joined the fight against the Void, and did their people great honour, in battle and in death.
+I swore to kill the Godwoken. And I never break a promise.
+*Relieved, he kisses your lips. Then your forehead. Then each cheek. Your chin. Your neck. The crown of your head.*
+Thank you! I quite agree, and I&apos;m sure I&apos;ll have mercy on you when I&apos;m a goddess; you but a mortal at my feet.
+*The elf&apos;s face creases into a mask of fury.*
+Now, are you simply here to waste my time, or do you have something worth saying?
+Godwoken... you have &lt;i&gt;no right &lt;/i&gt;to be here. Leave!
+Dead Lizard
+I can imagine, yes. Here&apos;s one kinsman whose death I do not deplore in the slightest.
+[NOBLE] * Another stinking peasant! Bury your nose in your handkerchief and hurry away.*
+&lt;br&gt;S W E A R&lt;br&gt;T O&lt;br&gt;T H E&lt;br&gt;G O D&lt;br&gt;K I N G . . .
+Oh, how unfortunate. We could be so &lt;i&gt;good&lt;/i&gt; for each other.
+You? Divine? As if. And even if you were Divine, look what the last one did - Lucian brought nothing but death to the forests. No. Your word is worthless.
+But I must say, you look riddled with guilt. Can you prove to me you aren&apos;t thieving about?
+Turn him in. This is their quarrel, not ours.
+I. Am Free. Now. You. Must. Die.
+No more warnings! Time to face justice!
+I&apos;ll take care of it, mistress.
+Remember me? I was good enough to loan you a small sum of money.
+I swear, once I get to Arx I&apos;m going to have the bath of my life...
+You remember, don&apos;t you? Us, dancing together in the daffodils. The fragrant sea of yellow.
+*Ask about his master - who does the lizard serve?*
+Ancient Temple
+The wedding? By Duna, haven&apos;t you heard? I... I&apos;m so sorry. There&apos;s... there&apos;s been a tragedy. You can head into the garden to see for yourself, if you&apos;ve the stomach for it.
+They&apos;re so, so m-m-m-mean!
+He desires that I should meet him, somewhere on Reaper&apos;s Coast, and meet him I shall. That is where my journey takes me next!
+Hey! I feel... okay! Thanks, man! Think I&apos;ll wander off now. &apos;ere, &apos;fore I go, what can I do to show my gratitude?
+*Tell him to think about it. What would Donna wish for?*
+Yarrow girl, you&apos;ve grown, you have.
+*Ask to know more about Arx.*
+And what would be the contrary? That you are here and now for some definite purpose, burdened by the millstone of destiny?
+Scrawled Instructions
+Still, you bewilder me just as much, don&apos;t you know! It was you who invited little miss needlework into the fold. Do you mean to tell me you&apos;re comfortable with what she&apos;s done?
+Arrow Slowdown
+*Grab his hand with confidence and lead the way.*
+See you again. I won&apos;t be going anywhere...
+*Say that yes, Arx still stands. Why would he ask such a thing?*
+*Skins sloughs from the nose onto your finger.*
+Telling them can&apos;t do any good at all. They don&apos;t need to know.
+I retrieved my mask. Thankfully the ape who stole it did no damage.
+Vicious Sword
+*He stands back from you slightly,  but opens his pack and rummages around inside.*
+Oh dear. When you lie like that, you really break my sense of immersion. *Tsk*

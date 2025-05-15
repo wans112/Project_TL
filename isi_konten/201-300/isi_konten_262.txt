@@ -1,0 +1,160 @@
+[SCHOLAR] *Point out that his incisions aren&apos;t the work of a common fishworker - he&apos;s some sort of scholar, isn&apos;t he?*
+*Ask the prince what he thinks about the Scions.*
+I told the red majesties that I’d hatch the dragon egg myself. They attacked me. That&apos;s a no then.
+Don&apos;t worry, Lohse. Do you really think I would add to the burden you bear? What I will teach you will &lt;i&gt;rend&lt;/i&gt; them, so that in time - I hope - you may rend the one within.
+Oh, of course. You won&apos;t find better in all of Arx, I can promise you that. &lt;br&gt;&lt;br&gt;
+For I am &lt;i&gt;the Red Prince!&lt;/i&gt; The All-Conqueror. The World-Tamer. The Spouse of the Sun.
+*Back away from the beast, hoping not to further provoke him with your presence.*
+[SCHOLAR] *Tell him you&apos;ve always wanted a blade such as his. Ask if you may have it.*
+*Say yes, you are interested in seeing what will unfold.*
+fire
+Please, allow me a moment to grieve, my prince. Sadha&apos;s death is a loss we all share.
+*Turn the collar inside out.*
+No key? No problem!
+Put a lid on it!
+*Assent, but tell her you expect him to be in a talk-worthy state after she&apos;s done.*
+Stop! Danger! Don&apos;t go!
+Oh, I see... You cunning devil, Quercus. Of course! If it defeated the Great Acorn&apos;s vile servants, it can do so again!
+Crumbling Skull
+*Play a song.*
+*Fane is flipping through his notebook, poring over the notes he&apos;s taken on your travels. As you approach, he tears a page from the book and throws it to the wind.*
+Letter from the Dwarven Queen
+*Clutching the amulet tight in her hand, Leya raises her red eyes to meet yours. She reaches out.*
+Justice tends to be.
+*Explain that you&apos;re happy for him, but he really should focus on completing his research.*
+*Nod and turn to leave.*
+Orc Pillar
+We continued on our journey without taking the Arena Master&apos;s challenge.
+There&apos;s always room for improvement however, and I believe I can muster one final lesson...
+[1] xp
+Abyssal Waters
+*Boast about the three trolls you slaughtered last week. You made a rug from their hide.*
+It was a gift from- ...it was a gift.
+*She embraces the Red Prince passionately.*
+Maybe in the next lifetime.
+*Tell her she can surely find work here in Driftwood and earn the gold back within a few days.*
+*He shrugs and takes a few steps away from you, but hesitates and turns back.*
+*Tell her you&apos;d rather not say.*
+*Apologise; you were just trying to help.*
+*Fane nods as you approach. He seems unusually quiet.*
+I could have my old life again.
+^%#*@%!%
+Aye, sounds about right. It&apos;s more than a moon&apos;s cycle and just shy of an aeon for sure, but I ain&apos;t been keeping track.
+[ELF] *Tell the elf to relax - you&apos;re kin, after all. You mean no harm...*
+Seems the life expectancy of Magisters gets shorter and shorter.
+Butterfingers.
+Kalias&apos; Stunner
+*The elf&apos;s deep, golden eyes go wide with recognition. A strange smile dances across his mouth and he starts to roar with laughter.*
+Saheila
+Keep those bolts trained on her! And if she tries to run, shoot to kill!
+*Ask if there isn&apos;t anything you can do to change her mind.*
+*Tell her everything is going to be alright.*
+Enraged by the death of her lover, Almira attacked us.
+*The look she shoots you would curdle even the freshest milk.*
+It ain&apos;t right. Never thought I&apos;d say this, but I hope they round up them Sourcerers for good. I ain&apos;t needin&apos; one sicking a Voidwoken on &lt;i&gt;me!&lt;/i&gt;
+*Her armour - ask about her plans once it&apos;s complete.*
+A bad man found me on the beach and brought me here, but I slipped away as soon as we got here. I... just want to get out. The... the &lt;i&gt;noises&lt;/i&gt; out there...
+*Tell the Magister that you found his satchel in the grass to the east of Driftwood. He must have slipped out that way.*
+Deal [1] and clear surfaces in a cone (except cursed surfaces).
+Ah, but we &lt;i&gt;are &lt;/i&gt;gods. We ascended beyond our previous forms. But we had no choice. Not after what we discovered...
+That monster! To kill a defenceless little kitten...
+*Tell him that death at your hands will not come quickly, and it will not bring him relief.*
+Oh, I meant of course milady&apos;s countrymen: the lizard excellencies that have sought shelter under this esteemed roof in the aftermath of the dreadful attack that was inflicted upon the imperial consulate.
+Aye, I heard her. And I second the Dreamer. We&apos;ll be right with ye to take down that dragon.
+Hearing
+*The Red Prince has his eyes closed as he levitates ever so slightly above the deck. He mutters a few ancient words and as he does so the sky fills with eagles; the sea with sharks.*
+But you denied me. You renounced me.
+Most delicious. Meet me around the corner. And come alone. An audience is... not required.
+Here is the truth, Red Prince:
+Some say only Tovah, her mother, holds her back.
+All weapons have a purpose, if wielded correctly. Something like this could end prolonged, bloody campaigns in a day.
+Yeah, what of it!
+Ho-ho, easy now, mate! I&apos;m just mindin&apos; me own business over here!
+It may have escaped your notice but we have just taken over an entire Magister barracks, and the whole place has to be searched. So? What is it?
+Rope
+*Say you&apos;re surprised. You heard a voice after the wreck, when you were nearly drowned at sea, but you hadn&apos;t guessed whose it was.*
+Oh, they&apos;re meek as lambs really. If you&apos;ve the wits to outsmart them...
+You stand in the shrine of Amadia. I pray you will keep her peace.
+Gareth is a good man. Loyal. He&apos;d sacrifice his own life if it meant keeping his conscience clear.
+*He&apos;s the one that took you by the jaw and sized you up like a damn horse. Say you&apos;ve a bone to pick with him.*
+Of course not! Who would? Turns my stomach. Turns just about &lt;i&gt;everyone&apos;s &lt;/i&gt;stomach.
+*A Paladin kills you, here by your home, on the threshold of the city you risked your life to defend.*
+Next Level [1]: up to [2]m range.
+*Tell him not to be too greedy. Quite frankly you&apos;ve need of all the Source you can get.*
+It isn&apos;t the words you speak, but rather &lt;i&gt;that &lt;/i&gt;you speak them. Prophecy says that only our devotion will restore him to us. A murmur of prayer, constant as the ocean, can lure our saviour back to us...
+Despite our differences I can see now that you&apos;d make a valuable ally indeed. Shall we join forces?
+*An &lt;i&gt;errand?&lt;/i&gt; Tell him that sounds slipperier than a Voidwoken eel.*
+...what? How... &lt;i&gt;how&apos;d you know that?!&lt;/i&gt;
+I... uh... guess he&apos;s talking about &lt;i&gt;you?&lt;/i&gt;
+I was shackled and collared
+Search Arx for the Deathfog.
+Ew...
+There&apos;s nothing to find. The Whites torched the place. Whatever we might have found is gone up in smoke.
+*Tell her you aren&apos;t a monster. You won&apos;t take a person&apos;s life.*
+*Tir-Cendelius steps forward, seizes your arm with surprising strength, and bites a chunk of flesh from your forearm.*
+Enable/Disable Anti-Aliasing
+I wouldn&apos;t side too closely with the Paladins if I were you, dwarf. They might have gotten the drop on the Magisters for now, but it wont last - it can&apos;t...
+Bad luck, yeah? Not to worry. The One will grace us. Gotta have faith, is all.
+*Thank him for the warning.*
+*Tell him you&apos;ll do your best.*
+Changed by his experience with the Godwoken,
+I give myself to your embrace, my King. Take my soul...
+Why? Don&apos;t tell me you&apos;d disagree...
+*The Magister&apos;s eyes are glazed. His breathing is shallow and ragged. He doesn&apos;t seem to acknowledge your departure.*
+*Ask her who she is.*
+Show respect while you&apos;re in the Princess&apos;s domain, stranger...
+I did wrong. I failed him. I forced him to do this.
+[JESTER] *Make to leave. Then turn back and tell it... not really. You&apos;re staying.*
+&apos;West - Bloodmoon Island&lt;br&gt;South - Driftwood&lt;br&gt;East - The Meadows&apos;
+[FANE] *Observe that the tool is broken. Only a fool would keep such a useless item.*
+They were MINE!
+Do shut up, you tedious buffoon. And don&apos;t look so surprised. As if I would allow a bone-bag to enslave me. &lt;i&gt;ME?!&lt;/i&gt;
+[FORT JOY CHAMPION] *Say that as a fellow champion, she &lt;i&gt;owes&lt;/i&gt; you an Arena fight.*
+That&apos;s too bad, I was hoping for some &lt;i&gt;fun&lt;/i&gt; for once. This place is the absolute pits.
+*Apologise for disturbing him. Take your leave.*
+The Winter Dragon is invulnerable. Whoever captured it must want it alive.
+*He raises a hand in salute, then vanishes into the ether.*
+Bring it to me. Bring it to me! Head of the dog! Garvan... GARVAN!
+She is the true crown; the true throne; the true empire, vast as the stars&apos; domain.
+*Purse your lips. Shake your head. Turn away.*
+The thing that you must understand about the Knights of Drey is that they are utter fanatics. Nothing matters to them but the return of the Great Acorn and the destruction of the giant races.
+It looks like it might explode!
+Indeed, it seems your &apos;Ancient&apos; Empire must learn some new tricks.
+Lord Kemm kept records of every new acquisition for his private vault. One recorded mentioned a helmet of the Devourer.
+Creates a smoke curtain with a [1] radius. Creates a small oil puddle with a [2] radius.
+Many a great name perished in that sudden hell. As for myself, I&apos;m glad I lived to tell the tale, that I may warn others to keep their distance. There is nothing there now, but many-toothed death.
+Hollow Marshes - Bridge
+With Lucian gone, the elves reluctantly joined the Divine Alliance. Their place in the war on the Void would entirely depend on the integrity of the new Divine.
+[LIZARD] *Say you&apos;ve lain low lizards twice your size. Height or length has little to do with martial prowess.*
+*She kisses her forefinger, then presses it against your scaled forehead.*
+What? H... how? No...
+Well know that yeh&apos;ve my deepest thanks.
+&lt;b&gt;You were imprisoned here for your blasphemy! For your sins.&lt;/b&gt;
+Boo!
+Reaper&apos;s Coast lies nearby. When you are ready to sail elsewhere, I shall bring you there.
+Summon a Fiery Protector.
+Find the Magisters&apos; list.
+*Silently consider ways to get your own back on Lovrik.*
+Maps
+Used Cowl
+Sacrifice the golden glitter&lt;br&gt;Melt it in the cold blue river&lt;br&gt;This paradox is magic&apos;s wonder&lt;br&gt;Believers reap the rune of thunder
+[SCHOLAR] *Using what you remember from books on the Black Ring, argue sympathy with his cause.*
+The only thing you buy is a ticket to a prison cell!
+I&apos;m Han. So, uh, Red Prince. You helped me out just there, so let me return the favour. You want to get out of here?
+Very good, very good.
+Crippler
+Enter the Fort.
+*Bellow the lustiest drinking tune you know.*
+&apos;Here lies Withermoore the Yellow-Bellied&apos;
+*Ask how to enter the Temple.*
+*Lohse stares at nothing in particular. She doesn&apos;t hum. She doesn&apos;t smile.*
+If graves you&apos;d dig I&apos;ll warn you now - beware the creak and then the click. Then comes the bang! THEN COMES THE BANG! HAHAHAHAHAHAHA!
+Deal with Dorian&apos;s plot.
+Camera Zoom Out
+*It floods your body with light at once boiling hot and freezing cold. And then you feel her hands upon you, and you move together, entwined in spirit and in flesh, as one...*
+Highlight characters
+The Paladins and Magisters shame Lucian&apos;s memory. When he returns, he should punish them.
+*Ifan stares at the spirit wordlessly for a moment, then turns away. She glares at his receding form with narrowed eyes.*
+Missus, have you seen our friend Joe?
+*The warg yelps in agony and bites your arm... fury flares in its eyes... it roars in pain and you drag your arms free...*
+Imported campaigns

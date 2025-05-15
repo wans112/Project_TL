@@ -1,0 +1,154 @@
+Is the pig in this painting wearing a crown? Someone must really love the little porker.
+UI Rename character
+*Attack! A little battering should sweeten his attitude.*
+If you want a world of purging wands and silent monks and worse, then sure, Alexandar should be Divine.
+The Arena of Fort Joy
+*He leans forward and growls.*
+*Ask why this spirit is connected to you.*
+Vrogir, God of Orcs
+We were attacked by Voidlings - the same creatures that wrecked our ship enroute to the island.
+*Gareth freezes, then turns slowly towards you. His breaths are steady, his voice a monotone.*
+Nonsense. It&apos;ll be an experience. Trust me.
+Should I tell her that dinner will be late?
+*The spirit shuts her eyes and a chill passes between you. She shudders.*
+*Say you want to consider the options.*
+There&apos;s no sense in &lt;i&gt;us &lt;/i&gt;fearing the unknown.
+*Cough* please...
+Sorry is a word for the weak. Stand by your actions. They were actually entirely justified as far as I&apos;m concerned.
+*Rest your hand on Fane&apos;s shoulder and tell him you&apos;re here for him. You&apos;ll &lt;i&gt;always &lt;/i&gt;be here for him.*
+Fine. Goodbye.
+[BEAST] *Tell him it&apos;s been... awhile. You&apos;ve been so focused for so long. There&apos;s been no time...*
+Ghostly Freezing Wrath
+I suppose you heard of the disappearances around here, have you? Well the case has been solved, thanks to a Magister... or rather an &lt;i&gt;ex&lt;/i&gt;-Magister...
+As for me... I was freed of the tyranny of the God King. To atone for my sins in this world I spent the rest of my days taking care of the sick and elderly. I would tell the story of the Godwoken to anyone who would listen. The story of the greatest heroes Rivellon had ever known. The heroes who chose not to close the Veil.
+Heals [1].
+*Despite the overwhelming urge, say this is too dangerous. She is weak, yet she invites you to take from her!*
+If you&apos;re truly a servant of Braccus, then you should know in which hand he wields his axe... left, or right?&lt;br&gt;
+There&apos;s a boat at the dock.
+The Queen hides within her gilded manor...
+Does trouble follow you - or do you simply slip your nose into the darkest cracks you find?
+*Tell her Arhu was saved. You&apos;re glad to be of service.*
+I guess I thought... never mind. It doesn&apos;t matter.
+Hovering Rune
+*Say you stand at the ready to help him if he so desires.*
+*You could chide yourself for letting your enthusiasm get the better of you, but then again: sometimes a girl just wants to have fun.*
+*Ask how she managed to tame a troll.*
+*Nod and say that you can&apos;t blame her - that recipe must be valuable knowledge.*
+*Lie, and say that you, too, are sworn to the God King and wish to complete his mission.*
+Oh. To &apos;know&apos; me. Scripturally.
+*Resist the urge. As long as you want her locked up, she will stay locked up.*
+*Take him into your arms, into the space that held your heart, into your very being...*
+Let&apos;s move. This place is... wrong.
+Moving to reinforcement deployer!
+*Play your hand.*
+We voyaged on from the Nameless Isle, leaving Taryan&apos;s grief behind us.
+Lohse.
+This again?
+DEMONIC INVASION
+Where will we go from here, my love?
+Shackles the Undead creature to an arcane torture device, rendering it powerless and immobile.
+*The spirit&apos;s eyes turn to slits and his mouth purses. He says nothing.*
+No more chances! It&apos;s time that you were taught a lesson!
+Its entrance lies on a beach to the north of this shrine. Beware: the beach as is dangerous as any corner of this marsh.
+Well, I&apos;m afraid I&apos;m a humble sort... I wouldn&apos;t want to get mixed up with the sort of place that peddles these herb mixtures... but knowing Driftwood, you won&apos;t have to look far...
+It&apos;s dark and dirty, though still a paradise of a sort. I cannot say what nightmares or delights await the fully dead.
+*Leave him to his grieving.*
+Good luck, Godwoken. I&apos;d rather it was me, but &lt;i&gt;someone &lt;/i&gt;must ascend...
+*Tell her you found the elf Amyro and have struck a deal to have him freed.*
+In dialogues concerning the entire party, characters that are &lt;font color=&quot;008858&quot;&gt;not&lt;/font&gt; avatars will automatically give their own answers.
+*The ash vanishes along with the oppressive heat. The workshop is just as it was, save for a chilly presence nearby.*
+Brax
+Even fools have to make do with what they have.  And what&apos;s broken might yet be fixed. Here, see for yourself.
+The plan is almost complete.
+Range: [2]&lt;br&gt;Launches a magical missile that inherits the power and damage type of the staff. The better the staff, the more damage this spell sows. Can target terrain.
+*She moves closer. Your lips almost touch. You can feel her hot breath on you, and even her perfume is as you&apos;ve dreamt it: the scent of home in satin sheets.*
+Wet
+*Look at her. Savour the moment, and let your heart reach for her.*
+I know where Sadha is, and once I leave this island - god or no god - I &lt;i&gt;will&lt;/i&gt; find her!
+Thank you, thank  you, thank you!
+*You are the Sallow Man, a twisted undead elf, your memories flashing through you like sparks from a blazing fire through smoked air, passing so fast you can barely see an image before it&apos;s gone...*
+Loyal to the Divine, Arhu refused Dallis and Kemm&apos;s request to unseal Lucian&apos;s tomb.
+Soon the dread king will be defeated and all of the sky will be yours, my child.
+*The great creature gives you an uninterested look.*
+*The hand releases you and you stagger back, gasping. The altar watches you silently. It&apos;s waiting...*
+This metal-bound wood exudes the fine scent of ruby-red ale.
+I never signed up for this!
+*We must speak of the reason for your expulsion from the Ancient Empire. And we must speak of the Red Princess.*
+Obsidian Lancet
+&lt;i&gt;That&lt;/i&gt; is knowledge worth having. Everything else is arguing over who has built the prettiest sand castle as the waves creep closer.
+I trade. You have coin? I have wares. Nothing else matters.
+*The spirit&apos;s consciousness opens. You are Prudence the innkeeper. Your being thrums with overweening pride. That pride hides a terrible fear - that you have birthed a monster. Your son Kniles.*
+Here&apos;s the key - wait, where is it? I&apos;m sure I had it...
+Dark Avenger
+His words are wise, Sebille.
+We still have a mission, Godwoken. You must ascend. I will see it through.
+*Amadia turns and gestures to the scene behind her. Down below you can see the six other Gods fighting, clawing at each other, every one desperately trying to get the upper hand.*
+We have unfinished business here. We don&apos;t take the boat.
+*Let Sallow see your inner yearning for an &lt;i&gt;outlaw &lt;/i&gt;spirit.*
+*Say that the spring waters within this very place can heal wounds - you&apos;ve experienced it yourself.*
+They all shall die, I swear it. And I shall start...
+Target a character. Whenever this character ends a turn in combat, they immediately get a free turn.
+Like I said: Julian is staying.
+With the wounded back our force can take the mill.
+...stop. Stop. You answer to me. I do not answer to you.
+Barrel
+Smoke Cover
+Rhalic
+Do you still not see? There is no such thing as too much abandon!
+As fascinating as it would be to watch you flop about like a beached walrus, I would prefer not to.
+Sunrise Necklace
+Hmm... spontaneous delusions. Very interesting... but nothing more than a side effect from eating the fish, I&apos;m sure...
+Thank you, mister lizard. Now if you don&apos;t mind we&apos;re busy waiting for our friend.
+As you command.
+I&apos;m gonna love you for the rest of my life, you know.
+No spirits remain. All are purged.
+What a lovely piece this is! And worth a pretty penny too.
+In [1] Rounds: [2]
+Ah, to sup a drink from the Soul Jar. To sing of good times and better times...
+Sadha is no more, and the promise of an empire was buried with her.
+Stone Button
+Heals target for [2]. Cures Crippled, Knocked Down, Blind, Silenced, Bleeding, Burning, Poisoned, Diseased.
+*You feel unclean; an army of repressed memories swarms like mosquitos. He will pay for this. He will pay. Your hands go for his throat.*
+Oh - but you&apos;ve got everythin&apos; all planned out, I assume? You&apos;ll have to forgive me, but as far as I can tell, you&apos;re just stumblin&apos; along too. So spare me the lecture.
+Welcome to Driftwood, Godwoken.
+*Say that as far as feasting is concerned, you feel quite up to the task.*
+[MYSTIC] *Say that only the gods truly know what to expect of the future.*
+*Quiz her about the dark presence. What is it exactly?*
+That&apos;ll be all! Thankee kindly, girl!
+*Ask why she sounds so derisive. Does she have something against her own kind?*
+*You can hear nothing but the metallic gnashing of man-made jaws.*
+Expected no less from ya, buddy. Every dwarf is a champion in their own right, but you - you&apos;re somethin&apos; special.
+*He wrings his hands as he answers you - wrings them &lt;i&gt;bloody.*&lt;/i&gt;
+*Refuse the request.*
+*The thing smiles and you notice for the first time two vampire-like fangs glistening beneath its upper lip. A gulf of magic envelops you, and you feel a sudden insatiable hunger for Source.*
+*Bow your head. Her bond to this plane is broken. She may pass to the Hall of Echoes.*
+A prison island. Most fitting.
+[LIZARD] *Ask the kin what&apos;s on his mind.*
+When you give up the darkness that&apos;s inside you! T&apos;ain&apos;t your fault it&apos;s there, mind, but it&apos;s there all the same.
+No known associates... in fact, he seemed quite averse to spending time with the others.
+*Ask where you&apos;d find this Lohar, were you so inclined to pay him a visit.*
+I can still taste it. *Urp* More?
+Village Busy 04
+*His smile slowly fades as he realises you&apos;re right.*
+*Shake your head. You&apos;ve no idea who he is.*
+*Curl your lip. He was just as much a part of what happened as you were.*
+Out along the road, we found a trail of blood. Someone died here.
+*Ignore the guard and make a move towards the nearby lever.*
+Then on the battlefield we&apos;ll meet.
+To-whit? To-whit-to-whoo!
+No! *Cough* Don&apos;t you... dare! I want... I want to be done. I won&apos;t let the Reds- *cough* won&apos;t let them take me...
+[BARBARIAN] *Tell the cub it&apos;s time to be a bear. Go out there and kill to survive. Let the courage of its ancestors fill its heart with thunder and rage. Can it do that?*
+After the Great Pear Famine, this small fruit is considered a delicacy among elite circles. In its present condition, it could easily take out an entire bridge party.
+Phoenix Hatchling Ferno
+&apos;Here lies an unnamed child,&lt;br&gt;of the Harkwood family.&lt;br&gt;Their sorrows know no bounds.&apos;
+Can move items with weight up to [1]kg. Can carry items with total weight up to [2]kg before becoming encumbered.
+A letter with a dwarf&apos;s seal?
+A dense, rough stone capable of sharpening dull blades to a fine, honed edge.
+*Fane turns away, pensive and quiet. Even as a skull, you can see the pain etched into his face.*
+Oh you poor fool. What lies did they tell you? Did they promise that you were special? That they would treat you as anything other than a slave?
+The battle nears. Good to have you with us.
+Well you&apos;ve eschewed your pretty little mask, haven&apos;t you? And besides - I know &lt;i&gt;everything&lt;/i&gt;.
+*He grabs you by the throat and squeezes it so hard it feels as if your neck will break.*
+*Consume the Source of Raedalus.*
+Matis, let me change your dressing.
+I have everything I need here. You can pay up or you can sashay out.

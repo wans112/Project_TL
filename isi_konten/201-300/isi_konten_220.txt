@@ -1,0 +1,144 @@
+I have told you before the Void is stronger than ever. But so are you.
+*Call to him: Is he alright?*
+We escaped Fort Joy, leaving Amyro to his fate.
+*Say you&apos;ll take your chances.*
+Mmhmm! I should think so. If not I&apos;ll... I dunno, smite you, or whatever.
+A shrine, by the looks of it...
+*You wipe your face with your forearm. The smell will stay on you for days. The things you do for queen and country... maybe more than they deserve.*
+I learned that Dallis and Vredeman indeed sought to access the Tomb of Lucian, and set off in pursuit. Whatever they intended to do, I had to stop them. So much still remained a mystery to me, but I felt that if I could confront Dallis, then I would finally have answers, and could put an end to all of this.&lt;br&gt;&lt;br&gt;I am about to cross the final threshold, and meet my destiny.
+Well, bugger me with a bull&apos;s horn!
+*Say the creature you met matches her description.*
+Feed Rory while Betty talks to him.
+[HERO] *Say you have wandered the land high and low, asking after her. You come bearing word of her vital weakness.*
+My loved ones may be gone, the Seven may be corrupt, but I remain. The last true Eternal must survive.
+*Paladin Willym nods his thanks to you. And with a last sorrow-filled glance at the house, Paladin Jhad turns to follow his companion away.*
+We made our way into the consulate.
+*Note the bulge at his ankle. Take out a penny. Accidentally drop it at his feet. Bend to pick it up, and clumsily stand on his toes. While he&apos;s distracted, steal the purse from his sock.*
+It was only a matter of time before the Order would come for us, she said. The scouts talked of living weapons, nailed to crosses. Of blank-faced wizards - an entire force of them.
+The password for the master cabin is &apos;Fortitude&apos;.
+*Say you&apos;ve heard that Sourcerers are permitted to leave once they&apos;re cured.*
+I... I told Conway. I felt it, you know. The cold of it. When he... passed. My bones knew.
+C&apos;mon, c&apos;mon, let&apos;s keep moving!
+Dungeon - Empty Room (Long)
+*Tell her you&apos;re looking for Dallis. Has she seen the Hammer here at the Cathedral?*
+Poison Arrows
+*Ifan&apos;s spirit stares at you, seemingly &lt;i&gt;through&lt;/i&gt; you. There is neither affection nor blame in his expression.*
+Food baby.
+[SCHOLAR] *There&apos;s something off about this toy. Reach forward and grab hold of it.*
+Human Mite Attack
+*The Djinn hisses slowly through its teeth.*
+Is that so? Well why don&apos;t you give it over? Might be you&apos;ll walk out of this swamp after all.
+Sleeping
+No surprise there.
+Rose Alabaster
+Labs Gear
+*Compliment him on his impersonation.*
+Please, help me. I don&apos;t want to die. I don&apos;t want them to take me!
+Let me show you what happens when you attack the wrong people...
+The elves were decimated, their forests felled, their memories lost.
+*Even if it was so very dangerous.*
+*A human spirit slips from the ruins of the jar. Decked in necromancer robes she turns to you, bows, and starts to fade away to nothing.*
+*Tell her she looks worried.*
+*Tell him there&apos;ll be time to mourn later; more death is on the way.*
+Are my eyes fooling me?
+No tellin&apos; what that cargo is. But it means trouble.
+*Promise you won&apos;t breathe a word of it to anyone.*
+*Suspicious, she searches your face for a hint that you&apos;re lying. Doesn&apos;t find one. Behind the cool exterior, you can tell she&apos;s shocked.*
+*Shoot her a curious glance. An elf is after her body?*
+Eeuurgh... I... know it&apos;s you. You&apos;re like me. See?
+*Amadia, huh? Who is that?*
+Fortified Boots
+You want an engraved invitation every time? You know the way in...
+*Tell her no. You&apos;ll push on without her.*
+&lt;i&gt;Of course.&lt;/i&gt;
+There&apos;s been an assault reported in the area. Do you know anything about it?
+I can&apos;t quite fathom why you denied my knowledge of the Source, but I sense there is a certain wisdom in your decision.
+*Tell him you have a similar goal. Perhaps you can help each other.*
+*Tell her you mean her no harm.*
+*Tell them their charity is all well and good, but they&apos;ve done terribly wrong. &lt;i&gt;You &lt;/i&gt;seek to reverse the damage - if they can help you further, they should.*
+Yes, we certainly had better, but the ship won&apos;t move.
+*You are thrust out of the spirit&apos;s memories and back into your own sovereign mind. You see the spirit of the dwarven battlemage before you, eyes downcast now.*
+*Ask if it was Dallis who invented these godsawful collars.*
+*Try to get his attention.*
+*Jaw clenched, maintain a stony silence.*
+A flippant tongue and a fleeting life, is that all you&apos;ve left?
+You pay for your crimes!
+I don&apos;t believe you. I see guilt in your eyes.
+Dwarven Mask of the Shapeshifter
+*She turns back to her drink.*
+Dazed
+*Reach over and try to wave your hand through her face.*
+Our defences are breached. Must I kill you now? It would pain me.
+*Take your leave.*
+*Ignore the door and take your leave.*
+Bloom of Mettle
+The Eternals reclaimed the world.
+Not I! They are older than Braccus: ancient relics from a bygone age. He uncovered them - I merely... encouraged him to explore their promise.
+...
+I found out who abducted me; who delivered me to the Master...
+Challenge the Great Guardian.
+Really? Didn&apos;t even sound like you&apos;d ever heard of the guild a minute ago. I might be a kid, but I&apos;m no dummy.
+Alright... just don&apos;t take long.
+What a damned nuisance these assassins are. It&apos;s their frightful manners I mind the most, really.
+I wonder if my memories are out there, swimming around in some elf&apos;s mind. I shiver at the thought.
+Level [1]: +[2]% to all damage when attacking from high ground. Note that this bonus is applied after all other bonuses have been applied.
+Our bargain is almost complete. I will teach you what I know. You will be bonded to the Source. You will channel it in great volume.
+[VILLAIN] *Note that this Pearst fellow had a large wound in his back - he must have died while fleeing like a coward...*
+What a whopper! This would fetch a pretty penny from the more upmarket traders in the Elven garment district.
+And if you&apos;re loyal to the Order, you know I&apos;m right!
+Venture deeper into the consulate.
+It is immortality you desire. As do we all. It&apos;s not something I can give - but I &lt;i&gt;can&lt;/i&gt; give you the breath of life.
+Most artefacts like this mask are long lost, but you craft them anew.
+Greater good, schmeater good. I didn&apos;t survive the Magisters, crazy gods, God King, and whackjob Eternals not to enjoy myself thereafter!
+*Ifan&apos;s eyes blaze with rage, and his fists are clenched so tightly the knuckles are white.*
+No, we understand not!
+*Purr.*
+Load Campaign
+You will not be there long, I assure you. There is only so much you can glean from a twisted mind.
+*&apos;I wait for her. When she is ready. When she lives a full life. When the forests return to us.&apos;*
+So... there&apos;s some things ya oughta know about me. I&apos;m sorta kinda royalty. I mean, never wore a crown. Not with diamonds in it, anyway. Once stuck a wreath on my head and... oh, sorry. Need to stop with that whole tangent thing.
+Oops. I guess they don&apos;t like the cold.
+*Lie. Tell him the queen still lives.*
+It... it has been unlike anything I ever imagined.
+*You behold a face you&apos;ve seen before. Soul-sickness incarnate, the rotten flesh of the world&apos;s most shameful desires, an all-knowing affliction. This is the God King&apos;s pallid envoy, walking the world...*
+I thought&apos;s much. No-one cares. *Sigh.* No-one cares but elves and bears.
+Look away from the past and into the future. There is so much work left to do.
+Are you... an elf? WOW! I want to be an elf when I grow up. But without the scar.
+The Ancient Empire had weathered the upheaval, and the heads of the its houses gathered to choose a leader for this brave new world. The House of Shadows did not attend, but curiously their chosen candidate still came out on top.
+So, seen all the magnificent sights of Fort Joy already? I&apos;ve just got a small &lt;i&gt;errand&lt;/i&gt; to run here, but then I&apos;ll be looking to get the hell out of this place while I&apos;ve still got a neck to collar. Want to team up?
+[1] increases movement speed and boosts your Critical Modifier.
+Toggle Overview Map
+*The blazing blue flame seems to singe your finger the moment you touch the statue. Somehow, though, the bone remains unblemished.*
+I would not trade a Godwoken soul for a thousand others. No, bones. You are mine. And now, I &lt;i&gt;feast&lt;/i&gt;.
+Call me Zaleskar. Nowt else concerning me is yours to ask. My business is my own, and none of it yours.
+*Shrug and say you wanted to see what would happen.*
+*Say you are strong of heart and mind. Betrayal is for the weak.*
+But what about everyone else, Trice? We can&apos;t just leave &apos;em to die! Please, can&apos;t you do something?
+Poor wretches, they didn&apos;t stand a chance...
+But now that he&apos;s as rotten as we, I can finally enjoy the moonlight again! Oh to walk with the wolves by my side once more...
+You deluded little runt. I was crafting a weapon to kill your &apos;Gods&apos; while you were sitting out the war in your crypt. And I kept it close. I hid it in these very caves.
+No! Necromancy is an... unsavoury practice. Not something to be trifled with lightly. This is but a cunning illusion of my own creation, nothing more.
+Onward, pray! We haven&apos;t the time for idle chitchat!
+Perhaps &lt;i&gt;they &lt;/i&gt;intend to flay the godliness from you? No matter - given your pathetic state, it is mine to collect at my leisure.
+Had they decided to live in peace with the mortals of Rivellon, maybe we could have saved them.
+*Tell His Honour hope can hang. You &lt;i&gt;shall &lt;/i&gt;answer the riddle.*
+*Ifan&apos;s lip curls and his eyes hold you in contempt. Then he turns away. The coiled spring snaps, and he pounces upon Lucian like savagery incarnate.*
+*Tell her that you intend to craft the Swornbreaker yourself - you&apos;ll need the tablet back in order to do so.*
+*Flutter your eyelashes and ask what time he gets off work later.*
+*The stars swirl and move... and form a face - the face of an imp.*
+Vial
+*You turn and flee towards the library, to warn your tutors - but Lucian is too fast. He cuts you down. You&apos;re Candor the Godwoken, dead by the hand of the Divine.*
+Not now. Escape this place. I know you can do it.
+Fire Shield
+Place makes a good base. And we got money now.
+*With a nod to you, the beasts amble away.*
+Peace Offering
+*Tell her you did it before, when she turned against the elf Saheila - remember?*
+If that&apos;s true, you&apos;re an even bigger sap than I thought. Feel free to fork over any &lt;i&gt;more &lt;/i&gt;gold you might wanna put into my pipe.
+[UNDEAD] *This truly is undeath worse than death. Ask who tormented them so.*
+*She tosses her pack to you, harder than she needs to, and walks away from you backward, holding up both hands in a rude gesture.*
+*The flaming hatchling bounces and cheeps out of sheer excitement.*
+Because of that betrayal, you exist. Because of what was stolen from us, you exist. Because of the powers we lost, you exist. We will have them back.
+*The creature wobbles with alarm, uttering a series of agitated gurgles.*
+Lohse is dead. The music has fallen silent, never to be heard again.
+Outcast Berserker

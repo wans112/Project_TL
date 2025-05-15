@@ -1,0 +1,158 @@
+The Seven Gods may be almighty, but they hardly expect to fight their own wars. Thus an order of ascetics devoted to the Seven Gods and practiced in the arts of war and healing carries out the will of the divine.&lt;br&gt;&lt;br&gt;These men and women are trained to transform a spartan diet of crickets and snow into the raw strength necessary to turn the tide in any holy war. They restore and regenerate their allies as thoroughly as they annihilate their foes.&lt;br&gt;&lt;br&gt;Enemies of Source and all unrighteous magic, Clerics are the cleansing hand of the gods made manifest. For centuries, Clerics have worked alongside the Order of the Source Hunters to purify the land of evil magic.
+The broken Source collar from Gareth&apos;s corpse may bring the grieving Leya some small comfort.
+UI Select Slot3
+There&apos;s a vandal skulking about. And you&apos;ve got guilt written all over you...
+*Change your mind. You&apos;ll leave the craftmistress alone.*
+[1] gives you [2]% extra damage against opponents that are Slowed, Crippled or Knocked Down.
+Jellyfish Skin
+*Tell her she&apos;s right. That gold is her business.*
+Crime &amp; Punishment
+I thought you might say that. Nevermind. Soon enough you&apos;ll be free of this folly.
+Ah well. You can&apos;t blame the young ones. They haven&apos;t known scrimping and saving like I have.
+*Tell him you&apos;ve doused the fire. The Hall of Echoes awaits him.*
+Sun shines, gods lie... Where there&apos;s power, there&apos;s corruption. Had anyone here truly expected anything else?
+The renowned Lord Arhu is Keeper of the Cathedral. He may be of help to us.
+Selected Skills
+*He looks you up and down. A smile breaks across his face.*
+*Shrug. Daft &lt;i&gt;or&lt;/i&gt; callous? How about a little of column A, a little of column B.*
+*The spirit takes the invisible cup from you and takes a sip of nonexistent liquid.*
+Then he&apos;s still guilty of something! I&apos;m not calling off the manhunt until I have that fiend one way or another. As for this cook - do you have any proof...?
+Tir-Cendelius warned me against this eventuality. &lt;i&gt;I&lt;/i&gt; must be the one - none other.
+The Cathedral
+*Frown. Her armour speaks to her...?*
+*Dying? Worriedly ask him what&apos;s happening.*
+Getting closer now...
+*Muse that sometimes we do what we can, others we bear what we must.*
+*Congratulate him on his marriage, despite the tragic circumstances.*
+Ooh - treasure chests! I&apos;m sure the ghosts won&apos;t mind if I keep a souvenir or three...
+Aye, and that I&apos;ll do.
+It&apos;s no use. It&apos;s too late...
+Damnable red-cloaked baboons, ransacking my wardrobes! As if I would keep ancient, valuable secrets in a pile with my unmentionables.
+*Promise that you will, and take your leave.*
+The world needs a Divine, I grant you that, but look at what a god may be reduced to:
+Get away from me, you jerk.
+His time in office was cut short by an unfortunate wound that spontaneously appeared on his neck.
+*Tell him to repeat after you: &apos;Peter Powder packed a pickle in a paper packet.&apos;*
+A show of trust, the exchange of names. Take it kindly, do I.
+I can&apos;t give you endless life. Instead, take this Phoenix Idol. Keep it on you. Should you die, the idol will resurrect you. You can cheat death once this way.
+Bootums... bottigs... bottom&apos;s up...
+Not much of a landlubber, but sometimes, I get no choice in the matter. Besides - there&apos;s business to take care of.
+*Within you, an oily appendage wraps itself around your lungs, draining away both breath and heat. A sepulchral voice tortures your ears.*
+Water Infusion Scroll
+&apos;ullo. Not in the mood for chat right now. Bit depressed.
+*From behind unmoving lips, you hear a creaking, groaning voice speaking in a language you feared you may never hear again.*
+The cook&apos;s been reported dead, how did you get this...? Never mind -  I thought she was another victim, but &lt;i&gt;this&lt;/i&gt;... she must have been the culprit!
+Find the surviving Divine Order expeditionaries.
+A regulation-issue crossbow, sturdy and effective.
+*Examine her closely. She&apos;s not like any of the elves you&apos;ve met so far.*
+[LOHSE] *Tell him you know what it is to be possessed. You want to get to the root of what&apos;s doing this to them.*
+We&apos;ll find out who did this. Speaking of...
+You are favoured, my lovely... and delicious.
+[1] items received.
+The raw bounty of a fluffy, generous sheep. Not a ba-a-a-d haul, though you&apos;ll need to combine several batches to make a usable length of yarn.
+*Tell the pig to watch her tone. If she wants the curse lifted, she needs to give you a little respect!*
+*Say you&apos;re not in the market for trouble.*
+Shhht!
+Find the Seeker leader Gareth.
+*Whistle low and tell Ifan he&apos;ll get no answers from dead men.*
+Can&apos;t load &apos;[1]&apos;. Missing dependencies: [2].
+Riddle me this, wanderer. How would mighty Braccus douse a man on fire? &lt;i&gt;Ahahahaha!&lt;/i&gt;
+*Your footsteps crunch light upon the gravel as you approach the tomb. You know that Hogge was avaricious, paranoid, and cruel - and you yourself value the first two of these traits most highly.*
+Shell
+I will never forgive them...
+Get out! &lt;i&gt;GET OUT!&lt;/i&gt;
+A sparkling stone that winks at you when the light catches it. No, don&apos;t wink back.
+*Remark that from the look of her, there was a little too much ferocity.*
+*As he turns away in an uncharacteristically clumsy manner, you see that his eyes are bright and the hint of a smile hides within his beard.*
+Like Saheila, I too am an elven Scion. Tovah implored me to go to the Nameless Isle and talk to the Mother Tree.
+We are Eternals, Fane. Your true form shines through. Your Source shines bright.
+*Accept his dare. The Kingdom must be torn away from the failed bloodline that leads it.*
+The bell rings on. It haunts me!
+*A chorus of cries and moans coalesce into a &lt;i&gt;single, mournful voice.*&lt;/i&gt;
+To the city of Arx you must go... I will travel with you, if I may.
+*Encourage Gareth to finish the deed. Jonathan is a Magister. He must die.*
+*Beast chortles, yet his eyes fall not on you, but on his own feet. His no longer fidgets with his beard, though it remains knotted, and he makes no effort to disentangle it.*
+Did she regret her deal with the demon?
+*The spirit flashes a look of outrage in her final moment.*
+Like that&apos;s ever gonna &apos;appen... &apos;ang on... so... you think I&apos;m gorgeous, do you? *Purr.*
+*Tell him that when you&apos;re Divine he shall be looked after. If he shows loyalty now...*
+*She searches for treachery in the shadows veiling your face. Doesn&apos;t seem to find it.*
+Blosser
+A token of good will might change my attitude...
+HA! Wrong! I guard nothing, do you hear me? NOTHING! &lt;i&gt;He&lt;/i&gt; showed me.
+*Remind him that you, too, have dreams and goals. The world doesn&apos;t just revolve around him.*
+I failed. You must not. Should we become dragons once more, the other races will drive us into extinction.
+*Search the imp&apos;s memories for the manner of its death.*
+We have contained both ever since, but now, alas, they are winning.
+*A slight grin crosses the spirit&apos;s face. Whether her smile is sincere or not, you can&apos;t be sure.*
+You&apos;re a savvy one. I must confess: I&apos;m not just here for random baubles and whatnot. There&apos;s something my heart, such as it is, is set on.
+*No matter how loud you shout your questions, you get no response from the unconscious Alexandar.*
+*Shrug. Dwarves are no better or worse than any other race - they&apos;re suspicious of outsiders, but good hearts when you get to know them.*
+Faith got us into this mess in the first place. I&apos;ll wager it&apos;s not faith that&apos;ll get us out.
+Magic? All I&apos;ve got is my own two hands, and... and...
+I can&apos;t get the smell of death out of my nostrils.
+Doesn&apos;t do to attack Her Royal Highness, you naughty little scamp! Doesn&apos;t do at all!
+*Nod. You&apos;ll do what you can.*
+One-Handed Sword
+*Give her the names, as you remember them.*
+I reckon so. I&apos;m not one to know the difference, but that&apos;s what they say.
+Oh...
+Magical Big Dwarven Shillelagh
+I remember when Gareth was but a little thing, small enough he&apos;d try &apos;n&apos; saddle the family dog like a pony! Did it once, too. Always wanted to be a soldier, my boy...
+*The chicken tilts its head to one side as a green wisp of Source creeps towards it. The bird pecks curiously at the tendril, which lashes out and wraps itself around its neck.*
+Valine
+*The Seeker fidgets with his weapon nervously, testing its edge with his thumb.*
+That&apos;s what everyone believes of themselves. Don&apos;t be fooled.
+*The male dwarf pauses, then gives a worried look to his companion. She shakes her head.*
+*Tell them you&apos;ve met Hannag. She is safe.*
+We consumed the spirit of the Fanatic.
+*Thank Jahan for his lesson. It was... inspiring.*
+*Respond in kind: &apos;bock!&apos;*
+I&apos;m gettin&apos; those bugs off my front lawn. You in?
+*Ask what ritual he means. Why are you going to this place?*
+Change Appearance
+The God King feeds on war, on death, on disease - on the rich Source the living once carried within them, knowingly or not. I&apos;d think this clear by now.
+That glow - the golem&apos;s being sustained by Source!
+Game Master toggle minimap
+Robust Trousers
+*Thank him for the drink, but say that you really ought to leave.*
+The Teacher&apos;s Hall
+I&apos;ve a spot on the beach. Tent. Fire. Not an ear in sight. Come talk to me there. They really want you to.
+No. Not for wine, nor for water. But for Source?
+[1] gives you +[2] Memory.
+A small elaborately-wrought key found in the Houndmaster&apos;s quarters.
+*Go down on one knee and courteously kiss her hand.*
+You want to leave? You want to go? TELL ME WHERE THE YARROW GROWS! Tell me, tell me, tell me NOW! Or shall I pick your parts clean too? It&apos;s easy.
+*Say you&apos;ve been lucky enough to make some close ties.*
+*Try Dorian. Dori-man. Dori-baby.*
+Oh, it&apos;s you alright. It&apos;s &lt;i&gt;definitely&lt;/i&gt; you.
+Death in the ruins. Death on the beach. Death on the sea...
+Pillar
+Hear ye, hear ye! Bishop Alexandar was slain by Seekers! Culprits still at large!
+*Say you&apos;re interested in a Conjurer - someone who can summon aid to the battlefield.*
+*Lay the blame on Gwydian. It must have been talking to him.*
+Queen Justinia
+Level [1]: +[2]% Damage and +[3]% Accuracy.
+Ah! It&apos;s you.
+It&apos;s found its way into a nest of crocodilians on a secluded beach nearby - here, give me your map, and I&apos;ll show you where to go...
+Trident
+Magical Light Two-Handed Axe
+I lost the heart of the best crew I ever captained, that&apos;s what happened.
+MmmMmm, mm-mm...
+May the Gods watch over you.
+*Shaking her fluffy coat, the sheep eyes you balefully - her rectangular eyes like letterboxes to the Void. With one sharp hoof, she kicks you right in the shin.*
+Quest Reward
+[VILLAIN] *No, it won&apos;t. &lt;i&gt;Kill her.*&lt;/i&gt;
+*Ask Sebille how she was taken into custody by the Magisters. Did they catch her off guard as well?*
+I&apos;ve got my eye on you.
+*He rolls his eyes and hoists his pack, setting off ahead of you.*
+Great, &lt;i&gt;red&lt;/i&gt; dragons.
+Gabriella Roth
+You must wonder why I&apos;ve requested an audience with you. As it happens, we have a common enemy.
+That&apos;s all in the past, long gone. We&apos;ve got a whole new future awaiting us, as soon as this ship lands.
+A &lt;i&gt;few &lt;/i&gt;lightweights didn&apos;t make it to morning.
+Please... don&apos;t! I&apos;ll do whatever you...
+Soooooo, you&apos;ll laaaaaaaugh. I have no gold!
+*While he&apos;s distracted, take your opportunity to consume the spirit&apos;s Source.*
+Sepp, the Burnished One
+*Say that Isbeil was not working alone. Kemm, too, is loyal to the God King.*

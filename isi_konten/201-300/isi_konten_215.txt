@@ -1,0 +1,153 @@
+Most people you encounter will be interested in trading with you. Even a mere peasant might have something interesting to sell.
+Well, look at this! You&apos;re just a common crook. Off to prison with you!
+You may need to visit more than one - I doubt any of them alone would be willing to give up all their secrets.
+Best time of year to make some gold in Arx, &apos;round Lucian&apos;s Day. Half of the merchants boost their prices on the sly. Most folk never realise...
+Gods, this is horrible...
+Tags determine what options are available to you in dialogue and how the world reacts to your party members. &lt;font color=&quot;008858&quot;&gt;Custom characters&lt;/font&gt; have race, gender, and background tags. &lt;font color=&quot;008858&quot;&gt;Origin characters&lt;/font&gt; have unique origin tags.
+*Show her the vial of your marrow that you stole. Tell her she&apos;s powerless over you now.*
+Plus you got a roll in the hay with Zee here into the bargain.
+Duna&apos;s son... Godwoken... the Void seeks you...
+We found Blackroot. It might be wise to find more.
+No getting back in, lady. Even if you have changed your clothes. Party&apos;s over anyway, so move along. Go enjoy the rest of your life.
+Un... undead. They overturned the cart. Dragged us out. They... they wanted to rip us apart.
+*Ask what she will do now.*
+I don&apos;t know... there was pain and then... are we dead?
+Watch your step, &lt;i&gt;un&lt;/i&gt;flesh, or I&apos;ll use my Source powers to flay what&apos;s left of the pink right off your bones!
+Read the contract.
+They still hum your praises, ya know. The rebellion is strong. The harder the queen strikes, the louder they sing. They&apos;d follow you to the Void and back if yeh ordered it.
+Cone angle: [2]&lt;br&gt;Length: [3]
+Li&apos;l Ginger
+Create
+We killed Gareth.
+*Her lips land on yours once more as she guides you inside her, and slowly, ever so slowly, gallops you into oblivion.*
+*She examines her hands, where the skin sizzles slightly beneath their newfound aura. As the spell fades, the skin heals once more. Her whole body seems to relax.*
+As am I, my dear.
+Well, it&apos;s nice to know that nothing bad can happen to me now, right? &lt;i&gt;Right?&lt;/i&gt;
+If I must die... then I die with a clear conscience. I serve only the Divine and his son.
+*Reach out your hand. A single drop alights upon your palm...*
+Well, then. What good are you?
+[1] no longer has the status: [2]
+We found two more candles shaped like people.
+Lohse may yet prove valuable. For now, I will trust that she can contain these... urges.
+But more than that, you were always &lt;i&gt;good&lt;/i&gt;.
+*Ask how this happened. Have they been corrupted by the Void?*
+A little knowledge of Braccus was more than enough for most. Few can forget the mad Source king...
+Not, hmmm, quite, no. See, I have some, yes, but I... I stole it. They think it was an elf that did it. Amyro. They locked him in a cage.
+*A sense of urgency from deep within you quickens your heart and hardens your gut. Your god wants you to know that this Sourcerer can help you on your mission. She can help you to become more &lt;i&gt;powerful.*&lt;/i&gt;
+*Admit you have no news. Take your leave.*
+Good! I&apos;m glad to hear it. Gods, what a fight that was!
+*Her stillness dissolves. Trembling, she curls herself into a whimpering ball and shuts you out.*
+Not enough Action Points!
+Good luck, dear Fane. Make me proud.
+Bloodied Dwarven Flesh
+Take All
+*Tell her Gareth is dead.*
+Hollower
+My... my people. What have they done to you? This cannot stand. You must be restored!
+*Insist you&apos;ll do whatever it takes to fulfill his request.*
+Deidara&apos;s off camping out with the Seekers. Donna&apos;s up in Arx. And Dagmare...
+*Offer to help.*
+They&apos;re crawling... they&apos;re crawling under my skin - get them out!
+*Apologise for what happened earlier. Sometimes you act without thinking.*
+*Smile.  You&apos;re just glad that you&apos;re together.*
+*Tell her she isn&apos;t a risk to you. She&apos;s a companion and a friend.*
+I&apos;ve offered my services for gold in the past, yes... but my labours for Dallis were far from voluntary...
+*Say you&apos;re pretty sure she&apos;s not the maid.*
+Stingtail is dead. He shall scar no more.
+*Raise your fist to knock.*
+Deep in the Dream.
+You&apos;ll make amends, then. You&apos;ll see Jonathan dead. And you&apos;ll bring me proof. A wise solution, truly.
+And we&apos;re so grateful to have Gareth back. Thanks to you we have hope. Thanks to you we&apos;re going home. The Divine&apos;s blessings upon you, friend.
+Do you... like chocolate?
+You&apos;re not going any further, lizard.
+Dwarven Mines
+*This is wonderful. Tell him you&apos;re dying for a drink.*
+Innocent?! I lost comrades today thanks to these &lt;i&gt;innocents &lt;/i&gt;and their Sourcerer friends.
+No choice but to take you to prison. Off we go!
+Day Three. Still quiet here. The portal continues to direct the ocean into the old orc temple, and as long as it does so, we have to stand here and guard it. How does that damned Sallow Man expect us to please the God King if we aren&apos;t given a chance to wet our blades with Divine Order blood?
+*The blade quivers as Tarquin nears it, and hums a response: &lt;i&gt;&apos;Anan, falen riveil.&lt;br&gt;Amadio v&apos;lucio de an mey dritta dumoreis.&apos;*&lt;/i&gt;
+*A vile giggle. The demon within the girl is wholly unthreatened.*
+*Ask what happened. How did his luck dry up?*
+The lizard consulate lies in ruins. If we want help we&apos;ll need to find survivors.
+...the commonest among them stripped of power.
+*Relief flows through you.*
+Three brothers. Three sages. Thrice cursed.
+Hmm. Yes. Quite.
+Prices are up an&apos; it&apos;s your fault. Go on, get lost. War-mongerer.
+I had to know the truth. I am sorry I hurt you. You are my child; I do not relish causing you pain.
+Welcome, ben-Mezd, I&apos;m glad you could come. You seem to have traversed the Deathfog just fine. So tell me, what ails you?
+Undead hands rise from underground, attacking enemy characters that stand in blood surfaces and clouds. Deals [1] to each character and sets Crippled.
+Quite so, milord, quite so. But the atmosphere in here is... spooky.
+Yet consumed by hist&apos;ry&apos;s foulest chapters...
+*Observe that that&apos;s a knife wound. Doesn&apos;t look like he &lt;i&gt;let &lt;/i&gt;anything happen.*
+You&apos;re exceedingly lucky I&apos;ve a certain degree of fondness for you.
+Could almost see meself chantin&apos; this one while I do the washin&apos;.
+*Struggle to contain your God. What does she mean &apos;effective&apos;? Effective at what?*
+There are small vines growing out of this foot, which was once attached to a rather unlucky Magister.
+You&apos;ll see what&apos;s real when it stabs you in the eye.
+Go, my pets. Bring. Me. Their. HEADS.
+Saheila was a great Sourcerer who could have helped us - if she wasn&apos;t in Fort Joy.
+*Tell her not to dramatise the situation. You need to speak to this man, and that&apos;s all there is to it.*
+And at this the lizards excelled.
+*She pries loose her hand and wipes it on her clothes.*
+*Remark that you think it&apos;s best if you just help them to get out of here as soon as possible.*
+Talisman of Trust
+*Ask the question still unanswered, the question burning in your mind: &lt;i&gt;&apos;Why did you and Lucian unleash the Deathfog? Why didn&apos;t you wait? I was almost there&apos;.*&lt;/i&gt;
+A new species of Void-tainted fish found recently along the shores of Reaper&apos;s Coast. Alert and agile, this breed is difficult to catch.
+Maybe... *urp*... I should stick to the good stuff for a while.
+You&apos;ve really convinced yourself, haven&apos;t you.
+*Wave her comment away.*
+*He squints, first at you, then at the water.*
+Please let us speak, Your Majesty, of Brahmos the Wanderer!
+*Ask what part he played in this - was he a necromancer? A practicioner of dark arts...?*
+A-and did you tell the Magisters? Did you take credit for solving the disappearances...?
+*Try to pull your finger away.*
+It felt as if my mind, my single palace, became a city, then an empire, then a whole world filled with every morsel of knowledge and power ever accumulated by any elf since the birth of the species.
+*Wow, wow, wow, tell them to hold their horses. Who&apos;s shaping what now?*
+Those flames, Gods…
+Please, Godwoken, let me walk away and I swear I will show you all I know!
+Fire Resistance Potion
+Pride was lost as humankind progressed...
+[JESTER] *Giggle, and say you&apos;d never forget such a pretty face!*
+*Zorl-Stissa? Seven lords? Is she talking about the Gods?*
+Plague Watcher
+Scumkiller
+*Your mystery advocate gives you a pointed look. It suddenly comes back to you - an execution of Black Ring prisoners halted at the Blackpits, and a grateful life spared. That same prisoner speaks on your behalf now.*
+*Tell him after your conflicts with the living, you&apos;re not afraid of the dead.*
+See? Feel it? The power!
+*Accept responsibility. Surrender without a fight.*
+Break the Shackles
+Me? I archived Rivellon&apos;s history. I used ink to immortalise greatness on the page.
+Water
+&lt;i&gt;I&lt;/i&gt; am the only one left who can save Lucian. &lt;i&gt;I&lt;/i&gt; am His Holy Warrior. I am the one true loyalist! I am the TRUTH! I am the REAL!
+Dwarven Hand Axe
+*The white rabbit stops and looks at you with beady red eyes. It cocks its head at you like you&apos;re a source of great curiosity.*
+You have sensed the goddess and your words ring true. But I wonder if you really know her - know her the way I do. Perhaps I should enlighten you:
+&lt;i&gt;...i do not die here... only you die here... but first face the truth... the terrible truth... the inescapable truth... the red princess is wrong... you are not enough... you have never been enough... you will never be enough...&lt;/i&gt;
+*As you sing she rocks rhythmically to your beat, a faraway look in her eyes.*
+*Hate washes over you from the spirit - hatred for all the world; Sourcerers, soldiers, leaders... and Lucian himself. &lt;i&gt;Especially &lt;/i&gt;the Divine, who died and left us all alone.*
+*Say you didn&apos;t hope to gain anything. Opening the door was a mistake.*
+*He gives you a mischievous grin, then dips his head in salute, and turns away.*
+Lohar! I should have known. Sourcerer, if you want to stay alive around these parts, you&apos;ll stay far, far away from that walking vermin... though, on the other hand, maybe you should go stand near him. Maybe the Voidwoken could take him out where we failed. Ha!
+Well, then! You just bought yourself a ticket to a prison cell.
+*The machine sits silent and empty. Its deadly payload now chokes all of Arx.*
+Game Master Surface Painter
+We ventured on, leaving the Black Ring on the island to their fate.
+*You are a Sensate, deaf and mute - but gifted with an unnatural ability. Dallis seeks you out and brings you here into the darkness. When the blindfold falls, Dallis bids you find and free a secret power.*
+*Grrrrunt.*
+*Remember what that thief June told you, and say you&apos;re working for Lohar.*
+*Say that you&apos;ve been instructed by the Sallow Man to kill Alexandar - you want to report in.*
+I beg your pardon, Your Honour! He must have slipped his watchman.
+Those Voidwoken made short bloody work of the ship.
+Chapter 3 - I, the Godwoken
+Watch, Godwoken. Watch them fight. Watch them squall.
+But what about-
+Thick of the Fight
+Rested
+&lt;br&gt;From [1]: +[2]
+That&apos;s exactly right. Perish the thought that anyone should be &lt;i&gt;all &lt;/i&gt;generosity, &lt;i&gt;all &lt;/i&gt;greed. The coin must be balanced, or it will forever land on the same side. All chance erased; all potential for change gone.
+I thought we were gonna end up bugfeed. Ah well, a girl can dream.
+Grammar for Children
+Please, just leave me alone!
+Find the old woman who killed the Sourcerer.
+*Nod along. You&apos;re ready to begin. What can she teach you?*

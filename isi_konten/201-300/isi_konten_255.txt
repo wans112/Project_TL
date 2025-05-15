@@ -1,0 +1,152 @@
+The White Magisters will purge the world. Dallis took the Source from the Wellspring; now she&apos;ll go to Lucian&apos;s tomb and purge his corpse.
+The Trooper&apos;s Two-Handed Blade
+At last I see clearly. I know what must be done.
+Kraken
+And why should I trust you?
+You&apos;ve left Fort Joy well in your past, I see. The Seekers were right to put their faith in you.
+[MYSTIC] *Tell her that the secrets you learned are not for mortal ears!*
+Very good.
+As you wish. You&apos;ll find her in the kitchen. Predictably.
+Consider us even, for before. Now don&apos;t squander your chance, and get out off this island while you still can.
+*Say that you&apos;ve changed your mind.*
+You may pass, traveller. Dare say you&apos;ll be aching to leave before long, anyway. But... before you do, find Reimond, the White Magister. He&apos;ll want to know what you&apos;ve seen.
+*Produce a broken lute from your pouch and ask if she can fix it.*
+I thought she was an idiot, selling it so cheap. Then again, I&apos;m the dolt who ended up in a barrel. But if she has Magister artefacts, she must be the one they&apos;re looking for!
+You know, I&apos;m probably one of the only people in all the big ol&apos; realm who understands what you&apos;re going through right now. It wouldn&apos;t kill you to open up.
+*Tell him Karon, the Mistake, is freed.*
+I want that more than anything.
+What troubles you, my child?
+*Nod. You&apos;re all set.*
+Paste
+*Ask to see what&apos;s for sale.*
+The ring... it was right here... on my finger...
+No. We&apos;re at war. Kemm may not say it, but he knows it. We all do. This black witch - what she knows about the Magisters, the Void. Dallis...
+*As your hand nears the ghost your bones begins to itch... but more than that, your world expands - your vision narrows and fades, and your perception of the cavern is enhanced.*
+I swear, I couldn&apos;t help it! Kemm all smelled like when the garden-man cuts down a decayed tree, like... like he was using flowers to hide the rot.
+*Sigh.* But nobody else is coming to help, are they? I&apos;ll let you in, but promise me one thing - whatever happens, take her away from this place. Far away.
+You know as well as I that there are &lt;i&gt;other&lt;/i&gt; forces at play in this unfortunate world of ours. Your so-called friends may be aligned to the very powers who would see us destroyed.
+Options
+...you think I&apos;m gorgeous, do ya? Well, *purrrrrrrrrrrrrr.*
+The world was at peace. At least &lt;i&gt;for now.&lt;/i&gt;
+*Reach for your weapon. The queen&apos;s defenders surely want you dead.*
+It&apos;s true. There&apos;s nothing for us in this place anymore. I wouldn&apos;t want some unsuspecting traveller to get lured in by this place.
+*The ghost frowns with confusion, then wags a reprimanding finger at you.*
+Initialising network...
+You won&apos;t find the leader of the Magisters walking in the open in Arx! This is Paladin territory now.
+I&apos;m all for forests, but honestly, this seems a little much…
+*Her tear-stained cheeks quiver as she surveys the blood-splattered floorboards.*
+*Remain silent.*
+*Having extinguished the flames in the demon&apos;s home plane - and killed innocents in the process - Lohse looks at her party, eyebrows raised...*
+So, what do you think you&apos;ll do, now that we live in a Source-free world?
+Ice Rush
+Voidwoken attacked the Ancient Empire consulate.
+*Hand her the heart of the Shadow Prince.*
+*Say that a well-placed kiss from a sharp blade will end their suffering in an instant.*
+blocked by Physical Armour
+*You&apos;re with Beast. Draw your weapon.*
+A bed. A coffin. She... she passed last night.
+Hasted
+Back for more, freshie fresh? Lemme guess... you came across a bit of gold and wanna turn it into a bit more?
+I have heard of such magic but have never known anyone so foul as to employ it. Braccus Rex, may maggots lace his entrails!
+We will rebuild the world that was stolen from us. And you shall see it all.
+Mechanisms
+Food Gore
+*For a moment you&apos;re seeing through someone else&apos;s eyes. You behold a dungeon, a deck of cards in your hand, and a pair of skeletons before the vision passes.*
+We&apos;ve learned that if we&apos;re to stand any chance of getting off this island, then we need to find a way to get past the Shriekers. There must be some way to overcome them, and we need to find it.
+It&apos;s no good...
+Pilgrim
+[ELF] *Shake your head. Would this be happening if you weren&apos;t an elf?*
+Eithne&apos;s Note
+Got word from the factory that another boat went down. Things ain&apos;t lookin&apos; good.
+My child, there is no shame in fearing the Path of Blood. Only those who believe themselves free from sin should attempt it. And of those few, there are fewer still who are truly pure.
+*Squeaaaaaak!*
+What&apos;s it look like? Either there were a Voidwoken attack or this is the most unfortunate dinner party you ever did see.
+Leave me be! You are nothing! Nothing at all!
+Hervett
+*Feign ignorance. It might have spoken - but it didn&apos;t speak to you.*
+Open Report Book
+Lohse...
+It goes &apos;la-la-la-la-la-la-la&apos;. Or something like that. It&apos;s pretty catchy, but I can&apos;t remember how it goes. Good thing Dallis had that book, hey?
+He is caught by those who hurt him. I wish so much for his return. And he tells you what you seek. A way out.
+Glad you were able to track me down. Ready to move?
+Well, that&apos;s good to hear. But stay vigilant. Criminal behaviour isn&apos;t tolerated.
+*Ask where she got it.*
+*Demand to know what exactly is in it for you.*
+Each one grooms their own champion to unseat you from your rightful place! If left to their mercy, we would be slaves.
+A shadow approaches. It threatens to consume all it shrouds.
+You&apos;re asking for it now!
+Do something...
+*Ask her what she has to do to take you between the realms. It seems to affect her a great deal.*
+What&apos;re you lookin&apos; at? Am I growin&apos; demon horns or somethin&apos;?
+*Look deeper into Rhalic&apos;s eyes.*
+Forest - Ruins in Glade C
+He&apos;s got a lot of... pets. I heard he takes them as souvenirs after every contract he fulfills. But I&apos;ll be honest with you, I don&apos;t ask too many questions about &lt;i&gt;why&lt;/i&gt;. I don&apos;t, er, want to know.
+Move item
+You flatter me, Beast, but if all I had to do was give, you would long since have received.
+Some thoughtless fool buried me in this grave, to be left as fodder for the worms! I can&apos;t be at peace in a place like this; I have to be put to rest according to lizard tradition!
+&apos;fore ya go. You haven&apos;t met a particular fella here, have you? Tall, black beard, &lt;i&gt;intense &lt;/i&gt;way of lookin&apos; at ya, penchant for metaphor?
+Atusa is different. She does not believe in this place, in their bishop. She will come. And she will take us away from here.
+Apply Challenged to a target, betting whether they will be dead in [4] turn(s).
+*The Silent Watcher continues its vigil, paying no heed to you or its surroundings.*
+*Before you is a towering figurehead carved in the likeness of a dragon. It looms over the bow, its fangs bared at the open sea.*
+We will not ride him down like orcs! We live in a more civilised world than that. He shall be captured, read his sentence, and crucified.
+Tyrant&apos;s Charm
+*Agree that he was an idiot. Who would give up such a powerful weapon?*
+Uh-uh. Not just yet.
+I suppose that&apos;s what passes for wit in your neck of the... &lt;i&gt;bog&lt;/i&gt;, I should think.
+Ah, I see! Interesting, very interesting indeed. And on a related note...
+On your way, Sourcerer. On your way...
+...but the original panel, the one that my father used his blood to depict Lucian&apos;s final sacrifice, was given to Lord Kemm, a long time ago.
+Farhangite is known as the hardest, most dense plant in all of Rivellon, but what looks like a useless lump does have some redeeming qualities. Among other things, it&apos;s renowned for getting rid of nasty, embarrassing rashes. This book also describes how warriors of old tamed the plant to grant them a healthy life.
+The &lt;font color=&quot;008858&quot;&gt;Overview&lt;/font&gt; panel shows your current level, how much experience you need to level up, and any statuses you have. Press [IE_NextObject] or [IE_PrevObject] to access other tabs.
+Auto saves
+We&apos;ll just absorb the soul within. There&apos;s quite some power to be had from it...
+Forge a silver lever.
+The first Passion of Lucian. Not bad.
+Strength of body will aid you. But strength of spirit is mandatory.
+I don&apos;t care if you&apos;re trying to steal from me, or getting fresh. Either way, cut it out.
+Now that&apos;s a kindness. Thank you, friend.
+Consider me to be a gift - from Malady. My wood was splintered, but my spirit intact. It was a great feat, but given her skill, not necessarily a surprising one.
+*Stand your ground.*
+...I know just the place for you.
+*Consume her Source. The God King must be denied the pleasure of it.*
+A book in Arx Cathedral postulated about the rise and fall of the Outlaw Empress. It mentioned the armour of the Devourer and unusual powers that it may have.
+Even if that monster was once one of your people...
+If you&apos;re done wasting my time, I&apos;ve got a crate to find.
+*The earth beneath is slightly cratered. Either the skeleton&apos;s owner took a great fall, or happened to die upon a skeleton-shaped indentation.*
+This place looks downright evil.
+*Boast of your rescue of Mari, the woman trapped outside Driftwood. That was quite an accomplishment.*
+My crewmates and me, we can handle prison. We can handle death, even. But ain&apos;t no-one should handle the Isle. You don&apos;t see the mist. You don&apos;t hear it. It&apos;s just - there. In front of you, on top of you, and &lt;i&gt;in &lt;/i&gt;you.
+I&apos;m going to hunt down my old pack leader and find some answers. The Lone Wolves have been tasked with killing Godwoken. I&apos;m Godwoken... &lt;i&gt;and &lt;/i&gt;a Lone Wolf. That&apos;s a problem.
+HehehehEHEHEHEHEEEEEEE! DIE, ISBEIL!
+Mael&apos;thaeras
+We&apos;ve arrived on the Nameless Isle still no closer to figuring out how to stop Operation Downfall.
+*Tell her that Linder Kemm was in league with the Black Ring. You found clear evidence.*
+*He shakes his head.*
+They cannot hope to stand against the Magisters. Not in their weakened state.
+...I just didn&apos;t know. I didn&apos;t know what darkness lied &lt;i&gt;beyond&lt;/i&gt; pain. Now, well. Now I do.
+Name&apos;s Gareth. I&apos;m a Seeker. I can give you shelter - and hope.
+&lt;i&gt;Anyway&lt;/i&gt;.
+&lt;i&gt;*&apos;Poor thing.&apos;&lt;/i&gt; The words caress you like a balmy breeze. &lt;i&gt;&apos;Look what they&apos;ve done to you.&apos;*&lt;/i&gt;
+Hall of Echoes
+A good hot stove is the key to a good hot dinner.
+It&apos;s strange how a simple bloom can mean so much.
+Elemental Aura
+Mmmmmaybe you could drop some vittles next to me. They say the way to a raaaaaaat&apos;s heart is throuuuugh hiiiiiisss...
+*Ask the most pressing question: who is she?*
+I... see. I see. We hope for nothing, then. We wait for nothing.
+Noble Hat
+Well? Anything?
+*She narrows her eyes, suspicious...*
+*Hesitate. You never asked for this power.*
+Sucker Punch
+That depends on what we find. We need to weaken your demon by freeing the souls he&apos;s trapped here. Exactly how he&apos;s storing them - and what that will mean for us - will be a surprise for both of us.
+Reading of the wonders of Zorl-Stissa, it&apos;s clear where her people get their feelings of supremacy from...
+Dunno. What&apos;s a Magister?
+Poor you. Poor you. Poor, poor you...
+I&apos;m sure.
+Why did you do that?!
+Sourcerers no more, they lived out the rest of their lives,
+Elemental Devil Die
+Red Prince
+Bandit Huntress

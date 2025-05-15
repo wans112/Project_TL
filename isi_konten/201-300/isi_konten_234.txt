@@ -1,0 +1,150 @@
+Earnan
+Verdas is dead. It seems that he was important for some reason, but it remains unclear to us for now.
+What&apos;s the hold-up? Snap snap, cupcake.
+*Ask the dwarf if he can help you get the collar off.*
+*And suddenly the tide reverses. It is your own memories bearing down on you now, crushing you beneath the weight of every trauma, every regret, every &lt;i&gt;failure.&lt;/i&gt;*&lt;i&gt;&lt;/i&gt;
+*Tell her the particulars don&apos;t matter. It&apos;s just a general feeling.*
+Cannibalise
+A god, perhaps. *Winks*
+*Ask her what happened here.*
+Unequip
+*Say you&apos;ve changed your mind about freeing the elf; you&apos;d prefer cash.*
+[IFAN] *Rescuer? Deflect the question and tell him you&apos;re nothing of the sort.*
+Come now. Nothing you&apos;ve done has been your own. You owe every note, every show, to the voices inside you. Visitors like me. &lt;i&gt;We &lt;/i&gt;make you great. You know that.
+Those shards look pretty sharp...
+What makes you think...? &lt;i&gt;You&lt;/i&gt; are not &lt;i&gt;her,&lt;/i&gt; so don&apos;t you dare take such liberties with me!
+Take your theories up with Magister Carver, if you wish. I have better things to do.
+The pages of this tome are adorned with musical notation and elegant calligraphy.
+*The flaming figure emits no heat, yet your bones seem to sizzle if you draw too near.*
+Oh, it&apos;s easy. We link up souls and share our innermost beliefs. Think of it like an innocent little duel. The winner remains comfortable with their personal truths.
+Wait to see what happens next.
+We learned that the Magisters have been taking Purging Wands dating from the time of Braccus Rex from the armouries and caches scattered around the island. Perhaps they overlooked some.
+You bribe your way into an early tomb, criminal!
+FORWARD!
+They worshipped that girl like she were their flesh-munching god himself.
+I was waylaid by House of Shadows assassins! I must find and slay whoever’s behind this foul conspiracy against my royal person.
+*As he watches the encyclopedia sink into the ocean&apos;s dark heart, Fane pulls out his own notebook, opens it, and tears out the first page...*
+*A man&apos;s pale face floats high above you in the gloom. He smiles and offers you his long-fingered, long-nailed hand. You know this is the God King&apos;s sallow envoy. There is no choice to make.*
+We should get moving soon - this place mightn&apos;t be as safe as it looks.
+*Ignoring the meat, ask what else he carries on him.*
+How could he? &lt;i&gt;How could he?!&lt;/i&gt;
+Wonderful. But I must ask some... &lt;i&gt;uncomfortable&lt;/i&gt; questions. Are you ready to answer?
+&lt;i&gt;...good evening... godwoken... i trust you sleep well...&lt;/i&gt;
+*Master? Is she in the thrall of a Magister?*
+Hired Assassin
+*Ask if he&apos;d like to join your party.*
+Sinew
+I&apos;m... glad I still have people I can call family.
+*Scoffs* Didn&apos;t you know? When they take your life, your family, the clothes on your goddamn back away from you, your dignity goes along with it.
+Laaaaa... la-laaa...
+Never killed that pigeon-feather Marg for me...
+Demon Hound
+*The graveyard&apos;s deathchill fades, leaving within you only hope and forgiveness.*
+Oh goodie! You&apos;re a good boy. Yes you are! Who&apos;s a good boy, then? You! That&apos;s who!
+*Beg her forgiveness.*
+They haven&apos;t &lt;i&gt;all&lt;/i&gt; met me.
+The sooner I find my brethren, the better - if they&apos;re even still alive...
+[VILLAIN] *Say that it was a lot safer for her before you arrived.*
+Eep. Eeep eep.
+*Another snap. Different fingers; different sound. She looks to the ground? She&apos;s... She&apos;s bowing before him!*
+Hah! What I mean is... look, you&apos;ve never been a... a host, right? That&apos;s cause you&apos;re like... a clump of leaves on the side of the road. That ain&apos;t bad though. I&apos;d give just about anything to be like you.
+Saheila thanked us for saving her and wished us well.
+I was hoping you&apos;d come find us again. I&apos;ve never known a god before they became divine. I was curious if it would have changed you.
+&apos;Here lies Marjolinea Pruitt.&lt;br&gt;Who won many battles&lt;br&gt;At the bridge and elsewhere.&apos;
+We escaped without Gawin&apos;s help.
+*Note that while you&apos;re short, you&apos;re not in danger of being snatched away by a seagull... unlike some people.*
+[ELF] *Shake your head. Her carelessness cost lives!*
+*Offer her an entire bag of gold coins.* ([GEN_CheckMagicPocketGold_3_01f129ea-b4dc-44b6-8154-9a948f876a82])
+Contract&apos;s a contract. &lt;i&gt;Two,&lt;/i&gt; in this case. Easy money. Been running since the Great War, too. Each of your kind gets me a hefty sum.
+What part of &apos;talk sense&apos; passed you by, bark-brain? I ain&apos;t killing me brothers and, if I stay right here, they ain&apos;t killing me.
+&lt;b&gt;NOOO!&lt;/b&gt;
+In your godsdamned dreams, you shameless little...
+You one of her little Seekers? Chasing down Godwoken and beggin&apos; &apos;em to save us all?
+*Ask why one of their own lies bloodied on the floor.*
+*Huge claws wrap around your chest and squeeze. With your ribs about to shatter, an orb of pure energy appears in your palm.*
+Godwoken? Heh. Stay on the current course, and you&apos;ll be the death of us all.
+Stop that prisoner!
+*Tell her you don&apos;t have time for this. You&apos;ll take your leave.*
+*He holds the apple to your lips. It feels not cool and dry, but warm and wet. And more - it tastes of fear.*
+You and me, chief. We got this.
+I knew it was you! So they&apos;re lettin&apos; just any ol&apos; riff-raff into this joint now, eh?
+*Bow your head. He was an honourable man.*
+Of course. I must depart post-haste, but Julian here will stay behind and be a good little parrot. Ask, and he will answer.
+Now if you&apos;ll excuse me I, uh... I have some research to do.
+You&apos;ve unlocked the Hall of Heroes. If you &lt;font color=&quot;008858&quot;&gt;dismiss&lt;/font&gt; your companions, they will come here to rest.
+Go then. Get out of here.
+This is how Lucian - even in death! - will become the saviour of us all: with him, all Source will wither. With him, divinity itself will die.
+*Inform her that this is no dream - she is dead. If she tells you what she knows about the Black Ring, then you will release her.*
+Altar to Rhalic
+*She takes a shuddering breath and idly itches her face. You&apos;d expect her cheeks to be ruddy from tears, but they are pale instead, almost translucent, revealing the vessels snaking underneath.*
+*Enough talking, just give her a bear hug.*
+Too quiet for my liking. Then again, it usually is.
+Infused with falcons&apos; tears, this medium-sized elixir infuses its drinker with superior speed.
+*She disappeared without a trace. Finding her back will be a long shot at best.*
+Insert
+Toggle Use Worker Threads
+Here - I&apos;ll mark your map. If you change your mind, you&apos;ll know just where to look.
+*Isbeil&apos;s voice rises and her fists tighten. You presume she&apos;d have gone red with fury, were she not wholly translucent.*
+What makes you think a noble creature of the land would want to associate with a devil like you?
+*Consume the spirit&apos;s Source.*
+You&apos;ve found a &lt;font color=&quot;008858&quot;&gt;Trap Disarming Kit&lt;/font&gt;! If you spy a trap: use the Trap Disarming Kit from your inventory, then select the trap.
+*Growl that you could have the Magister over here in a few moments.*
+*Turn away and take your leave.*
+Hey, stranger. Glad to see you. No Reds in the offing yet; don&apos;t imagine they&apos;ll stay gone, though.
+Search the cave.
+A guest... how brazen of you to enter without knocking.
+My crowning glory and the millstone around my neck. Yes, I made the bomb. I served Lucian as best I could. I gave him what he asked. Would I do it again?
+I don&apos;t want to hear another word out of you, prisoner. Not. One. &lt;i&gt;Word!&lt;/i&gt;
+Did you suppose you silenced me with your pitiable display of force? Were you so naive as to think I would not come to watch my comrades make the ultimate sacrifice?
+*Tell her you just aren&apos;t interested in the story.*
+We found the Paladins under Voidwoken attack.
+At the start of each turn, launches a fiery projectile at the nearest ally with an active Hard Place status.
+That Voidwoken had someone in its claws!
+GREETINGS PAULINA KEMM - LADY OF THE HOUSE - WISE AND GENTLE
+Sure. And when they do, they&apos;ll disappear too.
+But instead, I became part of their story...
+Sure I have. Biggest one of her kind.
+*Tell her there are no kings on this island. All that is left are their ruins.*
+Noticed that, did you? For future reference: if I don&apos;t answer a question, it&apos;s because I don&apos;t want to.
+Fan of Knives
+*A swirl of intoxication travels up your spine and into your head. You set yourself straight and turn your face toward hers.*
+Poisoned Cup of Honeyed Milk
+*Ask her what she makes of the new god of the realm.*
+Beast carries papers warning of &apos;Operation Downfall&apos;. The Driftwood criminal Lohar may be involved.
+*Grins.* Buy me a drink when you get paid, if we&apos;re still alive and away from this place. That&apos;ll be thanks enough.
+Glad to hear you say that. I guess it was pretty obvious by now.
+[SWORN] *Tell the statue you serve the God King and no other.*
+That it did. I was to hurry through the forests with a rift portal for the elves, so they could escape before the Deathfog exploded.
+Two-Handed Crystalline Axe
+Wind Generic 01
+*She moans impatiently and taps her bony foot.*
+Elegant Dwarven Key
+Forever, Fane... you can live forever with us...
+*Look surprised and tell her this is just how you talk.*
+Cancel Action
+*Say you suspect there&apos;s more to this situation than meets the eye. Suggest he tell you if your suspicions are correct.*
+Like a godsdamn gold star inn for the disembodied.
+*Behind the containers, the fish in one of the barrels shift slightly.*
+Ah... the Path of Blood is a, eh, &lt;i&gt;more advanced&lt;/i&gt; form of pilgrimage. I would not advise it, unless you believe yourself to be free from sin. And trust me, none are free from sin.
+Foggy
+*No sooner have these words left your mouth than she turns about and grabs you in a stranglehold. You feel the tip of a long needle being pushed a little ways into one of your neck&apos;s vertebrae.*
+*This must be Donna, the one spoken of by the Paladins guarding the door.*
+Dwarf an&apos; a elf is a dwelf.
+The spirit of a great stag sent us in search of a halo of wildflowers.
+Rusty Sword
+*Protest. Is he sure it was Jonathan he saw?*
+Well, hello. Care to get a little... fresh? If that&apos;s not too... cheesy?
+*Stand your ground.*
+We&apos;ve made a pact - I won&apos;t have a choice. Besides, that&apos;s a house-call I don&apos;t want to miss.
+*The little black cat trailing you hisses at him, hair raising a ridge along its back. Without batting an eyelid, the man rumbles a lupine growl. The cat hides behind your leg, mewling.*
+&lt;i&gt;Get the hell away from me, lizard!&lt;/i&gt; Only place in Arx for your lot&apos;s at the end of a rope.
+Be careful on the road, stranger. You&apos;re safe enough in here, but past the bridge you&apos;re on your own.
+*She rubs a hand over her smooth head, then suddenly looks up at you. Her great greenish-gold eyes are alive with worry.*
+I&apos;m sorry. I&apos;m sorry that I didn&apos;t realise the truth of him.
+Bloody Reds! Bloody, buggering, bastardly Reds! But you ain&apos;t to blame, lass, I know that! You tried, and that&apos;s more than I did. Damn shame though. Damn shame.
+I can&apos;t believe that Lucian would do that. To lie to me? To use me? I &lt;i&gt;ran&lt;/i&gt;. I &lt;i&gt;tried&lt;/i&gt;. And all along, the annihilation of the elves was in my hands. He must have been set up.
+*Ask the rat the question: to which tune does the ship dance?*
+I had no idea. What a fool I am.
+In life, we are the earth&apos;s caretakers. In death, we are the sky&apos;s.
+[1] dissolved into sludge.
+Shield Type

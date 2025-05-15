@@ -1,0 +1,174 @@
+*You feel the Goddess Amadia lash out defensively inside you. She&apos;s not happy with this...*
+*The dwarf&apos;s armour looks as if it weighs half a ton, yet he moves with alarming ease. You note his insignia - a snarling wolf.*
+[SCHOLAR] *Ask her to teach you how to make a potion.*
+There can be only a single &lt;i&gt;One&lt;/i&gt;.
+*He smirks as he raises tree-trunk sized arms overhead and lunges for you. Somehow, you get the feeling that you&apos;re actually giving him what he really wanted all along: an enemy.*
+*His eyes well with tears.*
+Worn only by the most devout and zealous pilgrims in Rivellon. Each piece is said to bring one closer to the Divine.
+I hear we&apos;re &apos;bout ready to move out. I reckon you&apos;ll need to talk with the shiphead to summon Malady and let &apos;er know we&apos;re ready.
+[OUTLAW] *Boast that you were imprisoned there, but that no cell can hold you!*
+*There is a crash of timber behind you, and you can feel hands grabbing you. You are dragged backwards as Amadia screams.*
+*The dwarves have already shown that they&apos;re survivors. They can help save their friends!*
+Bird &amp; Wind Forest 03
+Paladin Bishop
+Elder of Enkindling
+*Don&apos;t let her finish her thought. Insist you were given leave to walk here by Magister Reimond himself.*
+*Very well. Invite Tovah to speak.*
+Slave? I were a slave to Braccus when he tore my flesh apart with his gadgets, then cursed me to guard this mire. Now &lt;i&gt;I&lt;/i&gt; choose who I serve.
+*Lay a hand upon its flat surface.*
+I&apos;ve little for sale beyond the very history of the elven people. I sell not just goods, but memories.
+Augmentor Seedling
+Jahan showed me how to better master my Source powers. Now I need the name of the demon haunting Bloodmoon Island.
+*She shares a wry laugh with her companion and they both turn back to their drinks.*
+Aww! I&apos;ll think of one myself, then... &apos;What did the dog say to the cat?&apos; No, that&apos;s not good... Erm...
+*Shake your head.*
+*Take your leave.*
+Shhh, I will not miss this!
+*Ask him where the Voidwoken came from.*
+*Shrug. Maybe.*
+Air Essence
+Don&apos;t you see? It&apos;s all pointless.
+Flower Pot
+What my friend here &lt;i&gt;means&lt;/i&gt; to say, kind lady, is that there&apos;s a cure for our condition. Alice Alisceon has it in her house. If we could drink it, we could then regain our former forms, as it were, and steal away.
+Fane was killed as we escaped Dallis&apos;s ambush.
+It seems I have one less jailor. How tragic. If only I could still shed tears...
+Conqueror
+Very good. They try to escape, but the armour always finds them.
+Swamp - Murky Waters A
+A new life awaits! And if you&apos;re a particularly good girl, perhaps a cure as well. An end to Source - for good!
+Animators Reference: 2H WeaponSet
+Decorative Dwarven Shield
+Oh, how unfortunate. We could be so &lt;i&gt;good&lt;/i&gt; for each other. Now, allow me to show you to the door.
+Slavery.
+Step back. I have business with the Mother. I&apos;m going to kill her.
+*Ask Beast what he suggests you do next.*
+*Ask what she&apos;s doing in this place. It&apos;s not exactly... child-friendly at the moment.*
+*Ask him about the House of Shadows. You&apos;ve never heard of it.*
+*SNAP!* *Crunch*
+This feels too good to be true. I can see people doing &lt;i&gt;anything &lt;/i&gt;to feel like this...
+Don&apos;t rightly know what to do without Fionola. For now, I&apos;m just keepin&apos; my nose to the grindstone.
+*Take your leave.*
+If I could only run. But I can&apos;t even dawwwwdle.
+[RED PRINCE] *Say that of course you do. You&apos;ve been revered as a god all your life.*
+*Thank her and say she&apos;s not half stupid, for a human.*
+Send Feedback
+Changed by his experience with the Godwoken, Mordus proved a useful tool in the fight against the Void. The Alliance quickly learned to keep him away from ordinary soldiers, for the sake of morale.
+*Your hands fly up to cover your mouth, but too late to prevent a happy gasp of surprise from escaping.*
+The Hall of Echoes
+*Play along and admit you&apos;re nothing but a foolish servant... of course you were sent by Braccus... you have a message from him...*
+Rotate Camera (Hold + Mouse Move)
+Hmm. This superiority complex, this... haughtiness. So cold. Others see you for what you truly are: monsters. Loveless, heartless, ruthless. &lt;i&gt;You know it to be true&lt;/i&gt;.
+Traditional Chinese
+You need to get to Arx. As quickly as possible. That&apos;s where she&apos;s plannin&apos; to use it...
+Combat
+I&apos;m finally rid of that demon. Finally rid of that bloody voice.
+There&apos;s no glory in death.
+Listen up: Don&apos;t waste his time. These are... explosive times. Be &lt;i&gt;respectful&lt;/i&gt;.
+Healing Elixir
+Morningstar
+We eased the dog&apos;s pain and it told us about its master&apos;s secret pouch of gold.
+Well. As I live and scarcely breathe, if it isn&apos;t Ifan ben-Mezd!
+[This perfumed diary belongs to Lady Paulina Kemm, in which she writes of her relationship with a trembling hand.]&lt;br&gt;&lt;br&gt;... I simply cannot understand what changed. He was so loving, once. So tender. And now, he hasn&apos;t loved me in months... &lt;br&gt;&lt;br&gt;... He&apos;s grown distant, cold. He spends all his time up in that blasted attic, or outside training. What did I do? How did it all go wrong?...
+Captain&apos;s Hideaway
+That would be my stomach, milord. Perhaps I could go downstairs for a bit of stew?
+*You feel the goddess&apos;s presence surround you; feel her nestle you tenderly, like a mother.*
+Magical Two-Handed Dwarven Glaive
+Training Sword
+As painful as it is delightful, believe me.
+*Nod enthusiastically. Any time.*
+*The Shadow Prince whispers to a small, jewel-like object in the palm of his hand. In the distance you can hear the sound of an explosion. The stench of Deathfog, even this far away, pervades the air.*
+A giant body, but no giant brain, hmm Quercus?
+No, you can&apos;t. Now clear off or I&apos;ll escort you face-first into the nearest gutter.
+Charmed
+What the deuce are you telling &lt;i&gt;me&lt;/i&gt; that for? Go tell the Magisters searching the rotten place!
+Toggle Edit
+This Source-infused copper ring makes the bearer shine with confidence... unless they&apos;re in the presence of some Voidwoken, that is.
+*Tell her to stand down and leave the battle to you. These beasts are dangerous.*
+*He gives you a cool look, then rummages in his pocket. He hands you the contents.* ([01f129ea-b4dc-44b6-8154-9a948f876a82])
+*Tell her your business is hurting people who won&apos;t tell you what you want to know.*
+To the forests. To replant them, to watch them grow.
+Maybe it&apos;s just that. A crusade. Maybe when it comes right down to it, I&apos;ll get in front of a crowd again and forget everything I saw here.
+*Are you certain you want to dismiss your companion?*
+Still no.
+*He looks at you to see if you&apos;re serious... and sees that you are. He kneels, bows his head, and begins to lick your boots clean. He does an excellent job, and looks up to you for approval.*
+*Say you&apos;ve long wondered how it all actually worked: the Master and the scar.*
+Before you go, Lohse: Perhaps you sense it already, but this is where he lives. Your demon. &lt;i&gt;Adramahlihk.&lt;/i&gt; You must be exceedingly careful; he&apos;ll be waiting for you.
+Emmie was always the smart one. I guess that&apos;s why they took her and not me... *Howls.*
+Wastelayer
+You think I would fall for your lies? Criminal! Help!
+*Say you guess so. But you won&apos;t forget her - not ever.*
+I think I dodged the Hall of Echoes there...
+Jug
+*The Lady Vengeance itself is enslaved. Say you&apos;d like to hear from him how all of this works in the Ancient Empire.*
+*Ask Beast if Ros will divulge the queen&apos;s whereabouts willingly.*
+Magical Morningstar
+Talk to the lich.
+*Say that her spirit told you how she escaped a Magister caravan - does that match what he knows about her?*
+Shame those lizzzzzards spoiled it so. Neat little feats of magic though, those scars.
+* - and then it&apos;s done.*
+Kniles&apos; Medical Notes
+Down the hatch.
+Treecave
+*Gone is the strange mirror image of yourself: before you stands the goddess Zorl-Stissa in all her spectral glory.*
+Don&apos;t misunderstand, I made my choice too.
+*Suggest that he might care to do some trading...*
+Overinflated?! Why I... you&apos;re just jealous of my beard!
+Welcome be, guv&apos;nor! Take a load off and enjoy Effie&apos;s plunder down under!
+Locked. With magic.
+...and dares to wave her tattered, tarnished banner!
+Werewolf Attack
+Books here for literate sorts.
+Create
+Face of Battle
+It&apos;s... it&apos;s alright. We&apos;re all of us a little flustered &apos;round here, aren&apos;t we. No other way to be under the conditions. Not your fault, I suppose.
+None
+Unusual-looking Brick
+Let&apos;s move. &lt;i&gt;Now&lt;/i&gt;.
+*Ask him what&apos;s on his mind.*
+May. The. New. Divine. Be. Worthy.
+*The statue appears almost to hide in the shadowed and leafy glade, peering out at you from behind rustling branches.*
+*He knows what&apos;s next for him. Ask what&apos;s next for you.*
+Glory is mine!
+*Ask to see her selection.*
+&apos;Driftwood Fishworks&apos;
+Lucian would weep if he saw how his sacrifice was in vain. Maybe we don&apos;t deserve salvation.
+We prayed at the altars and learned the combination.
+*Mention the troll that you strangled with your bare hands this morning. It made for good eating!*
+Patty Cake, Patty Cake, Volume V
+Doctor&apos;s Letters
+*Tell her not to mistake your aid for friendship.*
+Ahh, look at you! Handsome, handsome. Come close, won&apos;t you? A little closer still...
+Perhaps. Mine is a sceptical approach to tall tales as well.
+Interior
+Mortal Blow Skillbook
+*Remark that he&apos;s ill-tempered by even Magister standards, and ask again what&apos;s troubling him.*
+One of us is the champion of the arena in Driftwood.
+I suspect we shall soon find out.
+*Thirsty? Ask what it&apos;s implying.*
+*Say you&apos;re not sure you are on board with that.*
+The Mother mourns you, Scion. You hurt her. She bids me tell you that should you reach your goal, you must remember us. Remember your kin, Sebille, when the time comes. Save us from ruin.
+Hammered Scale Armour
+[JESTER] *Ask if you can get a &apos;handsome devil&apos; discount.*
+Go on, go on... and appreciate the fine tinkle of water beneath! The fine lichens! The hand-placed rocks!
+I need to find someone I can trust enough to share the scar song with... It&apos;s the only way.
+I... I think you need to kill me. And quickly, before -
+*Claim that you&apos;re an adventurer - you heard rumours of a fabled island laden with riches, and came to seek it out.*
+A healer&apos;s work is never done! Unless everyone&apos;s dead, of course.
+Mm, it smells truly divine. And... different somehow. Perhaps a special mixture from the house?
+We reached the Cathedral. To enter Lucian&apos;s tomb, we must first find out how to survive the &apos;Path of Blood&apos;.
+OW! Lucian Divine, be careful!
+The lizard consulate is gone - all that survives of it is what I managed to take with me. Care to see what I have? Perhaps we can make an arrangement...
+*Suggest he should send Paladins to do Paladin work.*
+Spirit of Rosa Crossley
+It brought joy to hear the elf&apos;s fury...
+Answer
+[DWARF] *Chant an ancient drinking song. Perhaps the statue will acknowledge you.*
+We can always use an ally. A sane ally is better, of course, but his information could be extremely useful.
+*Consider his words. How do you know you can trust him?*
+Alright. But I&apos;ve got my eye on you.
+Undress...
+*Shake your head and replace the urn.*
+Hunt your hunters.
+*Flex your arms. You&apos;ll keep an eye on the prisoner; he wouldn&apos;t dare cross &lt;i&gt;you&lt;/i&gt;.*
+The King soon comes to claim my spirit.
+Eternal Altar

@@ -1,0 +1,159 @@
+The Covenant binds one to the God King in death and beyond. But Almira found a way to break the pact: the Swornbreaker.
+Nightmarish Voidwoken
+[VILLAIN] *Tell him he has a fly on his nose. It must be very... itchy.*
+*The spirit stands with her feet apart, arms at her sides, palms up. She appears to be chanting something, perhaps a prayer, to the sky, but you hear nothing.*
+It is greater than the Gods, yet also more evil than the Void. The poor have it, the rich need it, and if you eat it, you will die - &lt;i&gt;what is it?&lt;/i&gt;
+Not in any mood to talk about it.
+*Before you can say anything, he strides away, shaking his head in disgust.*
+[Translate94_6271e02f-cfdb-4aff-9c3f-bef02a731259]
+[1] increases your total amount of Physical Armour.
+I&apos;ll need to get clever with this lock.
+*Admit to your race&apos;s arrogance and bloodthirst.*
+*Ask if they have found anything of interest.*
+Rise of the Dwarves
+Git.
+He&apos;s not exactly everyone&apos;s favourite dwarf. Not that you&apos;re winning too many popularity polls yourself, Beast. No offence. &lt;br&gt;
+Violence isn&apos;t the only way to get what you want...
+*Nods.* You will do, Godwoken.
+You must realise, Sebille, that our fates are now as one, just as our souls are now as one. &lt;i&gt;We&lt;/i&gt; are &lt;i&gt;I&lt;/i&gt;.
+To the good Doctor at the Black House:&lt;br&gt;&lt;br&gt;Kind sir. I know I risk a chewin&apos; out from the boss if he finds out about this, but I got nowhere else to turn. A father of a sickly child is as desperate as they come.&lt;br&gt;&lt;br&gt;My lovely daughter, my sweet peach, grows nearer to death. Her head&apos;s as hot as a blacksmith&apos;s coals and her limbs are as limp as dead fiddleferns. I beg you sir, go to her in Driftwood, and spare an elixir, or a simple modicum of your expertise. I would be forever in your debt.&lt;br&gt;&lt;br&gt;B&lt;br&gt;&lt;br&gt;
+*You feel a pang and tell him you don&apos;t want to lie to him. You aren&apos;t a Magister, but a Sourcerer. You escaped from Fort Joy.*
+Applies Slowed, ignoring Magic Armour.
+*Tell her she has much to account for. The Deathfog was almost deployed. Thousands could have died.*
+We are Godwoken, &lt;i&gt;we &lt;/i&gt;decide who lives and who dies.
+[LOHSE] *He&apos;s a demon hunter! Ask if there&apos;s anything he can do to help you.*
+Phoenix Dive
+I have to say, having you here makes it all seem... possible. We&apos;ll be alright, right chief?
+Wooden Wheel
+Good day, brother! Interested in Driftwood&apos;s finest catch?
+The Gods choose &lt;i&gt;you &lt;/i&gt;as their champion. Some blushing lizard.
+*Take a deep breath, then reach into her memories and fill them with a great sense of... ease. Tell her that everything is going to be okay.*
+I have no quarrel with this man nor contract for him. I say we choose our battles.
+I do not think you are a bad person - just that you&apos;re not good &lt;i&gt;enough.&lt;/i&gt;
+Very bad man. Man wanted to make me spider food.
+Zorl-Stissa, the lizard god. The artist has certainly captured her arrogance.
+*Check your purse. It seems you&apos;re a little low on gold right now...*
+*You experience a flash of memory, but not of the fish you ate. You stand at a barrier. It buzzes like a locust swarm, and like the swarm it imitates, fills your heart with dread.*
+*Tell him he&apos;s got to be kidding. You must draw power from demons?*
+Add skills
+*Say you don&apos;t feel changed at all.*
+I fear I may be lost, cousin. Forgive me...
+Dwarven Broadsword
+Heavens no. Damn no. A &apos;no&apos; for every day I was sealed in that tomb.
+My journey into the heart of the Nameless Isle was fraught with danger - the forces of Void did everything in their power to prevent any Godwoken from ascending to grasp the powers of the gods. I could not allow them to impede me however, and ultimately made my way into the first part of the Council - the Academy.
+*This Silent Monk looks like she was only recently converted. Her face was clearly beautiful once, and the eyes looking at you are not yet the full fuligin black of other Silent Monks you have seen.*
+There will be no new Divine on my watch.
+I am undone.
+*Then they wake, haggard; exhausted. They speak of a vision: Brahmos. And another red lizard.*
+*Insist you know nothing about any murder.*
+Undead Elf Rogue
+Just a kitten in a corner, aren&apos;t we?
+What is this sssecret that is this wretched &lt;i&gt;me?&lt;/i&gt;
+*The droplet burns both hot and cold, and yet you feel no pain. You step towards the flow, desiring more, wanting desperately for it to take you... &lt;i&gt;and darkness envelops you.*&lt;/i&gt;
+*Send them away in peace.*
+*Bet on Malady. You can&apos;t imagine her not getting her way.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*Tell it you think those things are probably pretty damn dangerous. Even to rats.*
+I&apos;ll find ways to excite myself. Always do. First, I go back to the kingdom, see the queen. There&apos;s a lot to do there. Damage that needs undone. Dwarves&apos;ve lived in fear for too long, on the outside &lt;i&gt;and&lt;/i&gt; the inside.
+*Protection duty? Ask who needs such measures in a place of worship.*
+No! That&apos;s a horrible thing to say! I bet it wasn&apos;t Joe, I bet it was someone else&apos;s leg in that icky shark!
+*Fane is busy scribbling in his ephemeral notebook.*
+*She bends over double in a violent coughing fit. As it subsides she dabs her mouth with her sleeve.*
+*Smile, and tell him that little people have big futures ahead of them.*
+*Say you&apos;re interested in someone with an affinity for the arcane arts. Ask if he knows much magic.*
+Cloth Gloves
+Kraken Tentacle
+*Say the story is okay - neither motivating nor demotivating.*
+We found out where Dorian Gall lives.
+*Tell him you&apos;d like to see him try.*
+Well, where should I start? Lethal plants is pretty high on the list!
+Corroded Chest
+[DWARF] *Shake your head. Would this be happening if you weren&apos;t a dwarf?*
+Report back to Micheil Ros.
+Servants these days! Stupid as turkeys, aren&apos;t they. When I get out of this place, I&apos;ll educate them all! With fire!
+*His face goes pale and his eyes open wide. The Magister that greeted you remains stiff, as if enduring a harsh wind.*
+Book Content
+Yeeeeah... I&apos;ll peel the skin right off yer face!
+Tir-Cendelius prefers the gaze of the Moon.
+*The Master is near, but to approach him alone would end in defeat. You need someone to be there with you. Someone you trust enough to sing the song and counter your nemesis.*
+House Exterior - Estate A
+*Ask her why she did it. Why did she kill those people?*
+*Announce that you have come to save the queen on behalf of Micheil Ros!*
+The Gods parted the clouds and let a ray of sunshine through. My beloved Gwydian&apos;s home - and safe.
+Pressure Spike Skillbook
+In Driftwood, the Magisters are too few. But I will wait. I will watch.
+And yet... you&apos;re the only one here.
+Diamond
+Not too far from here. But she was taken by a guy in a white robe, who smelled HORRIBLE. Like lots and lots and lots and lots and...
+Bone Cage Skillbook
+*A compact, heavily muscled dwarf turns from her training. She flicks her wrist and instantly her axe - a stunning elven weapon - is a hair&apos;s width from your chest. The blade sings...*
+*Your question seems to jolt him back to the present moment. He shakes his head and the mask of hatred disappears. He smiles again, even wider than before, yet his eyes stay hollow.*
+&apos;ey up, if it ain&apos;t the Beastman! Can&apos;t believe ya found Driftwood - how&apos;d ya smell the ale over all that rotten fish? Get it? Hahaha. Ahem.
+*Godwoken? Does she mean people like Bishop Alexandar?*
+Not from you! &lt;i&gt;Certainly &lt;/i&gt;not from you.
+[SEBILLE] *Lick your lips. You like the dangerous type. You were hoping you might leave... together.*
+Recovery AP
+Stained with blood, this sturdy belt hums with power. Etched into the leather are the words ‘Fire and steel make my blood sing, I’m coming for you, my darling’.
+Applying
+*As the Magister&apos;s eyes alight upon you, they widen until they are practically bulging out of their sockets. One tremulous finger rises from voluminous robes and points right at you. From her other hand dangles handcuffs...*
+Speak to Saheila.
+When status expires, two enemies spawn nearby.
+That&apos;s where it started. And it still ain&apos;t finished.
+The witch fled west into the woods, pursued by Magisters.
+*Ask what&apos;s next.*
+*The anguished face appears... then vanishes. The door remains closed.*
+*He&apos;s a front-man for a scam. Ask him why he does it.*
+*The child considers your statement.*
+Not many things I can fetch around here, but who cares, eh? Look at this place!
+*Say not only have you no objections, you&apos;ll help him too.*
+Please, help me!
+I supposed that the Ancient Empire may be more willing to defend the defenceless. Perhaps there was... humanity within their ice-cold blood.
+Craftsmanship
+Roost Anlon reluctantly revealed that the Master may be on the Nameless Isle.
+Raining Blood
+Bird &amp; Wind Desert 03
+&apos;Here lies an unknown waggonner.&lt;br&gt;Run over by his own cart.&lt;br&gt;We are glad to give him rest.&apos;
+Goblin Bow
+C&apos;mon, can&apos;t I go play with the others?
+Safety?
+I don&apos;t like him. He&apos;s mean.
+We&apos;d better not leave her waiting. She&apos;s a bit... &lt;i&gt;particular&lt;/i&gt;.
+*She pokes you in the ribs.*
+Honour the forest with your fighting skill... or your blood.
+I know I needn&apos;t be.
+Enter Sneak Mode
+Exter! No!
+*Lay your hand upon the jar.*
+Object identified
+The Flenser&apos;s Playground
+*The man looks to have been in a vicious fight. He rolls his sleeves down and casually wipes some blood from his cheek. He nods at you, the shadow of a smile on his lips.*
+&lt;i&gt;Most &lt;/i&gt;matters, not all. Lord Arhu is the Keeper of the Cathedral - only he can approach the remains of Lucian the Divine.
+*The spirit can&apos;t help but smile.*
+That&apos;s close enough, reptile!
+And &lt;i&gt;you&lt;/i&gt;.
+The Fortress
+Away! The sea&apos;s hungry. We don&apos;t have much time.
+*Wordless, the dog picks out a steak with all the trimmings.*
+We promised to return Magister Harrick&apos;s ring to her comrades.
+*Part of her skull lifts away in a neat square, revealing the brain beneath.*
+Hey you! You are clearly hiding something. Let me see your belongings!
+*He reaches out and hands the Red Prince something small and shiny: a &lt;i&gt;key.*&lt;/i&gt;
+*The sights melt away. Your vision of the Void was brief but potent. You are - not cold, exactly, but &lt;i&gt;empty,&lt;/i&gt; as if you might never again feel joy, or sorrow, or anything at all.*
+*I asked if he knew how to escape.*
+*Say you&apos;re new around here and would like to make her acquaintance.*
+*Dare him to call you a liar once again.*
+*Drag a nail across his cheek. You keep them sharp for this very purpose.*
+*Turn to other matters.*
+Casper&apos;s Casting Coat
+We met the Scion Daeyena a hidden laboratory.
+*She enters combat stance and readies her weapon. Battle is at hand.*
+For your sake, you better be on the up-and-up. Unless you want to roam the Void for eternity.
+Who was she, you think?
+I said &lt;i&gt;leave me be&lt;/i&gt;... I need to rest.
+*Step back. If it&apos;s that important, you won&apos;t stand in the way.*
+After all, when one is revered by many as a living god oneself, public deprecation would be needlessly self-important as well, wouldn&apos;t you say?
+Further proof that the Divine Order is anything but civilised.
+Stubborn... as ever... But you &lt;i&gt;will...&lt;/i&gt; look me in the eyes.
+*Consume the spirit&apos;s Source.*
+*Sputter that this isn&apos;t your fault! You were just trying to share knowledge - to explore the secrets of the universe.*
+Opaque Ring
+*Tell her you&apos;re not afraid of him. You can take him on &lt;i&gt;now.*&lt;/i&gt;

@@ -1,0 +1,167 @@
+...the umber monkfish! Ah yes, it&apos;s coming back to me know. A remarkable creature, the scholar of the seas!
+Deal [1] to target character. When they try to move, they will take piercing damage.
+Terrifying Cruelty Skillbook
+Magister Cleric
+Dallis, you maniac.
+Poisoned Bottle of Wine
+*Tell her you&apos;re a bit... peckish. Does she have any eggs to spare?*
+Lohse&apos;s Lute
+Oh, Ada. I think you know me better than that.
+*She doesn&apos;t meet your gaze and stares, dazed, at the floor.*
+Sewers
+Possessed Dwarf
+*Tell the cub it must hide from larger animals, and hunt smaller ones. Also berries are good to eat. Some of them. Don&apos;t eat mushrooms though. Mushrooms probably aren&apos;t.*
+*Tell him you&apos;ll gladly sail, if you&apos;re sure of your captain.*
+Catch you later, skipper. It... it&apos;s good you&apos;re here.
+Damn it, is nowhere safe?! Red-robed lunatics at sea, those Voidwoken seedlings in the swamp: it all points to the Great Acorn. It&apos;s coming, Quercus!
+You don&apos;t need me to tell you that.
+Open/Close Group
+Your smouldering half-demon pet can attest to that.
+[LOHSE] *Say that you consider yourself a musician rather than a rescuer.*
+Ah, Lady Xantezza - you were the only one of the Seven that could take a joke.
+Oh, precious. It&apos;s almost too sad to take advantage. But my princelings are hungry... and just look at you. You&apos;re &lt;i&gt;food&lt;/i&gt;.
+Saddle Brown
+Of course, of course. Me too. It&apos;s something you and I quite share in common, Lohse. The Seven, on the other hand... they&apos;re like leeches who&apos;ll suck this world dry if we let them.
+A silly thing to say, but then again, I did think catching me off guard was impossible.
+This life, this plane, it will be as it always is. Almost. The demon Adramahlihk, however, may prove an... unstable element.
+Your kind? You&apos;re not a bloody-&lt;i&gt;AAAARGH!&lt;/i&gt;
+Poisonous Skin
+Raise a glass and praise the dwarven race...
+Aw.
+My book is in my hands, my face turned away from you... Perhaps my eyes not on the page? Damnable things...
+Brewed to perfection in one of Rivellon&apos;s oldest monasteries.
+Take this spear. It destroys evil. It helps you.
+*Ask him where the Red Princess is.*
+*Note that the dwarven thug seems happy to rip off one of her own.*
+My people are gone. Worse than gone.
+*You have been a spirit for a very long time indeed. This afterlife has been spent resisting the pull of the ancestor tree that wants your Source...*
+You&apos;re no Paladin, but why should I tell you?
+Exploration Theme 04 Light Intro
+And unless you want to die too, we need to go &lt;i&gt;now&lt;/i&gt;.
+*Ask what he thinks the dwarves are concealing exactly?*
+I&apos;ve still got a contract to fulfill. But after that, getting the hell off this island sounds good...
+I see, yes! Consider your opinions signed, sealed, and soon to be delivered!
+&lt;i&gt;&apos;The host. Take her. The host. Take... take... the host...&apos;&lt;/i&gt;
+The most marvellous magic, right at your fingertips!
+Grown in the Rivellonian Grain Belt, this wheat smells like the warm, earthy ground that grew it. Can be ground into a fine, high-quality flour.
+I was wrong about you.
+*Shake your head. Magisters are only dangerous if they&apos;re provoked.*
+...thank you... now I swim... monsters... gone... swim... free... swim... forever...
+*Search him for news of the Red Princess, and her fate in the heat of the battle.*
+What happens between Godwoken is what must happen. One must emerge Divine.
+*She narrows her eyes to obsidian slits and gazes at you with such malevolence you can almost feel it tickling your spinal column.*
+*She takes your hand and looks out over the sea of souls once more. She leans against you, letting you support the smallest bit of her weight.*
+*Quicken the pace. &apos;Whiskers!&apos;*
+Removing a blindfold lost us the challenge. If one of us wants to be champion, Murga must... go.
+*Let it happen. Let it all begin.*
+*Tell Griff he has no right to keep a man locked up here in such bad conditions.*
+I am blessed, soft-slither. I glide on Lucian&apos;s breath and feed on his sighs and smiles. For him, I would walk the Path of Blood. He needs only sing the command.
+*She shifts weakly where she lies and doesn&apos;t look up.*
+I hail from the land that was. The kingdom of fog. The grave of divinity.
+Oh, how&lt;i&gt; unfortunate&lt;/i&gt;. We could have been &lt;i&gt;such&lt;/i&gt; good friends.
+Begone! &lt;i&gt;Begone &lt;/i&gt;from here! Ngh... where is my champion?!
+Look - I ain&apos;t gonna say we&apos;ll be best friends or whatever, but I do better with a crew than without. So whaddya say - mind if I tag along?
+Holding this translucent blade causes your hands to shudder and your head to tingle.
+Toggle Multiselection
+*Ask why she&apos;s associating with human thugs.*
+No excuses. We are on the path to Divinity - nothing can be allowed to drive us from it.
+*Look at her with concern. Tell her her eyes are looking worse...*
+Careful! Do that again and you&apos;ll answer for it!
+&lt;i&gt;His &lt;/i&gt;eye is on you - and I don&apos;t want to be anywhere near you when he blinks.
+I... I feel better...
+I told you already - keep out of my hair.
+[IFAN] *Smile. Say your crossbow makes a better case than you could.*
+A functional weapon best used for backstabbing, this estoc has seen better days; its blade is chipped and nocked, its hilt twisted.
+Now, NOW, or didn&apos;t you hear me? WHERE GROWS THE YARROW?! Dire, dire, dire, and for you too if you want to keep your top screwed on and your wires in a row. Do you hear me?!
+*The dragon nuzzles you with its snout. It accepts you as its friend.*
+I appreciate your hard work so far. It&apos;s over now, though. Let&apos;s finish what we started.
+*Note that the Lone Wolves are formidable fighters. Perhaps it was unwise to go against them.*
+Indeed? Tir-Cendelius, if I&apos;m not mistaken. Always was rather the slow sibling in the pantheon, wasn&apos;t he?
+Invisible
+*Tell him it &lt;i&gt;really &lt;/i&gt;isn&apos;t his day. Consume his Source.*
+Beryl Griff rewarded us with her husband&apos;s valuable notes on ancient runes.
+High and Low
+*Smile and thank her, adding that you&apos;re not able to consume spirits.*
+Erma? Where are you dear? Mummy&apos;s worried sick about you!
+*Ask them what&apos;s going on here.*
+*Shake your head in disgust. You never would have suspected...*
+[ELF] *Suggest there may be wisdom in doing as they ask. For the good of our people.*
+Jahan agreed to help us, but only if we helped him first.
+*And such an offering must be placed in the dragon&apos;s mouth.*
+*Thank her for the information, and take your leave.*
+*Blink. Tell the eagle to keep his claws far from your eyes if he wants to live.*
+*Tell him that he can&apos;t give up - he&apos;s meant to save the world!*
+*Mention that the groom has fled. Does she know where he might have gone?*
+*Ask what he&apos;s building.*
+No! You are better than this. Resist him!
+You need help. &lt;i&gt;Serious &lt;/i&gt;help.
+*This book is filled with pages of notes on necromancy, eternal life, and the dark arts. Near the end, you find a passage detailing how to inscribe this darkness on paper.*
+Don&apos;t stare. It matters none. Insanity takes many guises.
+I see through your lies!
+*Say that you&apos;ll endeavour to be a better friend.*
+She made a pact. He&apos;ll see that she keeps it. No matter where she roams.
+Rusty ballista
+*Her heat enters you: thrust upon thrust until she scalds and with a scream, her nails digging for blood, all becomes an echo of the primal soul - a burst of overwhelming white.*
+I did not ascend. I shared my Divinity and gave the Source back to the world. May no more harm be done in the pursuit of power.
+You are exceptional, even among our kind.
+The future of all that is depends on you, and you alone.
+(I don&apos;t think we&apos;re getting the potion, Mabel.)
+[NOBLE] *Snort that if you ever resort to digging through fish guts he&apos;ll be the first to know.*
+If you truly know him, you will be so kind as to bring the Red Prince to me. With haste.
+Let it out, Beastie-boy.
+Ugh. No. It seems I&apos;ve *cough* gone soft.
+*Tell them that&apos;s nothing - your daddy is a god. Probably.*
+...and so will I remain, and our people alongside me, unless you do what must be done.
+Murga
+Only beta trolls hide &lt;i&gt;under&lt;/i&gt; bridges...
+Ifan ben-Mezd! Right? Glad to see you made it.
+That&apos;s baloney and you know it! An old dwarf like me ain&apos;t so easily tricked, kid!
+...four tankards of beer? No, that ain&apos;t right...
+Every kid&apos;s dream gift... maybe.
+Sure. Can&apos;t say I blame you.
+Careful! What are you doing?
+Greetings.
+*Tell him it won&apos;t come to all that. Septa is dead!*
+*He motions for you to be on your way.*
+Steel Helmet
+I may not know much about divinity, but I do know that any Godwoken worth their salt will know how to perform &lt;i&gt;all &lt;/i&gt;these oh-so-fantastic feats.
+*Amadia hangs before you, her face cut and bruised, her chest barely moving. You think you see a tear run down her cheek.*
+That thing knows more than it lets on. Maybe we can use this creature to our advantage.
+[SOLDIER] *Kick the door, right in the teeth.*
+If you have nothing to hide, I&apos;m sure it&apos;ll go just fine. *Mumbles* Bloody lizard...
+Nuh-uh! YOU do!
+Fact of the matter is, you lot have outlived your usefulness.
+See? Told ya! But don&apos;t worry, I&apos;ll revenge your death! Take that, Sourcerer!
+It&apos;s the Void! You must embrace the Void before you can gain more Source.
+*Say that you spoke to the woman&apos;s spirit, and say that she was subjected to Magister experimentation.*
+I fear I may be lost. Forgive me...
+*Mischief flashes in his eyes.*
+&lt;i&gt;The Doctor sends his ill-wishes. You killed his advocate - now you must paaaay...&lt;/i&gt;
+Applies Haste.
+Bobi
+Stay safe.
+Wait - what are you doing? &lt;i&gt;Nooo!&lt;/i&gt;
+*GLUG!*
+Gareth will help! Gareth will keep us safe. Gareth will take us home.
+Flexible but not flimsy, sturdy enough to withstand any storm and skirmish.
+Another tree dies. My heart is wounded.
+*Reach out and grab Beast&apos;s arm. Now isn&apos;t the time.*
+Dead Dwarven Mage
+Blue Ball
+I didn&apos;t think I&apos;d survive those wounds, yet here I am... it&apos;s a miracle! And now Gareth&apos;s returned to us as well. Maybe our fortunes have changed for the better.
+*Blackness. Light. You peer through fog to see two dwarves, eyes as black as coals. They are dragging you through grass and stone. &apos;Perfect bait. The Master will be pleased,&apos; drones one of them.*
+Sebille... you made it. Good, we&apos;ll need all the help we can get. We have to get this ship sailing, or we&apos;re done for.
+&lt;i&gt;...shoulda paid...&lt;/i&gt;
+*She gives you a coy little smile. Her mouth is crowded with dozens of tiny sharp teeth. Shreds of rotten flesh are lodged between them.*
+*Ask how many &apos;associates&apos; he has - are there many Magisters working against the Divine Order?*
+Mmm-hmm.
+If I&apos;m right - if I find him - he has a date with a needle.
+*Say you&apos;ve made more unlikely friends in your days. What&apos;s the big deal?*
+As the races united behind Lucian, Arx remained the centre of power.
+But check in with Lord Kemm, he&apos;s conducting an investigation of all the Magisters in the barracks. &lt;i&gt;He&lt;/i&gt; might know something about her whereabouts.
+Bandit Elf Rogue
+*Admit that the priest is dead. But at least the school is cleansed of its filth.*
+Are they worth more to you than your people? Than your home?
+*More? What does he mean, &apos;more&apos;?*
+A &lt;i&gt;visitor&lt;/i&gt;... tell me, do you like puppets?
+I don&apos;t mind sitting on the sidelines for whatever comes next, honestly. After so long in the crosshairs, it&apos;ll be nice to be a bit... out of the way.

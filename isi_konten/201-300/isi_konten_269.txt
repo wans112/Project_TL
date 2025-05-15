@@ -1,0 +1,163 @@
+Like Lucian, you will be called to unite the powers of the Seven against the Void. Like Lucian, you will lead our proud people to pre-eminence. But unlike Lucian, your weakness will not lead you to foolish failure.
+I pray our fallen brothers and sisters find their peace in the Hall of Echoes.
+You always were without the merest hint of a spine...
+Mode
+Deadly Broadsword
+The Shadow Prince told me that I must kill Sadha. I played along. The Sallow Man&apos;s magic mirrors will show me where she is now.
+Actions
+*Sebille reaches out to the tree. She allows her power to burgeon and grow... and then she directs it all at the heart.*
+Glass Container
+And when we do, I&apos;ll make sure she answers any question we care to throw at her...
+Leg Harness of the Mentor
+Stone Ring
+[IFAN] *Tell him nails are more your style. You didn&apos;t earn the name &lt;i&gt;&apos;Silver Claw&apos; &lt;/i&gt;for nothing...*
+Only thing to do is keep your friends close - so close you&apos;ll be able to whip out a short-blade in time, if they look at you funny.
+Fortitude
+If you don&apos;t stow your weapons, I have no choice but to take them from you by force.
+Vitality
+Well, what have we here? The ship&apos;s alive, isn&apos;t she.
+[IFAN] *Roll your eyes. You should have seen this coming.*
+Bloodmoon Island became particularly fecund,
+Still haven&apos;t caught on, have ye, son? We&apos;re trapped. Have been all along.
+Then again... if you hadn&apos;t rolled in when you did, I might be whistlin&apos; teedle-dee in a Voidwoken&apos;s belly by now. I owe you one.
+AI TURN
+*Reassure the ghost that there&apos;ll be a new Divine soon - this won&apos;t ever happen again.*
+*Say you probably know enough for now.*
+...What do you say, Quercus? We once believed it was good,  but now?
+*Say you don&apos;t intend to linger a moment more than necessary, and turn to take your leave...*
+I don&apos;t think I wanna live here anymore.
+*Lay a hand upon the stone.*
+*You&apos;re going to carry on the adventure, of course. You&apos;re pretty good at this...*
+Extract
+*Say that you killed them all.*
+You see with our eyes: you can behold the Source once more. But now you must regain the teeth to &lt;i&gt;take &lt;/i&gt;it.
+[VILLAIN] *Squeeze his shoulder. At least she died alone, right? She probably wouldn&apos;t have wanted anyone there. No, a lonely, violent death is the way to go.*
+With their power returned, the elves reclaimed their lands from the Deathfog and began to rebuild. Soon they would split as two factions sought power - one to bring back the trees, the other to bring back the Scions.
+A-a-and she wrote that whole book to cover her tracks, so nobody&apos;d look for the missing gold anywhere near her. She never even &lt;i&gt;met&lt;/i&gt; Roost, though she paints quite an accurate picture of his, erm, bedroom antics...
+There&apos;s a dark aura here. I have a bad feeling about this...
+Help! Vandal on the loose!
+*Those Paladins look well armed. You&apos;d better stay out of it...*
+Infuriatingly, &lt;i&gt;I&lt;/i&gt; need to get Stingtail the drudanae he needs to dream.
+One of your party members is engaged in dialogue. You&apos;ll have to wait until they&apos;re finished before you can teleport away.
+Stop wasting my time then!
+Bring the Red Prince to Sadha.
+Frost Explosion
+*You think the growl belongs to the Devourer himself.*
+Guards! What&apos;s that dwarven prisoner doing in here, roaming free?
+&apos;Estimated search time: 358,910,227 years.&apos;
+This place is dark as any cave. And for a kin to seek out such shadow?
+Must be nice! Emmie was the only one who ever cared about me.
+You utter villain!
+[SOLDIER] *Maintaining composure, ask what she intended to do with the Deathfog Delivery Device.*
+Immortality is only permanent, my dear, until one day it simply ceases to be.
+*Say that she did, you&apos;re a happy customer.*
+You please me, my child. Where you go, the King follows. What you say, the King hears. You travel the edges of the Void, Godwoken. &lt;b&gt;See her dead, &lt;/b&gt;and your rewards will be many.
+your summoner
+This is for Pearst, scum!
+True might is not what one defeats, but what one withstands.
+Almira and Mihaly will head for the Lady Vengeance.
+&lt;i&gt;Hahaha!&lt;/i&gt; Come on, glumpuss, let&apos;s have a laugh! &lt;i&gt;Hahaha!&lt;/i&gt;
+*The Magister&apos;s companion doesn&apos;t blink, frozen in place at the sight of you.*
+Quite odd how we&apos;ve travelled so far in each other&apos;s company, yet we&apos;ve never spoken. I am  Tarquin - consider me at your service for trading and such.
+*Whistling a high and reedy note, he summons the other Dreamers. At some invisible signal from Brahmos, they all attack you in perfect unison.*
+*The hound lunges forward and clamps down on your hand.*
+Precious wares, are they not? Until we meet again, ben-Mezd.
+*You kiss. It&apos;s sweet and wonderful. You wish it could last forever.*
+You come to find. You come to search. But you won&apos;t find the way. A pity.
+*Curiously drawn to him, you accept his invitation and reach for the statue&apos;s hands with yours.*
+[UNDEAD] *Say that you, too, know the call. But you&apos;re proof it can be resisted.*
+Summons a Newt to help you in combat.
+Ho, stranger! Come, come! I know this hellish place seems devoid of welcome.
+But I will be with you, dear child. I will guide you; stand by you. I will watch as you drink from the Wellspring, and as its Source surges into you.
+P-p-p-please, don&apos;t hurt me!
+Okay. You can have it for... &lt;i&gt;this &lt;/i&gt;much. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+But listen to me going on and on even though you told me you haven&apos;t the time to break bread with us! Forgive me: I shan&apos;t keep you a moment longer. Farewell, good sir!
+Oven
+*She stops suddenly, goes rigid, then relaxes, smiles broadly, and leans over to whisper in your ear.*
+Archery Trader
+Another free bowl, perhaps?
+Slowdown Arrow
+Gareth would know what to do...
+Back-alleys and rooftops know well the tread of your boot. You&apos;ve got friends in low places, and enemies to match.
+In death, the dwarves give eagles life. An elegant passing for an inelegant people.
+&lt;i&gt;We&apos;ve&lt;/i&gt; always had a... narrower focus. And that&apos;s not about to change now.
+Having comprehension issues, are we? Understandable. Allow me to be clearer: Get out. &lt;i&gt;Now. &lt;/i&gt;
+Tree Stump
+So... Once the scarring was over and the pain began to fade, the training began. With words, whistles - snaps of the fingers even - the Master could make me obey his every command.
+There&apos;s nothing here for you, sister. You should go back out front, where it&apos;s safe.
+*Question her plan. Has history not taught her that there is always a comeuppance for such vile crimes?*
+Speak the spell during your peregrinations and you will see them. Where the dead lie, the dead linger.
+Savegame failed (copy to levelcache failed). Please report this.
+*Tell her you miss your people, too.*
+Fara... she ain&apos;t coming back.
+It&apos;s a good thing I&apos;m in a generous mood. Fine, then. But next time, I won&apos;t be so forgiving.
+When I saw calamity ahead, I spoke out. But the truth invites danger. Some would sooner be swallowed by the Void than to tell it - or to hear it. But...
+[IFAN] *Say that you&apos;re a Lone Wolf looking for one of your own. Is Ryker home?*
+[ELF] *Warn the Magisters - if she is a Scion, you&apos;re bound to protect her.*
+The Seekers are too trusting by half; we can&apos;t just let this &apos;healer&apos; go free...
+*Mockingly wave your fingers through her ghostly body.*
+*Moo.*
+Kemm keeps his chamber locked. Beryl Griff believes he keeps secrets from his wife.
+Shoulda paid... shoulda paid... shoulda paid...
+*Say you&apos;re racking your brain, but you just can&apos;t seem to place him.*
+*Say that you haven&apos;t told the Magisters yet.*
+*Say you&apos;re looking for a hunter who dabbles in the arcane arts - a Wayfarer.* ([GEN_CheckMagicPocketGold_4_5dac5eea-faeb-459c-b675-46c51519b784] gold)
+Vampiric Vitality
+*To the victor, divinity. Tell him it just wasn&apos;t meant to be for either of you.*
+Forest - Dungeon Entrance
+Ifan ben-Mezd, coming through.
+Please, help us! Lift this curse!
+The result of a spirit forged to a sword, this soulforged blade fair hums with Source.
+It&apos;s just... this is it. This is everything I&apos;ve wanted. Finally, a chance to... to have a &lt;i&gt;chance.&lt;/i&gt;
+Use slot
+*Tell her she&apos;ll do it because it&apos;s hard to mix herbs with broken wrists.*
+Not memories, no. This is the war that looms in the Empire&apos;s future, dear prince. A war against those who scorn our way of life. A war for which we will need &lt;i&gt;strong leadership.&lt;/i&gt;
+We found the queen. We need to stop her before she destroys Arx.
+Pitchfork Time!
+The spirit of the One resides in a single, noble soul. The rest cower in fear.
+*Your own hands are shaking. Keep babbling.*
+A Letter from Isbeil&apos;s Laboratory
+[1] Magic Armour reduction
+What.
+You a jailor then, darling? Here to keep an eye-socket on these old bones?
+Better tread softly - somebody&apos;s in that cave.
+You help us more than you know. We must make arrangements. We find the one who hurts Scions. We destroy him.
+The Scion of the Mother Tree ate the Shadow Prince&apos;s heart, then asked Sebille to take root.
+*Prepare yourself for further battle. You will be the champion, or no-one will.*
+Dallis is of the Divine Order. She is our responsibility. The &lt;i&gt;Paladins &lt;/i&gt;will handle this.
+Still, I doubt a loving reconciliation was on the cards. Not after everything I put her through.
+Back
+*Say you&apos;re pleased to know that dwarves in this area are so fond of Sourcerers.*
+Join a friend&apos;s game.
+Talk to Thola, the Thorny One.
+*Anger flares in her.*
+Try your luck somewhere else, duckie.
+Poison Cloud
+Distinctive Wizard&apos;s Hat Agaric
+*You peer at the statue, and you recognise her. You knew her: knew her before you were entombed. How strange that such an old face should face you now.*
+You know me, Gill.
+Parchment
+Add Paragraph
+Mouse Scroll Left
+Lulabelle Honeywine, 1218 AD, Ardakhyn, Ancient Empire
+Deplorable surrounding for an agreeable conversation, but go ahead.
+*Shrug and reach for your weapon. You&apos;re not in a haggling mood - just a killing one.*
+*Tell him he has one more chance to change his tone, or he&apos;s going to regret it.*
+&lt;i&gt;What kind of a lizard are you?! &lt;/i&gt;My troubles will never be over as long as my body rots in a grave like some &lt;i&gt;common human!&lt;/i&gt;
+I&apos;ll be the judge of that, merc.
+&lt;br&gt;&lt;i&gt; . . . G O D W O K E N .&lt;/i&gt;
+For you, I can stop. For you, I can trust.
+But sure. You win, okay?
+Duna&apos;s Scribe
+He&apos;s still the same man he always was. He just needs a real friend to remind him of it.
+The first step on my mission to kill Alexandar is to contact a Magister Borris in the ghetto of Fort Joy. I&apos;m sure he&apos;ll be delightful.
+This herbal brew tastes delicate and light. A hearty gulp of it can sharpen the finesse of the drinker.
+Slug&apos;s Axe
+*You feel Rhalic lurch forward in fury, straining against your will. Release it, let it speak.*
+*...he was in yours, with all his agonising caterwauling lunacy. He knows you want the secrets of the Council of Seven. He lets you know he has them - and that you will never take them from him.*
+*She grabs you by the back of the neck to pull you in for a kiss, and as she does so, her other hand slides down in between your legs.*
+There&apos;s a grave before this statue. Maybe he lies buried here. Can&apos;t eat memory from bones though.
+Creepy Eye
+[CHAMPION] *Tell him you&apos;ve fought for the right to stand judgement on others. You fought and won.*
+*When you finally pull away you can tell he&apos;s somewhat embarrassed, but he smiles at you warmly nonetheless.*
+Scale-tail.

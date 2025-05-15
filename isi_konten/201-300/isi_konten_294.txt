@@ -1,0 +1,175 @@
+*The boy shakes his head in denial, then beams like the summer sun. Impossibly, your heart stirs at the sight of a young child confined to a cage.*
+You show your face here, cursed one? I hear you are the one that returned Gareth to his flock.
+*Click.*
+Heeheehee! A little boogie?! EW! Heeheehee!
+*The sister has found peace with what was her life, but her brother rages on. The rebellion was a disaster. His sister&apos;s treason cost them their lives.*
+Target cannot be teleported ([1])
+I got years of fishin&apos; experience behind me, an&apos; I&apos;m reduced to beggin&apos; to gut &apos;n&apos; clean what catches make it back.
+Value
+And so I must trust it to be done.
+*Tell him his duty is over before it began. You already met with Brahmos again.*
+*Tell her half the truth. Say you met Tir-Cendelius, god of the elves, and he called you his champion. Leave off the part where he told you to get rid of Lohse.*
+*Note the hiss. Peer closely at his tongue.*
+Let me guess. It failed?
+*She looks to your left with one eye, and to your right with the other.*
+Bromley
+[JESTER] *Tell her that you&apos;re a jester who&apos;s roamed all over this land.*
+&lt;i&gt;I see you.&lt;/i&gt; You have the strength I&apos;ve been looking for.
+*Thank him for his service. Tell him he has done his duty.*
+Crafty Weaponry: Die by the Sword
+*A memory, though not your own. Horror and anger wash over you. Seven figures point to you, just as the blue-grey obelisks surrounding you begin to bow and break...*
+But... if I&apos;m dead, who&apos;ll look after the child?!
+*You blink, and there she really is: not the person you thought you went to bed with, but &lt;i&gt;She&lt;/i&gt;: the Red Princess.*
+I have rights! You&apos;ve no authority to storm in here like this!
+Is this some kind of joke? Hand it over. &lt;i&gt;Now&lt;/i&gt;.
+*Say you need more information than that. Who does he mean?*
+To you I am this pressing pain you wish would go away - but won&apos;t.
+*Joke with him. You hope it goes better than when he was scouting Fort Joy!*
+A word, if I may. I know you&apos;re anxious to leave for the Nameless Isle, but I can feel I have unfinished business here.
+[MYSTIC] *Finish the Magister&apos;s rite. &apos;...and so on your flesh it must feed.&apos;
+I&apos;ll remember...
+Wait, Milady!
+He gave every last copper piece to that swine! I&apos;ve got &lt;i&gt;nothing&lt;/i&gt;.
+*Alexandar offers only a stoic nod in affirmation, his eyes glowering intensely.*
+[NOBLE] *Tell him you value coin for what it denotes: &lt;i&gt;pedigree.*&lt;/i&gt;
+Circle Dagger
+The Void, though... it&apos;s closing in. Voidwoken roam the land and pollute the sea. That they haven&apos;t invaded the town is... a miracle.
+Custom:
+Baladir
+[ELF] *Say it is the same among your people. Children are few and far between.*
+Heh. You&apos;re no royal. Not anymore. A Beast you were - and a Beast you remain.
+To cross this threshold is to plunge into thy grave. Do not decide in haste.
+There&apos;s no hope of going back that way.
+*Seems... logical? Draw your weapon and prepare to strike.*
+Stun targets in a [2] radius and deal [1] to them. Creates a small oil puddle with a [3] radius.
+Demons are weak and easy to manipulate. I wouldn&apos;t put too much stock in it.
+&lt;i&gt;&apos;Savage hearts in a sa-&apos;&lt;/i&gt; *COUGH!*
+Goddess Statue
+Mute
+Adept
+Two-Handed Gift Of Nature
+We found a manifest listing prisoners aboard a shipwreck, including a Scion who held strange spores.
+My Meanderings, by Cranley Huwbert
+She can beg all she wants. The Swornbreaker is ours, and that&apos;s that.&lt;br&gt;
+Beast...
+Small Magic Armour Potion
+Didn&apos;t ye hear me on the first go-round?
+We have escaped Fort Joy. We will no longer be able to help Fara with her troubles.
+Let me have a look. It takes just a moment.
+If they were smart, they would&apos;ve killed us outright.
+*A rather poetic description of the common salamander and its impressive - at least to the uninitiated - Voidwoken cousin.*
+[SEBILLE] *Smile and say that a trial sounds like fun. Shakes up the routine of being the executioner.*
+*The Magister&apos;s eyes narrow and her lip curls as she assesses you.*
+But they&apos;ll kill me! And if I&apos;m dead, who&apos;ll look after the child?!
+You? It is you, isn&apos;t it? You can hide that skull all you want, but I see you.
+Paladin Cleric
+*Lean in and gently kiss her.*
+Off to Arx, then. Got two ladies there in need of a dressing-down!
+Have you heard? A pilgrim has walked the Path of Blood... and lived!
+&lt;font color=&quot;008858&quot;&gt;Rotate&lt;/font&gt; the camera with [RightStickX]. &lt;font color=&quot;008858&quot;&gt;Zoom&lt;/font&gt; in and out with [RightStickY].
+...and shout to all, &apos;the humans must prevail!&apos;
+*Declare that you&apos;re innocent - you&apos;ve never seen that necklace before in your life!*
+Missin&apos; hat, natty beard, vessel adrift. It&apos;s a sea cap&apos;n&apos;s worst nightmare, it is!
+*Kemm mentioned a certain Lord Arhu. What more can he tell you about him?*
+We came across a wrecked caravan. The mutilated dead litter the ground. What happened here?
+*The spirit offers no resistance, but instead spreads his arms as if to welcome his fate.*
+We convinced the Magisters to leave.
+As well you should! I am an assassin of ants and crucifier of crickets. All rodents bow before me. So do lesser beasts. Like elves, for instance.
+No, I won&apos;t end my vigil over the door. You shan&apos;t pass.
+Whatcha want?
+*Say that in his current condition, in a place like this, his only job is to stay alive.*
+*Speak slowly and loudly. Who. Are. You?*
+I&apos;d love nothing more after what they did... but it&apos;d be suicide. I have to choose my battles - I&apos;m here to gather information, not to fight.
+Stranger in a Strange Land
+Marksman&apos;s Fang
+Radeka&apos;s Purging Wand
+Gods, gods, gods, that&apos;s good.
+*... and suddenly, within the cloak&apos;s shadows, there is light. A flash of teeth. A wicked grin. Suddenly you realise he&apos;s...*
+Hmm... you&apos;re an impressive specimen, Godwoken. I can always spot when a pupil has put effort into developing their strength. Bravo.
+Perhaps we can use our new power on the cursed lever.
+So?
+*Ask who he is.*
+*He pauses for a moment, then gently takes your hand from his cheek, holds it a moment, and drops it.*
+*Your god mentioned something about a well. Ask if she knows about it.*
+I can always count on you, can&apos;t I. Always.
+Mouldering Executor
+My, but you didn&apos;t even hear what I had in mind.
+&lt;i&gt;I&apos;ll nest in your soul.&lt;/i&gt;
+You think you&apos;re the Divine-in-waiting, but you&apos;re just another pawn. A stooge for Arhu and the Seekers, those arch-traitors. They&apos;re the enemies of Divinity. And so, Godwoken, are you.
+Bearded Wolf&apos;s Head Axe
+A survivalist and a practitioner of magic, the Wayfarer is hard to hit and even harder to evade.
+They were corrupted somehow. If it could happen to them, it could happen to us. We should be cautious.
+*Lie and tell him you saw nothing fishy at all on the way here. No sir.*
+*Explain that it&apos;s very sensitive and can only be given to their master in person.*
+Main Menu
+Camera
+&lt;i&gt;TREACHERY!&lt;/i&gt;
+The elf, Elodi, told us of a safe place where we can talk safely.
+In the Hall of Echoes, my parasite gave me Spirit Vision to commune with spirits and Source Vampirism to consume their Source.
+None of your business.
+Adept Rogue
+Can&apos;t help you there. *Ahem* If I could, I wouldn&apos;t be here peeling goddamn potatoes.
+No. Find your true love and forget my kiss. Remember only the blessing I gave you.
+Kemm&apos;s Vault
+*Claim that her stew is phenomenal and wax lyrical about the flavours you couldn&apos;t truly experience. Ask her what her secret is.*
+Please, what I have is more valuable than any coin purse. It can be yours, just get me out of here!
+Your quarry lies on a far off shore, at the heart of the Nameless Isle. It is a place no-one can reach unless their soul becomes their compass.
+Instantly kill target with status [4] below [1]% Vitality.[2][3]
+*Lucian wants peace? Ask how their brutal actions were meant to achieve &lt;i&gt;peace.*&lt;/i&gt;
+The exorcism failed, but Jahan asked to travel with me to Arx, where the demon is hiding.
+You may.
+*Ask why not.*
+*She looks up at you with a mirthless smile.*
+It appears you&apos;re free without realising it, Saheila. The Mother is quite dead.
+Patience, my friend! Plant the seedling in the bucket, and place it in the ground. Then watch and listen - the wisdom of plants is mighty indeed!
+Dead Squirrel
+The younger the meat, the purer the power, mortal.
+Awrite, sister! Right glad Lohar ain&apos;t left us here to wither.
+*Ask if you reject your God, can she get her out of you?*
+I... I see her. She&apos;s in a city. There&apos;s a great cathedral...
+At least... it&apos;s quite... quite &lt;i&gt;beautiful &lt;/i&gt;here, isn&apos;t it.
+[1] improves your telekinetic abilities.
+Well then, if we&apos;re going to be &lt;i&gt;friends,&lt;/i&gt; let me mark your map. See this place? There are others hiding there. You should join them. You&apos;re welcome.
+Spirit of Duna&apos;s Undertaker
+Large Divine Order Key
+Feline Leap
+Time to prove that kitty&apos;s got claws!
+*Not yet. Turn away.*
+*Tell her about the archivist&apos;s journal, and ask how she came to be possessed.*
+You know what it means to be on my skin... The names... They are Scions?
+Don&apos;t you understand? The Wolves know we are here. We cannot enter their base. They slaughter us, and Saheila stays with them.
+Mind yourself.
+Return the rest of my power to me.
+I enjoy living grandly. I know these aren&apos;t... ordinary servants. But I prefer the... &lt;i&gt;extra&lt;/i&gt;ordinary. There is no pleasure in mediocrity. Don&apos;t you agree... &lt;i&gt;Godwoken?&lt;/i&gt;
+You need not hide fear. You see that you serve no one. You are first of many -
+You&apos;ll be sorry you ever spoke to me that way, by the time this is done.
+If Hardwin were to receive her head, it would make his day. I&apos;ll leave that with you.
+The necklace! I hereby arrest you by the authority invested in me by... me.
+Create New Encounter
+*The feet of this statue are slick and dark with oil, and spatters of Voidwoken ichor mark the ground around it. Shiny blackness drips from each toe.*
+You&apos;ve helped me more than you know. You&apos;ve opened my eyes to the merits of this world, if you&apos;ll pardon the expression.
+Whaddya want.
+Attributes
+You are infamous: a brilliant warrior-general exiled from his empire for cavorting with demons. Fallen from grace, you refuse to give up. The throne will be yours again.
+Geomancer
+*Say you&apos;re not sure whether or how surfaces have affected your combats.*
+I&apos;ve been guilty of it myself.
+*Turn to leave.*
+What do you see when you cast your glance over this ocean?
+*Tell him to hold up a moment. Who is Hannag?*
+They kicked me out! Don&apos;t they know who I am?
+DESTROY THE LUTE.
+My lord, you will not let this... this commoner tell you how to proceed with your very destiny, will you?
+*The skeleton pulls a notebook from his robes and starts scribbling. After a moment he pauses and looks back to you.*
+I wonder what they&apos;re doing here, so far from home.
+I&apos;ll be damned if I let Alexandar and his red-robed lackeys lay another finger on me.
+Camera Rotate Right
+Adventure
+You can... you watch the cart. Right? We can&apos;t leave it here. It&apos;s... it&apos;s very important.
+This ain&apos;t just my business. It&apos;s &lt;i&gt;everyone&apos;s &lt;/i&gt;business.
+to free him of the Covenant.
+*The creature rubs its clattering hands together.*
+Drawing By The Immortal Samurai
+Mabel
+The Magisters have Shriekers. A head-on attack is suicide. The situation looks dire.
+Impossible. No-one is truly free of sin... are they?

@@ -1,0 +1,161 @@
+*The Magister&apos;s chest is a mess - but you can see it gently rise and fall.*
+Now I understand why that cook of theirs is so protective of her recipe. The results are... are...
+*The phantom bird pecks at the stone beneath her with a scarred and blood-flecked beak. She glowers up at you with one gimlet eye.*
+Oh, make no mistake. I&apos;m not asking you to support &lt;i&gt;me &lt;/i&gt;at the Wellspring - just not to be beholden to &lt;i&gt;her&lt;/i&gt;. To think for yourself. To make choices that you think are right - not what some half-dead God demands.
+Are you interested?
+&lt;i&gt;&apos;The Prince. Take him. The Prince. Take... take... the Prince...&apos;&lt;/i&gt;
+*You&apos;re not risking your neck for him! Point to the barrel, he can deal with it*
+*Tell him it&apos;s his funeral. He&apos;s out of choices - this is his last chance to get out of this alive.*
+No further than this shall you go.
+[LOHSE] *Say you know a few things about curses. You can definitely relate.*
+Before the Paladins took over the Magister barracks in Arx, prisoners had been disappearing from their cells.
+I can find Lohar in Effie&apos;s Emporium, beneath the Black Bull in Driftwood.
+*She considers your offer.*
+What do you mean, at an.... oh Duna, no! &lt;i&gt;NO!&lt;/i&gt;
+With Zin dead, the emperor&apos;s disease returned. The sickness took him soon after, and the hateful Ghol took his place, usherin&apos; in a century of misery. Not a fun story t&apos;tell a kid, thinkin&apos; back on it...
+Cryomancer Guardian
+Good. When you snuff them out, you&apos;ll find two less souls from which Adramahlihk can draw his power.
+Delorus is a fool. Went and got himself caught, and now he&apos;s handing out our secrets to any old dwarf who happens to waddle by.
+Minor Healing Potion
+One of us consumed the Source of Baran Levere.
+*He breathes again.*
+This is the start of something wonderful. You&apos;ll see.
+*Say you&apos;re not here for a walkabout. You&apos;re on rather urgent business.*
+*She holds a finger to her lips. &apos;Calm down.&apos;*
+Anyone who marches at the head of an undead host deserves whatever punishment they get.
+That bastard rises up again more times than the sun. Maybe someone should see that he stays down, next time...
+*Ask him if he wants to go again.*
+Return to Saheila.
+The fog came over &apos;em all. All of &apos;em. And they never came out.
+I&apos;ll show you where. Take what you want. Just leave us be. Hear?
+But now life seems... empty. I have nothing left to fight against.
+A folder to keep your paperwork organised.
+*The rat hisses at you, baring its curved teeth.*
+[1]% chance to electrify surfaces
+Shoot an arrow that goes straight through enemies. Each enemy that&apos;s hit takes [1], ignoring Armour.
+Do not be sad, kin. Saheila says the scion Sebille will save us all.
+*Tell him you have enough drama already. It would be better for you to part ways.*
+*Sooner or later the Magisters will come for her. Tell her she&apos;ll not survive on her own!*
+*You know he&apos;s an undead dwarf - the Lich you met in Driftwood explained it all.*
+Magic Shell
+I&apos;d... &lt;i&gt;love &lt;/i&gt;that. Lead the way, chief.
+*Sigh.* You ass. I should have known. You sure know how to pick &apos;em, Zee. You sure do.
+She began to search for an alternative plane -
+Cursed Statue
+That isn&apos;t right!
+We lied to the kids about their friend.
+&lt;i&gt;Godwoken.&lt;/i&gt; Wait &apos;til she finds out.
+*Oh gods no, not a philosophy bear. Turn away while you still can.*
+We brought Roost&apos;s severed hand to Tovah.
+Spider Legs
+These &apos;Purging Wands&apos; are the key to our escape - we have to find some, then return to Exter.
+Captain&apos;s Compass Amulet
+[SEBILLE] *Demand to know who has her so rattled. It wouldn&apos;t be a lizard, would it?*
+*She gets to her feet but sways unsteadily; something about her seems clouded-over.*
+Pleased to make my acquaintance, are you? Does a saviour not recognise one he helped save?
+But you did enough. Thank you for bringing my people home. I just wish-... well, it&apos;s too late now.
+&lt;i&gt;*&apos;Serve the God King. His price is blood. His price is chaos. Tear down this world, and live in splendour in the world that follows...&apos;*&lt;/i&gt;
+*Say you can think of a great many things that a man might need more.*
+That- that straw human just spoke! And it&apos;s voice seemed... strangely familiar.
+Unknown
+The collar of a good dog. Yes, who&apos;s a good dog? Who&apos;s a good dog? Good, good dog. Good dog.
+Why don&apos;t I spare you that right here and now?
+I will do this for you. But I also do it for more than you.
+*Look at her in surprise. She can&apos;t mean that, surely?*
+I&apos;m at my critical mass of demons. Next time one of those things starts talking, I&apos;ll stomp it out before it can get my name past its mandibles.
+*You&apos;re thinking the same thing; Alexandar wants to be the new Divine.*
+Listen. It&apos;s... quiet. They&apos;re really gone!
+By the Ancients, I need to get off this ship!
+Throughout history, the House of Shadows has spilled the blood of thousands of Dreamers to prevent your birth and your union. But we are on the cusp of denying them their long-sought victory!
+*Frown. You can usually speak to animals...*
+Driftwood
+Oh sir! The little one was left me when my wife died. She won&apos;t make it without me, the poor child!
+*Begin peeling off everything on your body.*
+I am wrong, it seems. Please have no hard feelings.
+*Whispers* &lt;i&gt;I&apos;m glad you&apos;re here.&lt;/i&gt;
+But... how do you run experiments on more than five hundred people?!
+Halla
+Ah. You are... you are replete. You open yourself to a great deal of Source already. There is no space for us. No space for the trees...
+I sure hope one of them pilgrims survives the Path of Blood.
+Ovis? How can you afford his stuff?
+Ey, Prudey! This lady says she&apos;s doing fine! Hah! What a sap.
+*Grit your teeth. She will call you Beast, thankyouverymuch.*
+Corrosive Spray Skillbook
+Whetstone
+Do you think Arx is safe in my death? I&apos;ve faced the grave before, you know, yet through the God King, I have eternal life.
+*Listen for a beating heart.*
+And so here you are. Tell me, what&apos;s the talk in the camp about our cure - about purging?
+Please... don&apos;t say that. My brother&apos;s just been sent there.
+See, the Ancient Empire consists of three houses: the noble houses of War and Dreams, and the upstart House of Law.
+Speaking of filth, I hear your half-breed got her answer.
+Speak with Tovah.
+There&apos;s no pride more stubborn than that which comes before the fall.
+Tsk tsk tsk, too bad, freshie. So - what&apos;ve you got for me? Atta lad.
+Spirit of a Black Ring Fearmaiden
+The Lone Wolf Roost Anlon prowls the region. Sebille is on the hunt.
+Greetings, my friend!
+THOU ART... &lt;i&gt;SWORN TO THE ONE WHO MUST NOT BE.&lt;/i&gt;
+Snout
+You&apos;re not - not entirely there. Or not here. Not yet, at least... not yet...
+No, no - not rot. &lt;i&gt;Bad &lt;/i&gt;thing. Like the things from &lt;i&gt;beneath&lt;/i&gt;.
+Polymorph
+You mind your business, I&apos;ll mind mine.
+Then you may see yourself out. And keep your hands off the valuables.
+*No wax pools at the candle&apos;s wick, though it grows brighter as you inspect it.  A feeling comes over you - there&apos;s a soul within this flame, within the black wax that fuels it.*
+We found the arch-demon Adramahlihk, also known as Doctor Daeva. We should kill him.
+You are Gil, aren&apos;t you?
+*He motions to the scene below, where several figures engage in seemingly endless battle.*
+*Say you&apos;ll see what can be done - if it isn&apos;t already too late.*
+*Tell her those &apos;teachers&apos; wanted you to do unspeakable things. It wasn&apos;t worth it.*
+Yet here you stand, your spirit sworn to him, bound to serve his whim in the world to come. Do you suppose you are any more infallible than me? &lt;br&gt;
+I am not convinced - but I can tell you this: move southeast, and delve downward. There, find the blackest of roses. What happens then, I leave to you.
+He took it. He sent it... he... he...
+We leave corpses to warn you away, but still you intrude on our rest. Was I ever so stupid when I wore flesh?
+Cursed Oil Infusion
+Undead Dwarf Rogue
+Stop! Go on down, go on... but watch yourself. I&apos;ve got friends. Plenty of &apos;em.
+Voidwoken? Our babies? Why that&apos;s... unspeakable. All of them?
+*Sigh. He&apos;s still clinging to Lucian after all he&apos;s been through?*
+You really are looking to cause trouble, aren&apos;t you? This is your last warning.
+An odd question. She is our queen. We are all but players in her game. I don&apos;t question her will.
+*The object repeats its unintelligible speech.*
+[IFAN] *Whisper the refrain you remember from childhood: &lt;i&gt;&apos;Blood to earth.&apos;*&lt;/i&gt;
+Predator
+A half-burnt journal detailing the Magisters’ research on poisonous spores.
+We&apos;ll be just fine, though. Gareth will return with the weapons we need, and we&apos;ll be fine. He&apos;ll be back. He&apos;s got t&apos;be...
+*A chance to show up this know-it-all? Accept the offer. Enthusiastically.*
+*You are Candor, and you are - you believe - ready to step up. Your tutors disagree, but you want the Chancellor to hear your case. Instead you find... a man you&apos;ve never met. A great and powerful Sourcerer...*
+Access the optional tutorial area by entering the dungeon behind you.
+&lt;i&gt;...I promise.&lt;/i&gt;
+*Wonder if he had conveniently forgotten about her just now.*
+Big Tomorrah
+Forced Exchange Skillbook
+*Glance at him curiously. Who &lt;i&gt;does &lt;/i&gt;threaten you? You assume he doesn&apos;t mean the Black Ring?*
+Foolish Divine Order scum...!
+I apologise for the steel-tipped welcome, but lives are at stake. Hold on. I&apos;ll let you up.
+Make it sharp. I can feel it spreading. Can feel it taking hold...
+*The haze swirls and shimmers, but no shape takes form.*
+Hypercharged
+*It looks like she wants to speak further, but she hesitates; shakes her head.*
+*The others must surely be thinking the same - after all, only one of you can ultimately ascend. Time for an honest discussion, perhaps.*
+Roost didn&apos;t reveal who&apos;d issued the Godwoken contract, but he did let slip that Alexandar is alive. The hunt is on again.
+Wanna go to the wharf, don&apos;t I? I&apos;m a wharf rat. There&apos;s food and stuff on the wharf. Might even be a ship. I&apos;ve always wanted to be a ship rat.
+The dead man - Finn, is it? I&apos;d no business with him. And I wouldn&apos;t put a man down without good reason.
+Remember that.
+Almost there. &lt;i&gt;Almost.&lt;/i&gt;
+We escaped Fort Joy. We do not know who the strange Gheist had been.
+*&apos;Cur?&apos; &apos;A dozen less two?&apos; Demand to know what kind of talk this is.*
+Receive an extra turn in combat.[2][3]
+*Wave her away. You have more important things to do.*
+Oh yes. I know my way around your veiled form. I have seen your true self, and you have seen mine. There is nothing more to know.
+*Peace, true peace. There has never been a moment such as this: the cuddling after, in this little satin nest.*
+*Smile and draw your weapon.*
+*An elf, clad in strange spore-like armour, holds a helm in her hand, apparently wrenched from the vine-choked corpse of a Paladin at her side. She places it overhead - and &lt;i&gt;stiffens&lt;/i&gt;.*&lt;br&gt;
+...I can&apos;t really hear it at all.
+Medium Magic Armour Potion
+Source Hydrosophist Skillbook
+Black Ring Ocultist
+I should take care of that Deathfog machine before some kid starts flipping the switches.
+A new species of Void-tainted fish found recently along the shores of Reaper&apos;s Coast. With snapping teeth in a strong jaw, this breed are aggressive predators.
+That means only she can control it. Unless we can find a way to break the bond.
+*The rat spirit shakes its head vigorously.*

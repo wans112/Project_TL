@@ -1,0 +1,148 @@
+Memorise Skill
+My chosen! Now is our chance.
+Nobody I&apos;d rather see this whole thing through with.
+Broken Mask
+Peep peep. Peep.
+*You can no longer stand by. Show them the true power of Source.*
+Oaken Longbow
+*Press your forefinger to your lips. The less attention he draws to you, the better.*
+And still you linger? While my Soul Jar goes unbroken? Avaunt!
+I heard there&apos;s a bard in this quarter who&apos;s got the best set of lungs in Arx. We could use a merry tune or two after what&apos;s happened...
+You did? You found the greasy rat? Tell me everything. But wait... you have proof, right?
+Roost Anlon. I own this place. I&apos;d ask you to introduce yourself, but I already know who you are, &lt;i&gt;Beast&lt;/i&gt;. Or do you prefer being called &apos;Godwoken&apos;?
+*She hesitates, but you can tell she wants to speak.*
+*Hold up the ring that you found - the one she took off the dead Magisters.*
+I can almost see you... I can almost make you out...
+Summon becomes immune to Fire damage. Also grants Epidemic of Fire and an additional Pyrokinetic skill (depending on summon).
+The powers of the Seven are the key. Once you have claimed them as your own, use them to open a gateway to the Void so we may return.
+Ah - the language of the demons! I consider it my scholarly duty to know what I can of them. There&apos;s a trove of information to be had, as long as you know... who to ask.
+*The bull flips its ghostly tail at a non-existent fly. It registers your presence.*
+Farewelllllll, sweet Rrrrory. I only had eyeeeeees for yooooooooooooou...
+&apos;East - Marketplace&lt;br&gt;West - Driftwood Fishworks
+*The spirit stands quietly, fearfully.*
+Bye-bye, lizard lady.
+She ran the ship upon the rocks, although I rang the bell. That weren&apos;t no lighthouse, I could tell. I rang the bell in warning and she ran the ship upon the rocks!
+*He leans in and whispers, his voice hoarse with a desperate longing.*
+*Do nothing.*
+[IFAN] *Tell her she&apos;s got you confused with someone else.*
+*Blood seeps from Jonathan&apos;s wound and pools at Gareth&apos;s feet. He stares at the stream as it carves a path around his boots.*
+*Say that you&apos;ve already passed the Path of Blood.*
+*He pointedly ignores your question. The far-off cry of a child at play can be heard - unsettling when contrasted with the grisly scene before you. Ifan closes his eyes as the child calls &lt;i&gt;&apos;My turn to be the Lone Wolf!&apos;&lt;/i&gt; to his companions.*
+[IFAN] *Say that you bring no word for them. No word at all.*
+Lohar trusts you, buck. Don&apos;t disappoint him.
+*Tell him he knows what you want: Freedom. And you&apos;ll get it at any cost.*
+Grasp of the Starved Skillbook
+[NOBLE] *Insist this line of questioning is below a dwarf of your station. You shall enter forthwith.*
+Still, it would be a shame to see any harm come to it. Here&apos;s a little something I uncovered in my research.
+Alertness
+Since the Deathfog, such a time comes... but someone hunts our Scions. Someone takes them from us, one by one.
+*The statue speaks! Ask what spirit lives within.*
+*A soothing sensation dips and waves through you, entering you from the air itself. As the feeling fades, you realise you&apos;ve become replete with Source.*
+*Ask if the problem is physical or magical.*
+I must bow before your majesty. I should have known I could never lay before you an untrod path to walk. You make your own path, my prince. May it lead you to greatness beyond greatness!
+[The page looks to have been ripped out of a larger tome.]&lt;br&gt;&lt;br&gt;...said by locals to be a shard of the infamous weapon knows as Anathema - and perhaps even responsible for causing Johanna Surrey&apos;s descent into madness. If the ageing dowager was ever aware of the family heirloom&apos;s value, she never let on.&lt;br&gt;&lt;br&gt;In the months before her death, Johanna&apos;s mind was lost to hate and hallucination. She would come to mysteriously chant &apos;Two, One, Three!&apos; at the few servants that remained as they attended to her bizarre beauty rituals. By the...&lt;br&gt;&lt;br&gt;[You notice the same succession of numbers mentioned in the text has been scribbled in the page&apos;s margins: 2-1-3.]
+You&apos;re a little tall to be asking questions like that.
+...what happened here?
+[BARBARIAN] *Explain that you&apos;re just trying to survive in this world.*
+Physical Armour
+I will, won&apos;t I?
+*The pictograms on the jar stand fixed and still.*
+*He stands to attention.*
+*Reply with &apos;Braccia&apos;.*
+Away from me, king slave.
+*Tell her you&apos;re a dwarf.*
+[1] absorbed all damage from [2] : [3]
+Come now, Lohse. Don&apos;t you want to &lt;i&gt;play?!&lt;/i&gt;
+Can you not speak without spewing lies? Death comes, crook!
+*Say you&apos;ve been trained by the Master. You &lt;i&gt;can&lt;/i&gt; make him suffer. You &lt;i&gt;will&lt;/i&gt; make him suffer. So yes: you can intimidate him.*
+*Hackles raised, the dog barks at the sand built up beneath the building. It turns towards you, like it&apos;s trying to tell you something.*
+*Agree to take a look.*
+*Ask what she&apos;ll do now.*
+*Step aside. They&apos;re free to go.*
+You seen it?
+*Leave the hatch be.*
+[ELF] *Kneel before the spirit of Eleanessa. Great has been her anguish.*
+My mask! She stole it! If these savages see me without it, they will have my skull for a goblet.
+*Ask the God King why his shrine lies in such a place.*
+*Tell Roost you are Godwoken... and so is Ifan.*
+Abyssal Void Devourer
+Traitors like you - you have no code. You blindly ricochet from one conflict to the next, stirring the pot while scolding the virtuous. You pretend to have honour. But you&apos;re a fraud.
+Be strong, ben-Mezd. The Halls await you...
+Ah, you again! Got the coin to pass, have you?
+[FANE] *Nod silently. Anything that takes their eyes off you is welcome.*
+Demonic Surfeit
+*The girl winks at you, then tosses you a single gold coin.*
+Thank you so, so, so much for helping my ma. All those Voidwoken! Thank the gods everyone is ok.
+I discovered the name of the demon haunting Bloodmoon Island: Adramahlihk. Now Jahan can perform the exorcism!
+*Ask her how she intends to achieve such a feat, given that she&apos;s female.*
+*Her eyes go wide with wonder upon your mentioning of a divinity.*
+But I&apos;m sure &lt;i&gt;you&apos;re &lt;/i&gt;already in-the-know.
+Blackfinger
+Well... it&apos;s not often that you get to see yourself in &lt;i&gt;this &lt;/i&gt;state, is it?
+Sir! Can you hear me?
+Careful now, nobody likes burnt fingers...
+*Swallow it down.*
+*The deck beneath you lets out a disdainful creak.*
+Now, I really must get back to my work...
+*Your closer scrutiny yields nothing further - it&apos;s just an old lever by the look of it.*
+You&apos;ll find Demira in Driftwood and Donna in Arx. Dagmare... well, I don&apos;t quite know where she&apos;s got herself perched these days.
+When they come again they&apos;ll be stronger. I doubt we&apos;ll hold. But hold we must.
+Magisters. Not what they signed up for, I bet.
+*Ask what happened to her eggs.*
+*Wait, that voice... it&apos;s the same as the elf you saw down below.*
+*Its eyes widen in terror, and it opens its mouth to howl - and then it&apos;s gone.*
+*Tell him you&apos;ve learned a great deal since last you met. You are ready.*
+Now, if you would be so kind: my bonds?
+That... can&apos;t be good for him.
+*Offer to rearrange his face with your fist if he doesn&apos;t release you right &lt;i&gt;now.*&lt;/i&gt;
+Things ain&apos;t lookin&apos; good. I know the queen&apos;s up to no good in Arx, but my lead is good and dead. You ain&apos;t the most strappin&apos; lass I&apos;ve seen, but you&apos;re better &apos;n a floppin&apos; corpse. Probably.
+You&apos;ll see for yourself. They take us for food. They take us for food for their spawn. They&apos;ll take you too.
+Expedient magic, actually. The ship is made of livewood - it has the spirit of an elven Ancestor Tree within it. It seems Dallis has found a way to bind that spirit to her.
+*Pirating sounds fun. Tell him you&apos;d pillage and plunder to your heart&apos;s content.*
+That&apos;s mighty kind of ya. Can&apos;t very well do it myself. Well. You probably guessed that.
+And water from springs of course, and flowers from the ground, but you catch my drift.
+I can see through your lies, killer!
+With a new Divine at the helm, Malady had a powerful ally.
+Take me.
+*Shrugs.* Seems the Magisters have been dicing with dark magic. You&apos;d have them to thank, if there were any left. Many fled. Those who didn&apos;t died... or ended up in a cell.
+We had no choice. In the face of the Void&apos;s onslaught, our individual powers would never have been enough. Although we still had the sense to leave him a mortal.
+Show some sense and hold your tongue! People are on edge as it is without newcomers looking for trouble.
+*Ask him to tell you what he knows.*
+*Hesitate... it&apos;s awfully convenient that he&apos;s here, right now.*
+[HERO] *Tell the guard you&apos;re sorry, but you have to do something unheroic now. Then kill her.*
+No. Not anymore, or so I hope.
+To be perfectly frank... yes. I only had to do what comes natural to me.
+...and I thank you for acknowledging my humble part in its outcome.
+They... fell. I watched my own hands slaughter them. I tried to resist, but I... couldn&apos;t. And then a final roar, when the demon rushed away and into the only one still standing. The doctor.
+*Nothing stirs in the dank and stinking basement. And yet you feel an imminent... presence.*
+You lookin&apos; for a match? You&apos;ll have a good head on most of the competition, that&apos;s for certain. A good tail, too. Poor lugs won&apos;t know what hit &apos;em.
+A Voidwoken attack has left the Ancient Empire consulate consumed by fire.
+Awful day for it, don&apos;t you think?
+Spiky Trunk
+We operated on the young woman, and she&apos;ll make a full recovery. Swann should be pleased.
+*Ask him if he wants to do this... &lt;i&gt;together.*&lt;/i&gt;
+Die, Godwoken!
+Hold up, right this instant! Once more I must call you to attention like a naughty schoolchild!
+I pray my child will return from the final battle. My prince will find me, and together we&apos;ll rule an empire the likes of which the world has never seen.
+All this commotion&apos;s bad for business.
+Of course, who else? The Keeper of the Cathedral isn&apos;t just another priest - he must be kept safe.
+Spontaneous Combustion Skillbook
+*Tell him you&apos;re impressed he cracked the spell! Shouldn&apos;t he use it... now?*
+You may yet be the One. You prove yourself again. And again. And again.
+*She points at her head.*
+*Ask Han how he got that vicious-looking wound.*
+Thank you. And. Hurry. Please.
+*She searches your face, looking for the truth, or for perfidy. Finds neither.*
+Why the long faces? Right?
+Blank Summoning Skillbook
+We decided to escape without help.
+Mystical Small Rock Rune
+*The fletcher trembles before the mass of bodies littering the camp, then looks you in the eyes.*
+Perhaps we would do better to move inland a little? I&apos;m quite sure I saw a fort in the distance.
+*The rat breathes a long sigh of relief, closes its eyes, and steels itself for what&apos;s coming...*
+Allow Sebille her shot at Divinity.
+[LOHSE] *Easy! Say you&apos;d be entertaining the masses, a lute on your back and your belly full of beer.*
+But please, I beg you, have mercy!
+You like it spicy! I know you&apos;ll enjoy this sample so much, you&apos;ll come back wanting more.
+But more than his lover, I was his partner. I discovered his power to feed on the Source of others, and I allowed it to - no, I &lt;i&gt;made &lt;/i&gt;it happen.
+*Tell him you&apos;re not sure you&apos;re talking to the same head you talked to before.*

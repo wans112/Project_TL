@@ -1,0 +1,168 @@
+*Ask the lizard what&apos;s on his mind.*
+Decide what to do with Adramahlihk&apos;s soul candles.
+*Praise him for his sterling performance of his duties. Tell him he&apos;s earned shore leave.*
+*Note the odd smell you whiffed in his garden - Deathfog!*
+Only the Beast knows the truth.
+Emrach
+*Turn and walk away. This is altogether too irrational for you.*
+&lt;i&gt;This is not the time for talk. Kill him - &lt;b&gt;now!&lt;/b&gt;&lt;/i&gt;
+It&apos;s time for us to go, little one. The Magisters will return. Evil always does.
+I applaud your empathy, Godwoken,  but that was the most ungainly display I&apos;ve borne witness to in a long time...
+*Say you may, depending on what he&apos;s interested in. But there are things you want to know, too.*
+Kills
+*Insist that no kin should apologise for offering food and shelter to lesser beasts.*
+Too many things have gone wrong along Reaper&apos;s Coast to attribute to bad luck: Magister ships sinking; weapons disappearing; and as you&apos;ve seen: a caravan attacked and destroyed.
+*Say her instincts are mistaken. You&apos;re just you, no better or worse than usual.*
+My, what spirit. I admire it, even if it is utterly misguided. At least we&apos;ll put it to very good use; I can assure you of that.
+Paladins march on the Blacks and Reds, hurrah! Hurrah!
+*Knock on the door.*
+They died knowing they were loved.
+The One will walk among us, though not today, it seems.
+Sounds good to me. I know a safe place on the outside. Maybe we&apos;ll meet up there and you can tell me how it went.
+My advice is to strike before he even has a chance to speak, but should you choose to disregard me, should you allow him to parley, all you have to do is say &apos;no&apos;.
+Freedom. I can hardly remember what it tastes like.
+*She blanks you once more.*
+*She stares at you in horror, trying to work out if you&apos;re joking or not... and then realises that her breathing has slowed. The panic is gone.*
+Slane the Winter Dragon is dead.
+*Shrug; you like shiny things.*
+Eithne is dead. She has no need of the book.
+*Indeed they did. Ask what he wants in return - that seems to be the way of things here.*
+*Say you&apos;ve never heard of &apos;Seekers&apos; until today - what are they?*
+*She closes her eyes and settles back to sleep.*
+There&apos;s nothing inna chest, &apos;retty lady! So don&apos;t o&apos;en the chest.
+Dallis cared for their bodies
+*He lets it fly at some towering invisible horror visible only in his mind&apos;s eye. He reaches for another arrow...*
+Conjures a trusty personal demon and elemental totems to aid in battle
+*So that&apos;s it? He hid in a hole while his comrades died?*
+*Drain the spirit - you could use the Source.*
+Gloves of the Faithful
+Your Highness! Good to see you again.
+Spirit of Brahmos
+Cute blade. I gather you&apos;re guarding quite the prize with it?
+I have died once before - I do not fear it. I am just glad to die free.
+A couple of White traitors doesn&apos;t mean every Magister is in league with the Ring!
+*You see a dwarf, trying to sneak into a room filled with barrels. Barrels covered in the marks of death. There is a distant shout and he bolts - scrabbling for freedom.*
+Then you know what you have to do. Ascend. It&apos;s the only way.
+Those Paladins have gone too bloody far, elf. Arx will end up in ruins with that lot in charge...
+I must retrieve my mask from the witch, or craft a new one from Source orbs and the ripped-off faces of the dead.
+Ignition
+*Tell him he&apos;s wrong. You&apos;re going to be Divine and he can step aside or die.*
+Be in good health, dwarf.
+If you would be so kind... *Cough*
+Hate to cut this short, but I ought to dash off. My boy&apos;s waiting for me.
+[BEAST] *Roar in anger. He knew Justinia was shipping Deathfog &lt;i&gt;this whole time?*&lt;/i&gt;
+The Godwoken would fill your head with lies, Your Majesty. He merely wishes to cast doubt on our successful strategem.
+Import
+*The reaver gives you a silent, mirthless, malevolent laugh, tossing the heart from one hand to the other like a ball.*
+*Stare at him in contempt and remark you remain a Prince of the House. He must bow before you!*
+Hey, chief. &apos;member a little while ago, when I told you I might go it alone if things didn&apos;t change between us? Well... I really meant it.
+[1] succumbed to death.
+*Say that you&apos;re not quite sure... there&apos;s something there that might be a mouth...*
+&lt;i&gt;What kind of person does the lying?&lt;/i&gt;
+You really should keep your hands out of other people&apos;s pockets. You&apos;re under arrest!
+Normally I&apos;ve a hollow leg, but I&apos;m afraid I couldn&apos;t swallow another morsel unless it were &lt;i&gt;particularly &lt;/i&gt;worth my while.
+*Pull.*
+Oh, that makes me so happy! Nothing is more important to Four Sisters than happy customers.
+My new father-in-law Micheil Ros must die, and you must retrieve his will. I will not prescribe the methods you use, but I &lt;i&gt;shall&lt;/i&gt; insist on your discretion. Now tell me: what payment do you require for this service?
+An exhaustive manual concerning how to make your own clothes. Interesting reading material sure is hard to come by around these parts.
+Total
+That&apos;s right.
+Estocs are most customarily used for backstabbing. Just like all aristocrats&apos; tongues.
+[NOBLE] *Tell her that you came from a high-born house, and never thought you&apos;d end up here...*
+Today? Another time, perhaps. Next week or next month. If you leave a name and address, I&apos;ll see what I can arrange. But today is &lt;i&gt;Lucian&apos;s Day,&lt;/i&gt; and Arhu must give counsel to the lost. He cannot be disturbed.
+I told yeh, lass. We&apos;ll be headin&apos; home in no time!
+*Give him an easy smile and say that&apos;d be a terrible waste of your talents...*
+Trophy
+What&apos;ll it be, mercenary? A bow? A few feet of sharp steel? Something to bludgeon with, maybe?
+I will &lt;i&gt;not &lt;/i&gt;allow it to be disrespected.
+If you don&apos;t like the game, Topsy, you can fold.
+Goblin Spider Tamer
+A fair exchange.
+You must be ruthless, where I was not.
+Onwards?
+We&apos;ve been through a lot together, for better or worse. I don&apos;t know if either of us could&apos;ve made it this far on our own. I won&apos;t forget that, no matter what happens.
+*Peer into the room and ask what happened.*
+It is under a city, not within it, that ya might find buried its greatest riches.
+Hey! What are you doing?
+&lt;i&gt;*&apos;Winged keeper, song doth bid you break.&lt;br&gt;The priest shall scry the demon&apos;s lies; the chains await their captive.&apos;*&lt;/i&gt;
+*You don&apos;t care what you&apos;re up against - you&apos;re here for the adventure.*
+*Shrug, and leave him to his work.*
+She... she... she... she and her... her... her... her &lt;i&gt;traitor!&lt;/i&gt;
+Make it &lt;i&gt;stop.&lt;/i&gt;
+Curious Chest
+&lt;i&gt;You have spoken to a God?&lt;/i&gt;
+Belt of Talent
+*Tell her that you haven&apos;t had a real home in years.*
+At any cost. You don&apos;t learn, do you? &lt;i&gt;At any cost.&lt;/i&gt; A symphony to any demon&apos;s ear.
+A vial of blood labelled &apos;Beast&apos;
+There&apos;s nothing we can do about it now, so we may as well press on.
+Magister William
+You&apos;re kidding, right?
+But rest assured, your help is not needed. My Paladins will find her, and she will face Divine justice.
+*Tell him you don&apos;t have the jar, but you&apos;ll go back for it.*
+A world full of Sourcerers, that&apos;s quite a thing... but don&apos;t worry darling, you&apos;re still special to me.
+An end to tyranny!
+Speak with Garvan.
+Armor (platemail)
+Play the Lute to Encourage and Heal your allies. This will also damage nearby enemy Undead.
+*The squirrel smiles, nods, and pats you on the leg.*
+All set?
+To see you dress... Truly the world has never witnessed a greater crime.
+There are voices in many things. Talking straw is quite new to me though.
+*The elf straightens to his full height; martial and unwavering.*
+That-... That is a surprising spurt of logic from one of your kind.
+Dorian Gall is dead.
+I thought these bloody collars were supposed to keep those things at bay.
+*Hand over the jar as she puts her mask back on. She looks like she&apos;s suffered enough.*
+Necklace of Wine
+*...but the sky is already thick with Magister arrows...*
+The Red Prince and I didn’t exactly see eye to eye. He left the party for good.
+We&apos;re wanted. Wonderful.
+*Your Source drains into the machine. It dims ever so slightly, but the shield remains steadfast.*
+*Ask about this song - the &apos;Taming&apos;. What happens if you sing it?*
+*The spirit turns and desperately scrambles for more projectiles.*
+*Tell her you don&apos;t care where she got it, but you do need to buy it.*
+*Kneel before her.*
+*Apologise for disturbing him.*
+*Ask about this goddess Amadia.*
+*Look around. You don&apos;t see Malady - where did she go?*
+Daddy! Daddy! Lookie lookie at &lt;i&gt;me!&lt;/i&gt;
+Paladins - Easy
+&apos;A symposium on the anatomy of the human body.&apos;
+*Ask why the groom might have wreaked such havoc.*
+Good luck on the Path of Blood, pilgrim. May you discover that you&apos;re truly free from sin. Although, looking at you... that seems unlikely.
+But M-a-a-a-a.
+*The creature perks up, blinking rapidly with anticipation.*
+*The beast goes silent and looks toward the nearby panel.*
+But that is no reason to trust it - giants like that destroyed our forests. They are the very reason the Great Acorn is returning in all its wrath!
+It&apos;s true.
+*Tell her Braccus Rex is dead. Why does she still do the Source King&apos;s bidding?*
+You&apos;ve got more miracles in you, Ifan. With you, what was impossible seems... possible again.
+*Ask if those two poor creatures lurking in the chamber are playmates of his as well.*
+*Tell him he&apos;s been very naughty and should get those clothes off immediately... and also very slowly.*
+*He claims the Magisters put a collar on him. Ask was that a lie.*
+My ma is dead. It&apos;s my fault.
+*Ask how much she&apos;d be willing to pay.*
+Fore!
+He contained the demon and its blood spawn to the doomed shores of the isle, surrounded it with Deathfog, and never looked back.
+Give Justinia&apos;s letter to the Magisters.
+(I know they&apos;re still here.) My apologies for my idiot friend, but we really could use your help.
+Spirit of a Royal Protector
+I think you&apos;ll find something interesting there. Found some goodies during life number six. Now, if you don&apos;t mind... I need a bit of &apos;me time&apos;.
+To the Mountain
+*Ask them where you can find their witch.*
+*Soon you spy it: the solitary red eye. The haven in the horror. That is where you are headed.*
+*Its head leisurely lolls toward you in response, its glowing eyes revealing surprise at your knowledge of the tongue.*
+*Agree.*
+*Sebille trembles, all rage and pent up emotions.*
+Why, selling you some cheese, of course!
+[VILLAIN] *Offer him a nice, quick disembowelment.*
+*He watches you depart without a word, then turns back to face the sea.*
+[BEAST] *Tell her you&apos;re not sure. You don&apos;t believe in one person having too much power. But if that person were a champion of the &lt;i&gt;people&lt;/i&gt;...*
+Your talent for following simple instructions fills me with wonder and pride.
+Sallow Man
+This is... this is awful! I can&apos;t go back into the world like &lt;i&gt;this&lt;/i&gt;.
+We defeated Alexandar and his forces. We should be able to escape the island now. Let&apos;s just hope that the Seekers managed to take over the ship. We are to regroup at the shore.
+*Tell her the Shadow Prince is dead. You ate his heart.*
+Speak with Crispin.
+Don&apos;t make this goodbye harder than it has to be. Just hand over the contract and I&apos;ll be on my way.

@@ -1,0 +1,158 @@
+Go on - grab your companions. I need to make sure we aren&apos;t bringing any dead weight aboard.
+*Grin mischievously and ask what he&apos;s afraid of. Come close and whisper - no-one will ever know.*
+*Say it was a tense situation. You did what had to be done and would do so again.*
+*Beg his pardon and leave.*
+Enough! My Source is my OWN!
+*Tell her you&apos;ve seen a strange weapon - screaming monstrosities crucified by the Magisters. Are these &apos;Shriekers&apos;?*
+*The dwarf recoils, his face is a mask of abject horror.*
+Hold your tongue! Lord Kemm is passing the sentence.
+...vulnerable flesh.
+&lt;i&gt;Order of Society.&lt;/i&gt;
+*Step away from the panel.*
+*You sag to the earth, utterly lost - and then you &lt;i&gt;feel &lt;/i&gt;it. Not &lt;i&gt;all &lt;/i&gt;is dead down in the valley. Spores, given off by the Ancestor Trees.*
+Why else would he run? If he had nothing to hide, he would have nothing to fear.
+Hurry on, Godwoken. The Council awaits.
+By Lucian&apos;s sword, these Magisters are madmen! Are you alright?
+Good day to you, sir. Hope the morning finds you well fed.
+*She returns your silence with some of her own, then lowers her head, her soul broken.*
+*You see suffering written in each line of her face. Ask her what she has seen.*
+Whirl into a barrage of 5 stabs, each dealing [1] damage.
+*Squeak!* Do you hear that? It&apos;s coming from behind the wall! It&apos;s sort of eerie... like a poor soul in a glass trap. Oh, the horror!
+*Wonder why the God King has a shrine in such a place.*
+*Ask the squirrel if he found anything that you can use.*
+That&apos;s only because you&apos;re not familiar with them. Yet.
+*Screams rend the darkness. Silence falls. And then... that sound again - sticks dancing on stone. You tear the blindfold free, then wish you hadn&apos;t. The giant spider looms over you. Its jaws close upon your face.*
+*Steer the conversation elsewhere.*
+*Power radiates from her - and with it, the faintest of lights in this place of terrible sorrow.*
+*His smile disappears completely, replaced with a grimace of demonic fury.*
+Why not be useful to each other as long as we can be?
+An inconvenience for which I apologise, sire, but I had no other choice than to do as I did.
+There is no backing down!
+*Bet against Malady. Demons take their deals seriously...* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*Wonder what&apos;s keeping Alexandar from ascending.*
+I should go. Use the money well, if you take it. Do some good with it.
+Got his full armour now, don&apos;t he. And only his Soul Jar to turn his head, now.
+Is this a good idea? There are some dead Magisters out there I definitely don&apos;t want to talk to...
+tag
+*Say that nothing is decided yet - another may yet become the Divine before him.*
+S-s-s-sorry...
+*Offer a hefty bribe&apos;s worth of gold.* ([GEN_CheckMagicPocketGold_3_01f129ea-b4dc-44b6-8154-9a948f876a82])
+&lt;i&gt;Godwoken...&lt;/i&gt;
+One of us ate Mummie Dearest&apos;s head. This will have to be its own reward.
+*Drink deeply from the spirit&apos;s well of Source.*
+*He stops writing. Throws you a pouch.*
+Farmhouse
+Oh, thank you!
+We await you... join us...
+We wished for power. The Djinn struck us with lightning.
+*He gives you a strange look. Then realises you&apos;re on the right track...*
+*If this is supposedly her destiny, perhaps she should agree to do this.*
+*But wait, you say. Then the dog says &apos;Why the long faces?&apos;*
+MessageBox Other 1
+*He hawks a wad of spit on the floor, then motions to the room around him.*
+Nabbed the key off that Kraus fella up above. Not the brightest of the Magisters. Would stick &apos;is head in a pig&apos;s arse and call it a hat. Reckon it unlocks one of the doors to the prison, though not sure which.
+*Glance to your weapon, then back to Beast. He is either with you or against you.*
+What the Seven did to him was terrible - what if the Eighth&apos;s justified?
+The Black Ring, of course! At least &lt;i&gt;they&apos;re &lt;/i&gt;honest about how wicked they are.
+Quickdraw
+No, no, no. It&apos;s not at all how I imagined it. I... I thought there would be so much more to &lt;i&gt;learn!&lt;/i&gt;
+[JESTER] *Tell her you like trolls, actually. But you wouldn&apos;t eat a whole one.*
+Blood to earth.
+I hope I&apos;ll find out eventually.
+*The man gazes at your veiled face for so long that you feel compelled to turn away.*
+*Tell the skull to stop wasting your time. You have important business.*
+Slate Gray
+*She raises herself to her feet unsteadily.*
+&lt;i&gt;Your ssskills cannot savvve you. We are many. You will dieee.&lt;/i&gt;
+Me? Oh no. Sock spider.
+&lt;b&gt;Now, get away from us. Your efforts grow tiresome.&lt;/b&gt;
+Our children... they are to be dragons?
+ROLL FOR STAT
+Explode, dealing [1] in a large area around you, creating a Cursed Fire surface.
+As far as I can tell, he was the one doin&apos; the queen&apos;s dirty work back in Driftwood. Looks like that ship has sailed, though. Quite literally.
+For all we know this undead creature is perfectly nice. Who are we to judge?
+*Announce yourself as no less than the future saviour of Rivellon.*
+Ts-ts-ts-ts-ts-ts-ts. Ts-ts-ts-ts-ts-ts-ts! TS-TS-TS-TS-TS-TS-TS!
+You tell of your adventures with the flair of a father at his child&apos;s bedside. You should...
+I&apos;ll be amiss from this world soon if this bleeding doesn&apos;t slow...
+*Ask him to repeat his instructions about how to get past the Path of Blood.*
+*The Watcher is unmoved by your presence.*
+*Tell her that&apos;s an odd attitude for a bartender to have.*
+This, after I dedicated my life to serving his &lt;i&gt;father&apos;s &lt;/i&gt;every whim and wile!
+To the Cells
+I wondered too. Then Dallis slithered right into my mind and told me: &lt;i&gt;&apos;You don&apos;t need to know what it is to find it!&apos;&lt;/i&gt;
+Elven Mask of the Shapeshifter
+*Ask what she is doing here.*
+There are not many places to lay down a weary head, but rest here awhile. You are welcome.
+*A crab hiding in the sand underneath scurries away. The lamp doesn&apos;t move.*
+*Ifan cries out, then his eyes fall closed again. No matter how much you shake him now, he cannot be roused.*
+Well, looks like I was wrong to accuse you. Off you go.
+A new world is coming...
+Crumpled Note
+Decorative Dwarven Mace
+Yes. It is a deep hurt. In my tribe, we say &apos;the heart lives in the family cook-pot.&apos; It is true, I think.
+Undertavern
+Hardly. It&apos;s only good for kindling.
+*Mention your conversation with Safa - and tell her you&apos;d like to get &lt;i&gt;acquainted.*&lt;/i&gt;
+*Wiping her spittle from your cheek, ask who &lt;i&gt;&apos;they&apos;&lt;/i&gt; are.*
+*Shake him gently by the shoulder.*
+*Diliana. A white, naked corpse on the forest floor. You killed her because the Master forced you to.*
+More talk? Wonderful.
+*The dog waits patiently for its turn with the ball, the tip of its tail wagging manically.*
+Just keep on moving, lass. I&apos;m waiting for someone, and it ain&apos;t you.
+Karma [1][2]
+Whatever you do, brother, don&apos;t lay your body to rest in this boneyard.
+If you find him, tell him to hurry back to me... so many have already been harmed today... oh, I pray he&apos;s safe!
+The elven Scions are the key. After their deaths, the powers and souls of Scions linger on in the vast and ever-growing network that connects all of the Ancestor Trees.
+I... I c-can do it, I can feel the sunlight, and the a-air, and the -
+You? You are either incredibly unfortunate or incredibly stupid.
+Move
+Light Sapphire
+Jellyfish Skin Scroll
+Well, we needed to escape, didn&apos;t we. So I took us the one place I was quite certain Dallis couldn&apos;t follow.
+*Ask her if she wants to go again.*
+*Say you thought he was off to see his parents.*
+*Confirm that you&apos;re prepared for battle.*
+Siege Crossbow
+BALL!
+succeeded!
+Reason
+*Demand to know if the spirit has been following you.*
+Silver Pendant
+Broken Sword
+*Beast brushes detritus from his beard - sand, skin, and whatever else might have accumulated there. He doesn&apos;t acknowledge you as you approach. He only sings - slowly, achingly, sadly.*
+It will come as no surprise I suppose, that it is a demon that drives me to seek your benevolence. I&apos;ve been hunting him for a long time, and now I&apos;ve managed to track him down to the island over yonder.
+Trumpet of Death Seedling
+*The spirit seems incapable of forming words or thoughts. She looks to one side, then the other, taking in the lingering results of hate and violence.*
+Please...
+*How &lt;i&gt;awkward&lt;/i&gt;. Change the subject.*
+I can feel the power surging in my veins. I like it.
+Toymaster&apos;s Shop
+*Say this place reeks of gore.*
+*The automaton peers in close at your face.*
+*Lady Kemm nods to you, her expression unchanged. But she holds your gaze a little too long. A moment passes.*
+Now whyn&apos;t you move along and settle in. A Magister&apos;ll come find you when they&apos;re ready for you. Could be awhile, though. We&apos;re up to our hoods in sinners these days.
+Contamination Scroll
+A shame I must be given life anew to know the pain ahead. A pain that will endure.
+To my darling Carolyne.&lt;br&gt;&lt;br&gt;I hope this letter finds you well, and I hope that I am on your mind at least half as much as you are on mine&lt;br&gt;&lt;br&gt;Work around Driftwood is hard, but steady. Good coin, and I sleep well at night. Although I think we may be on to something big.&lt;br&gt;We got a shipment in yesterday that&apos;s causing a right stir. I can&apos;t say much yet, but there&apos;s talk. Some say we&apos;ll be heroes of the Empire. Some say we&apos;ll be knighted by the queen herself!&lt;br&gt;&lt;br&gt;The boss doesn&apos;t seem too happy about it, mind. Wants the cargo dropped down a mineshaft. Thankfully one of the top nobs arrived to put things right. Morris or something. He seems like a good one.&lt;br&gt;&lt;br&gt;Hopefully the next time I see you I&apos;ll have a lot more to say! &lt;br&gt;&lt;br&gt;All my love, my dear, love of my life, mother of my children yet to be, apple of my eyeballs,&lt;br&gt;&lt;br&gt;Barton
+Magisters. They razed sacred elven lands, and uprooted ancestor trees from the earth... I was one of them...
+This egg was born of fire itself - it&apos;s earned its place in this world. I&apos;m going to keep it safe with me.
+Thank you, dear one. A burden shared is a burden halved.
+A painting depicting the light of the Seven shining from the heavens upon the Divine Lucian and his followers.
+Gods, didn&apos;t your mother teach you any manners?
+&lt;i&gt;Why do you come, lizard-&lt;/i&gt;slaver? &lt;i&gt;Come to chain&lt;/i&gt;-bind-burn?
+*Blood starts to matt his fur and Vrogir glows with an inner light. He grows brighter and brighter, until his body bursts into bright yellow flames, burning the ants away.*
+&lt;i&gt;&apos;Hail to the Hammer, Seven Times Bleffed!&apos;&lt;/i&gt;
+Wait until headquarters hears of my success. Perhaps I&apos;ll be promoted.
+What a gift to think of them. I&apos;d like to give something to you, too. A family recipe. One of Felix&apos;s best. He&apos;d be happy to know it went to such a... a warm soul.
+That is the future Quercus and I have ahead of us. We no longer need a Shield, but we&apos;re very happy to have a friend.
+We persuaded Gareth to pardon his parents&apos; killers.
+*Ask where you should start looking.*
+Voidwoken Deep-dweller
+Can a Godwoken be this daft? Or are you just that callous?
+In His fortress, the Black Ring do not succeed. They do not kill the Godwoken, but...
+It shouldn&apos;t hurt anymore, but it &lt;i&gt;does&lt;/i&gt;. I swear it does...
+When the demons came, she fled into the wilderness,
+Nothing. The ship is livewood; that much is clear. But I couldn&apos;t communicate with it. The Magisters must have done something, warped it somehow... I just don&apos;t know &lt;i&gt;what&lt;/i&gt;.
+MoooooooOOOOOO!
+*Ifan tips his fingers to his temples and saunters ahead.*
