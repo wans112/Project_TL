@@ -1,0 +1,167 @@
+I&apos;ve never seen one up close.
+*Say it&apos;s probably for the best, all things considered.*
+Pfeh! &apos;s &lt;i&gt;your&lt;/i&gt; tongue that should be looking for some action!
+If I have to deal with one more buck looking to court me, I&apos;ll take a chunk out of his ear!
+*Tell her you&apos;re going to free the hanging prisoner. Offer her ten gold coins to look the other way.*
+[BARBARIAN] *Growl that you let a slug get the better of you once before - you won&apos;t let it happen again...*
+Beach Cozy
+There&apos;s a Lone Wolf contract out on the Godwoken.
+Flaming Club
+Yarrow gratefully reunited with Migo. Even in his madness, he recognised his daughter.
+[1] determines how well you can Charm in dialogues.
+Stay strong on your holy mission, Godwoken.
+How &lt;i&gt;dare&lt;/i&gt; you. &lt;i&gt;How dare you.&lt;/i&gt; I&apos;m forced to dig my murdered parent&apos;s graves. To watch the soil cover them, little by little. And a clown wanders in to &lt;i&gt;dance on them.&lt;/i&gt;
+You&apos;re right. Pearst wouldn&apos;t want me to wallow - he&apos;d want me to carry on with our mission. Let&apos;s get moving.
+Maximum Summons
+Do you wish to move forward?
+Richly Bound Book
+You have a good heart.
+*Report that yes - you did indeed.*
+Why not. I love a good story.
+Make Firewater the Lone Wolf say the name &apos;Edie Engrym&apos;.
+*Gasping on the fumes, you are dragged to safety by a wolf, a wolf who appears out of nowhere. He pulls you free, clawing an elven woman who gets in your way. She collapses, wheezing under the choking dust.*
+*Tell him to leave it be. Whatever he&apos;s up to appears to be a fool&apos;s errand.*
+Welcome to the spider&apos;s web, darling little flies.
+F12
+I like this place. It&apos;s nice.
+Enable this to always have splitscreen. If this is disabled, the screen will not be split when you are close to one another.
+*He passed the test and you were murdered. And all the time you knew him, &lt;i&gt;he never spoke your name.*&lt;/i&gt;
+Most of my wares were lost in the attack, but I did manage to salvage &lt;i&gt;some&lt;/i&gt; of our Sourcerous Sundries. Maybe you&apos;d be interested in taking a look?
+*His head suddenly falls forward. He starts to sob, though no tears fall from his wounded eyes.*
+I&apos;d wish you good luck, but I&apos;ve a feeling you&apos;re the one who won&apos;t need it.
+May Lucian return.
+*The scent fills your mind and your vision starts to swim. You blink and find yourself standing in a dark glade. On the wind you hear a whisper.*
+*The scent of incense abounds as the Red Princess reclines luxuriously upon large pillows embroidered with mythical scenes.*
+[SCHOLAR] *You see a mark on the side of the figurehead - it&apos;s a living scar, used to enslave elves.*
+Surrounded by Deathfog, Arx slowly starved. Lucian&apos;s great city faded from the world.
+[Finesse Check]
+Game Menu
+We freed Lord Arhu - but when we were ambushed he was too weak to fight.
+*Ask her to explain what, exactly, she believes the risks are.*
+[Arena_AvailablePlayer_4_3f666e1e-7f5e-43e8-8c02-3c61966147d3]
+*Put your arms around her. She needs to go somewhere and rest. The drudanae&apos;s been too much for her.*
+Not as pant-wettingly fearsome as Silver Claw, but not bad. Not bad at all.
+*Call him an ingrate. You didn&apos;t have to give him anything at all.*
+*Wish for knowledge.*
+That much at least is apparent. Hm. Alright. We have a deal.
+&apos;s our honey. Bog off.
+It is...? W-well we must for Sir Gareth then - we can&apos;t leave without him!
+[1] new recipes learned.
+Dallis and Vredeman are looking for a powerful object that can purge and store infinite Source. The artefact is known as &apos;The Aeteran&apos;.
+Is the time at hand?
+Everyone in camp&apos;s got to contribute. For food. For protection. No exceptions, especially not for &lt;i&gt;elves&lt;/i&gt;. Griff&apos;s orders.
+Necromancer Tamsyn&apos;s Soul Jar
+&apos;Here lies Porfiria Swann.&lt;br&gt;Died of shrieking hysteria.&lt;br&gt;&quot;Let the gossips chatter. No matter.&quot;&apos;
+Fish Pie
+&lt;i&gt;Fie!&lt;/i&gt; Hearrr this feline&apos;s lament, O immorrrtal gods! I am so wrrretched! And what is a Booply Bear without his sweet Mumsy? I say, &lt;i&gt;he is nothing!&lt;/i&gt;
+Burnished Ring
+*The plinth of the statue bears a series of deep, circular scratches upon its stone - the statue can be rotated.*
+Now, as for your reward... this mightn&apos;t be quite what you were expecting, but, well...
+Exactor
+*Wonder what a Seeker is doing here, of all places.*
+What a cursed Lucian&apos;s Day this is...
+[1] allows you to repair your own items. The higher, the faster you repair. Required to create and improve weapons and armour if any metal is involved.
+Why sir, you smell... divine. Do you eat cheese?
+*Say you&apos;d like to see what she has to sell.*
+I wonder what happened to his orcish Godwoken...
+Nightsky Amulet
+Trying to hide, are you? Don&apos;t do that.
+Too heavy. Needs a lever, a key, or a troll.
+Lake 03
+Dungeon - Empty Room Dead End A
+*Take offence. Tell him that Duna deems you worthy of divinity!*
+*His eyes narrow.*
+*Focus on his nostalgia.*
+Oh yes, that I do. Some older than even this isle upon which we stand. Trinkets from ancient humans, relics from fossilised dwarves and what-have-you...
+That&apos;s it, off you trot! Lest you want to end up like old Finn did...
+Who summons m- What? One of &lt;i&gt;you?&lt;/i&gt;
+*Tell her you are a master, the Champion of Fort Joy Arena.*
+*Soften your voice and ask again if she&apos;d please remove your Source collar.*
+Potion of Nimble Fingers
+*Tell her you&apos;re not going to remain here. You&apos;ll leave Fort Joy or die trying.*
+*Smash the jar to pieces.*
+*Say it&apos;s been quite the journey so far.*
+Rahimus
+&lt;i&gt;The House of Shadows&lt;/i&gt; stirs!
+Nothing, until I know the way is clear! Get that collar removed, purge those Shriekers of their Source, and return to me when it&apos;s safe.
+*Smile. Eye him mockingly. You know precisely what you must do.*
+Corpse Explosion Stone Huge
+*The spirit spins around and levels her blade at yet another foe - you. But it&apos;s already too late...*
+*Say that you want Exter to join you - his longbow could prove invaluable.*
+I guess this will have to do.
+*In Mordus&apos; dungeon, it called itself &apos;Xhaxh&apos;. Demand to know more.*
+A
+Alice Alisceon died a painful, unfair death.
+*Tell her to accept fate for what it is.*
+Lucian and Damian.
+Trust is all we have here. I do not counterfeit. I have... honour.
+I&apos;ve a proposition for you. I&apos;ll reveal if I&apos;m telling the truth, but only &lt;i&gt;if &lt;/i&gt;you disown your God.
+Bandit Dwarf Nature Warden
+*Tell the Magister that you did see someone hiding in a barrel nearby.*
+There&apos;s one here. It&apos;s pretty.
+Together we are a force to be reckoned with, but if we seek to survive the onslaught of the Void, we stand no chance unless we become &lt;i&gt;vastly&lt;/i&gt; more powerful than we are now.
+*Tell it that in order for you to be able to continue this conversation, you&apos;ll need it to give you the password.*
+Sadha entrusted me with one of her eggs. It will respond to fire. A dragon will hatch!
+Beast by name, and so, it would seem, by nature.
+*Tell her her magic is uncanny. She even tasted the same as she-of-dreams.*
+If Boss trusts you to find somethin&apos; for him, you better not disappoint &apos;im. You wouldn&apos;t like &apos;im when he&apos;s disappointed.
+Vignette Window
+Sewers Beneath the Prison
+You want to enter the tomb of Lucian, don&apos;t you?
+What I know is not for your ears - not without the permission of Lord Arhu! That&apos;s my final word on the matter!
+My child, my sweet Fane! You positively brim with Source. It is good to see you more like your old self.
+TO ALL CONCERNED WITH THE CAVE DIG&lt;br&gt;&lt;br&gt;Only those with authorisation may enter the cave and proceed to the dig site.&lt;br&gt;&lt;br&gt;Do not attempt to travel to the dig alone. In the first antechamber you must await the Blind Guide. He and only he may guide you through our defences.&lt;br&gt;&lt;br&gt;Failure to observe this instruction will result in your death and a great deal of inconvenience to our lady Dallis. You may decide for yourself which is worse.&lt;br&gt;&lt;br&gt;- R
+We&apos;ll just see about that!
+*Treacherous undead! Draw your weapon and defend yourself.*
+...I just didn&apos;t know. I didn&apos;t know what darkness lied &lt;i&gt;beyond&lt;/i&gt; pain. Now, well. Now I do.
+*Ask that she purify the feathers - you have great deeds to accomplish with Duna&apos;s armour.*
+No, no, no, it is not wine that makes me dream. Hmmm. It is quite another balm:
+You should have just forgotten about all of this...
+It&apos;s not too late, Master Fane. We can fix everything that went wrong. &lt;i&gt;Everything.&lt;/i&gt;
+Arcane goods, over here!
+Well then. You already have your answer. If you&apos;ve spoken to him, he must be safe. Is he?
+*Tell him you are the champion of elves and dwarves, and he &lt;i&gt;will &lt;/i&gt;listen to you.*
+Where are the smells?! I miss the smells!
+The Empress gave the dragon&apos;s bones, and I spent every waking hour perfecting the design.
+*Step back and leave the Paladin to her fate.*
+I can&apos;t let that happen...
+Flattening Boots
+*He catches your hand before it can make contact. His grip is like a vice.*
+I know the sand must be warm, but all I feel is a deep chill.
+Marla
+*Scowl and say that you didn&apos;t need to eat the damn stuff to learn that.*
+...uuuuice?
+[SEBILLE] &lt;i&gt;*&apos;Give or take&apos;? &lt;/i&gt;You remember every kill. Show him your arm.*
+Pitcher
+*Another click.*
+We should stay here until we&apos;re sure we&apos;ve checked every nook and cranny.
+It might be if you quit preoccupying me. If Kemm says we&apos;ll find something, then we&apos;ll find something, and that&apos;s that.
+You&apos;re pathetic. Ha! You want to hit me, don&apos;t you? Go on then - give it your best shot!
+*Promise him. You would never do something like that.*
+*Tell him you&apos;re with him - you&apos;ll kill the Divine Order scum.*
+What&apos;s it to ya, slow-wit?
+Use Delorus&apos; boat to escape.
+Boletus Seedling
+*He considers you for a moment. He inhales. He exhales. He nods.*
+And then suddenly I&apos;m here, apparently facin&apos; the elven inquisition.
+The are part of a private collection now - Lord Kemm&apos;s. Perhaps he&apos;ll grant you a viewing... but I doubt it.
+What would he say if he could see us now...
+Oh by the Seven, what did I do?!
+They are rivals. They are enemies. They must never be mistaken for anything else.
+The annals of elvendom are written in flesh - elves eat of the dead and absorb their memories. Now, the elves are in peril. An unforgettable hero must rise.
+Small Thunder Rune Of Power
+*Snap your fingers. Demand that she concentrate and tell you what caused this carnage.*
+Do not mock me. You know what lies beneath. But I will not allow you another step closer. Qanna&apos;s already laid claim to it.
+I discovered the existence of ancient implements called &lt;i&gt;Swornbreakers&lt;/i&gt;. They are rumoured to be able to break any magical pact, including the Covenant.
+*Note that the dwarven thug seems happy to rip off one of her own... or at least someone who looks the part*
+*Say you don&apos;t respond to threats.*
+Bonecage
+Here! Take the key and in you go... we&apos;re not going to lay down our lives for some Silent Monks.
+*Gasp!* Kitty! No!
+*The Magister&apos;s stern face slackens and turns pale.*
+This horrifying brew reeks of a disturbing bovine mix. It was prepared by the Witch in the fields near Driftwood.
+Did they regret the deal with the demon?
+*He gives you his mischievous grin.*
+You met me as a Lone Wolf... but did I ever tell you of my past in the Divine Order?
+*Your admission only seems to make him more furious.*
+Did I say aficionado? My sweet boy, you are a connoisseur!

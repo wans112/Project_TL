@@ -1,0 +1,162 @@
+I&apos;ll tell you now, you&apos;d better warm your hands before you go upstairs, or your new friend will be very upset.
+*Grumbling, the Magister turns back to her patrol.*
+This must be one of those vaults...
+*Tell her you&apos;ll do what needs to be done for the good of the realm.*
+I am Zaleskar. I am a Lone Wolf. I am older than the ruins of man. Do you really think you can intimidate &lt;i&gt;me?&lt;/i&gt;
+I don&apos;t doubt it. If you do manage to make it out... I know a place to head for.
+Nice. Could I prevail upon you for just one more? Penny for a sick dog, &lt;i&gt;ad infinitarium?&lt;/i&gt;
+Well. See that you find me when it is in hand.
+Range: [1]&lt;br&gt;Encouraged boosts target&apos;s Strength, Finesse, Intelligence and Constitution stats by 1.
+Quill
+*Look around you. What can she tell you about this place?*
+*Say the butteriest crust.*
+At best, you are a coward. At worst, you are a traitor. In either case, the sentence is death.
+This isn&apos;t someone with a broken leg who needs to be held still - this is serious... and &lt;i&gt;dangerous&lt;/i&gt;. I doubt you could help.
+A demon has risen - Divinity is shared between the light and the terrible dark. I&apos;ll live to regret this. If I live at all.
+The Drowned Temple
+*Tell the Magister to call off their search - the chef is the murderer!*
+Burned Eye Man wanted it. Kicked uzzz. We ran. Hur-hur.
+Meistr&apos;s House
+Gleaming with the lustre of far-off sunsets, this Ancient Empire ring is inscribed with an elaborately curlicued &apos;Hannag.&apos;
+Finally we get to the core of it. Here&apos;s how it works: I give you the information you want if you do the same for me. A perfectly even deal.
+*Say that you&apos;ve never heard of this Braccus, but if he isn&apos;t here now, then what&apos;s the harm...*
+*The spirit vanishes in an instant.*
+Does it?
+I had a little chit-chat with Malady earlier. She told me I need to find someone to... ahem... exorcise the thing in my noggin.
+Her life was marred by debauchery, greed,  and violence. No last minute conversion should excuse that.
+Just look at you! Red as my favourite beets you are! Never saw no lizard like that before.
+Portrait of a Man
+*An imperious, elegant woman stares down her nose at you.*
+*She squeezes your hand.*
+What were you thinking, trying to bribe me? Come with me. You need to spend some time in a cell.
+*The keening cub looks sadder than anything you&apos;ve ever seen. Then it turns away. There&apos;s nothing you can do.*
+*The picture flickers, fades, then returns in full relief. Beneath the din of the marching soldiers, or perhaps alongside it, a voice snags your mind like a fish hook in an open eye.*
+*The stone there is a curious colour, as though it was added after the statue was carved.*
+&lt;i&gt;You see - blaming the Sourcerers for Voidwoken made them easier to capture.&lt;/i&gt;
+*Say you aim to cross this minefield and enter the sawmill ahead. Ask if it has any advice that might help your journey.*
+Get out of my face. Now.
+Unrepairable
+We continued on our quest without dealing with the arch-demon.
+Godwoken... I&apos;ve seen Seekers&apos; blood seeping into the sand. I waded through corpses on the deck of the Lady Vengeance. But when the lifeless eyes looking back at you are your own mother&apos;s...
+You are favoured. Do as you will.
+*Let her live. She may yet prove useful.*
+Cautious
+*Ask about Tarquin. Why did Ryker ban him from the Stonegarden?*
+Oh, mind my manners! Welcome to Four Sisters, the sole distributors of Sourcerous Sundries in all of Rivellon!
+I, lost soul, know my duty is at an end... Fare thee well, all-father... Blessed be...
+Well, then. Looks like someone beat me to the punch. Last time I listen to a Void-addicted cat...
+Improving your polymorph skill has granted you bonus attribute points. Open your character sheet to spend them.
+Paladin Jhad
+Basement Key for an Arx Dwelling
+If you must run along, you may do so. But I&apos;ll not be hurried out of conversations of life-changing importance!
+I can hardly bear to watch. Give her the Swornbreaker - give her peace.
+[UNDEAD] *Tell her she&apos;d have to go further than that to get rid of &lt;i&gt;you.*&lt;/i&gt;
+Wait - before you go.
+*The whispers shuffle away and the air shifts. Whatever was here a moment ago is gone now.*
+*Ask her if she&apos;s sure about that.*
+A higher score allows you to pickpocket more intelligent and more perceptive characters. It also allows you to pickpocket heavier and more valuable items. Highly dexterous characters are better at pickpocketing. To pickpocket, enter sneaking mode and interact with a target.&lt;br&gt;
+No matter. Surely you cannot best me again! Tell me, &lt;i&gt;Sammy Smartypants&lt;/i&gt;: is there such thing as free will?
+She is the true crown; the true throne; the true empire, vast as the stars&apos; domain.
+Unwise. But your choice is your choice.
+Lock Log Background
+*Say that&apos;s just absurd.*
+Stop the Queen executing her plan.
+Alright, here is your future.
+Wine is wasted on the living. &lt;i&gt;Life &lt;/i&gt;is wasted on the living. The God King will change all that.
+You may pass, lizard. Dare say you&apos;ll be aching to leave before long, anyway. But... before you do, find Reimond, the White Magister. He&apos;ll want to know what you&apos;ve seen.
+*Say that your head is splitting... but don&apos;t mention the other... &lt;i&gt;things &lt;/i&gt;that you saw.*
+I... I will not be Divine, it seems. Someone must rise - do what you must, Godwoken.
+Please, I&apos;ll do anything - just don&apos;t let them see me. Don&apos;t let them find me!
+The Purity of Divinity
+And why would you say that?
+Uh. Y-yes. Please come when you can. And if you manage to find one of those purging weapons... a wand maybe... it will make all the difference...
+Now! I must be going, and so must you.
+[1] is broken
+*Ask him how he ended up in that cage.*
+HELP! Someone douse the flame! Douse the fl -
+[1] cast [2], teleporting [3] into the air.
+[LOHSE] *Tell him in no uncertain terms, you will be free.*
+[OUTLAW] *Say you&apos;ve enjoyed every step outside the law.*
+Stop listening
+I&apos;ll... pay... you... well... for... one... more... job.
+This place? No... Arx is clogged with Divine Order lackeys from what I understand - it&apos;s not the sort of town where a girl like me could let her hair down, unfortunately.
+*Teleport her to the Lady Vengeance.*
+*Say that you did serve, but you&apos;d rather not tell him &lt;i&gt;who &lt;/i&gt;you served.*
+Find the elves.
+*One bloody eye cracks open, glittering gold appearing from beneath the swollen lid.*
+*But how? Ask what changed.*
+the Black Ring came together once more.
+The curse seems to be preventing the Gods from speaking.
+Poisonous Skin Scroll
+Don&apos;t you dare try anything like that again.
+Forest&apos;s Fortune
+[HERO] *Channel Lucian&apos;s words. &apos;A fool acts on rage; the wise calm their fury.&apos; He must not act on his impulses.*
+*The boy beams like the summer sun. You wonder if you were ever like this - endlessly optimistic, even when facing a grim future.*
+Be silent. Be swift.
+It is inevitable. The battle for divinity is about to begin in earnest. The other gods and their chosen will try to outflank us just like we must outflank them.
+...and they are &lt;i&gt;nowhere &lt;/i&gt;to be found.
+You like your nose? Then do not stick it where it is not welcome.
+Why the devil is this stall out in the open?
+Chance of Magic Shell, which increases Magic Armour.
+*Violence.*
+Good luck. Really.
+The Flight of the Phoenix&lt;br&gt;By Isidore&lt;br&gt;&lt;br&gt;*This sprawling epic poem tells the tale of Bertuch, a human oil magnate who owned all of the Blackpits and Cullwood Mills - and lost everything in a game of cards when his opponent produced The Sparkler. In a fit of rage, he commanded his pet Phoenix to roast all present: the dwarves that bested him, the cards that betrayed him, and himself - for failing to consider the play.*
+*Gasp*
+*You stop short and wonder if the child is right.*
+I&apos;ll tell you what, though: whomever wants me out of the picture will have to do a lot better if they seek to get the better of &lt;i&gt;me!&lt;/i&gt;
+I accept, brother. I will be with my people once more.
+Next time I pick up a plant, I&apos;m looking it up first.
+*Ricks grabs his sword, which shakes in the rhythm of his trembling hand.*
+A book written by Griff about the time-honoured practices of crafting.
+You dare make a bargain you can&apos;t actually afford?
+For... for what purpose? It means nothing to you, yet &lt;i&gt;everything&lt;/i&gt; to me.
+*Missing prisoners? Ask where they could have gone.*
+It can&apos;t be! He is here... &lt;i&gt;he has come for me... &lt;/i&gt;
+Cooking Station
+Did she say that you were &lt;i&gt;special?&lt;/i&gt; That you would be anything other than a slave? You idiot.
+*Nod along as you draw your weapon. That&apos;s all very interesting, but you&apos;re here to kill him.*
+*The message is scuffed from the claws of the owl that carried it here, but clearly reads &apos;Council of Seven Found. Return to Lady V. Now. - Malady.&apos;*
+Paladin Archmage
+A word of warning to you, one you would do well to heed: &lt;i&gt;Do not make the Doctor wait  - and do bring Lohse with you.&lt;/i&gt;
+[OUTLAW] *Say you like knowing that it once belonged to someone else.*
+Rename Folder
+We learned that Isbeil is researching Deathfog. She received a large shipment of it, smuggled in from dwarves at Reaper&apos;s Coast.
+*His eyes narrow. His lip curls into a snarl.*
+Whatever I like.
+You say that now. I know. But you see. In time, you see.
+Hush, girl. Hush, I&apos;ve got you...
+*She nods at you - a little more curtly than before.*
+Fish Pie Dough
+Those Magisters are about to become popcorn! I &lt;i&gt;could &lt;/i&gt;help them...
+Excellent. Although... do be wary of her. My death may change things for her.
+So? What&apos;re you waiting for? End it!
+The priests of Bloodmoon Island had an enchanted forge on which they made silver shafts for the vault mechanisms.
+You&apos;ve got a sharp tongue. Seems to me I hear a whole lot o&apos; bitterness and anger at the root of it, though. A sharp tongue&apos;s a poor companion, you know.
+*Crunch*
+I hate to say it, but you make sense, fork-tongue...
+The evil Isbeil is dead. The Doctor will see you now.
+Frost Breath
+Doe Rabbit
+*Assure her you do trust her.*
+With Lucian in power, Saheila took the elves away from the world.
+&lt;i&gt;Thanks &lt;/i&gt;though.
+*Smile impishly. She first.*
+Shark
+Never seen one myself, but me cousin up in Gor said one appeared from the clear sky one day &apos;n&apos; ate up every child under the age of twelve.  Dunno where they come from, but without the Divine, there ain&apos;t much we can do to stop &apos;em.
+Ngh...
+*You see the tavern. You hear the laughter of the dwarves. You feel a parchment in your hands - a Source recipe.*
+Elven Wildstalker
+*He tries to ignore your presence. Fails. He sighs.*
+*Consume the Magister&apos;s spirit.*
+W-what was... &lt;i&gt;that sound?!&lt;/i&gt;
+Of course! But there are plenty of Magisters around, aren&apos;t there? They shield us from Sourcerers and Voidwoken alike. You&apos;re quite right about the sea though!
+Liar!
+Voidwoken did not eat of my flesh! Voidwoken did not betray me! It were him! My boy! My GARVAN!
+*You wake up, as does Stingtail. He yawns and stretches his arms.*
+Very well, I can see them straining against your teeth. Unleash them, Godwoken. Ask your questions.
+Please, there&apos;s no time, they&apos;ll kill her! Go!
+*The malevolence in the rat&apos;s glare burns unabated.*
+Skill Panel
+*Listen to the wisdom of autumn.*
+Magic Wall
+Oh. It&apos;s you again. Great.

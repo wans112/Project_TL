@@ -1,0 +1,163 @@
+*Avoid the question and take your leave.*
+Get away from me, you.
+*Say it&apos;s pretty rich to be on a break with Voidwoken prowling outside town.*
+*Consume the spirit&apos;s Source.*
+This dragon egg is warm to the touch... it must be almost ready to hatch.
+*Ask him to remind you what he wants you to do.*
+*Accuse him of cowardice. Was he planning to simply flee Arx rather than confront the queen?*
+Ugh. Well that explains the smell...
+*Say you have very serious matters in town. You don&apos;t have time to play egg hunt.*
+A Brewer&apos;s Appendix
+The Imprisoned Elf
+Lohse...
+[MYSTIC] *Offer that perhaps it&apos;s time to forge new gods.*
+Maulrat
+Powerful enough to restore our forests, perhaps. But the Magisters capture me before I can try.
+*The imp spirit remains unhappy, and also quite dead.*
+The Doctor&apos;s Fish
+Eternal relics in the Blackpits - Fane&apos;s people were here, and here he may find answers.
+[You&apos;ve rarely read anything quite as disgusting as this autopsy report. The doctor of record examined all aspects of a deceased human subject, including the length of her intestines, the exact length and width of various bones, and the elasticity of her ligaments and muscles.]
+*Reach out to console the spirit.*
+UI Right
+Malady appeared with the Lady Vengeance and rescued me. We retreated to the Hall of Echoes.
+[1] cast [2][3]
+Use a &lt;font color=&quot;008858&quot;&gt;backpack&lt;/font&gt; to store grenades, arrows or potions. Place it in your &lt;font color=&quot;008858&quot;&gt;Hotbar&lt;/font&gt; to quickly access its contents.
+*Laugh at him. His wife won&apos;t be impressed.*
+Now, it will take more than Quercus&apos;s ferocity and my wit if you&apos;re going to survive. You need power. And I think I have just the thing.
+My allegiance is my own.
+Wouldn&apos;t say no. Fills the belly. But the other ones... so yummy. They taste like shadows and spoilt cream.
+*He settles back to sleep.*
+Excellent. You, my good lady, have earned a front-row seat to today&apos;s performance!
+*Squeak!*
+I know, I know. We got this covered.
+Pag Vorr
+[1] vitality
+Two heads&apos;re better than one, papa used t&apos;say, and he had three, so he&apos;d know! Hehe. You lookin&apos; for a travellin&apos; partner? Well - just so happens my beard&apos;s available, as long as the rest of me comes too.
+*The elf shakes her head. Her face is a mask of determination.*
+Fane. Darling Fane. I had to know. I had to be sure.
+Lighting Quality:
+*You don&apos;t know and you don&apos;t really care. It&apos;s not your responsibility anymore.*
+[JESTER] *Tell her that the sugar plum fairy forbade you from sharing any of the secrets he taught you.*
+Loading [1]
+Alexandar Divine? Could work.
+*Xhaxh&apos;s whines blossom into roars.*
+*Hand her the amulet you found on Gareth&apos;s body. He probably would have liked her to have it.*
+A thief &lt;i&gt;and&lt;/i&gt; a con artist. Prison is where you belong.
+Back, Magister!
+*Unfortunately the Magister does not seem willing to part with it, no matter what Fane offers. The undead turns and storms away.*
+&lt;i&gt;Please...&lt;/i&gt; I&apos;ve waited a long time for this - I need a real answer.
+Be...
+If you won&apos;t yield by your own will, &lt;i&gt;you will yield by mine. YIELD TO ME!&lt;/i&gt;
+*The spirit traces runes in the air. You recognise the gesture - it&apos;s the same one you perform when gifting others with your blessing.*
+We must search Arx for Dallis, the Aeteran, and the stolen powers of the Seven. Divinity depends on it.
+You have heard the dangers of the prophecy and yet Sadha lives, safe in dreams.
+Rajjamira, a possessed Godwoken, is dead.
+*Say that the Red Prince already lay with her. She&apos;ll soon be the mother of dragons.*
+*He turns to you at last, those eyeless sockets staring into you, and as your senses crawl beneath your skin, you realise you know the truth already - you can do as he did...*
+*The spirits watch Gareth in sadness as he rummages through the house.*
+Maybe you should give it a bit of time. I imagine it takes almighty power a little while to settle in.
+*Nod. Ask him where to begin.*
+Of course, Your Majesty. Absolutely. The enemy doesn&apos;t rest, so neither should we.
+*You take the job. Find the Scions. Destroy them. Wring them dry. Earn the fury. Earn your blood. Easy work.*
+*Fane raises his head and responds in the same jolting, clicking tongue - he seems to be pleading with the creature, his hands outstretched.*
+*Kneel down and examine the prone owl.*
+I know I&apos;m fumblin&apos; along here. I know the ways of royalty and the ways of piracy, but I know shite about Divinity. All these people lookin&apos; to guide me, and I&apos;m still not sure how one... &lt;i&gt;divines, &lt;/i&gt;or whatever.
+Not Ready
+What?! There&apos;s a detachment of Magisters down there looking for him - &lt;i&gt;go tell them!&lt;/i&gt;
+The Red Prince
+*Explain that you&apos;ve always been attracted to dark places.*
+Until I rip his body apart with my bare hands, I won&apos;t believe it.
+*He sings. The scar song swells: a thousand tiny needles in Sebille&apos;s soul, chipping away at her will.*
+Tutor
+*Ask to have a closer look at the doll.*
+Tomb of Vydia
+Is that so? Then I&apos;d say death is the only proper punishment!
+Egg, egg, egg. Egg, egg, egg.
+*Under the collar you find the sharpened points of metal rivets, gouging the poor dog&apos;s skin. The dog bares its teeth at you and growls.*
+I do not know what awaits. I do not see where the dark paths lead.
+*Continue to watch the flower.*
+Outsiders were often suspicious,
+*He touches the tip of his finger to yours... your mind opens... and a secret of the air implants itself within you. He smiles...*
+Divide and conquer: those damnable beasts almost managed it. We must remain vigilant!
+P... passed?
+*Perhaps she is not too far gone? Take her hand.*
+Free the Winter Dragon.
+Poison Cloud Arrow
+Tub
+Oh, but &lt;i&gt;do&lt;/i&gt; forgive me. Allow me to bow in gratitude.
+*You can&apos;t be fully sure he heard you. His attention stays upon the water and he whispers on...*
+*A flash of the needle. This time he&apos;s not quick enough. With lightning speed Sebille spears his hand. He howls with pain.*
+It&apos;s really been some adventure, so far, eh?
+The Lady Vengeance is, after all, &lt;i&gt;my &lt;/i&gt;ship. And now here we all are.
+Giant Poison Demon
+And here I thought myself so clever! Alas, Isbeil proved too unpredictable to fall into my trap. She is such a thorn in my side. Not to mention, in Queen Justinia&apos;s - and in yours.
+I&apos;m glad you&apos;re of such a mind. I never was one for gore, myself. But never mind - I&apos;ve got the plan, and you&apos;ve got the brawn!
+Tha&apos;s right, Your Highness. We&apos;re taking all your stuff. Any quarrel with that, you can take it up with Lohar.
+Key? What key? Oh, the key! The Magister who took Emmie dropped it when he was walking away. Did someone say Emmie? *Whimper* Emmie...
+See this uniform? That makes me and Tatcher here &lt;i&gt;Magisters. &lt;/i&gt;Not waiters. Get me? Good. Now, tell you what - to make up for your little social blunder, you can help us settle an argument.
+*Flash the invitation you got from the drunkard, and claim you&apos;re a good friend of the bride.*
+Help us, Fane...
+*Snarl.*
+*Lay your hand upon its neck.*
+Those creatures seemed surprisingly coordinated... Oh, and we seem to be missing some of our party.
+We found Eithne&apos;s remains in a tomb.
+*Maintain steady, calming eye contact and nod in affirmation. Yes, she is dead.*
+*Tell her that you&apos;ll be right back and take your leave.*
+Cycle through targets with [IE_PrevObject] or [IE_NextObject].
+The Red Prince escapes me yet. I shall hunt him from the shadows...
+*Lie that a &lt;i&gt;Magister &lt;/i&gt;is a jolly person in red, but they&apos;re very smelly so the cub should stay away from them.*
+It&apos;s quite expedient magic, actually. The ship is made of livewood - it has the spirit of an elven Ancestor Tree within it. It seems Dallis has found a way to bind that spirit to her.
+Flee from the current combat to a Waypoint Shrine of your choice.
+*Ask the spirit if all of the Magisters were killed.*
+*A thought suddenly enters your mind, though you&apos;re quite certain it isn&apos;t &lt;i&gt;yours.&lt;/i&gt; You hear the voice of Amadia in your head: &lt;i&gt;&apos;Do as she says.&apos;*&lt;/i&gt;
+Volumes upon volumes. A trove of history and knowledge.
+Blood Rain Skillbook
+Cavern Purple
+Then I must endeavour to improve, madam.
+Door to the Main Floor
+Innocent child. You will see. You will see what &lt;i&gt;must &lt;/i&gt;be done.
+*Ask Fane what he&apos;s doing.*
+I&apos;s ready, Got King! They came outta nowhere and killt us all! I&apos;s ready! Rise me up! Rise me!
+Hard to say, at a glance.
+Please. Don&apos;t make this harder than it has to be. It&apos;s not your fault, but you still stand in the way of peace. This must be the end of your journey. For the salvation of all Rivellon.
+[SEBILLE] *Tell the Magisters that that doesn&apos;t matter - it looks like they need some professional help.*
+Grenade Tremor
+My mates outside are beyond help, and you&apos;re doing no-one any favours by calling attention to us in here!
+Hotbar Lock
+There is another way... though one that is supposed to be reserved for the Keeper of the Cathedral...
+*He stops. Lets you come to him.*
+Hold it right there! It&apos;s time to get you back into a cell, where you belong.
+Honestly? Good things. At least a couple.
+Vrogir
+The vault has an inner chamber, but the entry mechanism is missing a piece. We should try to get it working.
+But I do wonder: can a god be called a god still, if they have to plead with another to assume the powers they seem to have lost?
+*Han stares at you for a moment.*
+Weight determines how many items you can carry
+Let&apos;s let the madman help us.
+Examine
+Loading failed. The following add-ons are missing: [1]
+There&apos;s got to be a way! We&apos;ll save Ma. I &lt;i&gt;know &lt;/i&gt;we will.
+The Lady Vengeance
+[UNDEAD] *Sniff and say that there&apos;s a big difference between Voidwoken and the Undead.*
+He always kept a socket peeled for signs of the Eternals,
+*Shake your head in sadness. What horrible sight has she seen to provoke such hatred?*
+*Note that the surly tone in his voice seems a little... forced.*
+Darling... To behold you in this naked glory is to surmount the boundaries of existence and step into a more perfect universe.
+[UNDEAD] *Insist that freedom from undeath is easily sought - but not so easily obtained.*
+You. The Red Demon. The exiled pig. I heard they&apos;d sent you here, but I&apos;d hoped you&apos;d have drowned yourself before crossing my path.
+*Woof!*
+*Wince and hesitantly offer your congratulations on her marriage.*
+*Enter the safe combination.*
+Oh, make no mistake. I&apos;m not asking you to support &lt;i&gt;me &lt;/i&gt;at the Wellspring - just not to be beholden to &lt;i&gt;him&lt;/i&gt;. To think for yourself. To make choices that you think are right - not what some half-dead God demands.
+A Web of Desire
+Switch trade window
+Yes, it is my home. It is a home for all those who need one.
+*Say you haven&apos;t made up your mind one way or another.*
+Feared
+*Ask what you should do next, if you were serious about ascending.*
+[SWORN] *Say you serve only one - and it isn&apos;t her.*
+*Kemm pretends not to hear you. He looms over Windego, a behemoth in contrast to her pathetic frame.*
+*Tell her you&apos;re still waiting for someone...*
+Farewell, lad!
+If the squatters were gone... I could start fresh. Scour the place down, get the school going again. Get out from under Lady Kemm&apos;s posh thumb...
+*Cough.* I pledge my heart, O Lucian, please return. I pledge my soul, O Lucian, please return. I pledge my life, O Lucian, please return.

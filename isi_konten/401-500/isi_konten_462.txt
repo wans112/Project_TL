@@ -1,0 +1,152 @@
+&lt;i&gt;...your sacrifice shall be made for you. Dallis...&lt;/i&gt;
+Zaikk&apos;s Talon
+[JESTER] *Immediately flop limply upon the ground.*
+Exploration Theme 14 Oud
+I was Edie Engrym, and my killer should be made to speak my name.
+The temple&apos;s path is magically blocked. There must be a way to deactivate it.
+Underground Passage
+You... look familiar. Have you... have you been hurting people?
+*The spirit of a Paladin surveys the corpses before him. His own lies near that of a Magister.*
+The Crypt of Lucian
+Bishop Alexandar and his right hand Dallis &apos;the Hammer&apos; slaughtered a Magister for helping Sourcerers escape the island.
+That much I can tell.
+*Tell him you&apos;re quite convinced, and ask him where you can find the Well of Ascension.*
+[IFAN] *Say that if &lt;i&gt;you&lt;/i&gt; killed Alexandar, he&apos;d stay dead.*
+Vitality Boosted
+*Shake your head and walk away.*
+- in my life. If I have to give it all up and become some limping demon thrall tomorrow... well. Let no-one say it didn&apos;t end on a high note.
+*He pulls a notebook from his robes and turns away, scribbling quietly and mumbling about &apos;lack of sensation.&apos;*
+[UNDEAD] *Explain that you&apos;re undead like her! Can&apos;t she let you pass?*
+Grinning Skull
+*Push her off of you with all your strength.*
+It would be such a waste to see a fine hide like yours rotting outside the elven temple.
+*Consume the spirit&apos;s Source. The spirit is a just sacrifice for your powerful thirst.*
+Bye, gorgeous. See?! I can lie! This is the best day of my life!
+It&apos;s true, then. Anathema, within reach.
+*Stare back impassively.*
+BLOOOOOOODDD!
+You&apos;ve solved [1] mysteries!
+Not something one forgets in a hurry.
+Psst. Hey. Mals. I&apos;m not... you know... &lt;i&gt;feeling &lt;/i&gt;so hot.
+A mysterious chunk of flesh. This could be anything. Or anybody.
+*Tell him his spirit is standing just over there.*
+I&apos;ve been working on this for some time now. You should have it. Because of you, one of these savages will never get their paws on it.
+With Dorian Gall&apos;s death, the Ros family drama is resolved.
+*Ask why Lucian insisted on such strong measures to block any approach to his remains.*
+Hold [IE_DestructionToggle] and click on the door to &lt;font color=&quot;008858&quot;&gt;attack&lt;/font&gt; it.
+Z
+Desert Night 01
+The Arena Master - the spirit of a large bird - bade us prove ourselves against a battle-hardened construct.
+&lt;i&gt;Take me.&lt;/i&gt;
+*Confess to your crime.*
+Curses! Please, you must return - you must find them. They&apos;re relics of great power, and if they were to fall into the wrong hands...
+*Decide that she&apos;s lying. Why should you believe a word she says?*
+After all you hear, you think only to take?
+Yes. The masses tremble at the Necrohound&apos;s might! We will... retrieve Anathema! Our enemies will bow before the demon blade!
+*The bare skin is taut and unyielding. You ponder how firmly attached it is as he breaks into a wide, toothy grin.*
+*Raise your lantern - &lt;i&gt;Kinnet&apos;s&lt;/i&gt; lantern - to examine the bodies: who are the dead?*
+*Ask what she thinks about Malady.*
+I&apos;m not so keen to welcome a scaleskin, but Reimond must hear your words. You may pass. But tell me, lizard: did you see signs of battle? Of our Magister brothers and sisters?
+*Bid her farewell.*
+Looking to shop? I&apos;ve got a few tricks up my sleeve...
+I&apos;ll keep those who died at the harbour in my prayers. Lucian watch over them.
+[1] makes you immune to environmental effects.
+Home, you ask. You know very well there&apos;s no such thing.
+A short though not-very-sweet note.
+We&apos;ll make our way home to the Halls now. I tip me cap to ya.
+*Agree that someone should pay for causing this kind of havoc, and take your leave.*
+and also stabbed in the back with a gutting knife.
+I&apos;m not sure how many songs this thing&apos;s got left in it, though. Best to use it when I know I need the boost.
+Then earn your passage! Vrogir does not reward the weak and wobbly. He cares not for your wits and wiles. He demands nothing less than the might of an ox and the brawn of a bear!
+Blank Water Scroll
+After all, what is a warrior without his sight? Give me yours. I assure you, they will be put to good use in the war against the Void.
+It kills me to lose good men, no matter how good the cause we&apos;re fighting. But they died holding up Paladin ideals, against Magisters &lt;i&gt;and&lt;/i&gt; against Voidwoken.
+I learned that Dallis and Vredeman indeed sought to access the Tomb of Lucian, and set off in pursuit. Whatever they intended to do, I had to stop them. So much still remained a mystery to me, but I felt that if I could confront Dallis, then I would finally have answers.&lt;br&gt;&lt;br&gt;I am about to cross the final threshold, bound to the God King. Both his destiny and my own will be decided by what comes next.
+Are you from the Ancient Empire? Maybe you know my mum!
+Held captive? By &lt;i&gt;Kemm...?&lt;/i&gt; Are you certain?&lt;br&gt;
+*Tell her you&apos;re a well-known friend of the dwarves, you&apos;re sure you&apos;d be welcome.*
+Last I heard, she was holed up in a house out in Paradise Downs, the farms to the north. There&apos;s more than a few Magisters around those parts, though.
+*An elegant and intelligent-looking lizard, she gives you a haughty look, then turns away.*
+Thank you for your help with that &lt;i&gt;thug&lt;/i&gt;. Rare is the human who goes against their own for an elf.
+*Tell her people care. All over the world there are still people who care. &lt;i&gt;You&lt;/i&gt; care.*
+Copy server ID to clipboard
+You must leave. The gate is locked forever. The lock is broken, the key is thrown away.
+It is good and right that you mourn the dead, Godwoken. But do not let your sorrow linger; many a good warrior has buried her courage along with the dead. Look ahead, not behind.
+*Ask if it&apos;s the Aeteran he is looking for.*
+Summon Poisonous Trunk
+She&apos;s alive! You did it! I&apos;ve never seen anything like that, not in twenty years...
+A large, resounding &apos;no&apos;.
+Since you found Adramahlihk&apos;s name, I can find his home plane. The place he stores his stolen souls. We&apos;ll go there and destroy the source of his power. When we return here, you&apos;ll find a little kitten to finish off - instead of a tiger.
+*Tell him you&apos;re from Fort Joy, and you&apos;re here to relieve him.*
+*Roost releases Saheila and stands up to his full height, fixated completely on you.*
+Indeed? You seem almost fearless in your conviction. But I know better. Stripped of their swords and shields, humans are as fragile as flower petals. &lt;i&gt;Admit your cowardice&lt;/i&gt;.
+Sweet Amadia, why do you test your chronicler so, haunting me with spirits...
+The active user [1] has signed out.&lt;br&gt;Please switch back to that user or go back to the title screen to switch to a new user.
+Defaced Shrine
+Ichor-Stained Letter
+*Move to attack.*
+[SEBILLE] *Say that he much overestimates your opinion of him if he thinks you and he worthy of a relationship.*
+A medium-sized potion that fortifies your constitution by scrubbing your insides from top to bottom.
+&lt;i&gt;WANTS!&lt;/i&gt;
+Get someone else to wear the ring.
+*Lean in and gently kiss her.*
+Poison Cloud
+Pox
+*Reach for your needle. It&apos;s just about time.*
+The Adventurer&apos;s Field Guide&lt;br&gt;&lt;br&gt;When worse comes to worse, and you really need clothes, don&apos;t forget where leather comes from: animals. Strip their hides and use your knife to turn them into something useful.
+Mind you, it could be a damn sight better than whatever Lohar would&apos;ve done if he&apos;d got his hands on us.
+Sandstone
+*Roll your eyes and turn away.*
+RUNE SLOTS
+Please, leave me alone! I can&apos;t risk the Paladins finding me, I -
+Our Shield speaks, Quercus! Prick up your phantom ears!
+Nurse Fa
+I hope you&apos;re right about it, Quercus. For all of our sakes.
+*Say that you need information.*
+*Reach out to touch her arm.*
+*Say that you want to see what exactly you&apos;re facing before you make such a promise.*
+Even a half-demon like Malady&apos;s not going to go out without leaving a little &lt;i&gt;magic&lt;/i&gt; behind. She&apos;s probably watching us right now, complaining about this whole purge thing.
+The spirit of First Mate Stubbs rings the ship&apos;s bell to torment his captain for losing the ship.
+*His frantic gaze passes from the blood-stained altar to you. Comprehension suddenly clears the agony from his face.*
+*Insist that the most vile of traitors still has yet to die: her.*
+Perfection must be mine again! Take me to the workshop. My masterpiece awaits.
+...for I must.
+as it returned to the shores of Reaper’s Coast.
+*Finish her sentence. Godwoken?*
+F16
+*Note the blood...*
+If only Gwydian could have heard you. I pray to the Seven I haven&apos;t lost him too...
+*Say you answer to no-one, and certainly no rat.*
+Whaddya want, tree-stalk?
+The Scion Sebille takes root. She is the new Mother. She is the tree of the world. She is... deliverance.
+We devoured the soul of the pirate captain that we found.
+Fish
+If I were the Queen of Rats, maybe &lt;i&gt;I&apos;d &lt;/i&gt;have a best friend who secretly wanted me dead, too. Dwarves have all the fun.
+*Almira scowls threateningly, while your god &lt;i&gt;shrieks &lt;/i&gt;inside your head for you to accept her offer.*
+[RED PRINCE] *Say there is no such thing as a relationship with slavelings. Ever.*
+Well, this won&apos;t do. If I can get stuck... then I can get unstuck.
+What a disappointment you are.
+We left the beggar&apos;s cruelty unpunished.
+You&apos;ll regret that, evil ogre beastie demon! My sword is too STRONG for you!
+*Sneer and say that everything humans do seems suspicious.*
+It&apos;s almost a pity we find ourselves on such opposite sides. All because of who you are, and all because of who &lt;i&gt;she&lt;/i&gt; is.
+GREETINGS LINDER KEMM - LORD OF THE MANSION - BENEVOLENT AND WISE
+*You are a Magister, and the Magisters stand for all that is good and right. The Magisters stand for Lucian. The Magisters stand Divine. And the treacherous Paladins are cutting you down.*
+Now go, and take this ring with you. It is the ancient Circle of Suns. By this ring I make thee one with fire, and one day, by this ring I&apos;ll thee wed.
+*Sebille&apos;s scowl is now a sneer. She points the needle at you as you approach, even knowing the translucent weapon can no longer hurt you.*
+Donna&apos;s Amulet
+*Say that you were just being curious. No harm intended.*
+*Your body convulses with your God&apos;s displeasure. Your head pounds; your bones ache. Ryker&apos;s smile widens at the sight of your agony.*
+*The jar smashes to smithereens on the floor.*
+Don&apos;t try that again. Or do you really want to star in a cautionary tale?
+As Sourcerers, we have been arrested by the Divine Order. The prison island of Fort Joy awaits.
+We defeated Bishop Alexandar. The way is clear. Hopefully, the Seekers have seized the ship. We will regroup at the shore.
+My love? My looooooooooooo...
+I figured you had the look of a criminal. Come on. It&apos;s a prison cell for you!
+Hrrm... you look the &lt;i&gt;parrrt&lt;/i&gt;, I suppose. We had orders to &lt;i&gt;tttake &lt;/i&gt;the island at any cost. We had &lt;i&gt;spppells &lt;/i&gt;and charms that were supposed to prrrotect us from the Deathfog...
+*Turn away. You&apos;re not sure you want to see this.*
+*He destroyed that woman&apos;s machine! Ask if that wasn&apos;t a little... rash.*
+Farm - Cozy Farm
+[OUTLAW] *Say you&apos;ve accumulated a number of interrogation techniques over the years. You&apos;re happy to put them to good use.*
+So how about it? Shall we travel side by side?
+*A ringlet of bright smoke comes curling. You clutch at it. You expect to feel guilt but you don&apos;t - you feel pride. The Voidwoken attack is the doing of Sourcerers. Of traitors. Maybe even of Paladins.*

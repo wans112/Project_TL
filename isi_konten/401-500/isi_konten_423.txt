@@ -1,0 +1,154 @@
+*Tell him you&apos;re taking that armour by any means necessary.*
+[OUTLAW] *Motion to your weapon and ask a single question: If you let it go, what&apos;s in it for you?*
+Er, how much?
+Never mind.
+*Explain that you read his diary - he had it planned from the start.*
+[LOHSE] *Lower your head, and in a quiet voice admit that yes, you are sinful. You have done terrible things.*
+Silence!
+She has no family that we know of. All she had was a pet cat. That poor girl&apos;s life is drifting past her thanks to that demon.
+*Smile at him and say you know him to be more than a brute. He contains multitudes.*
+Explore the Halls.
+Look - I don&apos;t want to argue. Follow the law, and we&apos;ll both be happy.
+*...and smiles.*
+Stay near me, all of you. You don&apos;t want to get lost, where we&apos;re going.
+Go. Speak to the Advocate. Make him happy. Bring him pleasure.
+*The boy stands back from you, steady eyes narrowed in a wary stare.*
+Henny
+[LOHSE] *Tell him your name is Lohse. Yes, &lt;i&gt;the &lt;/i&gt;Lohse.*
+*Inside you, Rhalic rumbles in protest.*
+Calm your jaw. It&apos;s like this: I didn&apos;t sign up to move Deathfog. Other weapons, even soulforged weapons, sure. But &lt;i&gt;Deathfog?&lt;/i&gt; Absolutely not.
+The shorrre... yes. After a rrrest.
+Our mate Borris got posted to Fort Joy for consortin&apos; with lizards, and Tatcher here still fancies a turn around the park with Lovrik&apos;s lizard. I say she&apos;d be sleeping with the enemy. What say you?
+I fear you do not understand our predicament, friend. Nor your own...
+*Ask what she expects from the newest addition to the Rivellonian pantheon.*
+The Divine will answer, but first we must ask!
+If you really must know, I haven&apos;t quite decided yet. I&apos;ve a frightful amount of things on my mind, hence my standing here, contemplating yonder waves.
+We landed on the island. We know we must tread carefully.
+Your well overflows, Godwoken, but I will stay as true to my word as I can. Accept this gift in lieu of the mastery you already possess, and thus I can no longer offer.
+Oh, well look at &lt;i&gt;you &lt;/i&gt;- an unexpected delight! I could make beautiful music with those bones of yours...
+*Sigh.* Correct. Perhaps I&apos;m still being too easy on you - any drunk on the street could&apos;ve gotten that right.
+Game Master
+Learn about the Death Herald ritual.
+HORROR! THIEF! HORRIBLE THIEF! It came in the night. It took the eggs! It scrambled away, fast, fast, fast!
+Micheil Ros&apos; cellar led us to the sewers.
+It is not the place for the mortal races to question the Seven. I grow weary of repeating this to young minds, but they all must know &apos;why?&apos;. And I always must always respond &apos;because they created us.&apos;&lt;br&gt;&lt;br&gt;They are not kind creatures, our Gods, but they are ours. They may have banished those that came before us from this land, but they gave it to us in their stead. It is our duty to worship.
+*Nod along. Okay, so what does it take? How do you become Divine?*
+My... father?
+All hell broke loose. Good times, good times.
+*Ask when you&apos;ll be allowed to leave this place.*
+*Sadness becomes anger as the spirit realises what&apos;s happening. &lt;i&gt;It is the ultimate betrayal. The spirit rages - *&lt;/i&gt;
+[MYSTIC] *Tell her the groom&apos;s name is... not the story of his soul.*
+But the Divine Order doesn&apos;t need you to understand. It only needs you to accept.
+I&apos;ve just got a small &lt;i&gt;errand&lt;/i&gt; to run, and then I&apos;ll be looking to get the hell out of here while I&apos;ve still got a neck to collar. How about we stick together until we get out of this place?
+Skill Panel
+*The soul jar of Xhaxh rests here. The stone is cool beneath your touch, and tendrils of Source twine around your outstretched fingers.*
+A delicately-perfumed letter.
+I can&apos;t bear it. There are good people on this list. People who didn&apos;t deserve any of this.
+UI Character Creation Edit Class Previous
+*She moves to pour more tea for you - then recalls your request and flashes a halfhearted smile.*
+*You hardly recognise him, but... there he is. Alexandar. You&apos;re shocked to see a Sourcerer&apos;s collar around his neck. He seems so different now, compared to how he looked back in school...*
+Character is receiving healing and armour restoration from linked character.
+[UNDEAD] *Shift uncomfortably. That sounds... terrifying.*
+Good luck, chief.
+Electric Infusion Skillbook
+Come on, damn you... stop bleeding!
+Do I look like I&apos;m going to cry on your shoulder? Don&apos;t answer that, I know the joke you want to make, haha, very funny, but you&apos;ll only get yourself in trouble. Now go do your shopping. I&apos;m done with yer.
+*Tell her the hunger she gave you hasn&apos;t quite abated. You don&apos;t remember it being this strong...*
+Whatever you did, I have never seen her so enraged. Please, let me be.
+Hmm. I&apos;m not falling for a lie like that!
+Movement Speed
+See wot I&apos;m up against &apos;ere?
+Even if the runes were glowing right, I still haven&apos;t sorted out the diagnostics...
+Don&apos;t stop - it&apos;s working!
+Possessed Child
+I&apos;m getting tired of this, Lohse. Surely you are too. Now &lt;i&gt;look.&lt;/i&gt;
+Those traders are entitled to make a living, but they could at least show some decorum. What if one of their own had been killed - would they be shouting and hollering then...?
+*Tut-tut him as you walk away.*
+Who &lt;i&gt;are &lt;/i&gt;you?
+Sure. Go ahead and stick your head in the sand. But you wait. Sourcerers&apos;ll come collect your head just like they did with Alexandar. None of us&apos;re safe.
+Don&apos;t find what I look for, but it still seems you have a knack for finding trouble. You&apos;re under arrest!
+Like so. A short, sharp shock. Your very last one.
+Snugs
+Scene Panel
+Here&apos;s the goods. Like you wanted.
+Trrrrok! Bock!
+*The dwarf takes no comfort in this. She shrinks back from you, hugging herself with trembling hands...*
+Aqua Necklace
+*Inform the guard you&apos;ve faced the Void and lived to tell of it. You can make quick work of this demon.*
+Gladiator
+*Ask what interest he has in the welfare of Sourcerers.*
+*The young woman stares at a trio of bodies - dead from their wounds, seemingly.*
+Alexandar is dead! My contract is fulfilled...
+Ophelia Doll
+&apos;Queen&apos;, my behind. Ya ain&apos;t much of a trickster, fatty. Bet if you played cards with a stacked deck, I&apos;d still win.
+*As you pull back from the dying creature, you feel a cold, heavy thump on your shoulder. You look up into the fierce red eyes of the raven.*
+Draggers
+They don&apos;t pay me to talk.
+I want no trouble, I swear. I&apos;ll leave all this behind and start a new life someplace.
+A painful death... trapped and defenceless...
+Ancient Illumination
+Steady Strap
+Some questions have no answers, Quercus. Why is that so difficult to understand?
+Are you the new servant then? A pity. Seems the standard is plummeting quickly. You&apos;ve brought my tea, have you?
+Sand-worn Chest
+*Explain how you got here - you were just investigating!*
+Mortals? You think we fear those simple beasts?
+You&apos;ve been up to no good, haven&apos;t you? What do you know about any recent assaults?
+Prince Charming
+Pirate Treasure
+You&apos;ll know. They&apos;ll find you. They&apos;ll seek you out. That&apos;s their job. HA! Get it? Yes, yes, of course you do.
+*Look at him curiously. What does he mean &apos;not his kind&apos;?*
+Heh, heh, heh...
+My Queen: the specimen before you is a Godwoken - a claimant to the divine throne.
+My vault is filled with relics from the war with the Black Ring. Armour, weapons, black magic, beautiful treasure.
+We have to find a way to get this ship moving. We can&apos;t let the Magisters catch up with us, we&apos;re too weak to fight them again.
+*Close your eyes. Suck in a deep mouthful of air. Let it fill you up. Exhale and open your eyes. This thing has no power over you.*
+Dream with me, my lord.
+*Take your leave.*
+Swapping health
+You mean that guy in the cage? I don&apos;t associate with elves. Fella says he&apos;s innocent, but you know how they lie.
+*The encyclopedia in Fane&apos;s hand floats up as he extends his hand.*
+*She averts her eyes and nods quickly before returning to her duties.*
+*Say you&apos;d like to travel with a Metamorph - someone who can transform themselves to best-suit combat.*
+UNDEAD LIZARD
+Well that&apos;s the case, how about you waddle along someplace else, eh? I&apos;m busy, if you havent noticed.
+*A huge grin slowly spreads across the squirrel&apos;s small face.*
+Talk To
+Ah, based on your performance so far, that&apos;s &lt;i&gt;cute&lt;/i&gt;. But I shouldn&apos;t judge your baby steps. The lion judges not the pussycat, eh?
+This lever works! I felt something shift behind it.
+You! I read about someone matching your description in the latest dispatch. And now there&apos;ll be &lt;i&gt;another&lt;/i&gt; tale about you for our war owls to whistle across the four corners of Rivellon.
+Quite the mess they made...
+Cook
+Find the druid.
+Some, maybe. But most of us are here to trade with Kemm. He&apos;s tough to nail down. Luckily, our appraiser Cat&apos;s already made her way into the estate.
+W-w-what do you &lt;i&gt;want&lt;/i&gt; from me? Leave me alone!
+Merciful Seven, grant release to your fallen servants...
+Hard to be excited &apos;bout &lt;i&gt;it &lt;/i&gt;when I don&apos;t even know what &lt;i&gt;it &lt;/i&gt;is.
+Knight
+*Look at him in surprise. What&apos;s he saying?*
+Carpenter
+Salutations, my friend! Your companions tell quite the tale of your heroics. It was you who sent us the war owl. Without you, the Black Ring-loving Magisters would still be in charge.
+A letter from Queen Justinia proves the conspiracy against the Magisters. This information is potentially explosive...
+*As you approach, Gratiana turns to you. Her moves are lighter now. Her voice is warmer, but still tempered by the scene around her.*
+*A White Magister looms over three magically-bound captives: captives clad in the dark shroud of the Black Ring. He slaps them in the face stingingly-hard, one at a time, clearly relishing his power.*
+*Tell it you would never steal from another.*
+[IFAN] *Say that you&apos;ve come to pay your respects to the culture of your upbringing.*
+Zharat
+*Ahem*. Go on then. Show me what he taught you.
+I shall rely on your honour and co&apos;on sense. Co&apos;on sense. Co&apos;on... I shall rely on your honour and intelligence.
+*It reaches out with its brittle fingers, and you hesitantly offer your hand. In an instant that feels like an aeon, your Source flows into the famished creature.*
+I have enough of this!
+This will delete the user profile &apos;[1]&apos; along with all of its savegames and settings. Are you sure?
+&lt;i&gt;Please &lt;/i&gt;spare me, if you want me to spare you.
+*Beast chortles and nods, then passes you a sly wink. Such a charmbucket.*
+*The egg nestles in the glowing fire.*
+Very well! Onwards then, to victory or death.
+I am in the old sawmill, where the trees are butchered and the Lone Wolves keep me captive once again - but you do not come. From there I escape, with help.
+A case of sticky fingers, eh? You pay for that!
+You &lt;i&gt;rotten&lt;/i&gt; silly princeling! I&apos;m sure you would have been most diverting. Now you&apos;re nothing but an unwanted witness, whom I &lt;i&gt;cannot &lt;/i&gt;allow to go freely...
+*Sigh* Well, that&apos;s that. I always knew I&apos;d die for Rivellon. I just didn&apos;t expect it was going to be in a small basement...in Driftwood of all places. At least now you know where to go.
+*Tell him you don&apos;t need anything - seeing her smile is more than enough.*
+*Reel from the blow but regain your composure. Her... champion?*
+*Ask if he knows where the Sallow Man can be found.*
+*The dwarf whimpers quietly, refusing to look you in the eye.*
+Operating Table

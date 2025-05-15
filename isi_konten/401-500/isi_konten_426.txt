@@ -1,0 +1,174 @@
+We met the spirit of Brother Morgan, who had been guarding a possessed little girl in the vaults. He asked us to help her if we could.
+[JESTER] *Say that you won a challenge of wits in a tavern once - you&apos;re sure you know more than he does.*
+Silent Monk
+*Confirm you see that as well. If divinity can be yours, then by all means you&apos;ll take it.*
+*She squeezes your hand gently, her soft skin gently resting on your bone, and tells you how much she&apos;s missed you.*
+I&apos;m glad it was you.
+I can&apos;t judge.
+But I will serve, for you sang the song - I &lt;i&gt;must &lt;/i&gt;serve. We may depart when you are ready.
+*Say this island hasn&apos;t belonged to Braccus for a millennium.*
+*As you approach the blacksmith, you feel a bony hand on your arm. Fane leans in and whispers in your ear.*
+*Call her by her true name - Iris.*
+RESULT
+And me? &lt;i&gt;I&apos;m gonna be the cure.&lt;/i&gt;
+*Smile widely and put your hands on your hips. Do you look like the criminal type?*
+Yeesh. &lt;i&gt;Sorry&lt;/i&gt;.
+Requisition for Sourcerer Food Supplies
+Lucian gave his life to protect Rivellon. If we let the Voidwoken get to it now... well, we&apos;d&apos;ve lost him for nothin&apos;.
+*Concentrate and push the spirit to creep forward slowly and silently.*
+Alone? Together? You... and... me?
+*Ask if this is where you&apos;ll go, if the demon succeeds in overtaking you.*
+Hoe
+We found Queen Justinia with her advisor Isbeil. Justinia agreed to hear us out.
+*Stand back. Remain silent.*
+Keep distant. When the craving ends, when my freedom is secured, I will again see you rewarded.
+Ah, you speak of my little helpers. Is there more to speak of? I am quite sure I have provided what you need. Unless, of course, what you need is... &lt;i&gt;more cheese?&lt;/i&gt;
+*Ask what you must do? How can you help?*
+Everyone calm down! No need to spill blood here.
+*The song sets your mind humming like a kiss. Give yourself leave to enjoy the moment.*
+Master would be impressed.
+*He gives you a stiff salute, then climbs the ladder to face his destiny.*
+*You&apos;re curious. What does he mean, breaking his heart?*
+If I must.
+*He stares at you scar for a long, probing moment...*
+Toggle Screenshot Mode
+[SOLDIER] *Commend the respect she shows towards hierarchy, but demand that she do as you ask all the same - some matters supersede normal protocol.*
+*Tell her you want to hear her poem.*
+Ryker is a Lone Wolf, with a contract to kill Godwoken.
+Small Frost Rune Of Power
+Terrified
+The Master, he&apos;s been using Lone Wolf mercenaries ever since your escape. You vanished, so he needed others to do his bidding.
+Black Ring Skullcrusher
+*You look each other in the eyes like two predators crossing paths. Just when you worry she may actually fire, she lowers her weapon.*
+Bird &amp; Wind Forest 06
+[IFAN] *Twist your mouth into a grimace. Tell her dead gods tell no tales.*
+Sheathe
+We always want to believe in each other. It&apos;s what separates us from the Void. It&apos;s what makes our existence worthwhile.
+This must be the place Lohar mentioned. It looks... unassuming enough.
+*Ask what the Black Ring is doing here.*
+*Inch back towards the hatch leading back upstairs.*
+Fresh meat!
+Clairvoyant&apos;s Cap
+*Squeek*
+Truly? A kind offer indeed. And you&apos;ve already proven to be trustworthy enough. You came back for the others on that ship after all.
+What else can I do you for? A potion? A scroll? Another dose of my ineffable charm?
+to begin turn
+For you, some spider silk gloves. These are spun by your very own queen for your very own tiny little limbs. They will protect you from my sisters and brothers out in the world.
+The only deal I&apos;m making with you is one in which you end up dead.
+Wait - you&apos;re no Magister. You&apos;re a &lt;i&gt;Sourcerer&lt;/i&gt;. What are you doing here, filthy dwarf? Choose your words carefully; my fists ache to meet a new face.
+Enter your email
+Coagulated Spit
+I swore an oath. I won&apos;t turn my back on it. Not now. Not ever.
+Oohhh... What... What happened? Must have been the turnips...
+Isbeil
+Create Oil Surface
+*You can take a hint. Say that yes, you have no intention whatsoever of standing in their way.*
+That said, I suppose I must own up to the fact that I find myself rather in between all-conquering and world-taming opportunities at the moment.
+Haven&apos;t ye seen the excavation site? There&apos;s real treasure there. Bones o&apos; the beast!
+Thank you.
+*Tell her the truth: it was a bumbling attempt at best.*
+But now... now I am whole.
+We told Swann that the young woman in his cellar was dead. He was not pleased.
+Dead Magister Knight
+*Then abruptly strikes herself across the cheek. She looks to you with a snarl. Blackness fills her eyes once again.*
+*Laugh. If &lt;i&gt;you&lt;/i&gt; are Rhalic&apos;s champion, he must be running out of options.*
+*The corpses of Voidlings lie in heaps around you, a miasma of cursed fluid pooling at your feet.*
+From the lichenous Void spoor marking this severed limb, you can be pretty sure you want to keep it at arm&apos;s length.
+Sure wish more of us could&apos;ve been saved.
+*Search her thoughts.*
+Grimoire
+*Say she&apos;s a lovely girl, but you aren&apos;t interested like &lt;i&gt;that.*&lt;/i&gt;
+What&apos;s on my mind, hmm? Why... texture... maturity... taste... but most of all, I&apos;m wondering what tickles &lt;i&gt;your &lt;/i&gt;fancy. Looking at you, I think it may be... &lt;i&gt;power.&lt;/i&gt;
+Player Gold
+[LIZARD] *Note that the kin of the Empire have not always respected elven ritual. Assure them that you would change this. Bow your head in respect, and murmur a prayer to Zorl-Stissa.*
+*He glances at his black hand as the darkness twists under his skin.*
+Charged Phlegm
+Magisters? Here?
+*Ask after this &apos;Griff&apos;.*
+Shift
+Arx. City of secrets, it is. And ya know what happens to the most valuable secrets? They get &lt;i&gt;buried.&lt;/i&gt;
+[IFAN] *Shrug. If the world needs a Divine that badly, so be it.*
+If the little Seekers manage to steal the Magisters&apos; ship - the &lt;i&gt;Lady Vengeance&lt;/i&gt; - maybe I&apos;ll find a way on board. Worry not about &lt;i&gt;me&lt;/i&gt;, I have my methods. Worry for your own self.
+There was an error connecting to your network service account.&lt;br&gt; Cannot cross-save.
+*Turn away. You got what you needed.*
+Dipped in Brew
+*She comes back to herself for the first time, and looks you in the eye.*
+*You are Zusan, a young lizard Magister, devoted to the Order. More than this you are in love - with a comrade, a human man of wit and kindness and sweet disposition, who goes by the name of Borris.*
+You had better apologise, woman. Right. Now.
+*Narrow your eyes. Still sounds like gossip to you.*
+I bet his pig knew about my husband before I did too...
+Earth attack [T]
+Ah. Right. I just - um - yes. Well...
+Sidewinder
+You have my thanks - if not for you I probably would&apos;ve been found, gutted, and salted.
+*Pat him on the shoulder. He looks like a sharp guy - he&apos;ll figure it out.*
+*Gently tell it to go on.*
+I mustn&apos;t fail next time. I&apos;ve no skills to match the conjurer&apos;s - I&apos;ll have to rely on sharp steel to prove myself worthy.
+As part of Operation Downfall, the wicked Justinia is shipping Deathfog to Arx. I fear the worst.
+Whatever for? The other gods will either bow to you, or be undone!
+And who&apos;re you?! Never mind - no time! Hurry on in and gear up. There&apos;s Voidwoken right out the front door!
+Thorny Guardian
+Smelly man threw my ball away and now I&apos;m sad. *Huff.* It&apos;s &lt;i&gt;my &lt;/i&gt;ball and I love my ball.
+For good? I&apos;m surprised. I would&apos;ve thought he&apos;d mastered some twisted self-necromantic trick by now. Ah well. Probably for the best.
+*Step back and let Ifan handle this.*
+Find the champion&apos;s treasure.
+Amazing to think those of us in the Order once assumed the Gods were with him and only him. That was before we found... the others.
+From her room in the Black Bull, the distraught Captain Ablewether claims to be haunted by her own ship&apos;s bell.
+North of here you&apos;ll find the ruins of Braccus&apos;s Source armoury.
+The Sourcerer&apos;s on the loose. Get him!
+*No doubt whatsoever remains: Sebille is a goddess.*
+*Your head shrieks as if split in two as the God King severs your link to the spirit. Windego looks to you in horror as the King seizes his property and collects on her promise.*
+Mistress is gone! I can still smell her... she must be near. I&apos;ll find her, no matter how long it takes.
+And I am sure you&apos;re a pure delight at funerals.
+But the matter at hand...
+*Turn to take your leave.*
+[MYSTIC] *Flood his mind with peace and light.*
+To the city of Arx we must go, where he disguises himself as Doctor Daeva...
+Didn&apos;t hear me the first time, parrot?
+Mind you, they hadn&apos;t tongues to bargain with, nor pockets for coin... BUT STILL.
+Story mode
+My teacher.
+Smoking Oil Grenade
+*Promise you will lead the people true.*
+*Gareth looks about, scanning the horizon, then looks back to you. A moment passes.*
+Well, that didn&apos;t work... another skull down.
+Online game visibility
+*Say that you&apos;re not his to command or punish.*
+[1] turn(s)
+Listen up, girl. You hear that?
+Have a life to reclaim, do I.
+Barking dogs in wolves&apos; clothing...
+So. The Whites have a... vault. Hidden below the barracks. I suspect the entrance is to be found in a store-room in the basement. There was always a White hanging around. You&apos;ll find it easy enough.
+Saheila never trusted the new Divine.
+Perhaps he&apos;s at his house near the barracks? Maybe he went there to fetch something to comfort me?
+My Precious
+I do not! I sound perfectly normal. &lt;i&gt;Obviously.&lt;/i&gt;
+Me neither.
+That&apos;s all the news that&apos;s fit to shout!
+*Shrug. Malady tends to know what she&apos;s talking about. But there are no guarantees in life.*
+*Tell her to go on.*
+&lt;br&gt;Base: [1]
+INTO THE DEEP&lt;br&gt;My Adventures in the Mines of Kraxkar&lt;br&gt;By Rubenos Longbeard&lt;br&gt;&lt;br&gt;The author says he travelled the famous mines and claims to have met many dangerous creatures of the deep. Strangely enough he doesn&apos;t seem to mention a single creature that you have ever heard of. The editor&apos;s note at the end describes the book as a &apos;dwarven social satire.&apos;
+Another Magister has disappeared. Higba is off the hook.
+Axe of a Devotee
+Spoon
+Leave, while you still have a chance, and don&apos;t touch the...
+&lt;i&gt;Thank you&lt;/i&gt;.
+...and I imagine Ros found Justinia a suitable hiding place.
+Giant Human Ankh
+*Ask who this Hannag is.*
+Overview
+Sorry, darling, but I&apos;m ever so fickle. Not a chance in hell.
+critically backstabbed
+Charm target Voidwoken.
+&lt;i&gt;Moving on.&lt;/i&gt;
+I will remain here and continue to search for the tinkerer. Hopefully they will suspect nothing, but please, be quick!
+This is her shrine. She has sustained me here for many years - even when the evils of Braccus&apos;s swamp threatened to drown me.
+*Keep circling with your thumb. You have time.*
+The proposal is simple, Godwoken. Find your way into the crypt. Find Lucian&apos;s tomb. Summon me. Together we shall kill the Divine.
+Words. Just words with you. Call it what you want. I sure as hell don&apos;t need your blessing.
+Sadha made it to the lizard consulate here in the city, but remains in danger. I should find her.
+Now if you&apos;ll recall, despite having no culinary skills whatsoever, as per your own testimony you can tailor and groom: two quite indispensable talents.
+So I was, but what have I to show for my efforts?&lt;br&gt;
+*Admit that you are a Sourcerer with unusual skills - including the ability to speak to the dead. What you said was the truth.*
+Iron Bar

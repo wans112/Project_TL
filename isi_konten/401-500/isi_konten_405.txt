@@ -1,0 +1,156 @@
+*Despite the overwhelming urge, say this is too dangerous. He is weak, yet he invites you to take from him!*
+[1] gives you +[2] to Lucky Charm.
+*Ask Ifan if he&apos;s angry that you stopped him from killing Alexandar.*
+I have a feeling about this place. I think it&apos;s possible the Master isn&apos;t far off.
+*Consume the spirit&apos;s Source.*
+*Promise her that she - and her boss - need your friendship. &lt;i&gt;Not &lt;/i&gt;your enmity.*
+If I&apos;m to keep bringing light to a city of shadows, I&apos;ll need coin. Sorry, friend, I can&apos;t go lower for a poem than what I ask. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Global Cooling
+Ah, a forge: The one place metal and bread are welcome in equal measure.
+*Tell him there may be glory, but there&apos;s no dignity. Consume the spirit&apos;s Source.*
+For centuries the King has been searching for a way back into our world. And beyond the Veil he found the force that could help him do it: the Void.
+Bring me a good lead and I&apos;ll throw in a shiny gold coin for you. How about that?
+Hmm? Oh, hello! Are you having as fine a day as I?
+*Confront her. Deathfog was almost released into Arx - and it would have been her doing.*
+And it means that elf ain&apos;t getting his claws on my corpse...
+*Murmur through chattering teeth that this doesn&apos;t feel right. This hunger is... unnatural!*
+In your dreams, buddy. And even then, probably not.
+How do you know?
+Drat.
+Never mind that - *urgh*- that I was here the entire time - apparently my cunning transcends time, space, and common sense.
+The arena...? The garrison knows better than to venture into such a place... but perhaps there&apos;s something in what you say. Go and investigate - find out more!
+These plants seem odd. I should be wary.
+Go - but the Swornbreaker is ours. Your covenant with the God King is your own burden to bear.
+You don&apos;t understand - no-one understands. My heart held such fear, but with Braccus I was safe. He needed me, and I needed him.
+*Ask why the spore is going to Arx.*
+My silence is worth more than what you have.
+Be silent! I&apos;m trying to listen...
+Glad you&apos;re with us, Han.
+My child... My child... Weep with me for The Mother Who Has Lost. Weep with me, and bathe in the tears of Amadia.
+Finder&apos;s Fee
+Ah, good. Then you know us. And you know we can help you. And perhaps... you can help us.
+Not one more word from you! &lt;i&gt;Get away!&lt;/i&gt;
+I truly hope they&apos;ll do better than Lucian. &lt;i&gt;Be&lt;/i&gt; better.
+They&apos;ve long used the sewers for smuggling contraband, but something changed recently - they seemed nervous. More guards, more hidden chambers, more secrets...
+Joinin&apos; up with Griff&apos;s the closest thing you can get to security around here. Family, too. &apos;til the Reds take you, anyway.
+*Tell him you are in neither camp, and quickly bring him up to speed on the last thousand years of history.*
+Arrow Steam Cloud
+That was Rosewood&apos;s favourite song, and Rosewood&apos;s dead. He&apos;d have liked that version. He liked a laugh, did Rosewood.
+*He raises one hand to shield the sun from his eyes and scans the horizon intently.*
+His lunacy is all-pervasive. Ignore it.
+*Tell him you know about the people in the stew. Ask him what the hell&apos;s going on.*
+How did you...
+So many people, all sacrificed for a lie. They deserve retribution.
+*The spirit wails and babbles incoherently. It&apos;s clear she knows nothing about the Black Ring.*
+Come hang from your father&apos;s shield. Let him lift you on his shoulders.
+*A shiver ripples across your scales. This version of &apos;justice&apos; sounds a lot like revenge.*
+Is it not enough that you travel with me? Must you speak too?
+Here, take this. It&apos;ll show you how to find my secret fort - and my treasure chest. So here&apos;s your last quest!
+*Search her for the reason why she would take the deal.*
+Drudanae Fiend
+Rescue Saheila from the Sawmill.
+They can keep calling us vermin, but we&apos;ll just keep putting &apos;em down!
+I am your servant, Master... but my hull is shattered. My end is near.
+Bow Kit Part III: Handle
+BLECH!
+Basic Stats
+Insolent wretch! No wonder the God King has not accepted you into his fold. But you will serve us. Now or later, you will serve.
+Game Master rolls [2] [3]
+*Say it&apos;s about earlier. On the boat. When the two of you...*
+*You stand with your unit in silence as Dallis barks a &apos;motivating&apos; speech. You don&apos;t watch the Hammer, but the Vredeman creature that trails her.*
+*There&apos;s no doubt in your mind: as a hero, and a king.*
+I missed it so. I spent millennia wishing to hear it spoken again, and yet I escape to find your viper&apos;s tongue?
+I need to get stronger. This is more serious than I thought. Look, I like you... but don&apos;t get in my way.
+The God King&apos;s agents are many. While he lives, I cannot be safe.
+*She hides her joy behind a cool look.*
+*She pauses, unsure of how much to share, but quickly sheds her suspicions.*
+Milk Jug
+Oh, goodness. Don&apos;t answer that, Beast - I shall assume you possess the proper wisdom to know the God King himself had gained your cousin&apos;s ear. The truth might rather disappoint me, you see.
+If luck is all you can rely on, you&apos;re bound to be unlucky.
+Those Arx fellows Reimond reports to. He&apos;s the one sent me here.
+Dallis The Hammer
+Shackles the possessed one, preventing the demon from getting free.
+*Exclaim in frustration that you don&apos;t know what the word is!*
+Oh! Oh! Listen carefully, now.
+To all lovers of verse, I bring glorious news: I have completed another modern classic! Listen now, and bask in its resounding refrain!
+[SEBILLE] *Say you don&apos;t know the place or time that marked your beginnings.*
+What shape do your ambitions take now? Have you come to claim the true power of the armour, my pristine essence?
+*They look at you, expectantly.*
+Removes Source Points.
+*Rub your thumb along your weapon. You&apos;ve heard enough.*
+Overwrite
+*&apos;Gave you life&apos;...? Ask what it means.*
+Character is pinned in place and cannot move or teleport. Deals [1] each turn.
+You disappoint me, my child. You have let yourself down.
+One nightmare after another! When will this torment be over?
+*Tell him that if it took him this long to figure out the Magisters are bad news, he must be frightfully naive.*
+I&apos;ve a feeling yonder creepy crawly is the Lone Wolf I&apos;ve been looking for. You wouldn&apos;t mind if I asked him a few pertinent questions, would you?
+The same way I do everything, of course: demonic guile. Good thing I didn&apos;t do it just for you. What a &lt;i&gt;waste&lt;/i&gt; that would have been.
+Before you go, there is one matter I would like to discuss. I offer you a chance to deepen our alliance.
+&lt;i&gt;Quickly.&lt;/i&gt;
+Awww, but I&apos;m having so much &lt;i&gt;fun! &lt;/i&gt;Lohse&apos;s nothing if not hospitable.
+[LIZARD] *Point at your accuser. They wouldn&apos;t say that if you weren&apos;t a lizard!*
+*Beast&apos;s bow is too deep and his flourish too flamboyant for you to mistake him as sincere.*
+They turned it into a holiday resort.
+Shyr, First Order of the Wolf
+Well, she...
+This won&apos;t stand. &lt;i&gt;This will not stand!&lt;/i&gt;
+*Tell him to blame the Voidwoken that killed his mother - not you.*
+Victor Voss? I should have known he could not hold his vicious tongue. Yes, I have my little helpers, and that&apos;s all you need to know.
+Spirit of a Cook
+Gold
+Axe Of Evil
+Forest - Village Ruins
+As we were about to confront Lucian and Dallis, the Doctor appeared and killed them both.
+*Tell her you really do need the larger sum.* ([GEN_CheckMagicPocketGold_4_5dac5eea-faeb-459c-b675-46c51519b784])
+Oh, one gets used to this kind of thing so quickly. This is hardly the first time someone&apos;s filled some poor fool&apos;s purse and bid him kill the prince.
+[The book is written in the uneven scrawl of a young hand.]&lt;br&gt;&lt;br&gt;Once there was a HERO who was named Mody. Mody was a knight, also he was a prince. One day he was in his kingdom giving food to hungry people when red monsters with red capes and red eyes grabbed him away. They did bad things to the king and queen.&lt;br&gt;&lt;br&gt;The monsters threw the hero Mody in a prison. He found some friends in a dark cave and they were nice even though they didn’t have to be. And that’s how the hero found out that he could still be happy even if people and monsters were not nice. Because some people would still be nice anyway.&lt;br&gt;&lt;br&gt;TO BE CONTINUED!!!!!!!
+Explore Adramahlihk&apos;s home plane.
+Stern Room Door
+*Little &apos;Alexandar&apos; gives you a glum look. His lower lip protruding, he folds his arms and scowls.*
+Siva&apos;s standards were always... uneven. Looking at me, then looking at you - that hasn&apos;t changed.
+*And as the feeling reaches your neck you realise that this is your imminent death - a death from which you cannot return.*
+Yes, where I thought I would find stupidity, I found cruelty.
+You expect me to swallow such a blatant lie? Your corpse will fester in these ruins!
+I wonder, Quercus, if the tall ones can save a city, perhaps they can save the world?
+Bears ahead.
+*Take a step back. Whoever they are, they&apos;d better cut out the charade.*
+[SEBILLE] *Tell Han you intend to get off this island; you&apos;ve got business elsewhere.*
+Find the Swornbreaker tablet.
+Kill the Doctor, &lt;i&gt;please&lt;/i&gt;. Nobody is truly safe in this world as long as he draws breath.
+*The spirit seems confused, lost. It looks away, as if hearing a sound, and starts to fade slightly.*
+*Tell her she should know a thing or two about powerful evil.*
+*Leave the spirit to her misery.*
+*...then takes you to bed.*
+Don&apos;t you see, you who wants to be emperor, that you&apos;re enacting the downfall of our race?
+As I thought. Blood even colder than a snowbound lizard&apos;s.
+Strange constructs burst from the wedding cake and attacked.
+*The spirit inclines her head towards the kitchen.*
+With the old ones I danced on the ocean. Vredeman made me strong, but his magic was dark. His magic was old. My strength ebbs away. My heart sinks. The end is almost here.
+Claw
+I know of ways to impair such demons. I will show you a place. The treasures there will sap its will while aiding yours. I implore you... let Eleanessa be at ease.
+I&apos;ll scholar you!
+Letter From the Doctor
+*Shout for help and hope those above will hear you.*
+We sided with Gareth against Alexandar.
+The spirit of the One is here - in you, and with us! Never thought I&apos;d see the day...
+Loremaster&apos;s Chest
+Ice King
+Well, who wouldn&apos;t? &apos;Karon the Divine,&apos; said the Seekers. I was flattered. My ego loved the idea.
+Lord Arhu has returned! Thank the gods.
+There are memories to be had from flesh, and now from spirits too. How delightful.
+May your god be with you.
+Living Wall Scroll
+Magister Assassin
+That&apos;s easy to say with a weapon in hand and magic at your fingertips...
+Vaporise
+*She barks a dry, joyless laugh.*
+*Tell him it&apos;s time to get back to the ship.*
+*Try to help her pry the collar off.*
+She is Change, just as much as you are.
+Stop that. Don&apos;t be so easily defeated. It&apos;s pathetic.
+Isbeil may pay for unleashing the Deathfog on Arx, but for the city it will come too late.
+Sourcerers. Like yourself. Seek them out and you might find what it is that they seek.
+Hey! You better stow your weapons!
+*Ask who&apos;s in a hurry to leave...*
+*Announce that the cook in the tavern is behind the disappearances of his comrades.*

@@ -1,0 +1,155 @@
+*Say your collar is mighty tight: ask Han where the person who removed his is.*
+So what&apos;s it like? Being alone in your head.
+*Her kindly eyes twinkle in the light of the cooking fire.*
+[IFAN] *Tell her true: you are Ifan ben-Mezd of the Lone Wolves. And you can see she&apos;s had extensive professional training in the Ancient Empire.*
+*Shrug. You don&apos;t care what Murga wants. You just want to fight.*
+targeted
+Do as we do. Stay far away from Arx until the troubles clear.
+You may not believe me, but... what I did, I thought I did for the sake of my people. The sinking of the Peacemaker. The Driftwood smuggling operation. The Deathfog. Blackpeak Isle...
+Ancient Empire Consulate
+What a way to wake. Wooden boards and iron shackles... The Divine Order&apos;s hospitality leaves much to be desired indeed.
+Most powerful demons have a plane like this. Nothing they enjoy more than a private playground where no prying eyes can interfere with their...&lt;i&gt; fun.&lt;/i&gt;
+*Smile to yourself and say that you&apos;d choose a warm rock over a damp hole any day.*
+[SCHOLAR] *Express your shock. These are not ordinary flames; these pigs are engulfed by necrofire.*
+A memento from your lizard friend&apos;s basement. I hope you put it to better use than she did.
+I had tasked Isbeil with carrying out a great duty in my name... a duty which is now going &lt;i&gt;unfulfilled&lt;/i&gt;.
+Little to see here but a bunch of smoke and mirrors. This newfound power is the work of your own imagination, and nothing more.
+*The White Magister yanks her head towards the hanging man and scowls.*
+*Brahmos the Wanderer told the Red Prince about the dragons. Is that what this is all about?*
+I am blessed, shadow-veil. I glide on Lucian&apos;s breath and feed on his sighs and smiles. For him, I would walk the Path of Blood. He needs only sing the command.
+*She draws a deep breath and pauses, as if preparing to share a great truth - but exhales without saying a word.*
+Enchanted Statue
+Atta Godwoken.
+He was a child, rebelling against a tyrannical mother. The Mother Tree is at fault.
+Don&apos;t just leave me here!
+We are no better than the God King if we don&apos;t release her from this agony. Give her the scythe.&lt;br&gt;
+*Insist he hear you. You are his equal. Your presence here proves it.*
+There&apos;s only one good place for violent criminals like you: prison. Come along!
+*Examine the object.*
+Careful you don&apos;t get in the way up there. Jonathan&apos;s blade is ready, &apos;n&apos; I doubt he&apos;ll be caring much who or what he slices.
+Load
+*Reach for your weapon. This doesn&apos;t look good...*
+I wonder what I&apos;ve stumbled upon.
+Huwbert&apos;s Encyclopedia Vol. 42: Blackpeak Isle
+Flee to the shadows, coward! Champion!
+This life, this plane, it will be as it always is. So, too, will Divinity.
+I&apos;ve been striving my whole life to prove mine wrong. To, um, &lt;i&gt;zero success. &lt;/i&gt;So far.
+The figurehead has certainly caused a commotion lately. But then again, so have the doors downstairs. Everywhere you look, a hunk of wood looking to incinerate or stymie you.
+*Ask if that&apos;s why the shrine is here in the swamps - because they&apos;re so magical?*
+*Offer a borderline-sincere apology, saying it was merely a bad joke.*
+*Say that you found them, but you have some questions...*
+*He whispers loudly to the other Magister.*
+Can only be cast in combat.
+&lt;br&gt;A D R A M A H L I K H !
+*You see no blood or signs of struggle. The surrounding vegetation is green and healthy.*
+If all the world were made of gold...
+I got a bone t&apos;pick with this bastard, and you&apos;d have me pickin&apos; my teeth instead?!
+I t-trust you. It looks like I have no choice.
+But how dearly I want to cook for my sisters again!
+She is fickle, for she is Change, just as much as you are.
+Is it that easy for your kind? Plant a tree and grow a new god? Sprout one in a glass house? Ha. No. Unless a Divine ascends... it&apos;s over. Forever.
+Cuirass of Contamination
+Dallis and her White Magisters are determined to purge the world of its Source. They must be stopped.
+Door to Eternity Skillbook
+*Take your leave*
+*Keep your calm. Ask where he is now.*
+*Point to the hatch beneath her. What&apos;s down there?*
+Magister Julian paid us for killing Lohar.
+Bye-bye.
+Chunk Of Flesh
+Blank Necromancy Skillbook
+The Deathfog bomb that ended the Chaos War killed Black Ring and elves alike.
+Soot-encrusted and singed with esoteric symbols, this wand smells of sulphur and the ashes of long-dead fires.
+*Say that people saw you enter here. If you vanish, the Magisters will figure out the truth in no time.*
+Can it really be? Is it one like you I must give thanks for unbinding my chains?
+You know what? Today is a rather fine day. Sunshine and an easy breeze. Yes, I&apos;ll let you live. I&apos;ll even agree to travel with you, provided we talk to that lizard I mentioned.
+Godwoken...
+Not a chance, Egbert. You&apos;ll never find me!
+Mad? No. Insufferable? Surely.
+*Tell her you&apos;re a friend. Conway and Lyn would vouch for you.*
+Walk forever in Amadia&apos;s grace, child.
+*Consume the spirit&apos;s Source.*
+*MOO!*
+Voice Dialog
+*B...ock...*
+*The glow envelopes you. Before you extend the threads of reality, waiting to be plucked.*
+Well spoken! Advice I will duly follow.
+*Turn and leave. You&apos;ve better things to do than badger some dwarf hiding in a den.*
+*Question if Alexandar&apos;s come around at all. You have a lot to say to that bastard.*
+Apprentice&apos;s Sword
+*Ignore the warning and stand your ground.*
+*Ask why she&apos;s still here if her friend knows a way out.*
+*You look out to the endless beyond. The sun&apos;s light plays upon the waves, just as it always did. The sails flutter in the wind, just as they always will. And yet something is different. &lt;i&gt;You&lt;/i&gt; are different...*
+How d&apos;you reckon she got her name, anyhow?
+A dishevelled dwarf barred our way to the cellar... until we mentioned Lohar.
+Medium Finesse Potion
+The Inquisitor strolled through the town’s silent streets. &apos;One among you is a practitioner of dark magic. Show yourself.&apos; As the words faded, a shadow emerged from the far end of the square. &apos;Another foolish Source Hunter?&apos; it called. &apos;Run off while you can. This town is mine.&apos; The Inquisitor stood firm. &apos;No longer.&apos; In the distance, the dark mage&apos;s fingertips glowed sickly green. &apos;Then die.&apos; Green sparks traced spiralling arcs towards the Inquisitor, though none hit their mark as it darted forward. One fist sent the Sourcerer sprawling. &apos;Nicely done,&apos; the figure croaked, &apos;but at this range I won&apos;t miss!&apos; His hand had only begun to blaze green once more as the Inquisitor sent an arc of electricity into the dark mage&apos;s chest. &apos;Neither will I&apos;.
+Possessed Arbalist
+*Tell her the truth: You&apos;ve come from Fort Joy.*
+They were my home until I was old enough to join the Order.
+*Snifflesnifflesnifflesniffle* You! Sourcerer! Blood? No! Go! *Bark!*
+The ring... please find the ring...
+Lohse&apos;s demon lives in Arx. While we seek Dallis, Malady will try to find a way to weaken him.
+*Ask if he really thinks the tinkerer is still here? Surely he&apos;s escaped by now...*
+The Swamp
+Poison Incarnate
+[IFAN] *Smirk. It&apos;s best he not know your name. Trouble seems to always follow.*
+A dangerous criminal loose and we&apos;re prodding rotten fish.
+It&apos;s why he was never a proper fit for the new Order. He&apos;d rather be&lt;i&gt; good &lt;/i&gt;than &lt;i&gt;right.&lt;/i&gt;
+It&apos;s funny, without someone to fight, life seems almost... empty?
+...dead?
+There, Quercus. I have given the creature an advantage against the Great Acorn&apos;s servants. Now, shall we move on already?
+You&apos;re the new Divine? That&apos;s so cool. What&apos;s it like?
+[1] doesn&apos;t know this skill.
+*Tell her she has nothing to fear from you.*
+Dry and withered, this wand seems to whisper with the winds of the Blood Forest.
+You shouldn&apos;t blame her; most of us would do the same. But you can free her - with the Swornbreaker.
+A key bearing the emblem of the Magisters, Chunks of flesh appear to be caught in the whorls of its decorative stem.
+Unfortunately for me, I&apos;ve grown rather fond of you.
+What is this? I do not understand... I met my love, but my love has gone... What am I?
+I&apos;ve heard about you, Lohse. You&apos;re the amalgam too hideous to contemplate. One who has a demon coiled around her Godwoken heart.
+[JESTER] *Giggle. Based on the current state of Arx, Alexandar skipped the dark age and leapt right into the always-on-fire era!*
+Owlclaw Blade
+*A ghostly aura shrouds the log, along with a penetrating, icy cold.*
+Elf
+Oh but you &lt;i&gt;must&lt;/i&gt; visit the cathedral! Please do! The more pilgrims pray for his return, the sooner Lucian will walk among us once more, just like the prophecy says!
+Ya think I&apos;m worried about a buzzing gnat? Seen dozens of wannabes just like you over the years. Ya couldn&apos;t slice soft butter with a flaming sabre.
+*Tell her a fight is probably inevitable. Ask her to fight with you when the time comes.*
+*Han stares fixedly at the dirt floor, twitching lips giving away the grimace he&apos;s trying to hide as stinking ointment is applied to a deep gash on his leg.*
+Find Withermoore&apos;s Soul Jar.
+[JESTER] *Make a lewd moan. That&apos;s too bad. You&apos;re a conoisseur of the erotic, after all.*
+If you want to help, then you find the craven White that ordered their slaughter. Anyone that stands between you and truth, no matter the flag they fly or creed they follow - make them &lt;i&gt;bleed.&lt;/i&gt;
+*Take her into your arms, into the space that held your heart, into your very being...*
+|Pain Drinker|
+What sort of madman would cage a man over a missing hit of drudanae?
+*Howl!*
+As such, I had rather marry Bestia, Queen of Orcs, and spend the rest of my days on hands and knees serving as her footstool than travel alongside you for one more infuriating moment.
+Vitality
+I said keep away from me!
+Bat
+Report back to Grog.
+*Toss him his sword.*
+What were they thinking standing against an Eternal? I almost pity the poor, ignorant beasts.
+Too bad she ain&apos;t so imperial, faithful, gracious, honourable, or excellent.
+I got my good eye on you, bub.
+*A vision consumes you. You see again through ancient eyes.*
+How &lt;i&gt;dare&lt;/i&gt; you. &lt;i&gt;How dare you.&lt;/i&gt; I&apos;m forced to dig my murdered parent&apos;s graves. To watch the soil cover them, little by little. And you suggest they&lt;i&gt; deserved &lt;/i&gt;this horror?
+Autumn Ring
+We ready an attack on the Lady Vengeance, the Magisters&apos; vessel. Join us - the Divine wills it!
+*His words pierce you like daggers.*
+That cannot be the best lie you thought of. Vandal!
+You smell unclean... would you like to be clean...?
+The mummified hand of the long-dead Lord Eredor. When you pick it up, sparks fly from his dessicated fingertips.
+Klaud... so close to escaping...
+*Let him think what he must. You care not a jot.*
+And should you find the one I hunted, unite his heart with a blade, I beg of you.
+Vial of Marrow
+[This manifest lists prisoners bound for Fort Joy. One name is circled, with notes scribbled in the margin.]&lt;br&gt;&lt;br&gt;Daeyena&lt;br&gt;&lt;br&gt;This elf is trouble! Calls herself a ‘Scion’. Has some strange spores, very angry when confiscated. Sending three samples back for further research - two to Blackpits, one to Arx. Keeping the remaining two for Alexandar.
+If you cross paths with her, be sure to break her. I doubt you will get another chance.
+Fleetfoot
+[1] gives you 2 bonus points in [2], but you lose a point in Intelligence.
+Can&apos;t believe I fell for &lt;i&gt;you&lt;/i&gt;.
+[Translate98_dd0ea5df-22aa-4fec-b4ff-d16915867f1c]
+Bear Talk
+Spirit Chains
+You mustn&apos;t depart - not yet! My egg is ready to hatch.

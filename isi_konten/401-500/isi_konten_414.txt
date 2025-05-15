@@ -1,0 +1,157 @@
+What is it, weirdo? *Whispers...* Your kind&apos;s gatherin&apos; in a cave to the east. Head there if you wanna keep your face in one piece.
+Firestorm Trap
+A rare element for which any jeweller would likely pay out the nose, ears, and other orifices.
+[SOLDIER] *Tell him to obey orders or by Lucian you&apos;ll see him drummed out of the Order.*
+Staircase to Paradise
+*Hypocrisy.*
+My lucky day! A third pyramid.
+*Change the subject.*
+My furry friend, dead by the hand of a brute. Would they kill me also?
+Summon Volatile Voidling
+Seems like everything&apos;s in order. Thanks for being a good sport about it.
+Water Immunity Aura
+I pray you will strengthen their spells and set their blades aflame.
+Show world tooltips
+*The spirit recoils from you, but has nowhere to flee.*
+He fell for you. It happens. I wouldn&apos;t get big-headed about it.
+*Slit her throat; better to end it quickly.*
+*Excuse yourself. You&apos;ll fight no one now.*
+*Agree to take her with you.*
+Indeed, he may come to fear you. If you do as I say.
+The Voidling died.
+We told Kemm about the plot, but he felt Dallis wouldn&apos;t get into Lucian&apos;s tomb without Arhu. Our search for the Hammer continues.
+Void-Tainted Disembodied Foot
+The Lady Vengeance is made of the livewood of plundered elven Ancestor Trees.
+*You start to speak, but it&apos;s too late. &lt;i&gt;It &lt;/i&gt;breaks free, and the voice that emerges from your mouth is not quite your own.*
+Then you must pay!
+*Ask if he has any advice for a recent arrival.*
+*The captain snaps his fingers. Pain lances up your back as the arm inside your bag escapes and scurries to Zapor&apos;s empty shoulder.*
+Hmm - that click. This floor plate triggered something.
+No more disappearances, no more deaths. It seems justice has been served well.
+[OUTLAW] *Survey your surroundings. She was willing to sacrifice her children to keep her nephew safe?*
+Linder Kemm.
+*Say you have your own troubles and can&apos;t take on his as well.*
+Nothing, nothing, and &lt;i&gt;more&lt;/i&gt; nothing. This is a waste of my damn time!
+I mean it. Who &lt;i&gt;are &lt;/i&gt;you?
+Dwarven Wedding Invitation
+*Admit it.*
+Without you, we&apos;d be dead on that beach. My thanks, Lohse.
+Potent Ferocity Herbmix
+*An emerald five.*
+[BEAST] *Tell him you know the set-up for a quick getaway when you see it. Ask who&apos;s in a hurry to leave...*
+May Duna ever watch over you.
+There&apos;s only one reason you&apos;d come to Arx: you&apos;re looking for Justinia. You&apos;re a fool, Beast. Heed my advice and &lt;i&gt;leave &lt;/i&gt;this place before you do something stupid.
+Magister Priest Medwyn
+Death Acid
+If you should die at the elven temple, please visit my spirit board on your way to the Hall of Echoes.
+*Say you didn&apos;t meet any god, but you learned how to grant blessings anyway.*
+*Mention the pilgrim who just died undertaking the Path of Blood - did he know that would happen?*
+*He notes your gaping mouth and slaps you on the back with a guffaw.*
+I&apos;ll have to deal with this myself!
+Character will get an extra turn in combat.
+Farmhouse Key
+The Doctor&apos;s demon servants thanked us for our help on Bloodmoon Island.
+Many souls are lost, but many more will be saved thanks to you.
+*Say that his reluctance to talk about himself makes you doubt that he&apos;s trustworthy.*
+*Say you&apos;re alright, despite everything that&apos;s just happened.*
+You get moss for ears? Scram!
+[The book contains the description of several magical artefacts that have been forbidden by the Divine Order. As you flip through the book, your eye lands on a section about Idols of Rebirth.]&lt;br&gt;&lt;br&gt;Infused with ancient magic, these small statues allow the wielder to return to Rivellon after death. The statue grows ashen and loses all magical properties after use.&lt;br&gt;Impish Tinkerers were widely known to travel with such idols on their person. Some sources even suggest these tinkerers could restore the magic properties of an inert idol using the power of a Resurrection Scroll.&lt;br&gt; Meddling with the sanctity of death is a grave offence and all idols have been destroyed and outlawed. Those with the knowledge to craft them have been duly re-educated.
+*Mention that Arhu has disappeared, and ask if she has seen him lately.*
+Rabbit Meat
+Long destroyed, surely. Braccus wanted no-one to have that knowledge. He fed me to the flames so I&apos;d keep my secret - he&apos;d have had no qualms about burning a few scrolls...
+*Agree: let&apos;s move on.*
+*Show him your grass-stained fingers.*
+&lt;i&gt;A false Divine, of course, I shall have no power. But the world will not know this. I shall demand peace. And we shall have it.&lt;/i&gt;
+Yes, I&apos;m still here, contemplating my throne...
+*Sniffle.*
+The people wanted to be closer to Lucian. Now they are.
+*A pale young man gazes at the square, seemingly lost in his thoughts. His face and clothes are daubed in what appears to be red paint. Nearby, a canvas sits upon an easel.*
+*...but before he can, a slash opens across his throat. Ghostly silver sprays forth. His eyes bulge. He clutches his hands around his neck...*
+*Something grabs onto your foot; its grasp burns like white hot fire.*
+Neither party&apos;s earned my allegiance. Gods and kings... no thanks.
+Be wary of each step you take - and each you do not.
+*Say you won&apos;t stand for this. You do not fear the King.*
+Amyro
+*Hand over more than you think this is worth, shaking your head at the shakedown.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Not finding anything I shouldn&apos;t be finding in here.
+Lucian&apos;s tomb is close. You&apos;ll be back to your old self soon.
+Whyyyyyyyyyy you fiiiiiiiiiiiiiight with meeeeeeeeee?
+*He moves closer and his hands become the vines he spoke of as they meander all over your body.*
+*The spirit of Wyvlia takes in her surroundings silently, her spectral face forming a mask of &lt;i&gt;cold anger.*&lt;/i&gt;
+Missus Griff still lets me come over and play as long as I don&apos;t run off too far. Sometimes we do our A-B-Cs.
+Papa? What&apos;s happened? What have they done to you?
+Lizard shieldsmiths may not be the most creative, but their shields stop enemies getting creative with your innards.
+Why do you lurk in my cellar? Tell me now, and tell me true...
+Failed to load at least one active add-on. Please check the mods menu to make sure any incompatible add-ons are disabled.
+*Say it had to be done. The demon must be stopped. If this is what it takes, then so be it.*
+Anyway. There&apos;ll be plenty more time for music yet. Of that I am &lt;i&gt;very &lt;/i&gt;sure. Stuff I&apos;ll write myself - without anyone&apos;s help or interference.
+We can&apos;t! You know that, don&apos;t you? Until those Shriekers are taken care of, we can&apos;t go near them.
+The Black Ring flocked to him after Lucian unleashed his Deathfog. The Undead stand by him because he offers them a return to life. I don&apos;t know why the Voidwoken flock to him...
+I have given you what you asked, and still you&apos;d slay me? Very well. Let&apos;s dance, human.
+*The skeleton turns to you in shock, his hands bunching to fists.*
+For your. Safety. Please. Stand back.
+*Lean towards him. Let him see your strength, the likes of which he has never seen before.*
+Were you expecting a tail? I&apos;m sure I could find a mask if you would prefer something a little more reptilian...
+You dare pick pockets? You&apos;ll pay for that!
+Looking stronger, aren&apos;t they? More... durable than the last group Dallis sent.
+Poison Totem
+*The hum takes you once more...*
+Dead Magister Grunt
+Until I hear otherwise, that tinkerer is my target. And I won&apos;t be distracted by some wild goose chase plucked from your imagination.
+A-a-a-nyway, what were we talking about?
+[1] got an Attack of Opportunity
+*Note that you have her at close quarters and yet you have not attacked. This proves your good intent.*
+*It mutters something low and violent in a strange, jagged tongue. All warmth drains from your body, leaving you corpse-cold.*
+Rather hard &lt;i&gt;not&lt;/i&gt; to think of divinity, wouldn&apos;t you say, once it&apos;s become a promise?&lt;br&gt;
+Marcus - I know you can&apos;t possibly understand, but... she told me of living weapons, crucified monstrosities. Marauding warships searching for victims, demons scurrying along the streets.
+*...and the air goes suddenly, eerily still - then breaks, a flash of heat hitting your face like fire.*&lt;br&gt;
+*The blood-flecked beak lunges at your eye, and you feel it - you feel it tear through the lid, through the jelly, and crack against bone.*
+*Fold your arms. You think you can wear  the door down with silent tenacity.*
+*Leave the poor woman to her thoughts.*
+The last one, though... she wasn&apos;t like the others. A lizard named Hannag. We housed her and fed her. Robes like a wizard&apos;s, voice like a queen&apos;s. Voidwoken appeared before long, and Paladins after that.
+[OUTLAW] *Grin. Tell him he said the magic word.*
+...the House of Law, I&apos;m sorry to say.
+Food Trader
+Wouldn&apos;t you like to believe that.
+*Tell it you&apos;ll do as you please.*
+I can feel my joints freezing up already...
+*Gently touch her shoulder.*
+We have entered a vault that lies beneath a blazing sculpture. What lies within...?
+Assassinate Wyvlia for Magister Carver.
+[ELF] *Express surprise that she&apos;d show interest in an elf.*
+It&apos;s as if I&apos;ve emerged from the dark. So beautifully bright.
+Fascinating.
+*Urge him to tell you the truth: is he dying?*
+[This thick and peppy guide recommends visiting a number of Arx landmarks, including its famed cathedral - especially on Lucian’s day, the city’s busiest holiday. It also makes a cautionary statement not to attempt a challenge called “The Path of Blood”, and to ask Arhu, keeper of Lucian’s crypt, about the history of the trial.]
+The Danse Macabre. Yes, I recall.
+*Sigh.* I know. Lucian&apos;s plan has failed. The world needs a Godwoken to ascend.
+Huh.
+There shall be a new Divine, and he shall be a red-skinned prince... There shall be a new Divine, and he shall be a red-skinned prince... There shall be a new Divine, and he shall be a red-skinned prince...
+*Silius. You&apos;ve not even a trace of memory left. You killed him because the Master forced you to.*
+3
+I trust you&apos;ll find the compensation for your troubles... adequate. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Pfah! Thank the Mari, more like! The grenades helped, too, to be fair...
+A thin journal dampened by blood and salt water.
+*He gives you a defiant look.*
+*The altar waits for... someone.*
+I didn&apos;t escape one demon to serve another. You haven&apos;t seen the last of me, but you should wish you had.
+Chanterelle Seedling
+*Offer to find some water to pour on the flames.*
+Petrified Plunderer
+But you will.
+*Tell her to slow down.*
+No! No...
+You&apos;ve done right by me, Marcus. For that, I&apos;m grateful.
+*Note that they seem to have had a hell of a Voidwoken attack.*
+It all h-happened so fast... the w-water surged in, a-and froze in an instant... we owe you our lives.
+I do not know what lies ahead, but the Great Acorn is almost here - I can feel it in my fur.
+*Shake your head. You&apos;re not going to take it with you.*
+Then you will crawl back to whatever hole you came from, where you will sit and wait to see whether the Magisters or the Voidwoken kill you first.
+Dark Knowledge
+[SWORN] *Tell her you could be a powerful asset to the God King, but only if you know the truth.*
+*Look around warily and say you thought he was safe here from harm.*
+*The spirit looks crestfallen. Her projection seems to dim slightly.*
+Be quick. I&apos;ve other matters at hand.
+Be careful who you trust. If they gave you a power, they might expect something in return.
+*Report that you met Mordus and bested him. Show his amulet as proof.*
+*Absolutely not. You refuse to be an errand girl.*

@@ -1,0 +1,158 @@
+Anyway, as &apos;interesting&apos; as that cold hellscape might have been, it does not solve our problem. We are here to stop the Great Acorn, not hide from it.
+Rolled-Up Vines
+White Magister Jonathan hasn&apos;t told us what he&apos;s doing here. We should keep searching.
+Acid-Stained Key
+*Ask what more he can tell you about Mordus.*
+Hail, friend, and remember: In Lucian&apos;s love there can be no wrong.
+I&apos;m told Justinia is safe, thank the Gods, though whether she&apos;s still inside after all the commotion, I can&apos;t say. I pray Ros found her a suitable hiding place.
+*He gives you a cool look. Then he purses his lips as he decides what to do. Then he lunges for his sword.*
+*You see a man, well-fed and wealthy - but stress has lined his face and narrowed his waist. He seems to be expecting you. He offers you a large and rusted key.*
+Careful you don&apos;t get in the way up there, frog-legs. Jonathan&apos;s blade is ready, &apos;n&apos; I doubt he&apos;ll be caring much who or what he slices.
+*Warn him that as he dithers, the price goes up.*
+Hurry now. It won&apos;t be long.
+Destroyed Painting
+*You want more.*
+*The craft! The detail! You could spend the rest of your life here. Then your longing is crushed underfoot.*
+Canvas
+*He&apos;ll teach you to channel your Source right now? Sure, you agree.*
+The Shield wants us to hide, Quercus? As if there were any such option. The Great Acorn will destroy &lt;i&gt;everything&lt;/i&gt;.
+Magic Armour:
+Lavender Necklace
+How unbearably beautiful it is, having to dream no longer.
+You need to understand something. A cataclysm is coming. Either you help &lt;i&gt;me &lt;/i&gt;help &lt;i&gt;you&lt;/i&gt; to stop it, or we stand idle while the shadows engulf us.
+*One of the scouts saw him heading south in the direction of the graveyard. That&apos;s all he knows.*
+Medusa Head Scroll
+Agreed. And, my friend, when it comes to Lohar, &lt;i&gt;so should you.&lt;/i&gt;
+Lagan left his over-demanding wife and began a relationship with a local bard. In the spirit of loving generosity, he returned the ring to his now ex-wife. In a fit of rage, she threw it into the sea.
+*Tell him you don&apos;t have time for this and bid him farewell.*
+*Between them the wargs tear the food apart, then wolf it down. They look up at you, hungry for more.*
+*Alright. Yes. But, you tell the rat, you&apos;re not stupid.*
+*Write &apos;Darling&apos;.*
+*Confide that you sometimes wonder whether you&apos;ve made the right choice in such a companion.*
+Stand back, there, short-stuff.
+You... you.... damned you!
+Hannag&apos;s Bargain
+You don&apos;t want an enemy of the Captain.
+Death brings me here. My parents&apos; death. At the hands of the man I once called friend.
+No doubt in my mind.
+Maybe I don&apos;t.
+Brutal warrior and expert in close combat
+*Tell her you aren&apos;t sure. How many more of these are there going to be?*
+Runes
+B-bloody f-f-freezing! I&apos;ve g-gotta get out of here!
+*Give him the bad news. His friend Jonathan ordered his parents dead.*
+Attack with your currently equipped weapon.
+Mordus was feeding off the lich&apos;s Source. For the lich, it was torture.
+...loyal and hungry. Go now. Save your questions for master. Spare me your presence.
+Hush, Fedor. You may pass, lizard. Dare say you&apos;ll be aching to leave before long, anyway. But... before you do, find Reimond, the White Magister. He&apos;ll want to know what you&apos;ve seen.
+Please, come in... oh DO make yourself at home, won&apos;t you?
+I wish, friend. But there ain&apos;t nothing you can do, and there ain&apos;t nothing I can do.
+You mean to say that carrot-cutting, cow-cooking elf has been killing Magisters? The fiend! Magister Carver must know of this! He&apos;s the one leading the investigation. Go on: go tell him post-haste!
+A powerful assassin whose arsenal of both daggers and magic would terrify any enemy, if they ever saw it coming.
+Very well, given that you&apos;re not a smouldering pile of ash I assume the ritual was a success. But... it was your Source, wasn&apos;t it? You are not strong enough to become the Divine.
+Ancient Stone Hatch
+For you, &lt;i&gt;rav&lt;/i&gt;, no bother. As your discount&apos;s still a go, it&apos;ll be cheap... if you have the coin, of course. (cheap [GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+*Pull away and leave her be.*
+Well. I see no reason to mince words, Godwoken. You&apos;re here to die.
+Mutiny?
+A strong, promising bar of iron, the core ingredient of any well-made steel.
+None of us was champion of the arena in Driftwood.
+My King... Even tainted by the Void, I would sooner bow to His Majesty once more than Seven lords that doomed us to this.
+*The flower&apos;s sweet fragrance fills the air.*
+Just you try judging the state of a Verdistian armoire if you&apos;re not even allowed to rummage through its drawers.
+Lead the way.
+No, no - I don&apos;t cotton to violence. There are other ways. I&apos;m sure you&apos;ll find one.
+*Tell her you&apos;re right behind her.*
+And now, I break his shackles and end this misery. No goodbye has ever been sweeter.
+I understand. The past can be a painful place to visit. Maybe another time...
+*The spirit gazes at you joylessly.*
+[BARBARIAN] *Barrel forward. And who&apos;s going to stop you?*
+You want me to drag a White across the coast in viewing distance of a dozen Magisters, and get a tongue-lashing from Malady as reward? I have not lost &lt;i&gt;all&lt;/i&gt; sense, I assure you.
+I finally understand! Sadha... My word, yes, we will be one!
+When you put on this armour, your heart beats like the wings of a thousand birds ready to take flight.
+And to think people call &lt;i&gt;your &lt;/i&gt;kind savages... I never heard of elves hacking each other to pieces in the middle of their villages...
+*You cast a loving glance over her body, still soft with sleep. How you wish you could stay here forever.*
+*Say you&apos;re still thinking about it.*
+Toggle the Mood Panel
+According to Malady, I must now seek out Meistr of the Seekers. She lives in the port of Driftwood, along Reaper&apos;s Coast.
+*A rough-looking dwarf gazes over the side of the bridge at bloody wreckage below. Her eyes are shielded, but she seems unable to look away until you break her reverie.*
+It wouldn&apos;t have changed anything. Dallis wasn&apos;t going to let any of us take what she wanted. And now... here we are.
+[IFAN] *Reach out too, and grasp the spear.*
+Oozes - Any
+Well - you shouldn&apos;t. Not yet. Not until I trust you first.
+So, you think those things down the steps there are dangerous? The ones hanging on the sticks?
+Cave Entrance
+*Laugh it off; every day&apos;s an adventure!*
+*Try to get the spirit&apos;s attention.*
+Hrrmh, alight then. Now leave me be, dwarf - my Magister comrades are missing, and I&apos;m going to find them.
+Siphon Poison Scroll
+Natalie&apos;s her name, by the way. I&apos;ve told her all about what you did for her. She&apos;ll be able to go home soon, as long as she steers clear of the Magisters.
+Don&apos;t want food. Don&apos;t want shelter. I just wanna escape this gods-damned place for a few minutes.
+Sanguinia Tell gave us a loan. For collateral she took a vial of our marrow.
+You are welcome to stay and walk with me, should you wish it. Though... my vigil honours Rhalic, who bears no tenderness towards your kind.
+Statue of Burning Prophet
+Not in the mood for games? Me neither. So what shall we do? Would you like me to dance for you? Or would you like to hear a poem?
+Winnin&apos; has its own rewards, if that&apos;s what you&apos;re after. Slip down the hatch and talk to Thorn. Put those greasy hands of yours to work.
+Unfh! They got me good.
+He was &lt;i&gt;Black Ring?&lt;/i&gt;
+*Silently pray for a reprieve.*
+*Hold the gem to the six-sided shape carved in the figure&apos;s forehead.*
+Gods... h-have mercy...
+Apportation
+Be aware that the ones who travel with you are not your friends. They are your &lt;i&gt;rivals&lt;/i&gt;.
+[BARBARIAN] *You are a brute, a beast, a creature of folklore. Confirm his story.*
+On their way to the Lady Vengeance for further study.  Dallis was right about what we uncovered here - it could turn the tide against the Voidwoken.
+Ain&apos;t a bad poem. If yer into humans, I guess.
+They have me over a barrel, they do. I don&apos;t have a choice. It&apos;s hard enough to earn a crust around here, and me and the young one, we&apos;ve been starving.
+An explosive filled with nails that do [1] and may inflict bleeding to everyone in a [2] radius. Creates a small water surface with a [3] radius.
+Always business to take care of around here.
+Water Barrel
+Valve Half Open
+You&apos;re... you&apos;re the Godwoken, right? This place is... scary.
+M... mumsy? Is she herrre? Mumsy! Wherrre arrre you! &apos;tis I, Booply Bear! I am quite changed, but don&apos;t be frrrightened!
+*The tallest, strongest elf, whom you take to be the leader, gives you a disapproving look, then turns away.*
+Proceed carefully, then. A shadow comes...
+*Well, now that he mentions it, a little shape-shifting might be fun...*
+*Wait! Tell her you&apos;ve important information that her master will want to know.*
+Y&apos;want some honey? &lt;i&gt;Y&apos;can&apos;t have&apos;t..&lt;/i&gt;
+I feel like I could eat a whole bloody cow. I... I don&apos;t feel like myself...
+This creature is born of fire - eat it, and you might gain some of its power.
+Tir-Cendelius
+*Encourage him to continue.*
+Signpost
+You&apos;re safe! Praise the Divine!
+You can have anything you find in this house, but there ain&apos;t no money. Do we look rich to you?
+*Nod. You enjoyed yourself well enough.*
+Now that that&apos;s done, I ask you in earnest: are you truly alright? I can only imagine how you must feel now that you&apos;ve slain the prey you hunted for years.
+Splendid.
+*The weather-beaten war owl salutes you with one wing. Looking closer, you can see a telltale scratch on her left claw. This is the war owl who delivered your message from the Paladin Camp!*
+Gotta hand it to &apos;em. Elves sure smell better than us when they die. Kinda like fall leaves, y&apos;know?
+*Your eye is drawn to a large rune resembling an illustration you&apos;ve seen in a book.*
+[RED PRINCE] *If he thinks he can be useful, say that you&apos;ll welcome his efforts.*
+PAPA?! PAAAAPaaaaaaaaa...
+*Ask why she&apos;s accepted so many people into this shrine.*
+Let them speak. We owe them that much.
+I don&apos;t know what rock he is hiding under, but he will be found.
+Move along - nothing to see here.
+This isn&apos;t the place to wave your weapons around like that.
+An odd, crystalline (and, apparently, sentient) object pulsating with eldritch energy.
+...my ring!
+Pride was lost as humankind progressed...
+Player [1]
+What do you get the pyromaniac who has everything?
+And after all, &lt;i&gt;I&lt;/i&gt; am still here. Despite the Voidwoken&apos;s best efforts...
+*Tell her she needn&apos;t go on. You shouldn&apos;t have brought it up in the first place.*
+We make a pretty good team...
+It&apos;s a miracle of the ancients. Priceless, really, and powerful enough to draw the Magisters&apos; attentions.
+You also have some small reward.
+Baran Levere&apos;s Ring Of Bartering
+[1] was reflected to [2] by a summon.
+*In that heat is a memory. A dwarf yearning to dig, unable to stop.*
+*Pull the skeletal arm from your bag. Is this his?*
+No...! Not yet... not yet! We aren&apos;t... we can&apos;t...!
+A jewel with strange markings etched onto each facet. It would no doubt fetch a high price... but perhaps it has another purpose?
+How beautiful a thing for me to see before -
+But me? I love a good story.
+We&apos;ve got enough wood for this fire, thanks. Move along.
+New Level
+These marshes were a playground for he and his necromancers. Many unfortunate souls were brought here. Blessed were those who died quickly. Or died at all...

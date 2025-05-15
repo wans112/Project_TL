@@ -1,0 +1,166 @@
+*Tell her she isn&apos;t well - she should let you help her!*
+Party members can&apos;t follow you through dangerous surfaces or other obstacles. Clear the way, and they will follow you again.
+&apos;Extirpation aborted. Returning to primary task.&apos;
+Ask Sanders the Toyseller about his past.
+*Suck out her Source. For this madwoman, it will be a blessing.*
+The Lady Amadia told me there would be other candidates. She also told me, in no uncertain terms, that they were... undesirable.
+Stack
+[Arena_AvailablePlayer_1_3b7981f5-c807-44bc-b2cd-a434ba7b6b35]
+With a small band of elves, Ifan ben-Mezd re-planted the lost elven forests. After the first fresh shoots broke the earth, he disappeared, and was never seen again. Some say Afrit, his soulwolf, walks the forests still.
+Source Points
+[MYSTIC] *Tell her she&apos;s welcome to join you in prayer for those in distress.*
+*She responds with a nervous wave, and her eyes flit to the mansion behind her.*
+You&apos;re honest - I&apos;ll give you that. Doesn&apos;t mean I&apos;ll be letting you go scot-free, though.
+You accept devotion without question. That is good.
+I don&apos;t know what to say. Your kindness is... overwhelming.
+Insufferably cruel. How charming. It was obvious, Godwoken.
+*Say you&apos;ve heard enough.*
+*Reach out to stop him.*
+E
+It worries me, too.
+*Tell him dwarves deserve decent food like anyone else.*
+I mean, I could have spent several millennia in the clutches of the Void. So...
+Mmm.
+*You are relieved of the past&apos;s nightmares and the future&apos;s burdens. All that matters is &lt;i&gt;now.*&lt;/i&gt;
+*Say that you have the tablet that she seeks, and hand it over.*
+Bye then!
+Character is possessed by a demon, causing madness.
+[VILLAIN] *Give her a friendly smile and remember her face - she&apos;ll be first against the wall when you come to power...*
+Source should only be used by the happy few smart enough to handle it. The rest can be sent to Fort Joy for all I care.
+[VILLAIN] *Mumble that you really have to get your hands on one of those...*
+*The tree-form spirit slowly, oh-so-slowly, becomes aware of you. When he speaks it&apos;s low and slow; he grumbles as if in discomfort or in pain.*
+Oh! My hand! My... my &lt;i&gt;fingers!&lt;/i&gt;
+Bled him so good not even his spirit remains.
+*Squints* Oh hey, you&apos;re right. You look just like a dwarf what had a run-in with boss last week. But now that I think of it, he was got rid of later that same day. Never mind.
+*The steady rhythm of the pickaxes is drowned out by a sonorous growl.*
+I&apos;m sorry to have to be the one to point out the embarrassing truth, but you simply don&apos;t have enough coin.
+Death Is Not the End&lt;br&gt;&lt;br&gt;*The handwriting is recognisably Cranley Huwbert’s, but the spidery script betrays a certain nervousness as he describes the dark art of the necromancer. One suspects the scribe lacks the stomach for discussions of the transmogrification of flesh - the reader may imagine the writer’s skin crawling as he talks the dead returning to life - or of the living going to rot.*
+Lost Purse
+*As you open the hatch, the livewood creaks and groans. Instead of leading you below decks, the steps you thought you knew lead you somewhere else: a desolate nook of the Hall of Echoes.*
+[FANE] *Explain that you come from another land. Another time. Another world, almost...*
+*The dog&apos;s growls intensify and transform into a rhythmic rasp that mimics laughter. You swear you see the ground behind him momentarily churn and tremble.*
+*Offer three poisoned fish.*
+*Tell her never mind; her business is her own. She can keep the cash. You won&apos;t miss it.*
+*As you step closer to the statue, you feel the most comforting warmth emanating from her, as if millennia of sunlight has soaked into her stone... just waiting for this moment... just waiting... for &lt;i&gt;you&lt;/i&gt;...*
+If I can give one last piece of advice?
+Wrath of the Eternals
+Level [1]: Water attacks deal +[2]% more damage, +[2]% Vitality healed, +[3]% Magic Armour from skills and potions.
+Trap Mechanism
+This bone and steel breastplate pulses with heat when you touch it.
+Squee! Squee! *Oink* Squeeeeeeee! *Grunt*
+Giant Healing Potion
+Fallowblade
+*Tell him not to worry. &apos;To lose&apos; is a complete abstract to you.*
+*Observe that this place looks more like a refugee camp than a shrine.*
+*The bowl &apos;slips&apos; from her grasp - scalding hot stew splashes all over you.*
+Puffball Seedling
+*Think better of it. Tell her you have no names.*
+No Magister could sense the spirit of the goddess! Only a true Sourcerer could, blessed with senses greater than our world&apos;s alone.
+Help! Help!
+Desert Foggy
+We found Dorian Gall. He appears to be beyond reason.
+Confront the Doctor.
+*He raises one eyebrow and folds his arms protectively across his chest.*
+My prince... you are &lt;i&gt;everything&lt;/i&gt;.
+*Say that you want to know what happened here, first of all.*
+*Stroke the cat&apos;s head and ask it how it came to be undead.*
+Automaton Canon
+Lizard or wizard? Come and shop!
+I&apos;m glad it&apos;s not you! You seem too nice.
+I am... I am death!
+[LIZARD] *Clean the dirt from your nails - the slave-flesh will soon be done with their barbaric ritual.*
+Challenger of Winter
+Your kindred soul was my last refuge, my last bastion... from here I can aid you. But only if you grant me one small kindness...
+[OUTLAW] *Wicked, cruel, and vile? You suspect you&apos;ll know half of them already.*
+The Adventurer&apos;s Boon
+Here. Be glad you do not join the other thieves.
+Pallid Throatpiercer
+*Dallis whips her head in the Doctor&apos;s direction as he calmly raises his palm.*
+Aye. Still have that account to settle, do we. Go on. Give it here.
+Tea Time Now! Volume III
+*She hesitates and leans back toward you.*
+Arena highlights
+[1] improves your chances to hit an opponent with melee weapons in battle.
+*Even if he desired something even greater.*
+A character with [1] has an extra [2]% [3], but takes a [4]% penalty to [5]. Additionally, the maximum [3] is raised by [6].
+*Shake her hand heartily and tell her your name.*
+I will take what I am owed. &lt;i&gt;I WILL FEED!&lt;/i&gt;
+*Inform her of Micheil Ros&apos; concern.*
+*He begins to pray...*
+Of course.
+Alas, harmony was not to last.
+&lt;i&gt;Your luck will run out. Your blood will flow.&lt;/i&gt;
+*Drop to your knees and strike the ground, pounding it with your fists.*
+Death will release you, girl.
+*Tell him if he already knows about the Reds, then he already knows what you came here to do. Draw your weapon.*
+*Bid her farewell. You can bear her commentary no longer.*
+Fiery Voidling
+Have you ever even met a Sourcerer?
+*Interesting. Wonder if you could get directions to this secret cache of weapons...*
+&lt;i&gt;*Massacre.&lt;/i&gt; Your lantern reveals ravaged corpses in every direction. Inhaling sharply, you smell a thick black stench you remember secondhand from the few Voidwoken corpses your troop have found.*
+*She slaps her face violently as she corrects herself, dislocating her loose jawbone and powdering the earth beneath her feet with bone dust.*
+REQUEST ROLL
+&lt;i&gt;I always say, and how often I find, the more you take, the more you leave behind.&lt;/i&gt;
+Red Necklace
+*Ask if she&apos;s afraid to be seen with you.*
+From shadow comes sunshine. Quite right, Your Majesty. But not if the shadow gets its way.
+...a feast for not the belly, but the mind!
+*You&apos;re going to kill her. She sees it in your face.*
+*Tell her black never goes out of style: of &lt;i&gt;course&lt;/i&gt; you support the Ring.*
+*Ask her what she&apos;s doing here exactly. The King forbade any further work on this...*
+*Nod. You sure have.*
+Creates a smoke curtain with a [1] radius. Creates a small ooze surface with a [2] radius.
+*Push yourself upward, harder; feel the sword&apos;s strange, cold edge split the flesh of your neck.*
+How rude you are, sugarplum. But I&apos;m not interested in you like that. I&apos;ve already got plenty of babies.
+Wonder what we&apos;ll find inland. Hard to beat a monster attack, shipwreck, and waterlogged hallucination...
+*Note that it&apos;s strange, talking to an undead head on a stick.*
+Are you okay? You look a little green around the gills there...
+Stonegarden. Keeping watch. Tending graves.
+What is the Shield barking about now? Of course I won&apos;t be doing it alone - you&apos;re right here with me, Quercus. We shall do it together.
+The thugs made off with our gear.
+Easy for you to say, missus! You&apos;re not smelling what I&apos;m smelling!
+But Mother, I&apos;m sleeping!
+This is... difficult news. Leave me now. I must grieve.
+Sure, sure. For you that will be a modest sum. ([GEN_CheckMagicPocketGold_3_01f129ea-b4dc-44b6-8154-9a948f876a82])
+Fell Twohander
+Much to do. Much to plan. Thank you again for your help. I hope you find rest here, while you need.
+Heh. Thought at least one of ya had it in ya, but boy, I couldn&apos;t&apos;ve been wronger. Now scoot.
+*And he doesn&apos;t? Ask if he&apos;s just going to go down with the ship.*
+*Raise your hand to stop her. He already knows... and he asked you to find her husband.*
+The Beast o&apos; the Sea rose triumphant, guiding his fellow Godwoken from an island prison to a final hurrah! He boarded the Lady Vengeance, now inexplicably whole due to magic a beast could never understand, and returned to &apos;is homeland.
+*Respond that she&apos;s one of the Black Ring.*
+Looks like &lt;i&gt;you&apos;re &lt;/i&gt;in the right place then, doesn&apos;t it? Enjoy the rest of your life, fleshie!
+Yes. I want to reunite our people - once. But the Ancestor shows me.
+*He passes his gaze over the fresh corpses bleeding out at his feet, then turns to the weeping parents.*
+*Thank him for the warning.*
+Ferocious Broadsword
+And I always... always... &lt;i&gt;always...&lt;/i&gt; recover a debt.
+See here, scaleskin.
+*Say that in that case, no, you haven&apos;t seen him.*
+We&apos;ve come a long way together. I did my best by you all the way. I sacrificed much, and I&apos;d have given even more to see you fulfill your destiny.
+*&apos;H... hurry...&apos;*
+*Gone is the strange mirror image of yourself: before you stands the god Rhalic&lt;br&gt;in all his spectral glory.*
+*Take a deep breath, smile your biggest smile, then ask her what the shard you found is for.*
+You seek death? &lt;i&gt;Consider him found.&lt;/i&gt;
+*Reconsider your plan.*
+Darling! I admit I wish we could share more... carnal pleasures. Yet I think a kiss is the height of intimacy.
+How about you teleport yourself to somewhere you can pick up some manners - I was talking to you!
+*Ask when and where the loan should be repaid.*
+*He winks and flips a gold coin toward you. It makes a long, high arc, glinting in the sun, and lands squarely in your hand.*
+*Thank her for the information. You&apos;re heading down now.*
+What are you doing to her? She may be loyal to the Devourer, but that doesn&apos;t mean you should...
+*Hold fast.*
+I&apos;ve seen it, pet.
+Every person that walked this land was another thread in the tapestry of time. But now we&apos;ll spend eternity on the same path, bowing to the God King. We have run out of thread.
+Desert
+*Once, weapons were traded here. Or made. Or banned. Hard to tell.*
+Remove [2] from enemies around you and set Deaf, reducing Wits, Accuracy and Dodging.
+A DRA MAH LIHK!
+Raised as cattle? Not at all! Cattle are worth so much more to their owners. This is callous, even for the Seven.
+*Choose the royalist tune.*
+*As you move to go below decks, the livewood creaks and groans. The steps you thought you knew lead you to a part of the ship you&apos;ve never seen before: a newly-carved nook that smells of resin and wood-chips.*
+Which is entirely appropriate, if you ask me.
+Venom Aura
+*Say you met one of the Seven and were taught how to grant blessings.*
+We may be witnessing the One&apos;s future host.
+Is there more on your mind?

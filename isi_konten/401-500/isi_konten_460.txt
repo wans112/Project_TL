@@ -1,0 +1,154 @@
+*The spirit stares at you - hurt and confused. She can&apos;t comprehend the reason for your scorn anymore...*
+Create New Text
+*Ask why she wants to fix this infernal device.*
+It was hell. A hell I suffered for the sins of my &lt;i&gt;father. He&lt;/i&gt; was the one that betrayed the God King. &lt;i&gt;He&lt;/i&gt; was the one that told the Seven the secrets of the Veil.
+Old means Gold
+*Ask him to keep his voice down: You&apos;re trying to keep a low profile.*
+*Place your hand upon the jar.*
+[FANE] *Excellent! Exclaim that it&apos;s been far too long since you&apos;ve had a good conversation.*
+*The black cat purrs and winds a figure of eight around your feet.*
+*The skeleton hefts Huwbert&apos;s dog-eared encyclopedia, its weight heavy in his hands.*
+Come now, did you really think a mere magical illusion can fool me?
+Death
+I&apos;ve got no use for platitudes - not from some mediocre Sourcerer inexplicably chosen as the Seven&apos;s special pet.
+Keep your eyes peeled. Something here isn&apos;t quite right.
+Elf Warmaiden
+Large Potion of Shadow
+Lord Arhu, the Keeper... dead. Not even the Cathedral is safe...
+But you remind me, my sisters and I have a game. We like to try out our riddles on our &lt;i&gt;best &lt;/i&gt;customers. Would you like to play?
+Still, the new Divine was hailed as the greatest hero Rivellon had ever seen.
+Not scared of a little elbow grease, are you? A fella ought to know how to put himself right. Go ahead and combine the mushroom with the vial.
+Welcome to Arx, stranger.
+Amulet
+What should you expect beyond the bridge? Ha! Expect Sourcery of the highest order. Expect Voidwoken, bigger and badder than you&apos;ve ever seen. Expect the Void. Expect to die.
+*Allow the understanding that she&apos;s dead to seep into her soul.*
+[JESTER] [BARBARIAN] *Let out a long whistle. Boy, Gareth packs quite a wallop!*
+*Say you&apos;ll have a look, as long as it&apos;s quality stuff.*
+*He sighs through his teeth, shaking his head slowly... but doesn&apos;t answer. Inclining his head toward the city, he nods to you and turns away.*
+*Chuckle and turn to leave. Apparently he thinks his life is worth only a pittance.*
+*Command him to swear allegiance to the God King.*
+*The spirit of the guard continues patrolling.*
+This won&apos;t go unavenged. I&apos;ll see to that.
+*Summon all the Source you can muster and tug at the spirit. The God King must be denied.*
+Rescue Saheila.
+anyone could vote for whoever they pleased.
+Divine Protector
+Quiet! Justice is being done.
+My Queen: the human specimen before you is a Godwoken - a claimant to the divine throne.
+Attack_Melee_Std_6
+The Watcher&apos;s Mercy
+Mentor&apos;s Mantle
+Gods, I really hate dogs.
+*Tell Gareth you&apos;ve been to the Hall of Echoes. Could.. you be one of these Godwoken?*
+You&apos;re nothing but a catastrophe in waiting. You are part of the problem, Godwoken. Not the solution.
+I dunno. Is this what rebellion is - leavin&apos; the kingdom without a queen? Are they... really better off than before? *Sigh* Maybe she was right. My blood is hot. I don&apos;t think this shite through.
+Hmm. Well, the show must go on! I heard that somewhere, I&apos;m sure of it.
+*After much effort and a lot of blood, you&apos;ve created a ragged hole in her skull. Not the finest job, but it will serve.*
+*Lean in to examine the glyphs.*
+Corbin Day accepted our invitation onto the Lady Vengeance.
+Hallorn&apos;s Blade
+Gives Source Point on contact.
+*Whispers* &lt;i&gt;I still love you!&lt;/i&gt;
+Few remain, and the ones who do have been driven to the brink of survival. The Order has made certain of that.
+Makeshift Shield
+This elaborate old key smells of iron and dust. From the gravitas it exudes, the lock it pairs with must guard something very special indeed.
+Investigate the captain&apos;s ghosts.
+This lock can&apos;t be picked
+I speak slowly for you. Do. Not. Touch.
+Edit Campaign Metadata
+Y-you met Verdas...? Then he&apos;s as good as dead. We&apos;re the Seekers he s-spoke of. We were supposed to free him... instead we&apos;ve failed him.
+False modesty, eh? I like it. Better than the Paladins&apos; unmerited pride. The folks here were safer in the Magisters&apos; hands. It&apos;s up to me to make sure citizens can stay out of sight and out of mind.
+*The vision fades. The cave&apos;s sharp chill returns. And with it, a cold aura takes shape behind you*
+*Scoff in disbelief. You should&apos;ve known better.*
+*Bow to the squirrel. He&apos;s very welcome.*
+See that, freshie? Keep that up, and you&apos;ll get along just fine in ol&apos; Fort Joy. Now scram, I&apos;ve got another pot to win.
+May the Seven bless you. &lt;i&gt;Beast.&lt;/i&gt;
+[BARBARIAN] *Offer to cut her head off. That&apos;ll solve her problems.*
+...if murder was on my mind, I could do the job right here!
+[NOBLE] *Beg your pardon. Have you offended him in some way?*
+Gladly!
+*Tir-Cendelius grabs you by the arm and pulls you close. A heartbeat strong as a quake reverberates into your, arm, chest, head.*
+You promise much, Sourcerer. But can you deliver on any of it?
+Is there any more inspiring view than wide sunny plains as seen from the back of a fine horse?
+*The city has no lizard architecture save the building in front of you. Seeing a piece of your heritage is grounding.*
+What painting? Oh, that painting.
+I... I don&apos;t know...
+Cave - Blue Lair
+Don&apos;t say that, mister! Don&apos;t say that! I&apos;m too young to be without my mum! What&apos;ll I do?!
+Bottoms up!
+...aren&apos;t we all?
+*Flickers of memory fill your mind. You long for solitude. The subtle scent of parchment wrinkles your nose; fresh ink stains your fingertips.*&lt;br&gt;&lt;br&gt;
+I&apos;m not sure. Centuries in a tomb can warp one&apos;s memory.
+Before, whenever I needed answers, I turned to prayer. Now - when I have questions - I&apos;m not sure whom I&apos;d turn to.
+There is no time to spare. We have to put this island behind us.
+*Tell him you&apos;ll talk to whomever or whatever you want.*
+I&apos;ve only just woken up, and already there&apos;s a bounty on my head?
+So? You&apos;re... you&apos;re ready to move forward?
+Look! The Kraken has attacked the harbour!
+*Plead that you urgently need to pop in to use the bathroom.*
+Elegant! Finished with fine leatherwork and jewelled buckles for a cat dressed to the nines... one for each life.
+*SCREE!*
+There aren&apos;t words strong enough to describe the malodour wafting from the page.
+This is a place for scholarly pursuits. You do not look the scholarly sort.
+*Ask her what happened to the Peacemaker&apos;s cargo, if there was one. It must have salvage value...*
+No. Perhaps not.
+*Tell her the time for grieving is later. You need her help &lt;i&gt;now.*&lt;/i&gt;
+Before he departed for the Hall of Echoes, Trompdoy thanked and rewarded us.
+Oh, no! Not in the least! I was dying, and this... this holy man saved me! He was a stranger showing kindness to strangers - exemplifying the teachings of the Divine!
+A &apos;job&apos;? Oh please, don&apos;t be churlish. I am no dairy maid desperate for her next meal - I follow my passion: alchemy.
+The puffball mushroom is renowned amongst hunters for giving you a keener eye, leading to the curious saying &apos;sharp as a puffball.&apos;  It&apos;s said to be most potent when concentrated in a potion.
+*This skeleton is old enough for flies to have eaten its flesh, though some of its owner&apos;s clothing still remains intact, including a belt with a gleaming buckle.*
+I-it&apos;s my honour to serve you, Sir...
+I know they disappear without a sign. Magister Carver&apos;s looking into it, but it&apos;s been so long since we&apos;ve talked, a dwarf could&apos;ve grown three beards by now.
+We made it out. Good. Better get a move on to safety before anything spots us...
+*Sigh. You&apos;ve had enough of this.*
+She may ask you to honour an old bargain that I had struck with her. Do not accept. Her business is with me and me alone.
+Oh, come on now. All your lies have done is secure your passage to an early grave!
+Ghonghi. My brother. He... did right by the Empire that day.
+Beast&apos;s hat Fran, which has accompanied Beast on many nautical adventures.
+*Reach for your weapon.*
+No wonder the orcs vanished, considering how brutal their god Vrogir was - I&apos;d disappear too if I was one of them. Still, his tale is my duty.
+SUCK. SLURP. CHEW. LICK.
+I know, I know! But you just don&apos;t have what it takes! A good slave&apos;s made of sterner stuff, I&apos;m afraid.
+No empire lasts forever, not even that which spawned the gods. What&apos;s worrying is not their falsehoods, but their vulnerability.
+They&apos;re... they&apos;re &lt;i&gt;dead!&lt;/i&gt; That means... that means I can leave!
+Someone, help! I caught a thief!
+*Before you stands the ghost of an older woman. Clad in flowing Magisters&apos; robes, she peers around the room as if looking for something lost. On seeing you, she brightens and extends an ethereal hand.*
+Take all
+And time is money. So if we&apos;re all clear on what&apos;s happening here, we&apos;ll be leaving. With your stuff.
+I... I had thought you stronger than this! I did it all for &lt;i&gt;us&lt;/i&gt;, even if &lt;i&gt;you&lt;/i&gt; do not know it! Even if &lt;i&gt;you&lt;/i&gt; are blind to the onslaught of the king!
+Do not leave me here to rot and die. Show me the goodness of your heart, Godwoken, and I will share my power. &lt;i&gt;Set me free...&lt;/i&gt;
+If you say so. Get moving, and don&apos;t let me find you stirring up trouble.
+Game Master Mode
+Have you seen what happened at the harbour? Voidwoken destroyed the whole place. Lucian preserve us.
+Whirlwing
+Inert Voodoo Doll
+Search for a citrus-scented lizard.
+&lt;i&gt;Omighty Duna, save your children, deliver us from the Void, ohmightyDuna, save your children, deliverusfromtheVoid, omightyduna...&lt;/i&gt;
+*Insist you cannot help her. She will have to find her daughter on her own.*
+Find the brick.
+The path thus ended, the conclusion of a noble bloodline...
+*The soft lines of her face fold into a warm smile. She sets the glass on the counter and pours you a generous portion of an amber liquor.*
+Show Sneak Cones
+Level [1]: Poison and Earth attacks deal +[2]% more damage, +[3]% Physical Armour from skills and potions.
+We told Iris her name, but rather than relinquish its prize, the demon killed her.
+Well, I&apos;m a rat. And you&apos;re some kind of... hm... whatever you are. Never the twain shall mix, thus spaketh the reddish large-style flesh-beasts!
+I don&apos;t like dogs.
+Again, I say: Speak the password.
+*Sigh* Yes, I feared you may have been thinking about cheese or murder or some other organic hobby.
+But I only accept challenges from those who accept &lt;i&gt;my&lt;/i&gt; challenge first. You fight in my Arena without my say-so? You&apos;ll &lt;i&gt;never&lt;/i&gt; fight me.
+Freeze Game Time
+Franz the Philomath
+You&apos;ve crossed the line... &lt;i&gt;merc. &lt;/i&gt;Time to pay. Get &apos;im, lads!
+Saw a big&apos;un go down just the other day. Dare say those wreckers are drownin&apos; in contraband. No wonder top brass figured somethin&apos; was up.
+Be gone.
+*Say it&apos;s fine if doesn&apos;t want to talk about it.*
+*In the battle&apos;s aftermath, you suddenly realise the Voidwoken called out your name...*
+*Reach for your dagger with your left hand and slide it through the gap between his helm and his armour, resting the point right where you know the jugular to be.*
+*The wood seems almost alive - not carved by a blade, but formed.*
+&lt;i&gt;Please&lt;/i&gt;. You don&apos;t look like you have it in you.
+Isbeil
+When the time came, I could not bring myself to decide the fate of the world. Another did so in my stead.
+She always returned with a new song.
+*For a moment, Beast aims his fists squarely at you - but he clears his throat and relaxes his arms.*
+*The terror in the spirit&apos;s eyes grows, but it is powerless to stop you.*

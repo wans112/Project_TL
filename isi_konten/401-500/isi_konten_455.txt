@@ -1,0 +1,143 @@
+Fire Immunity Aura
+*Say one who believes that the end justifies the means.*
+...Isbeil?
+She is... she is so near. But I do not see her again. I do not see my mother again...
+*Take a step towards the spirit. It &lt;i&gt;will &lt;/i&gt;tell you!*
+Your soul has bonded with the dragon. Call for it, and it will join you in battle!
+You. I see it. You, too, follow a path consumed by fire.
+I&apos;ve been here a long time. Longer than anyone else. People get taken sometimes; some folks say they get cured. I don&apos;t know if I believe it, and I don&apos;t want to wait and find out.
+Right here! The red men came with their big rolling box thing, and she told me to hide. She hasn&apos;t come back! Have you seen my mum, mister?
+Away from me, slave.
+I&apos;m not allowed outside the village.
+The souls of the cold-hearted lie ever frozen in ice, alive but not alive, in death as in life. You know yourself well, &lt;i&gt;Ifan ben-Mezd.&lt;/i&gt;
+Cast magical heat that does [1].
+House Interior - Cozy Home
+I think you know enough about me for now.
+*Tell him you do; of course you do.*
+What is, then?
+The Divine Order and the Black Ring spilled blood over access to the Council of Seven. The island seemed... angry.
+*Laugh and tell Sir Lora they&apos;ve been through a lot - he should relax.*
+Cannot swap selected targets
+*Tell him he was under Mordus&apos; evil influence. Luckily, he&apos;s been freed of it.*
+Tir-Cendelius, poet and patron god of the elves.
+A Paladin report credited Vredeman with enough power to destroy the Paladins and counselled Kemm against confronting him.
+*Swear that you were being genuine - the more Magisters that die, the better. She has nothing to fear from you.*
+The poor thing. Who would do such a thing?
+*Nod, adding that you heard he was missing, and came to save him.*
+Who are you? &lt;i&gt;Exppplain &lt;/i&gt;yourself, or else get &lt;i&gt;awayyy!&lt;/i&gt;
+Evil? Yes - I suppose he is. I imagine you think the same of me. Go on, call me what you like. I&apos;m not afraid of being the villain to your supposed &apos;hero&apos;. I&apos;m not nice. I&apos;m just &lt;i&gt;right.&lt;/i&gt;
+Mistress Almira... how can I be of service?
+Goodbye.
+What in the... A collared Source-freak thinks she can hoodwink a Red? Damned fool!&lt;br&gt;
+*Focus on the dagger.*
+Mystical Medium Venom Rune
+...but I digress. My only regret is that I won&apos;t be able to put Varley&apos;s work to shame at the next Cryptography Symposium.
+I did nothing to deserve this. &lt;i&gt;Nothing.&lt;/i&gt;
+Ifan! Forgive my, erm, &lt;i&gt;style&lt;/i&gt;... I look a right pickled pepperpot, don&apos;t I?
+ACCEPT!
+The Seekers plan to seize the Lady Vengeance, the Magister&apos;s flagship, and flee the island.
+[1] unlocked the [2] tag!
+Possessed Warmaiden
+It is not a difficult battle - it is an impossible one. Exter will lead them to their deaths.
+Treasure? Looks like my lucky day!
+Speak, Shield! What are your queries?
+*Respond with a clattering chuckle. It&apos;s no problem. Ask what&apos;s going on here.*
+Mind
+Return to Amadia&apos;s shrine.
+[This book contains an old fable of Vrogir, god of the orcs.]&lt;br&gt;&lt;br&gt;... and when Vrogir stood against the enemies of the orcs, fit of body and mind, he had but one aim in mind: to crush them into darkness.&lt;br&gt;&lt;br&gt;Yet that was not to be the way of it. For Vrogir became enlightened that very night.&lt;br&gt;&lt;br&gt;He received a vision, bathed in light, in which he saw that leading his enemies to the light of truth would turn them from foe to friend, strengthening his forces and gladdening the hearts of his people.&lt;br&gt;&lt;br&gt;And lo, did Vrogir wake and follow the path of light, and from then on, light did shine on Vrogir and all his sons and daughters...
+*Tell Fane that you understand - his people are everything. But he must know that if you become Divine, you will protect him. No matter what.*
+*You&apos;re soaring high about the treetops, moving effortlessly with your&lt;i&gt; blazing wings.*&lt;/i&gt;
+*Fane turns to you. In all the time that you&apos;ve travelled together, you&apos;ve never seen him like this. He&apos;s trembling with emotion.*
+No further explanation is required. Now, if I may continue: the elves, lizards, and dwarves rebuffed Alexandar&apos;s demands.
+*Roost looks around shiftily and pats his pockets. You remember this about him; he never was any good at hiding anything.*
+I can&apos;t talk the day away with you - I have pups that&apos;re clamouring to be fed!
+You look like the kind of person who&apos;s very forgetful, with the right motivation. I have a sum of money in my pocket. It adds up to a very good time in the tavern. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+I appreciate the sacrifice, but it&apos;s not like she was ever very friendly. Rest in peace, I suppose.
+*This is a disgusting display of pure evil. Slay this creature!*
+Look, we can&apos;t all be follicularly gifted like yourself, ben-Mezd.
+Doctor Daeva:&lt;br&gt;&lt;br&gt;I trust you received payment. I cannot thank you enough for successfully &apos;treating&apos; my son. I hope he proved valuable to you. His absence has certainly proven valuable to me!&lt;br&gt;&lt;br&gt;G. V.
+*Gasp* Oh no!
+Searching the Shadows
+Thick of the Fight
+Fascinating. Learning. Continues. Apace.
+That hurts me, you know. I do all I can for you. I give you every power available to me. I make you great. And you &lt;i&gt;fear &lt;/i&gt;me.
+Hmm. Yes, that&apos;s correct. I&apos;m not convinced it was anything more than a lucky guess however; you don&apos;t strike me as the &lt;i&gt;intellectual type&lt;/i&gt;. One last lesson perhaps, to bolster your mind...
+Now, be silent. Your questions vex me, and I have no time for idle chatter.
+THOU ART IMPURE OF HEART AND SOUL AND MIND. THOU DOST NOT PASS.
+Maybe purging Sourcerers is for the best.
+You... ah yes, I remember your face from Driftwood.
+[SEBILLE] *Laugh at the question.*
+*You feel his anger and his confusion and his raw and naked pain, and you hear the cavern echo with his cries.*
+I hear you.
+This red fish is the last, eh, &lt;i&gt;sample &lt;/i&gt;that I wish to study for now... if you care to do the honours...
+Ah. Indeed. I needn&apos;t even have asked. I can &lt;i&gt;see&lt;/i&gt; it on you.
+*The woman&apos;s spirit lies still on the ground, mirroring the pose of her mortal remains.*
+Rip away his hide, and he&apos;s a mere grub. Yet he&apos;s also a conduit to the Void. A mouse with the power of a mountain.
+I could lick the skin of your hand and see the depths of your memory.
+*Explain that you have your course - Malady says you have to find Meistr Siva in Driftwood.*
+*The helmet clicks home with a faint smell of rot. It tightens to a snug fit, as if made for you.*
+We found Gareth in the farmlands, digging his parents&apos; graves. What happened to them?
+I built a failsafe into the Path of Blood... you need an amulet charged with Source, and you need to recite the words from the Scroll of Atonement...
+Poisoned Boiled Potato
+Equilibrium
+Dancing with the Source
+An Elven wand carved from fallen timber and bound with living vines.
+*Tell her that&apos;s none of her business.*
+Not at all. It&apos;s good for nothing but kindling now.
+Giant Masterwork Rune Of Power
+Ha! I gotta say, I&apos;m impressed, Beast. I love a good story.
+*Ask the dwarf if she could remove your Source collar.*
+*Tell the truth: The lizard Stingtail was the culprit, but he&apos;s dead now.*
+*Someone has wiped the Bishop&apos;s hands clean and folded them neatly over his abdomen. They rise and fall in shallow, jagged swells.*
+Devourer Armour Set
+You don&apos;t have enough on you to buy my silence.
+Oh aye...? Looking to buy?
+*So, he was once a Knight of Drey too? Ask about his experiences.*
+Alright. Let&apos;s move.
+Hands out of your pockets, now.
+Teddy Bear
+Shite like that, that&apos;s why I did the noble thing: I fought it. You shouldn&apos;t have to fear your own queen. And you shouldn&apos;t have to fear some bogeyman just &apos;cause that queen&apos;s needin&apos; a scapegoat.
+And when the time comes, I&apos;ll come find you.
+*Her lips undulate and her tongue waggles. Some words you can piece together. &apos;Blade&apos;. &apos;Tomb&apos;. &lt;i&gt;&apos;Bitch&apos;.*&lt;/i&gt;
+*She lifts your blindfold and nudges your nose with her own, laughing.*
+I don&apos;t hear any pickaxes! No shovels! Where are me lazy diggers?
+You &lt;i&gt;will&lt;/i&gt; learn to make your heart a stone. All life is priceless, unless the price is all life.
+The Paladins just &lt;i&gt;showed up&lt;/i&gt; - no notice, ready for a scrap. They claimed we were traitors and were plotting with the Black Ring! Lunatics, the lot of &apos;em!
+Kemm believes Dallis may be in the city. White Magister Reimond can tell us for sure - if we can find him.
+Then there is no time to lose! Make haste, and recover the wand. All is lost without it.
+Goodness. I&apos;ve met street urchins with more manners. I&apos;d think you would have more respect for your own queen&apos;s customs.
+*Shrug and tell her you hope her brethren feel the same for her.*
+Ish it... &lt;i&gt;me?&lt;/i&gt; Cahn I... I cahn. I can shpeak. It&apos;s my woice. My words.
+I seized the powers of Divinity and ascended. I am Divine.
+Heed her call, Sebille. It rustles for you. You are a new mother to us all. The heart that beats in our every chest.
+You switched to another &lt;font color=&quot;008858&quot;&gt;deck&lt;/font&gt; in your Hotbar. To switch back, open your Hotbar by pressing [IE_ActionMenu], then press [IE_UIHotBarPrev] or [IE_UIHotBarNext] to cycle through your decks.
+What? Didn&apos;t make it clear the first time? Scram.
+*He mentioned bodyguards. Ask why he&apos;s in need of a guard.*
+*If the Master is the key, you must find the Master. Where is he?*
+*With a rancid look, the dwarf pockets the knife. As he does so, you spot the royal seal of the dwarven queen on the handle. Through gritted teeth, the dwarf growls...*
+...and shout to all, &apos;the humans must prevail!&apos;
+Resolve Hannag&apos;s standoff.
+Don&apos;t worry. There&apos;s nothing funny about me.
+Are you sure you&apos;ve done everything you meant to do here? I could&apos;ve sworn you had some imaginary girlfriend to find or some such. We won&apos;t be returning here, you know.
+*Say you&apos;d love to - really - but you have other obligations.*
+Do you? You seem fine. Don&apos;t you feel how &lt;i&gt;tight&lt;/i&gt; this collar is? And there&apos;s nothing we can do... nothing we can do...
+Does [1] to all within [2] from impact.
+*Ifan raises an eyebrow, and his sharp teeth glint in a wide smile.*
+*She covers the two welts on her inner arm with a hand, patting them nervously.*
+A decisive decision! I would congratulate you, but alas I fear in my excitement I spoke out of turn and potentially promised more than my meagre means are able to provide.
+Last Rites
+*Your nails dig deep, and Stingtail&apos;s blood flows copiously, as if eager for release, but he doesn&apos;t speak a word.*
+Orc Priestess
+*The girl begins to scream fearfully and doesn&apos;t stop until you back away.*
+Lemonade
+*Tell him that you didn&apos;t believe either... until you saw divinity with your own eyes.*
+Dog. Dog. Dog. Dog. Dog. Dog.
+Amazing, to think of the power that exists in this world. One moment, a whole island is there, and the next... nothing.
+*She cocks her head ever so slightly and eyes you as innocently as a kitten.*
+Forgive me, Your Highness. I didn&apos;t expect... well, anyway. Were that I had more than...  cornmeal and rotting roots to serve, I&apos;d concoct something more fitting for one of your stature.
+*The purse is heavy with gold.*
+I will remain anchored here, until I am needed once again.
+*Ask the dog what happened to her master.*
+The Meadows
+*Tell him no-one sent you, you&apos;re just passing through.*
+[ELF] *Offer your sympathy. Lucian committed terrible sins against your people.*

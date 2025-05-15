@@ -1,0 +1,166 @@
+I hear Justinia is gonna crush them dwarven rebels. &apos;bout time, if you ask me.
+against [1]
+No immunities
+Drunk
+*Ask her to recount when and where she last saw her daughter.*
+*Tell her that someone with a tea fixation has no room to question a dwarf&apos;s choice of drink.*
+Magister Houndmaster
+The Seeker Gareth directed us to a hideout in the marsh. He plans to mount a takeover of the Magisters&apos; flagship from said hideout.
+*Kemm is Black Ring? Wonder how she can be certain.*
+Scroll Lock
+*You&apos;d prefer to talk to the living over the dead. Take your leave.*
+This can&apos;t be. You said he was upon the beach, yes? I need to have a look myself. This... this simply can&apos;t be.
+We really gave those Black Ring what-for, eh? Wiped &apos;em all out in the blink of an eye. Damned proud to have served with you, ben-Mezd. &lt;i&gt;Damned &lt;/i&gt;proud.
+*Remember meeting a Magister Borris in Fort Joy. Remember that he&apos;s dead.*
+No. Fear not, cub.
+You there! Halt!
+*Say you already found Griff&apos;s supplies and delivered them back to him.*
+She was imprisoned on the Lady Vengeance, one of the few of us not left to rot on the sand and sun. All the more vital we take the ship from the Magisters.
+There are places in Kemm&apos;s mansion that nobody goes but him. One has to wonder what he gets up to...
+There you are! Just like I said.
+The Sallow Man has dark devices that may be useful in the search for Sadha.
+Mmm. Just as I&apos;ll continue to be, should our roles ever be reversed.
+If we don&apos;t have order here, we won&apos;t even survive long enough for the Reds to cure us. Surprised you lent a hand. Well done.
+Cutting Board
+Throne
+*You find the dwarven Lone Wolf in a tavern, at the bar. She doesn&apos;t look like much. You stand behind her. Thom Hardwin calls her name. The bar goes quiet. She doesn&apos;t turn... but you see her reach...*
+The arena began to fall around us.
+Immune to Burning
+They think they could be the One. Ain&apos;t likely they&apos;ll succeed.
+*Tell her that Papa asked you to kill Peeper, so, er, you did.*
+*Nod. They got you after your Source manifested, too.*
+*He chuckles, and pokes the inside of his cheek with his tongue.*
+Eternal Artefact
+I have been feeling peaky lately. My darling said it was the rosy glow of a woman in love. But now, I think it was a warning, a sign of the massacre to come.
+Really? Oh, what wonderful news! If there is a shrine to Amadia there, I may return to my old self just yet!
+*Sigh.* Why on earth should I have thought anything else?
+*Say that you know exactly what kind of meat she&apos;s been putting in her stew. Now you&apos;re going to stop her.*
+[NOBLE] *Say you&apos;re sure the help can handle it.*
+*She smiles contemptuously.*
+*Hiss!* Keep away from me!
+*&apos;Dallis&apos; and &apos;Alexandar&apos; mock-fight their &apos;Sourcerer&apos; foe. They&apos;re having the time of their lives.*
+*Ask if she knows where to find the Seeker&apos;s leader.*
+The pressure points will open the doors but... that isn&apos;t all.
+The necklace the Djinn gave us turned out to be stolen.
+Quite brazen of you, to seek favours when we&apos;re barely acquainted. I have nothing of that stripe to offer you. You&apos;ll just have to fend for yourself against my former comrades.
+May I be of assistance?
+[1] Memory Slot(s)
+Beast
+We&apos;ll see. You want to cross my bridge?
+(What should we do?)
+Our plans, our strategies, our records, all consumed by flames. And amidst the ash, another charred anonymous corpse in a city littered with them.
+*As you spring free, he drops to his knees, clutching his face. His nose streams rich red blood into the earth. You have him.*
+An intact dwarven face flayed from the skull of its former owner.
+*Press your hand to her forehead. Is she alright?*
+[IFAN] *Tell him your own boots are just the right size.*
+Charnel House
+[OUTLAW] *Say that you&apos;re sorry to see him turn soft in his old age.*
+*Your stomach drops. Ask if she thinks you&apos;re ready.*
+*&apos;I am what you made me&apos;, you call to them, and vanish into the ether. Now, they will see. They will all see.*
+Lady Kemm has been kind enough to host me until I can return to the kingdom. She is a gracious host, even in these trying times - and has taught me much about tea...
+*She maintains her steady, defiant stare.*
+You hear me, surely. Put your weapons away!
+*You&apos;ve never heard a Magister talk openly about purging before. Ask him what he meant.*
+*Close your eyes.*
+[IFAN] *Ask about his travels. Did he see the majestic home of the elves before the Deathfog destroyed it all?*
+Sallow Chainmail
+Master...
+The wound&apos;s closed over... thank you.
+Alien Earth Essence
+We found Garvan&apos;s missing supplies.
+*Whatever emotion it was that crossed Beast&apos;s face in that moment, it is gone in a flash. He stands straight, grins, and bellows his intentions.*
+Try again.
+*Ask if you may join her.*
+If I crossed it, I&apos;d know what it&apos;s like to be... him. Adramahlihk. I&apos;d rather die a thousand times than become like him.
+Curse you, Godwoken!
+The strongest will survive... and ascend.
+Look around - there&apos;s nobody here wielding any bows. We can&apos;t help you on that front.
+You have returned here too early, Red Prince. I can teach you nothing new until you meet with the Masters!
+Gareth intends to break through the Magisters and escape the island.
+&lt;i&gt;...and so on your flesh it must feed.&lt;/i&gt;
+Magical Big Lizard&apos;s Club
+*Roll your eyes and tell her to cut to the actual chase.*
+These are mine! Get your own, okay?!
+This herbal brew glows faintly in the dark. Just one sip of it can sharpen the drinker&apos;s perception.
+*Say you must be off.*
+Lava Bomb
+*Turn around and walk away.*
+*The pain in your arm subsides to a dull tingle. The surface of your bones is already blistering.*
+Range: [1]&lt;br&gt;Mute status prevents a character from using any spells or scrolls.
+It&apos;s simple, what I need. The matter of an afternoon.
+To sit all day in perfumed shade and watch the white of the marble change with the journey of the sun.
+Ranley, a Magister survivor locked in the brig, told us that Dallis sang to the ship when it was under her command. We should search her room for the song.
+Do not mock me, you shambling bag of bones. You know what lies beneath. But I will not allow you another step closer, human. Qanna&apos;s already laid claim to it.
+She&apos;s got one of those things in Driftwood. You know, a building where people go, and they do things inside of it. &lt;i&gt;Home&lt;/i&gt;. That&apos;s it. She&apos;s got a home in Driftwood.
+Hope you&apos;ll fare well, Prince. Maybe them folks of yours will see the light.
+Your failed rebellion against the Queen nearly destroyed you - so you began a new life on the high seas. Now, your old enemy is back. If you don&apos;t stop her, no-one will.
+The Whites have betrayed the memory of Lucian, in the most heinous manner. We&apos;ve had our suspicions, but when Lord Arhu proved their collusion with the Black Ring, it was time to act. We put a stop to their treason.
+Come on!
+If you&apos;re not a paying customer, I&apos;m afraid I&apos;ll have to ask you to leave.
+*Ask the demon where it came from.*
+No can do, chickadee. You&apos;re not leaving my sight for a while longer yet!
+You brought the Eternals back to the world,
+Enough! Looks like I need to take care of this myself...
+*Reach for your weapon.*
+*Ask who he means by &lt;i&gt;&apos;they&apos;.*&lt;/i&gt;
+Trap Disarming Kit
+Remove the barriers.
+Throwing Knife
+*Tell her you understand how she feels. You have lost too much, yourself.*
+Aren&apos;t you supposed to be off learning how to become the Divine and whatnot?
+Bartering
+*As you reach into the jar, the Source flows into your body. You feel warm, light-headed, and you pulse with power.*
+*Say you saw him murder that kin in cold blood.*
+*Pause. Say he&apos;s right. If someone must right the balance, let it be you.*
+[1] gives you [2]% x Warfare extra Magic Resistance.
+Go and pluck the blackest of roses from the depths to the southeast, where the revolting seeds the rapturous.
+Makeshift Wand
+You&apos;re cold. So where&apos;s Joe?
+Looks like nothing so much as an ancient urinal...
+*He turns to you at last, those eyeless sockets staring into your own, and you realise you know the truth already - you can do as he did...*
+Ey, half-knee! What do you know?
+*Ask if she knows who or what it is.*
+So I lied to the others. I told them there was no helping him. I told them to seal us down here - where he could do no harm. Where I could guard his prison.
+*Say there was enough blood at his feet to account for a hundred lost lives.*
+*You reach for your weapon, but as the small Voidwoken skitters forward you get the sense that it&apos;s not here to fight.*
+Give me a moment to compose myself, would you? There was death in that dream, chasing me like a hundred hungry lions!
+Blindfolds. It goes around your head and cover your eyes. Obviously, you won&apos;t see a thing.
+Show Sound Debug Window
+I pray that you ease their pain and see them safe in your grace.
+healed
+Well, I&apos;m sure that in your own case that sentiment is... &lt;i&gt;almost... &lt;/i&gt;true, but no, let me tell you the truth of the matter:
+You are not alone: the Lady Vengeance stands by your side!
+I have seen more dignity hanging from hooks in abattoirs. Barbaric...
+*Ask him who he was looking for inside Fort Joy.*
+*Say you hope he ascends soon. The Voidwoken are getting worse.*
+*Grin and say he&apos;s your Master no longer.*
+Fire Skill Scroll
+You have walked the Path. Could it... could it truly be that Divinity is again among us?
+*The ring has a bit of Source to it, he says. Ask about that.*
+*She grins, revealing sharply pointed teeth. She raises a paw and extends her claws, one at a time... one... two... three... four... five...*
+We&apos;re... we&apos;re getting close, chief.
+*The slug&apos;s features crease into a look of what might be suspicion.*
+[SCHOLAR] *Remember something you once read and grab a pouch for her to breathe into.*
+Your lies only make me all the more hungry. And my anger is the most delicious sauce of all...
+*The noble-looking dwarf beckons you closer, then gestures toward the somber group inside.*
+Drudanae
+Bromley&apos;s Chest
+Video
+Magical Chain Gloves
+*Leave them to their argument.*
+Augumented Blood
+Really?
+You will be my champion, and given all you have already endured and sacrificed, I can think of none finer. You - you will be the one to protect our people.
+CAWKAWRIKAW!
+...they fear the final snuffing out of light.
+Main Menu
+Do you sense that? We had better watch our every step.
+Not the finest of landings, though I suppose our dear vessel did well enough, given it&apos;s not exactly in its &lt;i&gt;natural habitat&lt;/i&gt;...
+Fire Source Puppet
+I... you&apos;re right. I see. And I am &lt;i&gt;no&lt;/i&gt; sla-
+Letter found on a Silent Monk
+Being a traveller is being an adventurer. So tell me: did you meet with a Magister caravan on your way into town? The hour&apos;s growing late and I&apos;m beginning to worry something might have gone wrong.
+And I would love to indulge you, prince, but alas, you and I both, hmmm, lack the necessary drudanae...
+[OUTLAW] *Shrug. As long as Ifan can promise you safe passage, you&apos;d love to meet the legendary Roost Anlon.*
+Give me room, dwarf.
+It was worth the - *wheeze* - the agony of the Deathfog.

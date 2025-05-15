@@ -1,0 +1,170 @@
+*Tell her White Magister Reimond sent you to bring the prisoner back to town.*
+My duty is done, Godwoken, but you have a Divine path ahead of you.
+You there! You think you can just strut around anywhere you want? You&apos;re under arrest!
+Reimond&apos;s Journal
+But there&apos;s some high priority digging for Dallis going on a lot deeper than I ever go.
+Argent
+Good. Thank you.
+Spare me your nonsense - I&apos;m busy. My Magister comrades are missing, and I need to help find them.
+*Ask Gareth if he has a plan for what comes next.*
+Ifan... &lt;i&gt;Hurry...&lt;/i&gt;
+Eternity, my child. An eternity by *wheeze* by our God King&apos;s side.
+Steel Chest
+*Tell him you wish to challenge one of your comrades.*
+Oh, nobody special. Just a carpenter, I am. But every dwarf worth his beard knows the Beast!
+Cup
+*Say you&apos;ve come to stop... whatever this is.*
+Tell ya what. You were clever enough to figure me out. See that spot on your map? Might as well reap what I couldn&apos;t. You know. If you&apos;re the gamblin&apos; type.
+Find Barin&apos;s mother.
+I will find a way to complete the ritual. I must. My lord is not forgiving...
+Woah! What was that?
+UI Character Creation Remove Skill
+But of course. What else should we expect from our glorious Shield, Quercus?
+*This is too important to remain vague. Give her a yes.*
+&lt;i&gt;Barin?&lt;/i&gt; He&apos;s still out there?! Dammit! I told him to go back into town.
+*Slide up close and hold the needle to his neck. You&apos;ll &lt;i&gt;give &lt;/i&gt;him the liberty.*
+Gain
+The Academy! &lt;i&gt;My &lt;/i&gt;Academy.
+*Squeak!*
+*The spirit of the chicken clucks and scratches at the ground around its body. It seems more confused than upset.*
+The dwarven thugs in the cellar mentioned another door. Where could it be hidden?
+So primitive. I&apos;m made of the hardest of hardwoods. Neither knuckles nor necromancy faze me.
+Magnificent! But if I am to write a first-rate work, you must face some... difficult questions. Are you prepared to answer?
+Ick! What is that thing?
+Um, um, &apos;scuse me, um, Missus Lohse the Singer My Mum Likes... have you seen our ball?
+The prisoner &lt;i&gt;will &lt;/i&gt;be silent. Her case has been heard and was found &lt;i&gt;lacking&lt;/i&gt;.
+*Say you met Duna, and he taught you how to grant blessings.*
+We bowed to the will of Lucian and Dallis, but Braccus betrayed them. He&apos;s a vessel for the God King!
+[VILLAIN] *Tell her you&apos;re someone that&apos;s going to miss Fort Joy...*
+Yes! Of course, of course!
+*Point out that the tinkerer was falsely accused, and now he&apos;s dead anyway. Doesn&apos;t he feel guilty?*
+*SOB* *BACAW!* *SOB!*
+The Lone Wolf Talent increases your stats as long as you are travelling alone or with a single companion. If you have a full party, you&apos;ll need to remove members to see any effects.
+Everybody in life makes choices. And I&apos;d wager this was one of my better ones.
+Midnight Oil
+Old Master
+Do you think I give a damn about &apos;sorry&apos;? About whether or not you &apos;understand&apos;?
+LEAVE ME ALONE! LEAVE ME! I don&apos;t want to!
+I suppose I could make an exception.
+*Wonder if it belongs to a child.*
+His help could be useful. &lt;i&gt;If &lt;/i&gt;he speaks the truth.
+&apos;Here lies Patryk, prophet. He perished in this place, predicting the downfall of Braccus Rex.&apos;
+I suppose you deserve to know.
+O Lucian, please return - oh my. Suddenly I don&apos;t feel well. I don&apos;t feel well at all.&lt;i&gt;&lt;br&gt;&lt;/i&gt;
+Remove From Wares
+D
+As per your own testimony, you can cook and tailor, but your personal hygiene reminds one of a carcass rotting in the sun.
+[IFAN] *Say that you were an orphan, but you grew up among the elves.*
+Tags
+[VILLAIN] *Explain that you could save her darling, or - and this is really tempting - you could grab some nuts and enjoy the show.*
+Along Reaper&apos;s Bluffs, a statue stands guard over a circle of torches.
+*She raises her eyebrows and bites her lip.*
+*She slumps, all bravado draining from her.*
+Set sail for Driftwood, I reckon. From there, we can track down my old pack and find out who&apos;s behind the contracts to kill Godwoken.
+Dead Paladin Protector
+*Protest that you aren&apos;t apathetic as a rule, you just not into flowers all that much.*
+Darling! There you are. I was afraid you&apos;d had an unpleasant run-in with our shiny new god.
+*Fane knocks your hand away with a snarl.*
+Eternal Stormblade
+*Shout at the guard.*
+*Place the object in your pack.*
+*Kill the demon.*
+More harm than the dreaded Beast o&apos; the Sea? Not likely - not if the songs are to be believed, anyway. You can keep pretending you&apos;re travelling the high road, Marcus. The rest of us know where you&apos;re really headed.
+*Say that if you had started this, you would put it right.*
+I enjoy a bit of drama. Don&apos;t you?
+Do not forget yourself. You are still &lt;i&gt;my&lt;/i&gt; champion. &lt;i&gt;My&lt;/i&gt; chosen.
+[1] decreases everyone&apos;s attitude towards you by [2], but gives you [3] extra point in [4].
+Yeah. No. Can&apos;t help you.
+Truth will always find you. You cannot hide!
+Unscholarly Pursuits
+*On the page in thick black letters is written: &lt;b&gt;VELVET FANG&lt;/b&gt;.*
+We&apos;re here lookin&apos; for a slippery snake called Mordus. This here&apos;s his quarters, but ain&apos;t no sign of him.
+Kirill&apos;s Greatest Hits
+Sawmill Foreman
+Antique Armour
+We have walked the wastes of nightmare and survived, my prince. It is not a feat given to many.
+*Tell him it sounds like a job you&apos;d like to have yourself.*
+I know I trust them well.
+The Crafter&apos;s Grimoire: Part XVIII
+Godwoken should usually be able to pass freely. Whoever *kkrrsk* tampered with me may have interfered with the Academy in other ways.
+Nothing up here&apos;s gonna get her going. Even for a Godwoken.
+*Say no; you aren&apos;t interested in whatever she&apos;s offering.*
+*Darling, please. You prefer to manipulate others to do your dirty work for you.*
+Darmian&apos;s Prong
+*Certainly not! Tell him you&apos;re in league with no-one but yourself.*
+Unless some other scratchly-poker found it first, of course...
+*Smash the jar to pieces.*
+*Keep silent.*
+*She starts to answer but her eyes change, turning from their gentle glow to a dark shimmer. She looks up and gasps.*
+UNDEAD HUMAN
+Well well, Quercus, look who finally graced us with their presence. I suppose some thanks are in order.
+Let&apos;s try that again shall we?
+*She leaps up and grabs the egg with her foot, kicking it under her warm underbelly and settling down upon it contentedly.*
+Find eggs? Did? Didn&apos;t? Do?
+My mum doesn&apos;t like elves. But I have a secret: When I grow up, I&apos;m gonna be an elf! She&apos;ll get used to it.
+*Ask her what exactly happened back there.*
+*Suggest you loot the crypt together and share the spoils.*
+&lt;br&gt;N O O O O O O O O O O O O O O O O O O O O - !
+*Say that they just wanted a chat, really...*
+Sturdy Ring
+*Amid the soundless air of this alien world, you see a wraith-like elf standing tall. He eyes you imperiously.*
+*The girl thrashes. And howls. And spasms. You can barely keep your arms locked around her...*
+*Produce the bloodied Magister ring that was hidden in the kitchen, and ask the ghost if it&apos;s hers.*
+That so? Oh hey, you&apos;re right; reckon the elf I&apos;m thinkin&apos; of is a might less ugly than you. Hard to tell from upside down, though.
+*A massive man looms over a small elf, his hair a tangle of matted knots. Scars upon scars cross every inch of visible flesh, from his hands to his gnarled face.*
+But not, of course, the last...
+Queen Justinia will stop at nothing! She&apos;s a tyrant  - and a master strategist to boot.
+*She tips you a wink, then turns away.*
+Sir Gareth made it back to his Seeker comrades. Their leader has returned. What does he plan to do next?
+*Stand back and let Ifan handle this.*
+Welcome to Divinity: Original Sin 2! Click anywhere on the ground, or hold [IE_FlashLeftMouse] continuously to begin exploring.
+Heroic Buffer
+*Say you want to talk about what happened with the elf Saheila.*
+*You hid the capacitors you&apos;d taken and set out to steal the rest. You were lurking here, plotting, when you were overtaken with a sense of love. You felt at peace. You felt Lucian&apos;s hand on your shoulder.*
+[OUTLAW] *Nod your head in appreciation. She stole from the Thieves&apos; Guild? That&apos;s pretty impressive.*
+Operating Table
+A surprise flash that can inflict blind in a [1] radius. Creates a small ooze surface with a [2] radius.
+Get &apos;em, Ma! Get &apos;em! Look! Across the river! Ma&apos;s fighting a Voidwoken!
+It is... beyond mortal comprehension. Void; absence; nothingness. And it knows of you.
+[RED PRINCE] *Remark that you&apos;re an exile. You can ill afford to shun new companions when the chance arises.*
+There&apos;s one unaffected egg behind them! Perhaps there&apos;s still a chance.
+*Ask him what the note means. What is Mord&apos;Akaim?*
+*State that you dealt with them in your own way.*
+Nintendo Account Error
+Sacrificial Mantle
+*The creature stares at the ground and shuffles away.*
+It is a wish I have forsaken. It is a banner I must pass on.
+*Steeling yourself, look deeper into Rhalic&apos;s eyes.*
+*She chuckles, and pokes the inside of her cheek with her tongue.*
+HDR Settings
+*Ifan&apos;s feral eyes glitter ravenously as he looks deep into your own. He moves into you and kisses you again. He tastes of earth, dark earth and night.*
+Whoo-ee! Pretty cunning of &apos;em, don&apos;t you think? Light the fire and draw &apos;em in!
+*She takes the invitation from him and reads it closely, then looks up at Beast for the first time. A spark of recognition lights up her eyes but is gone in a flash.*
+Because I &lt;i&gt;have&lt;/i&gt; to.
+Ripped-Off Lizard Face
+*Change your mind and take your leave.*
+Save Gwydian Rince.
+Dispatch the Knight of Duna.
+Lizard Mask of the Shapeshifter
+*Ask her what she means. You haven&apos;t met any gods.*
+Look: I don&apos;t know what&apos;s going to happen from here on out. I don&apos;t know if we&apos;ll find Dallis. I don&apos;t know which one of us is going to... you know. All the stuff they say we&apos;ll do. I don&apos;t even know if I&apos;m still going to be &lt;i&gt;myself &lt;/i&gt;much longer.
+Are ye her woman, or sail ye with us?
+Look around, elf. What ya see is what you get. It&apos;s a fighting arena. You step into it when it&apos;s your turn, and take whacks at whatever comes barrelling towards ya.
+It is the wise choice. Now you may enter the arena with the blessings of the One.
+It&apos;s an incredibly audacious move. She&apos;s an inspiration to us all. Or at least to those of us left.
+You know me. You love me. You must find me.
+Head Beacon
+That&apos;s a move you will not live to regret!
+That wasn&apos;t so hard.
+No-one knows the House of Shadows exists. Therein lies its victory. But we, the Dreamers, we know them, and we do not leave them to weave their black webs around our empire unperturbed.
+*Fall to your knees at his feet.*
+*Swann carefully holds her head steady with his one good arm.*
+What kind of help do you need...?
+*The dog gives you a sad look, then turns away.*
+*Lohse has visited her demon&apos;s home plane and come back empty-handed. She looks at her party, her mouth set to a frown.*
+*Say that he doesn&apos;t &lt;i&gt;look&lt;/i&gt; Godwoken.*
+*Say that Braccus Rex is long gone.*
+Stay away from there. That thing keeps the shield stable. We can&apos;t take any chances.
+I chose you to be my champion... but it seems I&apos;ve chosen wrong.
+You can hang your hat on that! I&apos;d love to show you, but I&apos;m afraid I can&apos;t leave the bar unattended. &lt;i&gt;This &lt;/i&gt;crowd isn&apos;t to be trusted, believe you me!
+Purple Pouch

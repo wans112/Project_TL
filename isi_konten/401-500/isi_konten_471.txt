@@ -1,0 +1,172 @@
+*The Paladin watches the forest with an easy stare, her bow held loose and ready.*
+Silver Glass
+*Agree to help.*
+Boom
+A duel? Ha! Where do think you are, snake-face? Palace grounds? But if it&apos;s a good guttin&apos; you&apos;re looking for, I&apos;ll be glad to shiv another lizard!
+The Academy
+*Shrug; nothing&apos;s going to bring her back.*
+*Change your tone. Say you&apos;re here to listen.*
+*His insincere smile freezes in place.*
+Spirit of Seim
+You take me for a child! You have-
+Yeah, yeah, I know. I&apos;m working on it. Okay?
+It thinks we are sitting here, twiddling our paws, Quercus! Perhaps we haven&apos;t succeeded yet, but we have other worries.
+I guess I should&apos;ve stayed. I know that. But I just... I &lt;i&gt;couldn&apos;t&lt;/i&gt;.
+&lt;i&gt;The House of Shadows stirs...&lt;/i&gt;
+There can be great goodness in doing exactly nothing. Remember this.
+*Give her a beatific smile as you turn away.*
+*The bark is covered in a scratchy, scrawled handwriting. It&apos;s hard to read, but you can just about make out the recipe for a spell.*
+The log rewarded us with a shield of livewood bark.
+I&apos;m inclined to agree. You managed to catch me off guard, after all.
+Huh. I want another beer and a bowl of stew. Which of us is more likely to get what they want, d&apos;you think?
+You need to go, Godwoken. But I have one last request. My last wish as it were...
+Higba
+*Say you are very unsatisfied.*
+Say &apos;bye bye&apos; now.
+Well, look what I find. Looks like you spend some time in prison!
+*The rat glances nervously at your teeth.*
+[BEAST] *Tell him you hail from the kingdom of the dwarves, though you haven&apos;t been back in a very long time.*
+*He cringes and clasps his hands together in a desperate display of contrition.*
+Oh! Lohar! I know the guy, alright. I knew his father, Kiss-my-arse, and his mother, Shove-off!
+Change Folder Name
+[UNDEAD] *Tell her you&apos;ve had enough tea. It just seems to... go right through you, so to speak.*
+So that&apos;s the way of it, is it? Let&apos;s get this done!
+What? You have uncovered Braccus&apos;s hoard? Tell me, did you find anything else? That vault contains relics - Soul Jars. Did you see them? Do you have them?!
+Kitchen Pot
+Oh, what is it.
+*Lie and shoot him a wild grin. They sure are!*
+WE RISE...
+Walk to me... Walk with purpose... I am near...
+*Draw your weapon and prepare to defend yourself against this unseen attacker.*
+*Ask for an unreasonable sum.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+Adept Metamorph
+*Shout out to Fane - he can&apos;t! Not after everything you&apos;ve been through together.*
+I can&apos;t say I&apos;ve ever given them much thought. They&apos;re no more than an elven curiosity as far as I&apos;m concerned, obsessed with the idea of becoming sentient bark.
+Tell me...
+*Tell him it couldn&apos;t be helped; she got in the way.*
+*Repeat your offer: Would he like some help?*
+*Say you think the new Divine will try their best.*
+&lt;i&gt;*&apos;Attention, Reds!&apos;&lt;/i&gt; It&apos;s Alexandar&apos;s voice, and you stand at attention. The Bishop is to speak of the newly created Seeker division. Perhaps the two of you will be chosen, should Lucian will it!*
+But not lost to Fane. Fane would never forget.
+*Ask him to switch to a classic.*
+It is not enough to be Godwoken in order to ascend to Divinity. There is a process...
+*Say that you have some questions, before you leave.*
+*Remark that losing the ring isn&apos;t such a big problem then.*
+[IFAN] *Without a word, let her know that you will not be doing any weeping.*
+Carefully explore the cavern.
+Panel Select Toggle
+Lock the mouse cursor to the window when in-game.
+So? Anything interesting for me?
+Human Pillar
+I see the truth behind your lie. I see your lonely path.
+A simple cup, slightly rusted and stained with wine.
+A word of warning to you, Red Prince, one you would do well to heed: &lt;i&gt;Do not make the Doctor wait - and do bring Lohse with you.&lt;/i&gt;
+Of course - of course...
+Oh goodie! Thank you thank you thank you thank you!
+Quick Wolf
+*His eyes open, but he doesn&apos;t see you.*
+Besides, I was just about to tell you where your Master is. Just like that.
+I&apos;m glad you could come. You seem to have traversed the Deathfog just fine. So tell me, what ails you?
+*Rattle the doorknob.*
+Crispin
+*Groan in frustration. You suppose it&apos;s easy to carry nothing of value when you have no customers.*
+*Sensing a good opportunity, you say you&apos;d like to help her find the culprit.*
+Show user page
+Crafty Weaponry: Bows
+Cutting Tool
+*Malady suddenly grabs Lohse&apos;s arm. She speaks through gritted teeth.*
+Hell&apos;s teeth, it feels good to breathe mortal air again! I can smell your putrid lives... your &lt;i&gt;unlife,&lt;/i&gt; or my senses deceive me. An undead. How interesting. How &lt;i&gt;delicious...&lt;/i&gt;
+&lt;i&gt;Sssshhhhh.&lt;/i&gt; Now&apos;s not a time to alert enemy ears.
+*Ask if she knows who she is now.*
+*He barely seems to notice your repeated question at first. His eyes are dark pools in which your reflection is drowning.*
+*Ask if any of these doodads they found included a tablet of some kind.*
+This is going to be messy.
+United, we are a force to be reckoned with, but if we are to survive the onslaught of the King and his Void minions, you must remember what you have forgotten. We must become &lt;i&gt;vastly&lt;/i&gt; more powerful.
+Decide what to do with Ryker&apos;s tablet.
+These are the banners of the House of War. My house.
+Candles
+But I hear the Queen is at it again - and there’s something darker behind her madcap schemes this time. If I don’t stop her, I don’t know who will.
+Keep that up, and I make you pay!
+*The undead cat arches its back and &lt;i&gt;hisses &lt;/i&gt;aggressively at your presence.*
+You! Gil, is that right? I&apos;ve a few questions for you.
+I name you doom bringer! I shall feast on your bones. The God King shall have his justice.
+But do be careful not to get caught. I was their - *cough* - guest for a time, and I promise you, the gallows was the most comfortable part of the experience.
+Well done. &lt;i&gt;Very &lt;/i&gt;well done.
+Cow Die
+Of course I am real, dear boy. As are you, it seems.
+Report back to Jahan.
+You fool! Do you understand what&apos;s been done&lt;i&gt;? &lt;/i&gt;The Mistake - repeated! You must contain him. Return him. &lt;i&gt;Destroy him. &lt;/i&gt;
+Exploration Theme 03 Dark A
+Delay your turn
+My end stop is Arx. The Queen&apos;s got Deathfog on the brain. What she plans to do with it, I don&apos;t rightly know. But if that stuff leaks out in the city, the whole populace is good as dead. &apos;n once that happens, the Order&apos;ll be all up in dwarven business. And my people have suffered enough.
+*MOO!*
+Skin Graft Scroll
+Alright. You may proceed. If Lord Arhu unlocks the door for you, you may enter. Just keep it short, he&apos;s preparing for his Lucian&apos;s Day speech and won&apos;t appreciate being disturbed.
+*You can&apos;t get past the thought that &lt;i&gt;demons&lt;/i&gt; are out of their depth here. Demons. Out of their depth.*
+Yes, yes, spend your last few minutes of life battling someone that&apos;s trying to read a book. What a splendid thought.
+The Godwoken&apos;s sacrifice severed the bond between the Sworn and the God King.
+What on earth is that noise?
+Pine Tree
+We found the Thieves&apos; Guild.
+Have you no mercy?!
+*Relax, and say you&apos;ve never heard of this &apos;Princess&apos; that the creature speaks of.*
+*Two dwarven spirits, at loggerheads.*
+*He inches his foot forward, frowns, then pulls it back.*
+You betray your kin. You deserve what comes to you, Sebille Kaleran. Talk to me no more.
+Intimidator
+*Tell him not to waste his afterlife on revenge - the Hall of Echoes beckons.*
+*Shake your head. You haven&apos;t found anyone worth sharing the road with.*
+Small Sword
+Who do you have in mind?
+She will set her loved one free...
+Off to prison with you. You have plenty of time to dwell on your crimes in there.
+The gods? No. I want you to save the dwarven people. Greatest of the races, and most imperilled.
+*Inform him that you found a bloodied ring hidden in the tavern kitchen - bearing the Magister seal.*
+Good riddance to them.
+*You don&apos;t need to hear anymore from this foul killer. It must die!*
+Then there&apos;s nothing left to do but...
+Very well, let&apos;s be off!
+*The jar sits still. It seems to have revealed all the secrets it contains.*
+*Hold out the coins and insist.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Hah. Well, this is the real me. I&apos;ve always been a host.
+He rallied some veteran Magisters and Paladins to his cause, and brought us here. He knows what needs to be done now, to become the next Divine.
+*The Magister steps forward with a smile and draws her weapon.*
+*She rises from her bow, her face frozen in... fear, you presume? It isn&apos;t long, however, before she shakes her expression away and takes a defensive stance.*
+You! Identify your-
+Uninvited guests lurking about it seems...
+*Say you&apos;re very sorry but you don&apos;t have it.*
+Dwarven Stew
+I&apos;m Jace. Jace Loke. It&apos;s good to meet you.
+A diamond this large must have been stolen from a royal family or perhaps prised from the recesses of a deep, dark mine by a very lucky explorer.
+*You see Stingtail cowering as Dallis walks past him by the beach. She smiles at him gently and says: &apos;All will be delivered. I will see to it.&apos;*
+What voice is this that drifts through the marshes?
+I ought to feed you to my hounds for this treachery...
+*Power seeps out of the jar, a whispered promise of magic. But as soon as you feel it tingling on your bones, your Source collar locks tight around your neck, squeezing and crushing you.*
+*Ifan freezes with resolve, and a cold anger emanates from him. In one fluid move, he steps close to her: knifepoint to throat. Without a flicker of fear on her face, she smirks arrogantly back at him.*
+A friend. A Seeker. And a guardian. I attend the caged monster before you.
+[LIZARD] *Tell the man you were close enough to watch them murder a kin in cold blood.*
+*Both men remain stiff, as if bracing themselves against an unseen wind.*
+So: How&apos;d they get you?
+*Say that you&apos;re not through with him yet. You have more questions.*
+Rise, my rotten army! Rise!
+Oh well, I&apos;m sure you&apos;ll soon gather your wits. Most likely. Eventually. In the meantime, all you need to know is that we&apos;re on route to Fort Joy.
+I don&apos;t think the problem is in my head, and further to that I don&apos;t think the problem could be unscrambled by the use of Source.
+I wouldn&apos;t trust these dwarves as far as I could throw them. Attack!
+What the hell &lt;i&gt;are&lt;/i&gt; you?
+I ceded Divinity to Lucian. May he do right by my people - and all of Rivellon.
+Patience, my sweet. It would be remiss of me to not explain just what you&apos;re walking into...
+*Confront Vredeman - that is, Braccus Rex. He sought divinity the entire time?*
+This large-sized potion smells faintly of old books and is capable of boosting your intelligence.
+What goes around, comes around.
+*Tell her the hunger she gave you hasn&apos;t quite abated. If anything, it&apos;s stronger...*
+Isn&apos;t that &lt;i&gt;just &lt;/i&gt;the question. I come bearing a gift, see.
+Listen to your master, Sourcerer! And stop causing trouble!
+...the Eternals...
+*He reaches out and places a hand on yours.*
+You can&apos;t afford my fee, I&apos;m afraid.
+Amadia&apos;s Air Ward
+Chapter 7 - To be Divine
+Kiss me again, sweet prince.
+*Unravel the blood-red cloth and wrap it snugly around her neck like a tourniquet.*
+Welcome back.
+*Recount the flesh-memory you saw. &lt;i&gt;She&lt;/i&gt; had killed the Magisters.*
