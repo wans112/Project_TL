@@ -1,0 +1,148 @@
+From the desk of Her Ladyship, Dallis, Right Hand to Bishop Alexandar, Son of the Divine&lt;br&gt;&lt;br&gt;There will be no more excuses. &lt;br&gt;&lt;br&gt;How is it that you have not crushed this rebellion yet? For your own sakes, you&apos;d best find and dispose of the dregs of these &apos;Seekers&apos; before you meet the same end as Atusa. The Source King&apos;s weapons do us no good if the Seekers lay hands on them first.&lt;br&gt;&lt;br&gt;Thankfully, some of you remain useful. Ames has reported Seeker movement to the south and east of the bridge leading out of Fort Joy. Spear them, slice them, burn them, I don&apos;t care. But see that they are gone.&lt;br&gt;&lt;br&gt;-D
+Who needs blades, with a mind as sharp as Tarquin&apos;s? The darkest of arts are his to summon against his foes.
+The vial is filled with a pale pink goo that you recognise as marrow.
+*He gestures toward the bandage across his side.*
+*The masked creature grunts three times at the sight of you. It reaches its arm out; clasped in its hand is a crumpled parchment. You take the page, and the servant returns to its hollow existence.*
+[IFAN] *Tell him the history of this land is death and slaughter. He&apos;d be better off not dwelling on it.*
+I promise that yours alone will be the powers of the lake, and to the lake I will lead you, but not yet. Not until you&apos;ve become a true Master of the Source: until you speak the language of creation itself.
+*Say you&apos;ve met him, and he was none too friendly.*
+Tsk tsk tsk. Such disrespect. I&apos;d be a bit friendlier if I were you. But, then again, I guess it doesn&apos;t really matter, does it? I&apos;m still going to destroy you.
+I doubt it. There&apos;s no-one left who&apos;s free of sin.
+Wizard
+I hope I can get more songs out of this lute. The magic won&apos;t last forever.
+When it comes to dying in a puddle of your own blood, sooner her than me.
+[HERO] *Tell her to wait. It seems her people have suffered a loss. You&apos;d like to help.*
+Fane recognises the ruins on the Nameless Isle as Eternal. Whatever happened here, it wasn&apos;t good.
+Ah. Oh my. Quercus, you never told me it felt this good!
+A motif of tiny, rudimentary wolves laces the crossbow&apos;s wooden handle. These touches have been added by an inexperienced but dedicated hand.
+Rat Talk
+Hrm?
+Arx - it&apos;ll fall. To the Deathfog. It&apos;ll choke the living and defile the dead. She&apos;ll do it. She&apos;ll kill them all...
+Blood Envoy
+We have help; we survive. And soon we leave.
+You dare speak her name? But perhaps there is still hope for redemption for you...
+Ring Of Fate
+I&apos;m Alexandar the Bishop! I&apos;ll bish you good!
+Then practice the moment in your mind, for hesitation will mean annihilation.
+Once Gareth emerges from the keep there, he and I will join you directly. He may be interested in you. Me? Not so much.
+What is that chest made of? I feel weakened just being near it...
+Just so, and I am thrilled to say that you will not receive any help from me. Alas, you need someone of flesh and bone.
+Let me do the talking here. This one&apos;s expecting me...
+Be brave. For both of you.
+Select [1] as your origin instrument
+*She looks to the sky, searching, then lowers her head and flashes the tiniest of smiles.*
+*Tell her that won&apos;t be necessary. You&apos;re ready to face whoever crosses your path.*
+Cancel
+Physical Vulnerability
+I wouldn&apos;t still be here if I had.
+*Growl.* Keep your distance, heartbeat.
+We killed the undead knight.
+*Stand aside and let him leave.*
+*The eyeless gaze alights on you once more. Your skin crawls. Your senses sharpen.*
+*The man raises his head with an anguished groan.*
+*Say you&apos;d have thought she knew more about the Source than any mortal.*
+*Tell him Delorus died on the Nameless Isle.*
+Silly girl.
+*Tell him you&apos;ve come to take back what&apos;s yours - and to make him pay.*
+Hurry! We need to get everyone back on the boat. I can&apos;t hold us much longer.
+Hit_Melee_Std_3
+Magister Zirre.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ensure you leave a little something behind in case any stragglers come back.&lt;br&gt;&lt;br&gt;Make it hard for the Seekers to breathe, if you know what I mean.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;D.
+Then get out of the way, cheapskate!
+Money isn&apos;t talking this time, fool. You are under arrest!
+Far as I understood, Lone Wolves don&apos;t ask questions. So why&apos;nt you shut your muzzle and go fetch?
+Those are but trifles, Your Majesty, yours as a matter of course. But we must move beyond the self-evident.
+*Tell him the waiter makes a derogatory remark about the dog, but the horses convince the waiter to let the dog in.*
+A low, cowardly move. There is only one answer to it.
+[These water-stained pages appear to have been torn from a book on Dwarven history. The opening passage is underlined.]&lt;br&gt;&lt;br&gt;- interaction with the Vulture. To appease the Undertaker, initiates would bow low with their hands held open. They would then quietly request the feathers’ blessing, and, when prompted, state their intent - to save the souls of the fallen.
+Oh, but they&apos;ve so much to offer still! Why, the very essence of decay flavours many an essential oil. I would&apos;ve thought you&apos;d understand. Such a pity.
+Bit of a tricksy one, given how I was captured on duty and all. Sallow does not take kindly to failure. But he looooooooves me, so he does. I&apos;m &lt;i&gt;his &lt;/i&gt;darling.
+Hey now. Let&apos;s keep it professional and everything. We&apos;re still Godwoken on a mission, aren&apos;t we?
+Abandoned Livewood Sawmill
+Explore Adramahlihk&apos;s home plane.
+*The statue is as ever: ablaze and unbroken.*
+Lava Cake
+*Leave him to grieve.*
+*Ifan raises an eyebrow, but he doesn&apos;t say anything. He looks at you, long and slow. The shadow of a smile tugs at the edges of his wine-dark lips.*
+Classic mode
+Grog&apos;s bridge is &lt;i&gt;nothing &lt;/i&gt;compared to my little beauty!
+Vydia
+Long ago, Ghalann&apos;s blood turned to sap. But his mind was tortured by grief and resentment, and the sap turned to poison...
+*Gently suggest to the cub that this world is harsh. It might be time to cut the cord and grow up.*
+*Back away and quietly take your leave.*
+Persistent. Stupid and persistent.
+C&apos;mon, Ada. Don&apos;t ya want a little taste of my magic?
+*Ask the spirit who she is - and what role she plays here.*
+So... you get it, right? Chocolate needs to go be its lovely self somewhere else.
+The Divine was created by the Gods to shelter us all from the Void.
+You will receive
+*Anger races through your body, setting every nerve aflame. Your hands tingle and your heart thumps an ugly beat.*
+No, I want to know about the celestial. I want to know about your &lt;i&gt;Gods&lt;/i&gt;.
+*Return the gesture and bless the spirit.*
+1234 AD: The Appearance of the Voidwoken&lt;br&gt;&lt;br&gt;*In a small volume that seems to be more of a notebook of thoughts than a published tome, Huwbert wonders if the strange creatures that emerged from the Deathfog that destroyed the Black Ring - the monsters known at the time of writing as the Voidwoken - were not the real winners of the great war. The historian does not draw a conclusion.*
+Medium Rock Rune
+And what kind of Divine was Fane, the Eternal, as the world battled on?
+*Tell them they can never return - they bring the Void with them. The Void destroys all.*
+Very Low
+[DWARF] *Fold your arms and invoke Tenax&apos;s Treatise: &lt;i&gt;all &lt;/i&gt;challengers must be fought.*
+*A long-dead judge materialises from the ether. His Honour, for that is how he&apos;s known, glowers at you.*
+&lt;i&gt;...krrrr-rrr-rrrrr-raaak...&lt;/i&gt;
+Lucian wouldn&apos;t want a war with the Ancient Empire - he&apos;d want us to concentrate on the Voidwoken threat.
+Saheila asked Sebille to liberate the elves - by killing the Mother Tree.
+*Her lips land on yours once more as her fingers curl inside you, and slowly, ever so slowly, she coils you into oblivion.*
+*Ask what work he did when he was alive.*
+Pulveriser
+*Report that you found a destroyed Magister caravan just outside town.*
+Bahara is her name, and she resides in the swamplands east of the fort. So let us make our escape and venture there post-haste!
+I hope you know what you&apos;re doing...
+Your vanishing act is the height of rudeness - stop it!
+Bug
+*As you&apos;re about to approach the lizard, Sebille cups your chin between thumb and index finger, then guides your eyes to hers.*
+Who are you to judge a soul? You who swings your sword for money. You who fights when you need not fight. You who profits from violence. Who are you to judge a soul?
+*Ask Han what happened to Verdas.*
+Travelling between the *wince* realms isn&apos;t easy, you know. It takes something from my soul each time. But never you fear: I&apos;ve pulled a clever trick out of my sleeve. The Lady Vengeance stands in two realms at once. Her body here, her soul in the Hall of Echoes. You can still return at your leisure.
+Good stuff, yeah?
+The Shadow Prince is dead.
+I can sense the raw powers of the Source rippling through the air. The island yonder: it is doom or destiny.
+And Sourcerers have Source collars to protect them anyway.
+*Tell him you&apos;ve killed the Sallow Man. Ask him what he wants to do about that.*
+Especially when our previous encounter went so disastrously wrong! I mean...
+Void-Tainted Arm
+Global
+*...&apos;Lie down on the floor&apos;?*
+*Say she belongs here, with you.*
+*As you drink in her shadowy power, she looks directly at you for the first time, seeming to recognise something in you that frightens, nay, &lt;i&gt;terrifies&lt;/i&gt; her.*
+Your Origins
+It... It knows you too. Oh, Seven preserve...
+Enchant Item
+&lt;i&gt;Fool... the more you resist, the more we crave your blood...&lt;/i&gt;
+Reliquary
+[MYSTIC] *Look upwards to the sun. Yes, you feel it. The light spreads through you, as if banishing the shadows of your heart.*
+Inventory
+*Bark bark! Bark bark bark!*
+[SCHOLAR] *Say that you have knowledge of healing, and offer to help.*
+I suppose we&apos;ll soon find out what schemes the Order is up to now...
+Ha! Then why come all this way? You&apos;re heart isn&apos;t in this - you should just give up now while you can.
+Target character&apos;s Dodging is increased by 90% and Movement Speed is increased by 20%.
+Add-Ons
+True, you are no mortal, but you have lost much of what once made you Eternal. And we were forced to become so much more.
+*Make yourself small. The demon is here; he&apos;s all around you.*
+Duna&apos;s beard, what a day.
+[SCHOLAR] *Confront Tarquin. He knows the demonic tongue?*
+*She makes a convincing argument. Agree to renounce your God.*
+*He pauses and blinks. There is no hooting or hollering, no celebration or song.*
+He &lt;i&gt;what?!&lt;/i&gt;
+*You don&apos;t want to get involved. Turn and run.*
+*Say that you accept Murga&apos;s challenge. You&apos;ll fight blindfolded!*
+I should have seen this coming. How could I have missed it?
+[LIZARD] *Show her the vision of yourself - her kin - as Divine. Demand that she help.*
+But... ugh. FINE!
+By rights I should kill the slaver prince, but he too searches for a dreamer. We shall search together.
+Wooden Figurine of Elio
+*Sir Lora stops short, then shakes his head and pats Quercus affectionately.*
+You damnable fool - the Deathfog is not mine to use.
+*Remark that optimism is a moral duty.*
+*Turn on your heels. You&apos;ll let her get back to it, then...*
+Approaching hostiles will be blasted with poison damage.
+Tattered Cowl
+*You&apos;ve never seen a cat so hungry. The fish disappear as quickly as a dwarf&apos;s sobriety.*
+*Tell him it&apos;s simple: Stingtail scarred you, so you scarred him. Extensively.*

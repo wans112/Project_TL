@@ -1,0 +1,170 @@
+*But the Voidwoken offers him a chance to redeem himself - to rejoin his people. If he accepts the God King&apos;s covenant, all will be forgiven.*
+[BEAST] *Tell him he can call you &apos;Beast&apos;.*
+*Tell Windego you will bring her a Swornbreaker scythe, if ever you should find one.*
+[IFAN] *You know better than to approach a woman with that level of intensity in her eyes. You wait. You watch.*
+*Tell the elf she should pay up; rules are rules.*
+Yes, I am familiar with the feeling.
+*Ask what you&apos;re supposed to be looking for.*
+*Tell him it&apos;s time to set sail himself - his life is over, he can go to the Hall of Echoes.*
+*He growls deeply and backs away from you, keeping mistrustful eyes trained upon you.*
+*A grim-faced man sorts through damaged weapons. He doesn&apos;t look up.*
+Credence I should have given them a long time ago! Make no mistake: I am to be the father of dragons, and she, the Red Princess, is to be the mother.
+Dunno why she&apos;d call you a Godwoken - unless you was.
+*He tips his temple in salute. For a moment a black smoke-snake coils around his fist... and then is gone.*
+It&apos;s just... I just...
+Wait and watch, as he commands.
+I know a trick when I see one.
+*She pulls herself free of your grasp. Terror in her eyes, she stumbles away.*
+Very well: in that case we&apos;ll forego the gallows and turn straight to the hunt! No doubt a trustee of Dallis is champing at the bit to see some action.
+*Important pieces? Ask what he means.*
+Whoah. How&apos;d you do that?
+Please fill in a valid name for your character to continue.
+She is the most blessed mother of magic. The fount from which all wizardry springs.
+Fair enough. But I can&apos;t walk beside you, then. I need more than a companion. I need... I need someone I can trust to do what needs to be done.
+*She yanks away your pack and fishes the evidence from it.*
+*Ask how she knows you - who is she?*
+Now listen here. I&apos;ll make it easy for you: you&apos;re gonna dig into your pockets and fish out a nice pile of shiny ones. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54] gold)
+Hell if I know.
+*Ask if you could lend a hand in the investigation.*
+Of course it wasn&apos;t, but you don&apos;t have to hold back on the details. I see them all.
+Executed Civilian
+I will link you. You will hear them. They will feed you. Increase the Source in you. Increase the power.
+Then she is safe, thank Duna&apos;s bushy bristles. I will attend to her as soon as I can.
+*Frowns...* You are not of the Black Ring.
+*The God King? Who does he mean by that?*
+[VILLAIN] *Tell her that sounds like fun.*
+*Take your leave.*
+He&apos;s a master Sourcerer. Everyone knows &lt;i&gt;that&lt;/i&gt;. But he&apos;s too powerful to take to the Joy.
+I saw it as I drifted here, at the midpoint between reality and oblivion...
+*The ghostly stag inclines its antlered head towards you.*
+Driftwood Arena Champion Key
+The Black Ring flocked to him after Lucian unleashed his Deathfog. The Undead stand by him because he offers them a return to life. I don&apos;t know why the Voidwoken flock to him...
+Leather Breeches
+Become invisible for a short while.
+*Claim that you were only cleaning it.*
+*Say you&apos;re simply exploring, rather than pursuing objectives.*
+We are all slaves to survival, and all survival is ultimately selfish.
+Secret Wall Close
+Hmmm. Let&apos;s just say killing a bunch of lowly dwarves is... beneath me.
+*Mewl...*
+Come now, be reasonable. This is it: the moment of prophecy and dragons! There is simply no way that you&apos;d risk our friendship by driving a wedge between me and Sadha at this juncture.
+My husband&apos;s actions are his own. I &lt;i&gt;do not&lt;/i&gt; condone them.
+*The leader scowls at you sidelong.*
+*Ask the ship if it - &lt;i&gt;she &lt;/i&gt;- wishes to remain in this state, after all is done, or if she wants a release.*
+Undead! To arms, in the Hammer&apos;s name!
+My! By a scion, you say. What a delightful plot twist!
+Pray, tell me, what do you think you know?
+*Roost moves to lunge at you, but Ifan is quicker. With two steps and three stabs, he slows Roost down just long enough for you to draw your weapon...*
+Default Deck
+*She breathes deeply into the pouch and begins to calm.*
+I&apos;m a Seeker. Name&apos;s Gareth. And I dare say you&apos;re a Sourcerer. I can give you shelter... and hope.
+I love my work. I love the possibilities of it all - the idea of engineering something to perfection... but one aspect always fails me. People. Fallable, mortal, irrational &lt;i&gt;people&lt;/i&gt;.
+[BARBARIAN] *Call out to the shaking Magister, telling her to hurry this up; you&apos;re hungry.*
+Between you and me, fancy pants, I&apos;ll still take a slaver like yerself over the Reds any day!
+I&apos;ll call you... um... Shadow Raven for the moment.
+*Demand to know who this cloaked figure, this Vredeman, truly is.*
+*It grips its hands, pleading with you as you open your arms wide and drag her kicking, screaming soul into your own.*
+Bench
+The people of Rivellon will call you their Saviour. You gave them the freedom you enjoyed at sea. And there will come a time when they rebel, just as you did - and the price will be high.
+[Arena_AvailablePlayer_2_f3cb5f2b-c0ca-4b36-b671-dd64d481f45d]
+I see you.
+You dare refuse, even after Saheila? You are still a killer of elves? You would doom us all?
+*Swear you are no Magister. All she can do is take your word for it.*
+*Dip your head towards him. Fix him with a steady gaze. Give him a reassuring smile. Tell him you&apos;re a Lone Wolf, and you&apos;re here to get paid. Then ask for his orders.*
+I do not require your fear, mortal. Merely your life.
+*Look around you. What is this place, exactly?*
+Looks like this is Lohar&apos;s place. Or what&apos;s left of it...
+Let&apos;s get this over with, shall we?
+Honestly, making the dead do menial work sounds kinder than having the living do it...
+Spirit Vision
+*Tell him you&apos;ll come back to him.*
+Move along!
+We gave Eithne the book. She was grateful, and left to blow herself up and set her soul free.
+Staff
+I hear you shall be the new Mother, Scion. We have hope now.
+Little Loretta
+[LOHSE] *Say he can call you Lohse, if he can behave himself.*
+Oh, I&apos;m blushing! You just can&apos;t tell because I&apos;m already so...pink.
+[1] increases your ability to resist fear by [2]%.
+Mabel the cow took our potion and turned back into a woman. A talented recipe-writer, she&apos;ll happily share her wisdom with us.
+*Lie and say you knew him in life. He was a proud peacock of a man. He needed to be put in his place.*
+Max Characters Per Player
+*Ask why she&apos;s so angry at Lohar. She chose this life.*
+*He peers into your eyes, looking for a sign of honest intent - and satisfied, his face softens.*
+[UNDEAD] *Admit that you&apos;re not... entirely... alive.*
+*Let &lt;i&gt;it &lt;/i&gt;loose. Let it speak with your lips.*
+[Opening the book, you read the description of attempts to exorcise a child. It seems the priests were quickly overwhelmed by the demons within. They were never able to find even an echo of the child&apos;s soul.]
+&lt;i&gt;You &lt;/i&gt;are not one of mine. &lt;i&gt;You &lt;/i&gt;are not one of the remaining.
+*The spirit of a Magister trembles before you, his eyes glazed with fear.*
+There shouldn&apos;t be anything more important to you than your honour.
+In a hurry, are you? On your way to Arx, like we are? Oh, we wouldn&apos;t miss Lucian&apos;s Day for the world!
+The God King offered a Covenant, and the treacherous four-faced skeleton accepted.
+*Ask if they&apos;re stolen.*
+*Nod and say that&apos;s exactly your point. The Magisters are the elite - if he was here they would &lt;i&gt;surely&lt;/i&gt; have found him by now.*
+*Tell him you&apos;re not going to feed his habit.*
+When I asked about a face-ripping tool the simpleton blacksmith was very upset. I hope this &apos;Kniles&apos; is more open-minded.
+Bucket
+...what do you know of our great work? What&apos;s the camp gossip about our cure...?
+Curtains
+Jagged and chitinous, like the claw of some primeval beast, this blade could be quite the prize... yet its shaft is missing.
+Exterminator
+No ranged weapon equipped&lt;br&gt;
+*Ignoring the look in his eyes, effusively thank Ifan for his help in reaching this moment.*
+*Agree. Impressive.*
+A Crumpled Note
+Hrrm. After something?
+[LOHSE] *Tell Han you intend to get off this island; you have a private matter to work out.*
+Why would I obey such a god?
+On Map
+Accompany me back to my empire and I&apos;ll tell them all in the palatial setting they deserve.
+*Hand her the Soul Jar with a name that you don&apos;t recognise.*
+The infamous Beast was invited to the party? Can&apos;t see that happening. Well, your not getting in this way. See the guard in the general store - she can be the one to run you off like the dog you are.
+Are you seriously asking me that question?
+&lt;i&gt;Do not sing that song for me! The fight is not yet done!&lt;/i&gt;
+Are you ready to tell the truth this time, little Sourcerer? You &lt;i&gt;are&lt;/i&gt; a Godwoken, no?
+*He dismisses you with a flick of a wrist.*
+*Her mind goes black. She had no other choice.*
+Suffocating
+*Her eyes brim with tears. Her lower lip wobbles.*
+Deals [1] and sets Diseased, which reduces Constitution and damage.
+Tarquin? Ah. That must be the fellow I found snooping in unwanted places.
+Cleave Angle
+*Tell the cows you&apos;ll give the potion to whichever one is most deserving.*
+Oh come on, this is bull - !
+[OUTLAW] *Mutter that you&apos;ve seen Divine Order &apos;justice.&apos; You almost pity the Sourcerer.*
+It&apos;s broken.
+*Triumphantly tell him that Marg is dead.*
+The Magisters are using their Black Ring enemies to excavate the Blackpits. They must be looking for something important.
+Farewell, lass!
+Don&apos;t dilly dally, my dear. You don&apos;t need me to tell you that the clock is ticking.
+*He seems hesitant. Ask what&apos;s wrong.*
+*Shake your head and demand she explain how she knew you&apos;re a Sourcerer.*
+Duly noted! Now, there&apos;s just one more question on my list for now:&lt;br&gt;
+Fan of Knives
+From the depths of the Void, the God King still sought to return.
+And we cheered.
+Spirit of Cursed Knight of Duna
+We can&apos;t stay here. The Magisters will keep looking. They&apos;ll never stop.
+*The sister has found peace with what was her life, but her brother rages on. The rebellion was a disaster. His sister&apos;s treason cost them their lives.*
+*Snarl that he&apos;s not in any position to bargain.*
+Please.
+*I would take more time to prepare.*
+Not you.
+*His cruel, scraping, booming laughter echoes inside your mind. He turns to you and grins. You have chosen wisely...*
+AP Cost
+*Light suddenly flashes back into her face. The grey veins drain to pinkish flesh, and her whole body relaxes.*
+...my boots are not going to clean themselves.
+And I would destroy all, had I the power to will it so.
+Breaker
+Mabel&apos;s Stash
+*Ask what happened here.*
+I am... Braccus Rex. &lt;b&gt;I am the Source King&lt;/b&gt;!
+The world is mine! It&apos;s mine because I say it is.
+A deal, you have.
+You escaped an abominable prison and confronted the King of all gods, only for Divinity to slip your grasp. A rather poetic arc, don&apos;t you think?
+*Say that you are lost: what is this place?*
+This is a magical Amulet.
+*Ask him what binds him to this demon - the so-called Doctor, Adramahlihk.*
+We found a song book in Dallis&apos; stateroom.
+*A deep voice rises from within the totem.*
+Dead Magister Swordsman

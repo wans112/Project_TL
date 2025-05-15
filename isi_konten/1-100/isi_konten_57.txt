@@ -1,0 +1,166 @@
+...and this is only the beginning. More and greater powers await you, if only you will seek them.
+What kind of sick mind would decorate a child&apos;s toy shield with a bulls-eye?
+The Magisters are pillaging Reaper&apos;s Eye of artefacts from the days of the mad old Source King Braccus Rex.
+Murder! Regicide! You&apos;ll pay for this!
+*His eyes widen as he realises what you&apos;re doing.*
+Sourcerers that allowed their power to corrupt them. They were wicked, cruel, vile, and generally not tutor material, but we seem to have no-one else to turn to.
+*Attend to your queen. Ros sent you to help; is she hurt?*
+*Offer your empathy. A lot has changed for her.*
+Hah. Fat lot of good that&apos;d do me &apos;round here. Poor dwarfies. Had your share of trouble here, I bet.
+Chicken Claw Skillbook
+Odd Trophy
+Well met. Jahan&apos;s my name. Pleasure to meet you.
+Be wary, I warn you. Best to let sleeping assassins lie, if you catch my drift.
+The Magisters have a lot to answer for. Those left alive, that is.
+*Wish him the brightest of futures.*
+*At this, Amadia surges forward. She seizes control of your jaw, which starts to move of its own accord.*
+Have you got this much gold now? I thought you were poor. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+[SCHOLAR]*Say it&apos;s an honour! You learned about her in history books!*
+*Here to talk. Ask the dwarf who he is.*
+*She goes very quiet. She doesn&apos;t want to talk about it.*
+Not so evasive now, are we? Good.
+*Confront him. How could he take so much joy from inflicting cruelty?*
+*Shudder as you realise who you&apos;re talking to. It&apos;s the &lt;i&gt;thing&lt;/i&gt;. The thing inside you.*
+*Tell her of your victory in the Driftwood Arena. What more proof of worth does she need?*
+*You look to your left. The dog&apos;s yellow eyes lock with yours, and the two of you turn from the ring of corpses...*
+This crudely whittled toy sword is designed for a child to cut their eyeteeth on, not for you to cut throats.
+Stone Hatch
+So this is how your path to Divinity ends, is it? No matter. I&apos;ve kept my promise. But there is another bargain I must fulfil...
+I&apos;ve a previous engagement, darling. I don&apos;t think you&apos;re supposed to be here.
+I have seen lakes born from a droplet; suns from a single flame. Let us be the droplet and the flame, you and I!
+Sister in Tir-Cendelius. You must help. I can be freed.
+It is a title. From my people. Given to those who hold memories of the Ancestor Trees. As I do.
+Buy, sell, or move on, elf. I don&apos;t have all day.
+&lt;i&gt;I KIIIIIIIILL YOU, ELF-MEAT!&lt;/i&gt;
+*A presence accosts you. You cannot see it, yet know it is there. It is in front of you, then behind, then finally within.*
+One of us ate Creeva&apos;s remains. His spirit vanished.
+And my sources tell me he&apos;s headed somewhere called the Nameless Isle. I&apos;ll be setting sail there myself any day now to take him out. &lt;i&gt;Your&lt;/i&gt; failure has put the reputation of &lt;i&gt;all &lt;/i&gt;wolves at stake.
+Hmm...
+Tell me - have you seen a Magister named Wainslow? Stout fellow, a little... loud? He helped me escape, when the Paladins attacked... I&apos;d hate to think any harm came to him.
+You can&apos;t pay too much for proper protection, you know.
+*Tell him you&apos;re his reinforcements, sent to move the plan along...*
+Do you really think I&apos;d be so incredulously stupid as to &lt;i&gt;deal&lt;/i&gt; with them? No, I merely summoned them for my amusement.
+*He shakes his head vigorously.*
+Let&apos;s get &apos;im, chief.
+It&apos;s cold. It&apos;s so, &lt;i&gt;so &lt;/i&gt;cold...
+*Protest. You have no idea what he&apos;s talking about.*
+*Tell her that&apos;s between her and Malady.*
+Warrior
+Well, then. All the best to you. &lt;i&gt;Chief&lt;/i&gt;.
+We owe that cat quite a lot. Let&apos;s be sure to show it our gratitude when we have it kissing our feet.
+*Do nothing. Observe.*
+*Her eyes light up and she licks her lips with delight.*
+*Hold still and allow him to shackle you.*
+You may consider the offer quite withdrawn!
+Longer&apos;n that! Too bad I&apos;m cooped up here. Things&apos;re lookin&apos; grim out there. Justinia&apos;s plannin&apos; somethin&apos; big. Really big.
+We found our stuff stashed deep below the tavern.
+Indeed.
+Wild - Normal
+MessageBox Accept
+Living Wall
+According to humans, only Rhalic&apos;s most faithful may carry them to the Hall.
+*Raise an eyebrow. Who are they looking for, exactly?*
+Gloves
+Pin Down
+*Give him the letter.*
+*Refuse. You already gave up your Source to it. Blood was not part of the bargain.*
+The dead kept me going.
+Hah! You&apos;re a spirited one. I&apos;ll fix that, just as soon as I&apos;m done with the witch.
+No! You&apos;re better off on your own; better off without the awoken of lesser gods by your side.
+*Shipments? Ask where they were headed.*
+Decomposing Aeromancer
+*A moment passes - and the amulet falls from the slot. All is the same as before.*
+*He smiles at you and claps your back in return.*
+[SEBILLE] *Growl that those who grovel before a master&apos;s whip don&apos;t deserve freedom - she will obey you from now on.*
+*The spirit holds up the back of his hand, and slowly peels away every finger but the one in the middle.*
+Saddle Brown
+*Knock her hand away. You don&apos;t have happy memories of childhood.*
+Scratched words wind around the stem of this otherwise unremarkable key. It&apos;s a Paladin prayer to the Divine: &apos;Guide my head to right thinking, my heart to right feeling, my mouth to right speaking and my hands to right action.&apos;
+We acquired another bottle of the witch&apos;s potion.
+[ELF] *Ask if an elf might be able to speak with the spirit within the ship.*
+*The dog whines and continues pawing at its nose.*
+*Bid him farewell.*
+...&apos;Someone with a little muscle&apos;? &lt;i&gt;Really?&lt;/i&gt; *Sigh.* I am adept as any in the fine art of hitting people with sticks, but what &lt;i&gt;exactly &lt;/i&gt;are you looking for?
+These were &apos;Heroes&apos;? What happened to them? And what&apos;s this Covenant...?
+Hurry, enter the Academy before the Black Ring can take any more lives. Please, go!
+Follow Amyro.
+Sebille backed my claim on Divinity.
+That&apos;s drudanae! Enough of the stuff will leave a titan seeing stars.
+Wheelbarrow
+Well, no matter. Whatever gets me to Reaper&apos;s Coast quickly. I have an excavation site to explore.
+Turtle Form
+*Tell him that once a reputation is won, it&apos;s hard to cast it off.*
+*Deep inside you, the word &apos;power&apos; wakens your god&apos;s desire, for power is what it wants. Desire rises to surround your heart - but its avarice is tinged with... suspicion.*
+Emmie! Fall back! Sourcerer! Tricks! Baddie! Intruder!
+No entry. Move along.
+Vitality Max
+I&apos;ve reason to believe one of them may be present on this island. Promise me we&apos;ll look for him, and I&apos;ll extend you the blessing of my company.
+&lt;i&gt;You&lt;/i&gt; will show it! You will show them &lt;i&gt;all!&lt;/i&gt;
+Everything you need is here: ingredients in the cupboard, Source in the glowing fountain, ritual in the tome by the bookcase - even an incinerator to provide a flame.
+You awakened me from nightmare with a single utterance: my name. How amazing - that a name can wield so much power.
+*The noble-looking dwarf beckons Ifan come closer. Ifan narrows his eyes, but strides over anyhow.*
+Shopping.
+I have to keep investigating... keep the pressure up. The culprit will make a mistake eventually. If you see &lt;i&gt;anything &lt;/i&gt;suspicious, let me know.
+Hardened up yet? *HACK!*
+You&apos;re here on sufferance, lizard. If I had my way you&apos;d be on the next boat home.
+[Strength Check]
+*Inquire after his mission.*
+*The merchant snaps his fingers, and a small flame emerges from his forefinger. He blows it out as he would a candle, and smoke wafts forth.*
+These are the kinds of creatures that grew bored pulling the legs from spiders and so moved on to people. &apos;Fun&apos; is not the word I would choose.
+*Ask if she is one of Meistr Siva&apos;s people.*
+Stuck
+*Tell her you killed the Sallow Man.*
+The dragon hatched. We may have a new ally.
+Captain&apos;s Snakeskin
+Dead! I suspect that&apos;s what it wanted all along.
+I am not some court-martialled dog! I would never kneel before the likes of you; especially not in my last moments.
+*The spirit of a Magister stares at you with undisguised venom.*
+*Choose Jules - his wand and shield will be useful in the fight.*
+*Tell her she must have you confused with someone else.*
+*The pilgrimage takes its toll; you&apos;ve walked upwards of twenty leagues, yet Arx is forty more. You sit at the base of a looming statue and sip from your flask, grateful for a moment&apos;s rest.*
+*The black candle glows with eerie, heatless light.*
+What&apos;s that smell?
+*She closes her mind and watches you go.*
+Invulnerability
+Trader Non
+*Say you&apos;ll trade it for his coat.*
+A yarrow, and carefully buried too.
+*Ask him what kind of &lt;i&gt;&apos;tasty treats&apos;&lt;/i&gt; Kemm gave him.*
+*And he purged you for being curious? That seems a little rough...*
+*The warg&apos;s jaws close upon your arm. You feel the pressure of its fangs upon you, but there is no pain... at least not &lt;i&gt;yet.*&lt;/i&gt;
+What? I don&apos;t know anything about the Black Ring. I must be dreaming - I &lt;i&gt;have &lt;/i&gt;to be...
+*Say that there must be some way to free him.*
+*Cut his hand with the blade.*
+I truly hope you&apos;ll do better than Lucian. &lt;i&gt;Be&lt;/i&gt; better.
+Really? Oh. Erm. Ok. Bye.
+*Say you will not fight your friends and allies.*
+Magister Terramancer
+Oil Incarnate
+Gift Bag Features
+The tigers fly, the leopards lie, and you... and you... Oh! But I know you, don&apos;t I? I have seen you in the night. The awoken one, hounded by dying gods... Just a dream, of course. Just a dream.
+...I could arrange an introduction but given that you saved me, I would recommend against it.
+This ring once belonged to a White Magister called Jonathan - and imbues its wearer with an impressive cloak of magical armour.
+*Promise her you&apos;ll do everything you can to find him.*
+Ha! Words, mere words! My claws can clip iron shackles as easily as the hair on your pretty head! But what can those five-fingered paws do? NOTHING! You must have had help!
+*Dizziness. It lasts just a moment - but long enough for you to feel Amadia&apos;s presence. You hear no words, yet understand: it&apos;s imperative you accept Ryker&apos;s bargain.*
+Copy
+[LIZARD] *Scowl and say that in the Ancient Empire you can go where you please, and don&apos;t have to answer to some jumped-up fishing port bureaucrat.*
+Trader Bree
+What&apos;s going on...? It looks like it&apos;s nearly stopped, then it just &lt;i&gt;starts again!&lt;/i&gt;
+*Justinia frowns and looks to Isbeil, whose smirk now twists her face into a preposterous knot.*
+[FANE] *Had you eyes, they would have lit up. He has artefacts from the ancients?*
+Answer me this: Lizards run faster than humans. Elves run faster than lizards. Humans run faster than elves.
+*Ask if it&apos;s safe around here now.*
+Sir, yes sir!
+*Ask how he&apos;ll know when you need him.*
+All I want is a bit of shut-eye, but your type makes a ruckus in there loud enough to wake the dead!
+&lt;br&gt;S E R V E&lt;br&gt;T H E&lt;br&gt;G O D&lt;br&gt;K I N G .&lt;br&gt;R E A P&lt;br&gt;H I S&lt;br&gt;R E W A R D .
+*Tell him you told the truth. You have walked a righteous path.*
+[UNDEAD] *Bow and tell her &lt;i&gt;&apos;Ours.&apos;&lt;/i&gt; You side with the Undead.*
+Your little tricks won&apos;t work on &lt;i&gt;me&lt;/i&gt;, ben-Mezd.
+Fane... To behold you in this naked glory is to surmount the boundaries of existence and step into a more perfect universe.
+How clueless you do sound.
+*Tell her that she won&apos;t be troubled by that any longer, and ask what else she remembers.*
+I might regret this... but go on. Keep your conscience clean.
+Decapitator
+Ugh. Vileness.

@@ -1,0 +1,157 @@
+*You look each other in the eyes like two chess players contemplating their next move. What will yours be?*
+Wait. You mean you don&apos;t recognise me?
+No. I must apologise if I - um... well, if I wasn&apos;t... if I lacked... you know...
+*Chuckle* We&apos;re all curious from time to time. Don&apos;t blame him a bit - sometimes, yeh gotta let loose &lt;i&gt;the beast!&lt;/i&gt;
+Get Lohse help.
+The new Master must first partake of the old Master. Only then.
+What did they say?
+Scarecrow
+*He gives you a look full of hope, then remembers the collar round his neck and slumps forward, letting his hands hang heavy by his sides.*
+I am stronger than this thing. Or if I&apos;m not now... I will be soon. &lt;i&gt;Very &lt;/i&gt;soon.
+Belt
+How... how could they?
+I don&apos;t think I&apos;d like that.
+I was hired to guard a wedding - nobody said anything about fighting monsters.
+Siphon Poison
+[SEBILLE] *Give him a smile and let your silence state the obvious: &lt;i&gt;you&lt;/i&gt; are.*
+*Wonder where the loot&apos;s hidden on this tub - there must be payroll or war chests tucked away somewhere...*
+Don&apos;t you dare apologise. This is &lt;i&gt;not &lt;/i&gt;your fault.
+*No. No, no, no. You know enough. Time to take a step back.*
+*She turns to peer at you, surprise and mistrust evident in her intelligent face.*
+*Nod and say the Magisters know everything.*
+*Say you&apos;d be delighted for her to join you.*
+The signature dessert of the Dukedom of Ferol, apple pie is commonly referred to as &apos;Ferol tart&apos; by locals.
+Enough of this posturing, Lohse! Is that who you really are?
+We were careless. We shouldn&apos;t have attempted it unless we knew we could save him.
+*You remember that the statue of Amadia in the Hollow Marshes bled. But no words from you can rouse this one to response.*
+Loic the Immaculate
+Divine Right
+Cat Familiar
+[UNDEAD] *Hand over some gold and ask him to recite a poem in &apos;your&apos; race&apos;s honour.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Nothing?
+Well, that solves that problem.
+*The horror grows on their little faces.*
+*Delve into the spirit&apos;s memories.*
+*Protest: you already paid the toll.*
+War&apos;s a-brewin&apos;, my friend, and we may find ourselves on different sides. In which case prices will go up! Buy now, while you still can.
+We may have found what Geraldine and Mabel are looking for.
+Civil Abilities
+I like a girl who knows what she wants and isn&apos;t afraid to take it. You&apos;re right, let&apos;s not play games. But let&apos;s take it slow. Shall I dance for you? Or would you like to hear a poem?
+*Follow the spirit&apos;s gaze, in an effort to see what he saw...*
+Impaler
+*Give in to the God King&apos;s power. If he wants her, he can take her.*
+Do me a favour: Get out of here, and hie ye to the north of Driftwood. My old master was hot on the heels of something there, and if anyone can help you, he can.
+[HUMAN] *Tell him his rage is understandable - but he needs to get control of himself.*
+...Fane, you are my father.
+Look at you now. &lt;i&gt;My&lt;/i&gt; child, a killer for hire. You can&apos;t hide, I see the dead who whisper your name as they pass the threshold of the Hall of Echoes. And who&apos;s to blame?
+Toggle Info
+Ain&apos;t lookin&apos; to pick a fight outside the arena, anyhow. Ya wanna show yourself off, you do it in there.
+Sq-sq-sq-sq-SQUEAK!
+This is no tool of war - it&apos;s an implement of the apocalypse.
+*Confess that lowly servant like yourself can only bear to be in the presence of such majesty and beauty for so long...*
+As we freed Arhu, Kemm intervened. A servant of the God King, he was trying to make Arhu give up the secrets of Lucian&apos;s tomb.
+I saw how they died. I heard &apos;em screaming. I... I don&apos;t want to go like that. Don&apos;t want to face that. Please, I- I can&apos;t lift my sword. I can&apos;t... *Sobs.* I can&apos;t do it myself...
+I guess that&apos;s tough.
+Perhaps you should try discarding some grit before you help yourself to a pearl.
+Because there&apos;s money in it of course! Creature comforts don&apos;t come cheap in here under the watchful eyes of the Magisters.
+An ancient jar containing the ghastly shade of a long-dead soul.
+*Say you&apos;ll try to find her. Ask for any information that might help.*
+*Say you&apos;ve been lucky enough to make a close tie.*
+If anyone can restore me to my previous wizardly self, it&apos;s Amadia!
+Mortal Blow
+First you speak foul of the Queen and now yer gonna teach me manners? Who do you think yer kidding here, Jack?
+*Say you do. You know him to be a faithful and respectable man.*
+Your failed rebellion against the Queen nearly destroyed you - so you began a new life on the high seas. Now, your old enemy is back. If you don&apos;t stop her, no-one will.
+See that tunnel? I started that... didn&apos;t live to finish it though. Make use of it if you need it; it&apos;s no good to me now...
+*As you whisper your words, you feel the world around you melt away. You open your eyes to an old log house, a roaring fire, and a door ajar.*
+That blood belongs to its original owner. It adds character. I look forward to adding Godwoken blood to the mix.
+*He mentioned Lucian. Bid him tell you where Lucian can be found.*
+You&apos;re a delicate one, ain&apos;t ya? Hope the smell don&apos;t drive ya off.
+*The lizard slumbers on. His tail twitches slightly in his sleep.*
+Of course, sir! Right away!
+My word, how you continue to exasperate me! I told you before you&apos;re testing my patience, and by all the demons in hell, you&apos;ve not abated!
+*Wave away her concerns - you can do anything.*
+Yarrow Flower
+*Unfurled in its gnarled claw is a message written in Malady&apos;s chaotic hand. It reads: &apos;Vengeance. Now.&apos;*
+Statue of Illusions
+I carried the old ones. Vredeman, older than I. And Dallis, older than even the sea. I carried their army. Soldiers with no souls. And the Void followed them here. Our last port of call.
+You cannot get away with it! You are under arrest!
+They deserve their fate. Dallis makes them silent, obedient. And if they&apos;re truly lucky, they become even... more.
+What a miserable-looking creature...
+Lies...
+*Recoil in horror. What have they done to her?*
+You can relax... killing without a contract is bad for business.
+I... don&apos;t dare say it now. Not while your guest is listening.
+Red and white dance across the surface of the hammer, shifting and mixing, always in perfect balance. You could stare at it for hours.
+Rift travel back to earth.
+*He frowns and turns his face toward yours.*
+*Take your leave.*
+*He proffers out his hands with a diplomatic smile.*
+Then my request must become a plea. A prayer. I regret succumbing to his gilded lies. But I know that you can rise up and rip away his grip on our world. You can still free Rivellon, love. You can still free &lt;i&gt;me.&lt;/i&gt;
+Talk To
+Gareth is back, all thanks to you! You&apos;re so good - so kind - so brave!
+I spent a decade under Lucian&apos;s tutelage, and still the witch holds steadfast. I would be a fool to give her the chance to... infest you.
+Let&apos;s just say, I wasn&apos;t made for that life. Dwarves deserve liberty - but right now, the kingdom&apos;s no free land. It&apos;s a prison. Was a time Justinia understood the way things ought t&apos;be.
+*He raises his lifeless face, then lowers it again to contemplate the dirt, the blood, the dying grass.*
+No Source, no Voidwoken - remember, &lt;i&gt;Sourcerer?&lt;/i&gt; That is what we promised from the start! A cure that will save the world!
+Giant Rock Rune
+You learned a new skill! Open the &lt;font color=&quot;008858&quot;&gt;Skillbook&lt;/font&gt; to check it out, or cast it from your &lt;font color=&quot;008858&quot;&gt;Hotbar&lt;/font&gt;.
+Herb
+You tall ones always think that everything you do is very important, but unless it involves going to the market for meats &apos;n&apos; milk, it very rarely is!
+Pragmatic
+&lt;font color=&apos;#8e8178&apos;&gt;Right button - &lt;/font&gt;Attack Mode&lt;br&gt;&lt;font color=&apos;#8e8178&apos;&gt;Left button - &lt;/font&gt;Toggle Splitscreen&lt;br&gt;&lt;font color=&apos;#8e8178&apos;&gt;Up button - &lt;/font&gt;Tactical View&lt;br&gt;&lt;font color=&apos;#8e8178&apos;&gt;Down button- &lt;/font&gt;Toggle Sneak
+Japanese
+Lord Kemm has posted a few guards by Arhu&apos;s door. Show them the key; they shouldn&apos;t bother you after that.
+*She takes a slow sip of tea, eyeing you closely just above the cup&apos;s rim.*
+*Refuse to give him your name.*
+Get that thing under control!
+Poison Water Grenade
+Fine paper. It looks important.
+I thank you...
+Cabin
+*Pull out the purging wand that you found and point out that it should help.*
+Only my former master can remove my scar. I&apos;ll start my search with the Lone Wolves. Local cook Griff may know more.
+*Say that you don&apos;t run away from anything, you run &lt;i&gt;towards&lt;/i&gt; things.*
+People turned into cows? *Ahem...* First I&apos;ve heard of it.
+Ain&apos;t no-one goin&apos; nowhere, far &apos;s&lt;i&gt; you&apos;re &lt;/i&gt;concerned. Now clear orf. Yer in the way.
+*He draws his wands.*
+To our esteemed guest LOHAR, by special invitation:&lt;br&gt;&lt;br&gt;You are invited to share in the matrimony day of my darling daughter Isla in the week of Lucian&apos;s Day.&lt;br&gt;&lt;br&gt;The wedding will be held in our estate in Arx, with all provisions.&lt;br&gt;&lt;br&gt;Looking forward to your gracious presence,&lt;br&gt;&lt;br&gt;Micheil Ros
+*Slide your hand beneath its studded collar.*
+*You must seem very alien to Fane. Ask what he thinks of your people.*
+*Point to the cage and say you question his choice of pets.*
+[SCHOLAR] *Observe that she&apos;s exhibiting normal signs of grief following traumatic loss*
+I&apos;m glad this one was let off the hook. I&apos;d rather guard a body than bury a corpse any day.
+Exploration Theme 05 Light Orchestral
+I will stand idly by no longer. You had your chance, Red Prince, but now I will turn this dream into a nightmare from which your impotent soul will never escape!
+Giant Void Spider
+*Leave him to it.*
+I am in &lt;i&gt;intense &lt;/i&gt;pain, evergreen. You are either insufferably cruel or insufferably stupid.
+*Say one who thinks they are above consequences.*
+Almira?! If you can hear me, give me a sign. &lt;i&gt;Please!&lt;/i&gt;
+Eh, you again. Make it quick.
+I know the feeling.
+*Say that from the look of him, he has a belly full of &lt;i&gt;very&lt;/i&gt; sour grapes indeed.*
+Malady brought the Godwoken to Arx
+You- you&apos;re like him. You&apos;re no better than the elf! You monster! You beast!
+Macaw
+*Say you don&apos;t want to give up. You want to fight.*
+Sometimes the contracts keep me going when I&apos;m not sure what else could.
+A history of the Source King&apos;s wicked reign.
+STOP!
+*The spirit pivots her wrist, staring at the fingerless hand; utterly, morbidly entranced.*
+attacked
+*The details elude you, but broad strokes surface - something about the afterlife and a very large bird. You cannot recall anything more.*
+Didn&apos;t know you could sacrifice what you don&apos;t have. Ah well.
+I&apos;ll not pay some Sourcerer hireling to fight for me. Not when I can kill you for free.
+Overview Map
+A delightful sight! Have you returned to express your worth?
+*He turns the back of his hand towards you and waves it back and forth, nudging you away.*
+Brother in undeath. You must help. I can be freed.
+*The woman&apos;s eyes dart to your own neck.*
+*The ground rushes up to meet you. You close your eyes.*
+But what truly makes me pause is the fate of the Seven: how pitiful they were at the end.
+*Reach out a hand to stroke the dog&apos;s head.*
+[IFAN] *Tell Han he is to be your herald, bringing the good news of Divinity to everyone.*
+*Ask what sort of news he&apos;s after.*
+*Sebille heaves a sigh of satisfaction, and as she wipes her needle clean, shoots you a cursory look.*
+Well... I&apos;m Jace anyway. I&apos;m lucky you crossed my path here.

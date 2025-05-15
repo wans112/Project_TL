@@ -1,0 +1,149 @@
+&lt;i&gt;We&lt;/i&gt; are &lt;i&gt;I&lt;/i&gt; now. I shall teach you the spells you need to remember soon, but not before you relearn how to channel the Source in greater volumes. That is why you need to seek these &apos;Masters of the Source&apos;. You must make them teach you, so that you can regain your full power.
+...
+Attack_Skill_Cast_1
+Then I suppose that rune on the figurehead was a slave scar. This tome must be the song that controls it.
+*Tell him that you&apos;re sorry. You wish you could have saved them.*
+Hmm. If you say so.
+*Grin. Remind him that you were the one to free him. You&apos;re on the same side.*
+Well then? Let&apos;s do this. &lt;i&gt;Together.&lt;/i&gt;
+Speaking of freedom, I have a little request for you...
+Time Wrap
+*He opens his mouth to respond, but stops and tilts his head, listening for something you cannot detect.*
+*The cook maintains her stare, the tiniest hint of a sneer on her lips...*
+*Rotate the dial to the right.*
+Fire Voidling
+I am blessed, fresh-pearl. I glide on Lucian&apos;s breath and feed on his sighs and smiles. For him, I would walk the Path of Blood. He needs only sing the command.
+I still can&apos;t believe they had the gall to attack me. It&apos;s high treason to go after a Paladin like that - we&apos;re Divine Order! Our superiors will be &lt;i&gt;very &lt;/i&gt;interested to hear it.
+No spirits here either. You&apos;d expect to see some at least...
+Thank you! Please clear the way so that we can head south in the direction of the coast. The north is too dangerous: it crawls with Voidwoken.
+*Tell Gareth about the note you found in Dallis&apos; quarters. Is that the &apos;mistake&apos; he means?*
+Yes, I see, it is rather annoying. You have my apologies. The next time I meet you in the guts of a slaving ship, I shall keep my hands to myself.
+In failing one, I failed them all.
+I have presided over this archive for many years. The hymnals were many. How could I not notice their absence?
+You have discovered a potential item combination. However, you lack the requirements needed to successfully complete the combination.
+[DWARF-FRIEND] *Say you&apos;ve been known to rub elbows with many a dwarf. Maybe he should give you the benefit of the doubt.*
+Better than nothing, I s&apos;ppose.
+Hush... he&apos;s come. HE IS HERE. TAKE ME, LORD. I AM YOURS!
+&apos;Here lies an unknown tall man.&lt;br&gt;Fell hard upon hard times.&lt;br&gt;And barely fit the box.&lt;br&gt;We are glad to give him rest.&apos;
+No air fills my lungs, only fire. When the darkness falls, I cannot cry out. I leave my life behind with a shameful whimper.
+*The dog gives you a long, hard stare... but does not bite you. Yet.*
+*&apos;That&apos;s the Scion,&apos; a rough voice calls. &apos;Kill him.&apos;*
+*Whistle innocently and take your leave.*
+*Say yes, you will sleep with her.*
+Back, Magister, or I&apos;ll cut your guts for ribbons like I did the last fella.
+Spoken like a true sinner. Braccus Rex the just gives you what you want and more. This is Braccusian justice.
+You come just as I finish. We are complete. One skin - and we only &lt;i&gt;begin.&lt;/i&gt;
+No. Surely it cannot be...
+*He emits an echoing rumble you assume to be a greeting.*
+*Tell him you&apos;ve never heard of such supreme decadence.*
+It&apos;s probably survived much more than we&apos;ll ever even know.
+Ancient Spear of Bloodletting
+Hmm. I hear the sick sound of Source from over here. Tell me what you know.
+She&apos;s the founder of these Seekers, and she&apos;s powerful. That means something, when I say it.
+*Looks painful. Ask if she&apos;s alright.*
+*Now that you&apos;re here, what does Fane think you should do?*
+Altar to Duna
+Monsters... bigger... *gasp*... more and more... growing...
+I can see the Consulate on the other side. We&apos;re almost out.
+*He runs his paws along Quercus&apos; bony head and scritches the space behind his ear. Quercus rattles a dry, contented purr.*
+Rush at your enemies, dealing [1] and setting Bleeding.
+Executed! +[1]AP.
+Staff
+Glowing Starfish
+A shame. I hate to kill my own kind.
+Giant Venom Rune
+What is that gods-awful smell? Must be dwarves.
+The time for gods is over.
+Some undead seek to return to life; others long for the sweet embrace of oblivion. They move amongst the other races unseen, apex predators who can&apos;t afford detection. Lately, an unfamiliar voice beckons to them from a world unknown.
+Which means I better get a move on.
+Skills cost
+We&apos;ve only got amber ale, I&apos;m afraid. Can&apos;t spare the potatoes for hard alcohol. If you&apos;d like something that&apos;ll stick to your ribs, I&apos;d flag down Lovrik and get yourself a bowl of the house stew.
+Stewart confronted the cook. She killed him too.
+Healed! A small victory over death in this place of the dead.
+*Dismiss her arrogance and look through her inventory.*
+*Demand the knight tell you who he is and what he&apos;s doing here.*
+Please... I&apos;m so cold...
+*Ask who you&apos;re speaking to.*
+*...and licks your face.*
+Glad I found it. Spent half my life ripping apart men and mages, sometimes for pay and sometimes for fun. If I gotta be stuck in here, might as well prove I&apos;m the One.
+Of course, our Lord will resurrect the faithful when he himself is reborn. For us, death is a temporary inconvenience.
+Oh. That.
+Do you feel that? The ship&apos;s awake! It can sail! This is it: we&apos;re going to &lt;i&gt;make &lt;/i&gt;it!
+The tome is clearly ancient, yet its bindings and panels are in exquisite condition.
+When you partake of flesh, know that you honour Duna.
+I&apos;d hoped for better for him. At least he died for something he believed in.
+HRRRRRRRRGHHHH!
+*He stands tall, suddenly cool and collected.*
+We landed on Reaper&apos;s Coast. Fane is eager to search the Blackpits for clues to his people&apos;s fate.
+Please. Leave me to the lifestyle to which I am accustomed.
+L&apos;taniea
+Notes
+Your hunt is not yet over. Seek the armour piece hidden in the lizards&apos; enclave. Complete the set, and we shall meet face to face.
+It wasn&apos;t just about talent. It was the laurels I craved. I was as close to a dwarf-king as Driftwood would see. More renowned than Lohar or Barnes. People would come from miles around to hear a ballad composed just for them.
+A cool wind blows from the Spring Realm of Vernivia directly into this feather-light, enchanted orb.
+No justice in this pit but what you make yourself.
+*A combination lock is embedded into the face of the hatch, with four numbered dials...*
+Warlock&apos;s Leggings
+Fascinating items of interest to lizards and various others!
+Sure, sure. One regular-priced bridge crossing coming right up. ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+*With a glint in the dark of his eye, the spirit of Kemm sneers at you.*
+Delete Folder
+*Yes, gods yes. Tell her you are.*
+I&apos;ll never forget the smile she wore as we died, and our spirits sealed away in those Soul Jars...
+Demonic Revival
+*Stand firm and allow Zimski to continue tracing sigils on you.*
+Dead Shady Digger
+I&apos;m glad Han stayed behind... the boy&apos;s seen too much horror in his life already...
+No one&apos;s immune to that damned armour&apos;s whisperin&apos;, are they?
+Kin. They burn our flags and set our homes alight. Take comfort in knowing that you can find strength in the most delicate of elixirs. Do avail yourself of them.
+Amadia may not have a &lt;i&gt;true &lt;/i&gt;race to call her own, but what does that matter when she numbers the wizards amongst her followers?
+No ghosts remain. All are purged...
+*In that moment, darkness seizes you. You are paralysed in place, arms akimbo and legs locked. The door&apos;s ripples part, revealing a black chasm - a window into the encroaching void.*
+Now if you&apos;ll recall, as per your own testimony you can groom, but alas you&apos;ve no culinary skills whatsoever and you lack a sense of fashion. Far from ideal.
+City Guard Captain
+*Say that if you succeed, it will be your right to seize the mantle of Divinity, and the power that goes with it.*
+Stop that!
+*Loudly state that you&apos;re not a servant, and turn to take your leave.*
+Skillbook
+Be watchful.
+Pot Still
+You were never right in the noggin. Never appreciated what you had. Made trouble for your cousin, made trouble for the court. You are no beast - you are &lt;i&gt;less&lt;/i&gt; than beast. You serve no purpose, spread no warmth, bear no burden.
+Death, most likely. Watch your step.
+Choice of opponents is a luxury we do not have. Our people are threatened - we must fight all threats, wherever they come from.
+Trade: Companions
+Make sure he&apos;s safe. And if you can... bring him back to me.
+*Say she should give up. If Amadia was interested in helping, she would have done so by now.*
+A while back I realised the ground just there was soft enough for digging - I decided to try my hand at tunneling out of here...
+And what kind of Divine was Lohse, as the world battled on?
+[JESTER] *Suggest that he deserved it. Obesity jokes? &lt;i&gt;So &lt;/i&gt;hackneyed.*
+Description
+When another Divine arises, will Source change back? What if there are no Sourcerers left...?
+All reinforcements deployed!
+Dead Paladin&apos;s Gift
+A Chronicle Begins
+I am yours to command, master.
+Source and Void - day and night - love and hate - one is meaningless without the other.
+You&apos;ve got ears on your head, haven&apos;t you? D&apos;you need me to show you how to use &apos;em?
+Elementalist Deserter
+My arm, then.
+...that you are Godwoken.
+The spirit of Hubert Oak hinted that the thieves may be hiding in the sewers.
+And it is mine. By my Lord&apos;s grace, the power is mine!
+Board the boat for the Lady Vengeance.
+That&apos;s him alright. Faith and respectability personified, I&apos;d say. Dunno how we did it, but Lyn and I did something right with that boy.
+*Delorus jumps to his feet and shoves his face inches from your own.*
+*Leave him to his agony and his madness.*
+*The nurse holds up an empty glass vial. With the knife, she stabs your palm. She holds the tip of the knife in the wound. The vial in her other hand fills with blood.*
+[SCHOLAR] *Quote the late Divine. &apos;Blessed are the charitable, for they will receive in kind.&apos;*
+Henric Crossley
+We&apos;ll do as you say, then. Go back to them, Justinia. I&apos;ll go, too. We hav&apos;to rebuild. For us, &apos;n&apos; for them.
+*Try &apos;buffalo&apos;.*
+Ah, of course, my supply has rather gone up in smoke.
+&lt;i&gt;And the waiter won&apos;t even bring me any stew.&lt;/i&gt;
+Every player must select at least one hero.
+Last I heard, Dallis has something that belongs to us. Let&apos;s get her.
+Companion Attitudes
+Sourcerers - Most Wanted&lt;br&gt;&lt;br&gt;- Mordus: Dwarf. Suspected links to local Dwarven malefactors. Last seen - Driftwood vicinity. Known associate of Lohar; search the area beneath the Black Bull tavern. &lt;br&gt;- Ryker: Elf. Known Lone Wolf affiliate. Not to be challenged by our forces, by order of the White Magisters. Last seen - Stonegarden Cemetery. &lt;br&gt;- Hannag: Lizard. Beware of powerful portal magic. Last seen - Hosted by large family in the Blackpits. &lt;br&gt;- Almira: Human. Black Ring. Last seen - Captured, and taken by the White Magisters. &lt;br&gt;- Saheila: Elf. Blind mystic. Last seen - Captured and sent to Fort Joy. &lt;br&gt;- Ifan ben-Mezd: Human. Lone Wolf assassin. Last seen - Captured and sent to Fort Joy. &lt;br&gt;- Addendum: There remains suspicion of Sourcerer activity on the northern end of Bloodmoon Island. The island itself is currently inaccessible to our forces.
+We don&apos;t abandon our brethren! As long as we draw breath, we&apos;ll keep helping each other. What kind of a man are you, to say such things...?!
+Paladin Ranger
+Bring me three more hunks of meat for my princelings - my sweet, my precious - and I will give you something. Something handmade by yours truly.

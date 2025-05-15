@@ -1,0 +1,137 @@
+*The spirit of a very young nun wanders in the cloister. Seeing you, she gives you a shy smile and a bobbing curtsey.*
+*Ask Gareth what happens next. Does he have a plan?*
+Spirit of Zharah
+A pity. It&apos;s a long way from Arx, and things have gone to pot out there amongst the farms. Sourcerer trouble. And that means Voidwoken. I hope our people are on the way. I&apos;d even settle for a Magister by my side.
+I hear tell you make quite a mess around here...
+Dead ones, dead eyes... what treasures do they host?
+Light Chausses
+*Ask if he spoke to Malady recently.*
+Fight? I&apos;m not afraid of you *cough*. You should be afraid of &lt;i&gt;me&lt;/i&gt;.
+I almost did something just as bad, right before they brought me in. Can&apos;t blame the Divine Order for trying to solve the problem - even if they&apos;re handling it like a bunch of looney apes in a jewellery store.
+*Raise your weapon; prepare to side-step his attack and strike back.*
+You&apos;re better than fine, bub. You&apos;re a hero!
+&apos;Here lies an unknown pious priest.&lt;br&gt;Stopped for a moment&apos;s peace.&lt;br&gt;Found a great deal more.&lt;br&gt;We are glad to give him rest.&apos;
+*Remark that the Magisters seem to believe that the Aeteran is real - they&apos;ve been looking for it, in fact.*
+But the doctor who found her was determined to make a name for himself. He attempted a cleansing ritual, but he only served to strengthen the demon&apos;s grasp over the elf.
+That, I do not know. I prayed at each altar heard nothing but Tir-Cendelius&apos;s voice, in the whispers of the trees. Tir-Cendelius tells me all is well.
+Magical Elven Shield
+Well, at least you are aware of your wrongdoing. But honesty does not save you!
+*Hours pass, sweet talk; sweet touches. She&apos;s asleep now in your arms. What do you do?*
+Kemm&apos;s always been a hard man. His steel was forged in the war with the Black Ring, but recently there&apos;s something else.
+*Tell her you never asked for any of this. But you sure as hell won&apos;t sacrifice yourself for her.*
+So you&apos;re a Sourcerer then... In that case, you must know about the fugitive: that fella all those Reds are looking for. I mean: if he&apos;s a Sourcerer too, you&apos;ll want to do right by him, won&apos;t you? Make sure they don&apos;t catch the poor bugger!
+It&apos;s called &apos;Spout&apos;s Choice&apos;. We each take a turn spinning this here bottle. And whoever the spout points to... well, I&apos;ll explain that part when we get there.
+*Let her look, but gently support her with your arms.*
+Hmm. I can&apos;t argue with such a fine sum. Go on your way, but try not to make any more trouble.
+There once was a brilliant inventor&lt;br&gt;Who created the herb called augmentor&lt;br&gt;But when his wife ate it&lt;br&gt;Her body inflated&lt;br&gt;And suffered a terrible temper&lt;br&gt;&lt;br&gt;This is a very well-known limerick, after which the inventor tried to change the composition of the plant so that it wouldn&apos;t... enlarge people anymore. However, it did retain its, um, amplifying capabilities. It&apos;s now often used by bartenders to dilute drinks - without actually watering them down! A good brewmaster knows how to make this work with potions too...
+Attack_Ranged_3
+Flee failed: [1]
+*Sigh. You just don&apos;t care about &lt;i&gt;any &lt;/i&gt;of this.*
+*Tell her her little game is over. She can explain herself, or you&apos;ll be on your way.*
+Ice Striker
+*Grimace. The Paladins are either poor wardens or poor record-keepers.*
+It has been an honour.
+Anything. &lt;i&gt;ANYTHING.&lt;/i&gt; I will give you anything you desire, anything at all!
+[HUMAN] *Scoff. You&apos;re only being accused because you&apos;re human.*
+*Perhaps not alone, but you don&apos;t have to. Ask your god to help you, just this once.*
+*Say you stand quite flabbergasted! Not every day you learn you&apos;ve been hunted all your life!*
+*Order this cur to shut his insolent mouth.*
+The only way to keep her nasty thoughts stuck inside her head and away from our kids, I reckon.
+&apos;ullo, mister!
+We&apos;ll win this war yet, sister! We&apos;ll win it yet!
+The truth is the truth. Stingtail the lizard took your stuff.
+Those summons of hers broke my arm. I&apos;ll do what I can to help, but *Wince.* the rest is up to you. Tread carefully - one false move and she&apos;s dead.
+Quite! Why don&apos;t you, er... enjoy a nice stroll? A nice, long stroll while the lady and I enjoy a more private moment.
+I&apos;ll... pay... you... well... for... one... simple... job.
+Any last words?
+Deep down it feels like a betrayal.
+The sin of Source is inborn; we are all of us marked by this strange power, both creative and destructive. It is no wonder some are seduced to manipulate it.&lt;br&gt;&lt;br&gt;Still, there is a stark difference between that which is understandable and that which is permissible.&lt;br&gt;&lt;br&gt;The sin of Source has no place within our realm; time and again it has gone rancid within its hosts, been used to torture and kill, called beasts of unspeakable horror into our midst.&lt;br&gt;&lt;br&gt;It cannot continue.
+*She stops short, her eyes flashing black, then normal, then black again. She turns away, covering her face.*
+*Remark on his earlier comments. Why was he so rushed?*
+And the torture chambers! Braccus loved them beauties. Not quite as much as Gratiana did, mind. You should&apos;ve seen her face when she landed us in &apos;em...
+Set start point for players
+The hunger of Duna&apos;s Undertaker empowers a complete set, boosting the armour&apos;s level to 14. Consuming corpses revitalises and further strengthens the wearer.
+*Say her complicity in the death of thousands of innocents earns her own. Draw your blade.*
+She rewarded his sacrifice, with a gift only the truly devoted could appreciate.
+*Gently ask the shaking child what&apos;s wrong.*
+Good.
+You should open your mind - you would see so much more...
+A magical heart fired in the forges of the dwarflands whose wind-blown flames can never be extinguished.
+*Wish him the best. His mother would be proud.*
+*Shrug. Lizards are no better or worse than any other race - they&apos;re incredibly arrogant, but they&apos;ve also achieved a lot.*
+One of us consumed the Source of Brother Morgan&apos;s spirit, ending his control over the lever that controls the inner chamber of the vault.
+*Gareth takes quick, tiny paces. Back and forth. Back and forth. Then he smiles - a thin, frightening smile.*
+&lt;i&gt;This is all your fault.&lt;/i&gt;
+A corpse lies here - yet there is no ghost. Strange.
+*Nod and turn to take your leave.*
+Doctor,&lt;br&gt;&lt;br&gt;I have taken your advice, but still this ailment persists - worsens, even. My son is a dear lad. I can&apos;t stand to see him wasting away like this. Please, if there is anything else you can offer... I&apos;d give anything to save him.&lt;br&gt;&lt;br&gt;Gerna
+[IFAN] *Tell her you&apos;re the chump who brought her Deathfog to the elves. And you&apos;re none too happy about it.*
+&lt;i&gt;Deceased?&lt;/i&gt; Bunkum! Sweet Jimmy is just resting his eyes...
+The Red Prince returned home a hero - and soon became emperor. He used the war on the Void to expand the Empire. His House remained true to its name - there was never a day without war.
+*Sense her grip relaxing as if she wants to hide her shame. Hold her hand tighter, that you might see more.*
+Zorl-Stissa
+You have my thanks. Now piss off.
+Don&apos;t worry, I won&apos;t... *ahem*... turn you in.
+One of the gods? Really? Well, look at you go.
+&lt;i&gt;*Creak...*&lt;/i&gt; You. Are. Not. Divine. &lt;i&gt;*Creak...*&lt;/i&gt; You. Must. Leave. Or. Die. &lt;i&gt;*Creak...*&lt;/i&gt; You. Can. Not. Win. This. Fight.
+Find the demonologist.
+[OUTLAW] *Commiserate. But hey, sooner him than you.*
+Solid Ring
+Green Button
+Captain&apos;s Brute
+Of course. Word travels. Especially when you have a network of highly-trained war owls.
+But let me tell you something else...
+*Invite him to travel with you. Maybe you can even help him win his throne back!*
+Ancient Shrine
+I&apos;ve sent Magister Barwent to look into your tale, stranger... she hasn&apos;t reported back yet, but if she finds out you&apos;re lying, there&apos;ll be hell to pay - understand?
+Spirit of Hannag
+*Bows.* Godwoken, you return.
+*A master? Ask if he can teach you Source skills.*
+*Shake your head. Not even close.*
+A rare crystal. Too bad some sort of nebula inside is making it dull.
+*Note that Beast seems to be making a lot of enemies.*
+*Tell her if she touches you again, you&apos;ll knock the teeth out of her head.*
+*Wonder why she think they&apos;re foolish.*
+*...&apos;Thank you?&apos;*
+*Shake your head and say that there must be another way.*
+And... And I remember who I am now: a wizard&apos;s cat. But the spell-flinging stinker left me behind, without as much as a look over his shoulder!
+*The child quiets and seems comforted by your presence. She looks up at you with curious eyes.*
+*The spirit quivers as the Source drains from her, and gasps in her last moment as she faces the nothingness that is the Void.*
+*She pauses for just a moment before answering.*
+The criminal Lohar insists he&apos;s turned against Queen Justinia. I&apos;ll do what Lohar asks... for now.
+*Tell her you see a demon.*
+&lt;i&gt;The Godwoken shall ascend.&lt;/i&gt;
+*He looks at the corpses surrounding him. His children, his wife, slain before his eyes. He tries to choke back tears, but soon they flow free, carving rivers through the grime on his face.*
+Get lost. And don&apos;t o&apos;en the chest.
+Yet there is only so much I can offer. There are gaps in the armour you wear, and thus, my influence is diminished.
+*Concede that you wonder how much greater the Empire&apos;s sonnets might be if the kin promited original thought in place of obedience.*
+Elemental Ranger
+*Inform him that Ryker will no longer be a problem.*
+Apply
+You there! Boy! Did Braccus send you? Is he ready to apologise?
+*Ask about the statues.*
+*The vision ends just as you emerge from the cavern. This memory. It feels ancient. A lost place in a lost time.*
+The town is poor, but this room is... rich.
+Willpower determines how resistant you are to mental statuses like Fear or Charm.
+*Tell her Saheila was standing in your way. Simple as that.*
+I will not repeat that mistake. Goodbye, Rivellon.
+*Mention that Jimmy appears to be, er, dead.*
+*With a small grin, the dwarf glances between you and his handiwork, and shrugs.*
+Unrepentant, Alexandar told me that Lucian&apos;s Deathfog attack on the elves was deliberate. The Divine tricked me into genocide!
+*Tell him you&apos;re not concerned about her motivations - or continuing this conversation.*
+Word is that they&apos;ll be walking about with flesh on their bones again if they send you to the Hall of Echoes.
+The Devourer honours us all! His power cannot be denied!
+*The mask of sorrow slips away from the spirit&apos;s expression in an instant. It is replaced by one of utter composure and elegance. The spirit applauds you.*
+*The cursed tendrils slacken; Zorl-Stissa inhales deeply, air wheezing in her throat.*
+Yes - yes. You stand straight and tall - a sign of an honest woman. This news does muddle things a tad...
+Do you think me as soft-brained as one of your slithering children, lizard? I know what you are. I smell it on your breath. You &lt;i&gt;reek &lt;/i&gt;of Source.
+So much for rowing out of here. Now there&apos;s nowhere to go but back to the city.
+I chased her here, but she rather seems to have &apos;given me the slip&apos;. Thus...
+I guess I knew this would happen, but part of me still thought... Never mind. What&apos;s done is done.
+*Tell Gareth that in spite of everything, you&apos;re glad he&apos;s here. He&apos;s seen it all to the very end.*
+Mystical Large Thunder Rune
+Lyn Pryce
+Dead Source Hound
+*Say it&apos;s not only true, but you were offered a handsome reward.*
+All manner o&apos; things. Have a look.
+It&apos;s good to see you. Let&apos;s talk.

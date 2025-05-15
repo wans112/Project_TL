@@ -1,0 +1,159 @@
+You must ascend to Divinity!
+*Ask why he needs to make a mask.*
+Rose
+*Frown. Did he say that Alexandar is here...?*
+I think I do, yes. More&apos;s the pity...
+You... ah yes, I remember your scruffy face from Driftwood.
+Yes, exactly! And for an insignificantly small sum, I can introduce you to the greatest lizard lover the world has ever seen. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+Traits are attributed to your character after voicing opinions. Trait consistency can result in Stat or Ability bonuses. Over time, your traits can change.
+*As the memory fades, ghostly flames flicker on the surface of the polished sabatons.*
+You again? Tell me - are you alone?
+A rat told us that a lizard who smelled of oranges took the crate.
+Don&apos;t toy with me, Sourcerer. You know where your mistress is, and I &lt;i&gt;know&lt;/i&gt; you know it. So talk.
+*Point out that the ship is livewood - it doesn&apos;t need the wind to move.*
+Cannot reassign characters currently in dialog.
+*A damp, scale-covered roll of paper emerges from the barrel.*
+*Your right arm suddenly falls from your body - or it feels like it does. You have no control over it - nor does it hang at your side. You know what you must do: Choke this man who stands before you. Squeeze the life from him.*
+Aileen
+You were supposed to &lt;i&gt;rise.&lt;/i&gt; You were supposed to lead the dwarves back into the light. &lt;i&gt;Back to me.&lt;/i&gt;
+&apos;North - Cathedral&lt;br&gt;West - Kemm Mansion&lt;br&gt;South - City Gates&apos;
+Oh, how unfortunate. We could be so &lt;i&gt;good&lt;/i&gt; for each other.
+I&apos;ll stumble home eventually. Jus&apos; gotta get me wits about me.
+&lt;i&gt;I&apos;m&lt;/i&gt; the one who has &lt;i&gt;prayed&lt;/i&gt;. An endless litany. How many pleas does it take? How many tears do I have to shed? &lt;i&gt;How much must I lose for the Gods to listen?&lt;/i&gt;
+I met this one in a Magister caravan on its way to Fort Joy. Gareth saved us. Got that damnable collar off her.
+Oh I may be missing some small social mores or be unaware of what king waged which war, but why nitpick?
+Oh, darling. You&apos;ll get over it.
+Icy Skin
+Noxious atmosphere already in effect!
+You! I read about an elf matching your description in the latest dispatch. And now there&apos;ll be &lt;i&gt;another&lt;/i&gt; tale about you for our war owls to whistle across the four corners of Rivellon.
+I&apos;m working here. Leave me be.
+Max Value Of Stolen Items
+Grrrr. I am not here for your bones. Stay out of my way.
+*The pale young woman doesn&apos;t acknowledge you. She nods to the right without moving her gaze from the ground.*
+*Prays...* I pledge my heart, O Lucian. Please return. I pledge my soul, O Lucian. Please return. I pledge my life, O Lucian. Please return.
+*Prompt him - and the armour?*
+You have - &lt;i&gt;kill! &lt;/i&gt;- a lot of faith in these promised outsiders.
+My thanks for your help in dealing with the Sourcerer. Your aid is appreciated.
+[ELF] *Scoff. You&apos;re only being accused because you&apos;re an elf.*
+Escape from Reaper&apos;s Eye
+The shadowed house on the eastern cliff. Don&apos;t expect a warm welcome. And watch out for the cake.
+Magister Reimond? He commanded all of the White Magisters in Arx - he answered to nobody, except maybe Dallis herself. He must be dead by now, surely.
+Huwbert&apos;s Encyclopedia Vol. 26: The Ancient Empire
+This is the stateroom. Authorised personages only. Speak the password.
+Fane&apos;s Theme B
+You don&apos;t like the world&apos;s most beloved treat? Who could&apos;ve guessed.
+Poisoned Cup of Apple Juice
+*Smile grimly. This is where he draws his power. This is how he can be stopped - forever.*
+*Claim they&apos;ve stolen a precious family heirloom, and you want to get it back.*
+*The blessed altar seems to want to be touched...*
+Isbeil, the Queen&apos;s advisor and Black Ring spy, is dead.
+Controls
+You swore. You SWORE! You took my favour and now you refuse to repay it. &lt;i&gt;Oath-breaker!&lt;/i&gt; How can you survive in a world where you have severed all bonds? You are no more than a heretic...
+Broken Lute
+Fara
+Replica of a Divine Order Ballista
+Aye, but you&apos;re wandering free on a prison isle. That&apos;s &lt;i&gt;my&lt;/i&gt; business.
+Voidwoken took the caravan&apos;s captive Sourcerers east, towards &apos;the Wreckers&apos; Cave&apos;.
+Mama?
+*Note that elves are often accommodatingly... flexible.*
+The Hammer. Hope you&apos;re wrong. Time&apos;ll tell, I s&apos;pose.
+So? Heard any word about the stolen supplies? C&apos;mon, snakey, out with it!
+You want the word? Figure it out for yourself.
+I risked your life and mine for the promise that is Brahmos, a risk I trust was necessary - and that you will prove worthy of.
+Heh! A calmin&apos; sorta sound, isn&apos;t it? Where there&apos;s talk, there&apos;s health.
+I&apos;m all for good theater. But &lt;i&gt;I&apos;m&lt;/i&gt; the director. And I don&apos;t &lt;i&gt;like&lt;/i&gt; it when someone muscles me out.
+Oh. Unfortunate. Well, I&apos;d best return to my tasks. I&apos;m sure you&apos;ve your own to attend to.
+This arrowhead displays shocking craftsmanship. Quite literally.
+*Pull a squeaky red ball out of your satchel and squeeze it.*
+*Nod and take your leave.*
+Snuff her out? But that&apos;s like... like killing her. If I do that, I&apos;m no better than Adramahlihk.
+*Birds? Down here? Ask what it&apos;s talking about.*
+Composite Bow
+Brood, brood, brood, brood!
+There are Voidwoken within the city. I fear they are outside it, too. But it seems Lucian&apos;s spirit watches over us. We are spared... for now.
+My boy, my good, good boy...
+Excavation Log
+Void-touched Boar
+*Tell her to shut her sweet-tongued mouth right now or you&apos;ll shut it for her.*
+Hunting Necklace
+A place for all your leatherwork.
+We know one thing for certain: Whatever&apos;s inside her isn&apos;t some harmless sprite. It&apos;s dark, and it&apos;s growing more powerful.
+His name: Damian.
+Ew, look at you. You&apos;re all scaley.
+I know you&apos;re perfectly aware of what I am, but those masks can be darned pesky. Can&apos;t they, my marrowful friend?
+*Wonder what makes him sure that he has the right suspect.*
+*Frown, and say you have no interest in freeing a soul with no appreciation of a little showmanship.*
+*Tell him to join you. You can all leave this place together.*
+My purpose transcends such concepts. Alexandar was but a tool.
+Dallis&apos; Panties
+Deals [1]-[2] damage each time you use a skill.
+Return to Gratiana.
+These misguided fools would sacrifice this world to the very forces that saw us strung up like so much fruit.
+Now, now. No kissing until you do something about that cadaverous appearance, my dear.
+Crate Open
+*She squeezes your hands hard between hers so hard you feel the tiniest, faintest hint of a crunch.*
+So the Voidwoken are attracted to Source... but why?
+Unbreakable
+Sprout temporary wings to fly when you move, allowing you to ignore ground surfaces. Incompatible with Spider Legs.
+[NOBLE] *Tell the lowlife scoundrel to do himself a favour and hand over the goods, or you&apos;ll tell Griff it was him straight away.*
+Only the Beast knows the truth.
+Specifically I have a wide range of general goods!
+Well, we won&apos;t find them by gabbing here.
+*Mention that you were impressed with the business savvy of her sister in Driftwood.*
+*You make out one ruined line: &apos;the champion must offer a burning stone to the dragon&apos;s mouth.&apos;*
+*Ask it what happened.*
+And you, of course, assured it! I cannot thank you enough, O brave kinsman! The Ancient Empire is in your debt!
+Hero of Summer
+Shocking Touch Scroll
+*Tell her your business is your own.*
+*As you approach a dark thicket, the stench grows stronger. In a flash of Void and blood, a claw rakes savage stripes across your guts. As Kinnet dies, all goes black.*
+Come to my waters, child. Let me embrace you. Let me heal you.
+I do not forget you. Remember me, too.
+This, my friend, is the key. Give me some time, and every deity in existence will tremble at the sight of you.
+*She starts to bawl. Then turns and runs away.*
+&lt;br&gt;From [1]: +[2]% (Against opponents with [3], [4] or [5])
+*Tell her she wouldn&apos;t understand.*
+I&apos;ve killed.
+*Sigh* And it&apos;s about time too. The lads &apos;n&apos; lasses up there are getting lazy. Figures they&apos;d send one of you Sourcerers down; they can barely be chuffed to wiggle a single toe.
+You don&apos;t disappoint, kinswoman. I can read the passion in your gaze, the fire that is Source and Source alone.
+Her life is reward enough. She&apos;s done nothing to earn the Swornbreaker.
+Let&apos;s go. I don&apos;t want to hang around here for a second longer than I need to.
+I see the questions scurrying through your head. It&apos;s worrying too much, and wandering too far. If you show yourself to me... I will show myself to you.
+*The dwarf leans in and begins whispering conspiratorially.*
+This was a Magister ship. They may have set traps for the unwary.
+*Shrug and say that a problem shared is a problem halved.*
+Skills
+*Tell her you hate to break it to her, but Lucian is gone, and the gods have been silent ever since.*
+Looks like I handle this on my own!
+The powers of the Seven lie hidden in this city, so by all means let&apos;s play hide and seek with divinity itself.
+You will lead our kind back to divinity. You will ascend.
+I could just &lt;i&gt;feel it&lt;/i&gt;, right away. I didn&apos;t think there was anyone in the world who was so... pure. You must be a very good person.
+I was only a child when the God King tore my family apart. I was purged of Source and left to &lt;i&gt;rot &lt;/i&gt;in a putrid tomb. &lt;i&gt;A child!&lt;/i&gt;
+In fact, I get the same stench off &lt;i&gt;you.&lt;/i&gt;
+*His mouth twists in an ugly snarl as he stutters that last sentence, and a flicker of something unrecognisable yet malevolent flashes across his gaunt face.*
+I am a servant of the God King - I laugh at your mortal weapons!
+*Say you should have let her attempt the ascension.*
+It&apos;ll go straight to your thighs, but it&apos;s worth every dimple.
+Dual Wielding
+*The beast leans closer, its putrid breath washing over you. It is primed to pounce.*
+*She bats her eyelashes coquettishly and winks. Greyish veins flash around her eye sockets, casting a cadaverous pallor to her face.*
+*Implant the idea that the dreamers are essential to stopping the Voidwoken. If she helps, no-one else needs to die.*
+Ser Joph
+*He looks away, tears out several more pages, and throws them to the wind.*
+Unknown player
+Dazing Bolt
+Spirit of a Source Hound
+She did not. Our master is patient. But he is not lenient.
+Oh hi. Again.
+*A man&apos;s spirit stands before you, clad in scholarly dress. When your eyes meet, he staggers back, terrified.*
+Desiccated Undead
+Find the Lone Wolf Roost Anlon.
+Letter from Hannag&apos;s Apprentice
+*Evidence of the fight you fled from litters the ground. The thing inside is mercifully silent.*
+Yes... Yes! I have them! They are yours, sweet merciful lady.
+*You are the foot. You are the foot that aches to run away, the foot that remembers the feel of grass underfoot so long ago. You are the foot that listens to Magister Timort&apos;s heart.*
+You&apos;d presume to command a Magister of the Divine Order? You have brass, I&apos;ll give you that. And I&apos;ll give you some steel to go with it!
+Few know of this island... I can&apos;t imagine who would make such a claim... never mind - there are more important matters at hand...
+As if that ever was in doubt.
+It wants to keep me quiet. To rule in place of me. I... I need to make sure I&apos;m strong enough that it can never seize control again. I won&apos;t let it make me silent in my own skin.
+Tharleth&apos;s Vintage Rotgut

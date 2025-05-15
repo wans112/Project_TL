@@ -1,0 +1,161 @@
+I suppose even you don&apos;t know your master&apos;s name, do you?
+[BEAST] *Scowl. Isbeil? Demand an explanation.*
+OVERWRITE
+*Siphon the spirit&apos;s Source into you.*
+Dragon Form
+We&apos;re not lookin&apos; to cause trouble. We&apos;re lookin&apos; to end it. Did... did Mordus send you?
+It didn&apos;t have to be like this. We could have been friends. Allies. Alas...
+Thought you were clever, huh? Come dig me up, see if I had any coin on my rotting corpse? Maybe my coffin could pay the debts I could not?&lt;br&gt;&lt;br&gt;Fool. You&apos;d have better luck milking these rocks than you would seeing even a penny from me. A Flynn will beg; a Flynn will gamble. But a Flynn never repays his due. As for this Flynn, well - while you rummage through a dirty grave, I&apos;m already nabbing what&apos;s not-so-rightfully mine.&lt;br&gt;&lt;br&gt;You win some, you lose some, my friend. Unless you&apos;re canny enough to fake your own death. And then you only win.&lt;br&gt;&lt;br&gt;-Victor
+That did the trick, by the sound of it.
+Assassinate Skillbook
+Ah yes. Discretion is the soul of valour, as they say. I may have a job for a woman of great valour and discretion. Interested?
+*Tell her that if &lt;i&gt;that &lt;/i&gt;scares her, she&apos;s more naive than you thought.*
+*Say you&apos;re done answering questions for the time being.*
+[HERO] *Send gentle commiserations to her, then allow her memories to continue...*
+*Quercus hisses at you, lashing out with a claw. Sir Lora ignores you, but gently pats his cat.*
+Aroooooo! &lt;i&gt;Arooooooooo!&lt;/i&gt;
+*Well someone had better save him! Ask which way he went.*
+[LIZARD]*Bow before the Dreamer. You&apos;re honoured to meet a member of such an esteemed order.*
+It&apos;s these private interests of yours that merit discussion.
+Memories and scholarship. Heady pursuits that elevate our kind above others. The humans and lizards lunge at each others&apos; kneecaps. We follow the high road, and are the better for it.
+Source is like life: a twin of death. The sooner the Magisters accept this, the better.
+Blessed
+I can be a charmer when I want to be.
+Change Campaign Metadata
+*Eyes closed, the tiger seems to be praying...*
+Allows you to cover ground with webs. Whenever you become Enwebbed, you become Hasted instead.
+*Growl...* &lt;i&gt;I kiiiiiiiill you, elf-meat.&lt;/i&gt;
+*Tell her she has an odd reaction to kindness indeed!*
+Over my purged body. Literally.
+The Art Of Destruction: Grenades
+*Nod, but you&apos;re already thinking about what you could do with such power.*
+*Ask how to fix the lever*
+*The dwarf died a hero, and so did his friends. Tell him that this evil won&apos;t stand.*
+Hill Troll
+[SOLDIER] *Explain that you are not a mere adventurer; you, like him, are a soldier.*
+You&apos;ll be popular. Lots want help. Lots of poor faces...
+Go! Move! Bark! Bark! Bark!
+Lucian, we should tell the Godwoken the truth.
+But they have failed, as you can see. I stand on the cusp of greatness.
+Altar to Zorl-Stissa
+*She bursts out laughing, her peals of mirth drawing the attention of other people in the market.*
+UI Select Char2
+Me and Valine&apos;ll  sneak into the ruins and wait. If you start a scrap, we&apos;ll have your back.
+*Ask for more detail about the Great Acorn. What is it exactly?*
+He is a lizard. No doubt he slithers close to the temple of his fork-tongued goddess: Zorl-Stissa.
+You gonna make a purchase or what?
+Speak as you will, I&apos;ll hold no blade to your neck. Simply know that you are welcome to stay as long as you wish.
+*Withdraw your hand from the log.*
+More vulnerable to electric and ice attacks.
+*Lie that you&apos;ve destroyed all the Shriekers.*
+Dimensional Bolt Skillbook
+*Sigh* Pursuit of my interests has led me to fall in with some... &lt;i&gt;disreputable company&lt;/i&gt;, in my time. For a short while, one such group was the Black Ring.
+*Refuse his disgusting request.*
+Commiserations, she says! I knew the risks - if graves you&apos;d open, beware the creak and then the click. Then comes the bang! THEN COMES THE BANG! HAHAHAHAHAHAHA!
+Hey, that hurts!
+We&apos;ve reached Arx. We should keep our eyes open for any clues on remaining spores.
+*The creature lies still, but remains alert. It says nothing.*
+Ready, set, squash!
+Get to it or get movin&apos;, sister. It&apos;s the busiest day of the year.
+*He whistles and the shaggy wolf appears by his side, panting in that way that makes wolves look like they&apos;re laughing. The wolf whines and claws at the ground.*
+*Glare at him witheringly: &lt;i&gt;&apos;It&apos;s Silver Claw, actually.&apos;*&lt;/i&gt;
+You have &lt;font color=&quot;008858&quot;&gt;activated&lt;/font&gt; a pressure plate. Try activating one with an object instead.
+*You suddenly feel a claw-like energy pushing you down: five unseen talons splayed over the crown of your head. As it slowly forces you to the ground, you know you cannot resist.*
+Revolting.
+*Her eyes squeeze shut and her whole body trembles, but she puts up no resistance as you kill her.*
+*As you&apos;re about to address the Paladin, the Red Prince interrupts and asks him if he&apos;s seen a lizard matching Brahmos&apos; description.*
+You are my father.
+We traded the antique scroll to Cat the Appraiser.
+Subject - please make yourself known.
+Godw&lt;i&gt;uuuzziik&lt;/i&gt;ken. I am here to serve.
+*The spirit&apos;s face contorts into a snarl - *
+*Wonder if he&apos;s keen to hand in his contract.*
+&lt;b&gt;Do it then. Kill the child. We will find another.&lt;/b&gt;
+*Say you want the true power of the armour. The fanatic must be devoured.*
+*Offer him two poisoned fish.*
+Terri&apos;le things! Don&apos;t o&apos;en the chest, &apos;retty elf lady! Everything&apos;ll go &lt;i&gt;&apos;oom! &lt;/i&gt;DON&apos;T O&apos;EN THE CHEST!
+Why?!
+Enough!
+*Sigh* If you insist.*
+No, don&apos;t just leave me buried in here!
+[BEAST] *Shake your head in disbelief. The Black Ring&apos;s infiltrated the Dwarven court?*
+Fast as lightning and twice as deadly, the half-demon Malady teleports with ease, leaving vanquished foes in her wake.
+Ah, my friend. What do you need?
+*Ask what makes him so certain that Higba isn&apos;t responsible.*
+Too... bad. I think maybe we help each other.
+The Great Guardian
+Paladin Ponchus Ree
+*The helmeted figure before you slowly turns to face you.*
+Need to fatten meself up a bit again so I don&apos;t lose it a second time. Can&apos;t be relying on mercenaries like you to dig me out. I thank you, stranger, and wish you well.
+Whatever&apos;s going on with you and your &lt;i&gt;passenger&lt;/i&gt;, I don&apos;t really need it in my vicinity.
+One of us ate Roost&apos;s hand.
+The corners were cleaner, &apos;n&apos; the streets were safer, she said, &apos;n&apos; the public smiled &apos;n&apos; nodded like simple sheep. They thought she&apos;d never come for &lt;i&gt;them. &lt;/i&gt;As long as there was someone poorer, louder, needier - they&apos;d be safe.
+*Ask what they&apos;ve found so far.*
+Gladiator
+*Say that that&apos;s an honourable ambition.*
+*Roll your eyes. How would you know? It&apos;s not like he was specific to begin with.*
+Then you give me no choice.
+[NOBLE] *Proclaim that you prefer to be serenaded by minstrels than to callus your own fingers.*
+*Tell him to just get this over with.*
+*The power recoils from your attack - it clearly wasn&apos;t expecting any resistance. You can feel it trying to maintain control on the dwarves&apos; minds, but it&apos;s slipping.*
+I&apos;m a monsterrr...
+*Put the ball back in your pocket.*
+*Bright light blinds you. There you are.*
+*Say you may be able to help him, but first you want information.*
+Then... then I was right to bring the Princess here. Hurry now - go and see her.
+*He studiously turns his back on you.*
+Roll up! Roll up! Don&apos;t be shy!
+So... Roost is at a sawmill. Let&apos;s pay him a visit, shall we?
+You traded my people for power and a demon&apos;s favour! I hope it was worth it.
+*Lower your eyes and say that you&apos;re on a mission for the Sallow Man...*
+*A wide smile cracks across her tear-streaked face, exposing a big gap where her two front teeth should be.*
+We left Reaper&apos;s Coast without solving the mystery of the missing Magisters.
+I have no choice. If I want to survive him, I... I have to be &lt;i&gt;like &lt;/i&gt;him. I have to do this. It&apos;s the only way.
+*The lizard hums a lizard melody - you find it not unpleasant, but you do not recognise its air.*
+What do you want?
+Press [IE_FlashLeftMouse] on an enemy to &lt;font color=&quot;008858&quot;&gt;Attack&lt;/font&gt;. Press [IE_FlashLeftMouse] on the ground to &lt;font color=&quot;008858&quot;&gt;Move&lt;/font&gt;. In combat, keep an eye on your &lt;font color=&quot;008858&quot;&gt;Action Points&lt;/font&gt; above the Hotbar.
+Hahaha! Thank you - I haven&apos;t laughed like that in many centuries.
+I am fine. I am fine when I return to my people.
+&lt;font color=&apos;#8e8178&apos;&gt;D-pad right - &lt;/font&gt;Attack Mode&lt;br&gt;&lt;font color=&apos;#8e8178&apos;&gt;D-pad left - &lt;/font&gt;Toggle Splitscreen&lt;br&gt;&lt;font color=&apos;#8e8178&apos;&gt;D-pad up - &lt;/font&gt;Tactical View&lt;br&gt;&lt;font color=&apos;#8e8178&apos;&gt;D-pad down - &lt;/font&gt;Toggle Sneak
+*You recognise the design - the pedestal is from your own era. Empty now, it once supported something powerful. This was the resting place of the Aeteran - until it was torn free, and borne away.*
+We freed Meistr Siva from the Magisters and followed her home. We need her to tell us what to do to become truly Godwoken.
+Strength increases your damage with strength-based weapons and skills, and allows you to lift and carry heavier items.
+In the cave we found a dwarven survivor, mad with fear.
+*The rat spirit stares at you blankly.*
+Don&apos;t let me ask you this - what are you waiting for?
+*Nod and tell her you&apos;ll at least keep an eye out for that pouch.*
+Ahem. A pooooooem for my sweethearrrrrrt.
+Mutiny In A Bottle: The Firestorm Grenade
+*An odd-looking young woman, a woman you now know better than almost anyone, is staring intently before you, fingers curled rigidly at her sides. Greyish-black veins run from her eyes down her cheeks - then suddenly clear.*
+*Ask what happened here.*
+*Tell her you are ready. If you are her chosen champion, you will serve her. What must you do?*
+Deal with the trolls.
+[1] improves your armour rating.
+Charred
+Ah. Hello. I am very sorry to see the... thing inside. Are you losing very much time?
+*Tell him you want him naked and in bed. Now.*
+I don&apos;t see any children around here. Don&apos;t see my folks, either.
+As the forests grew anew and the elves were equals at last, Saheila shared elven knowledge of the Source with the world. But some elves disagreed, and plotted against her. The Mother would have to choose sides.
+*He sinks to one knee.*
+When we were alone, Dorotya became a werespider. She fed on me, but I gained something in return...
+My child! My darling child, you are not a moment too soon. It&apos;s &lt;i&gt;here.&lt;/i&gt; Even &lt;i&gt;here.&lt;/i&gt;
+*Your hand passes right through hers. She shrieks, horror animating her face.*
+*Tell him to take a bath, you can smell him from here.*
+Ha! J-j-just giving you a chance to soften him up for me. Hop to... and don&apos;t even &lt;i&gt;think&lt;/i&gt; this championship is over yet.
+May your every seedling bear great fruit, my friend.
+Dust Blast
+*The young woman gazes at the dead and dying before her.*
+Meteor Shower Skillbook
+...do I know you?
+We have the authority of four missing Magisters!
+That&apos;s enough of that. &lt;i&gt;Thank you.&lt;/i&gt;
+A more potent version of the Enlightenment herbal mixture whose effects should last quite a bit longer.
+*She gives you an odd, sideways look, then shakes her head and beams beatifically.*
+Mord&apos;Akaim&apos;s Touch
+You were right, you know. About it being my fault. But... I&apos;m glad I still have people I can call family.
+It seemed... intelligent.
+Cluck cluck, cluck bock...
+It is all we trust, do you see? It does not lie, does not force us to &lt;i&gt;serve&lt;/i&gt; -
+Holy Lucian, seven times divine, save me from these raving lunatics! I&apos;m trying to run a decent establishment here! Out with you - you nutter!
+*She turns away.*
+*Windego&apos;s spirit flutters and rives. Your skull squeezes tight and your throat burns with fire, but the substance of her being is nearly yours.*

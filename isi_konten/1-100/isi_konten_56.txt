@@ -1,0 +1,150 @@
+Birds Desert 03
+[SEBILLE] *Smile. He was a slave as well. You&apos;re beginning to understand.*
+*Say you met her son on the other side of the bridge; he asked you to help her.*
+*The squirrel reaches out and hands you a piece of bark, covered in tiny, scratched handwriting.*
+*Sometimes, you really wonder about how you make choices in life. Sometimes, like now.*
+You ssserve the great &lt;i&gt;Almira?!&lt;/i&gt; The Sssallow Man will want to ssspeak with you. Take thisss...
+We overcame all obstacles and survived the Death Room. We stand on the steps of Lucian&apos;s final resting place. Is Dallis here too?
+Ashwood Branch
+*Refuse, saying you&apos;re not in the habit of helping Magisters - alive or dead.*
+As soon as we convince this heap of wood to move.
+Phoenix
+Shht! &lt;i&gt;Pray!&lt;/i&gt;
+She&apos;s lost. Bewildered. A stranger in her own soul, desperately trying to find her way home.
+The Sallow Man&apos;s Hand
+*Say you&apos;ll consider his request. That is the best you can do for now.*
+Prince! The consulate no longer burns. I presume you have had a hand in this feat - and if not, please accept my gratitude in any case.
+Vulture&apos;s Prayer
+An entire race of deities, with a perfect understanding of the universe...
+Caught him red-handed trying to make off with a second crate after he took the first. *Ahem* Went down like a rent boy when we grabbed him. Easy.
+*Tell him you promised the portal-master you&apos;d help her. He and his Magisters need to leave.*
+We need to travel across the land, gathering clues, experimenting with different magics, and coming up with a spell to shield Rivellon from its doom.
+Button
+SON OF A -
+The same reason my father and I did everything... to protect the realm. As that is what the Divine is &lt;i&gt;for&lt;/i&gt;.
+*Wonder why she decided to settle in such a desolate place.*
+I won&apos;t tell you again, dwarf - back off.
+Do you think this is a game?! Lives are at stake! Come to me when you have something worth saying.
+Hey!
+*Ask her how old she is.*
+&lt;i&gt;(Geraldine!)&lt;/i&gt;
+[UNDEAD] *Shrug. Do your empty skulls contain brains? How deep could his thoughts possibly be?*
+[1] increases your damage with crushing weapons by [2]%.
+*Her glowing cheeks are as the sun after storm! Ask what has her in such good spirits.*
+Braveheart
+No, don&apos;t leave. Stay here, with me. Rest.
+Melee Weapon
+*Say you&apos;d like to know more about trolls after all.*
+I&apos;d say &apos;your guess is as good as mine&apos;, &apos;cept I&apos;ve got the sense not to ask any questions. Now why don&apos;t you waft on, elf? I&apos;ve work to do.
+Welcome home, Lohse. Come to Daddy.
+Welcome! Move your characters with [LeftStick].
+I... guess I wish you luck. This isn&apos;t going to be easy. Only one of us will come out of it with what we want. I hope that it&apos;s me. But I wish we could have done this together. Really, I do.
+If there&apos;s nothing else, we have a lot to do...
+Why wouldn&apos;t I be? Every so often, some interloper goes and undoes one of Braccus Rex&apos;s curses, and I must murder the poor sod.
+And who would&apos;ve thought it? You&apos;re sure not the collared weirdo I first met, that&apos;s for sure! You belong to Rivellon now.
+The Scion attacked us.
+Unlock
+*Ask it how it died.*
+Good. But be warned, if I suspect you are doing anything other than fetching the will, you can be sure the guards will know about it.
+Mor the Trenchmouthed
+*So he&apos;s Ryker&apos;s prisoner? Offer your sympathies.*
+Many items and adventures are hidden off the beaten path.
+Potions and poultices. Tell me what you seek.
+Stewart
+Where&apos;s a trusty tap when you need one?
+*The man nods, chastened.*
+The spores grow in what soil they are given. More reason to keep them from the Magisters.
+To lock away the problem is simply to admit failure. What we see here is intellectual defeat: the child of stupidity.
+Gather the ingredients for the Godwoken ritual.
+Shush, Fedor. You, Mister Lookalike. If you think of anything you &lt;i&gt;forgot&lt;/i&gt; to tell us... visit Reimond at the docks. On in with you!
+The crumpled note is covered in numbers and letters, written in a long, curling hand.&lt;br&gt;&lt;br&gt;15R 34L 23R 35R 9R 16L 33L 45R 51L 1L
+*The man doesn&apos;t react - he&apos;s out cold.*
+*His eyes narrow, his gaze sharp.*
+The Doctor favours you. Go freely.
+*Ask how you might find her again.*
+Leave me to my work now. Maybe I can find something to back up your claims... and make it so that her suffering wasn&apos;t in vain...
+Rise!
+I... knew we must be here. I am not sure how much to explain. You are here, and so we are here.
+[1] cast [2] on the ground
+Heh. I know it&apos;s the truth - but still stings to hear it comin&apos; from your lips. It&apos;s jus&apos; - jus&apos; that I didn&apos;t always feel anyone was ever listenin.&apos;
+*Turn on her. This was wrong - she was wrong. And now, she must pay.*
+I don&apos;t know how you do it! Hearing your stories inspires me to embark on yet another thrill-chase!
+Chance to knock down.
+*Say that he&apos;s doing a splendid job guarding the cave, and you&apos;ll be sure to praise his efforts to whoever lies within, if he just were to let you past...*
+*Say that it was transported from the sea to here through a portal. The shore isn&apos;t far from here though.*
+*Ask him about Lohar. What&apos;s his role in all this?*
+Anyhow - we&apos;re a team now, so the &lt;i&gt;me&lt;/i&gt; is not half as important as the &lt;i&gt;us.&lt;/i&gt;
+*She pauses, considering your response - and sighs with relief.*
+I&apos;ve been bombarded with a lot of grandiloquent prophecies that an analytical mind like mine is obliged to meet with a certain degree of scepticism.
+A &apos;no&apos; doesn&apos;t become a &apos;yes&apos; over time, you know.
+I&apos;m not afraid of &lt;i&gt;it &lt;/i&gt;as much as I&apos;m afraid I don&apos;t know what &lt;i&gt;it &lt;/i&gt;is.
+Ought to keep well out of sight of the Magisters...
+*It painstakingly attempts to flap its spindly wings, failing miserably.*
+*She glimmers in and out of view, merging with the shadows. Crowing, she slams your hand down into the table, hard enough to draw blood.*
+There was no manipulation, you volunteered of your own free will! Besides, this work is important! You should be glad, to have played a part in the betterment of all of Rivellon.
+When all your life revolves around a single purpose, one can&apos;t help but feel lost, I would think, when that purpose is fulfilled. Its achievement doesn&apos;t satisfy so much as it disillusions.
+*Grin and tell her you&apos;ll see what you can do.*
+&lt;i&gt;I &lt;/i&gt;will be the judge of that!
+0
+Shelter
+We Seven have stood united against the Void since the beginning of time. Now, I fear I must turn to another.
+Not long before this thing snaps into splinters!
+*Gareth&apos;s head is steady but his face is pale and his eyes are lost.*
+*Say you survived the Voidwoken attack by the skin of your teeth. He should really find somewhere safer to go.*
+I will remain here, and guard my offspring.
+I have something for you. When we have Saheila&apos;s attention, I thank you properly.
+Medusa Head
+I must say, you created quite a stir earlier, dear Fane. The other lords and I were quite impressed with your research.
+A dirty move like that has only one proper answer!
+With &lt;i&gt;you?&lt;/i&gt; Not so much, I&apos;m fine up here...
+Pull the spear
+Debuff Wits Potion
+The Great Acorn is nearly here. Its servants are poised for impact.
+Knight of Xantezza
+Well, settle in then. No point heading into the city - gates&apos;re closed. Voidwoken. &lt;i&gt;In&lt;/i&gt; the city. I never thought I&apos;d see the day.
+I shouldn&apos;t expect more, I guess. But I&apos;m so tired of having to settle for &lt;i&gt;less.&lt;/i&gt;
+Please... not like this...
+Magister Gheist
+*As the flame gutters out, a voice cries out in anger. The spirit of Prudence, you know, bound for oblivion. And then she is gone.*
+*She places a hand on the side of your face and looks into your eyes, a bittersweet smile on her lips.*
+Every time. Every time, Godwoken! Why. Can&apos;t. I. Just. KILL YOU?
+Cobalt
+I can see what you&apos;re up to. Keep your hands to yourself!
+Magister Timery
+He&apos;s... he&apos;s just a child...
+Strategic waiting. Don&apos;t remember inviting you, though.
+&lt;i&gt;*&apos;You are no Child of Duna. Leave now, or face his wrath.&apos;*&lt;/i&gt;
+*Ifan nods and raises his eyebrows, a slight smile brightening his face.*
+Here. Take this key, and head on up the stairs. You&apos;ll find Kniles room there. He&apos;d want to know his fine things weren&apos;t languishing unappreciated in his old room.
+Contrast
+*A shocked awareness spreads across his face, and he lunges towards you, just as the hanging Sourcerer breaks free of his bond.*
+*You guessed it, Jimmy is dead as a door nail.*
+Well then. You have done us a service. I must find the others and get the hell of this godsdamned island. I suggest you do the same.
+Warrior Voice
+Listen up. Back off.
+Listen to me demon. I know why you chose her. I know what it is you fear the most and therefore desire the most. But I&apos;ll not let her serve you any longer!
+[SEBILLE] *Tell them it&apos;s best to stick to the devil you know.*
+Traps: Gas Pits
+*Ask where she&apos;d had it last.*
+Hear me, Prince! I will not be ignored!
+The price, I&apos;m afraid, is not negotiable. And believe me, this really is one exceptional kin lover. Are you sure you wouldn&apos;t care to change your mind?
+Good. Take my knowledge, and use it wisely on your path, Godwoken.
+The Seven created the world we know - they created &lt;i&gt;us&lt;/i&gt;. We owe them.
+There&apos;s been a murder. A Sourcerer was killed by one of your own. Lucky you were busy getting your collar fitted at the time, or you&apos;d be a suspect like the rest of &apos;em.
+&lt;i&gt;Freedom!&lt;/i&gt; About time, too. I can&apos;t &lt;i&gt;tell &lt;/i&gt;you how long Mordus has been draining me. I&apos;m absolutely &lt;i&gt;famished&lt;/i&gt; for Source and sinew.
+Creates a [2]m [1] surface at the location of your target(s)
+I never read dis stuff before. Them Magisters use a lotta big words.
+*He shakes like a dead leaf in the wind as you blow him a kiss.*
+I promise that yours alone will be the powers of the lake, and to the lake I will lead you, but not yet. Not until you&apos;ve become a true Master of the Source: until you speak the language of creation itself.
+Chief...
+Thank you, thank you! You&apos;re so good - so kind - so brave! And so... &lt;i&gt;wiry!&lt;/i&gt;
+There were no stars that night. She sat shivering beside a fire. I was nervous, I had to chase her. My hand hated itself, tried to resist, but there is no resisting the Master&apos;s song.
+You were warned. To arms!
+I see the good in you, I see the bad in you, I see the all of you.
+Ungh... I guess when I said &apos;never again&apos;, I really meant &apos;once or twice more&apos;.
+Rory. The rrraaaaat. He&apos;s just over there. Don&apos;t blink or he&apos;ll flit right past. Like a... like a rraaaaaat.
+The people of Rivellon will call you their Saviour. The power is in them. In all of them. And there will come a time when they rebel - and the price will be high.
+*White as Driftwood salt, the dwarf flinches at your approach yet she holds a short, clean blade aloft. Her fierce stance can&apos;t hide the trembling of her fingers.*
+*Wonder aloud what you could do with such a rare find...*
+By leaving me stranded among those red-robes with their prickly magic sticks, you mean?
+Maybe this one...

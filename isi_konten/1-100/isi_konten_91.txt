@@ -1,0 +1,140 @@
+*The bitter air warms as you near the stone monument.*
+A bright-smelling, spicy elixir capable of protecting you against pyrokinetic attacks.
+[FANE] *Explain that you don&apos;t see &apos;eye to eye&apos; with many people. Him especially.*
+*Ask the spirit if he knows any &lt;i&gt;other &lt;/i&gt;ways to escape.*
+I woooooon&apos;t stay here, I tell you thaaaaaat for nothing! Maaaaaaybe I&apos;ll go to Arx, ha? Maaaaaaybe open a shop! Haha! Seeeeeeee you there! Haha!
+Hmm?  Oh my - I mean - hurr, whaddya want?
+Talk to Malady.
+To changing times!
+*Ask him where you can find it.*
+Tread lightly; our enemies have been here before us.
+You just don&apos;t know when to keep your hands off, do you? You&apos;re under arrest!
+*She presses her lips to your mouth, embracing you gently. She kisses you softly, then harder, exploring your hollowness with her tongue.*
+Saheila says you betray your kin. You deserve what comes to you, Sebille Kaleran. Talk to me no more.
+I am reading... Is this not evident?
+Enchanted Scarecrow
+*Insist he&apos;s out of his mind. By its very name, this weapon could mean big trouble.*
+*The echo of your glasses clinking billows through the forest, disharmonised only by the vicious chattering of demon teeth.*
+RAAAAAGH!
+Hmmm? What? You be needin&apos; something from me, lass? Ain&apos;t much inclined to rub elbows with lizards if you catch my drift.
+*The tree-form spirit gives a long, low, sigh of relief. Its foliage rustles as it settles.*
+Get lost!
+Hey! Cut it out!
+Like watching a beautiful sunset just before getting shot in the neck with a poison dart.
+What are you doing?! This isn&apos;t about you.
+A keen eye and an inquiring mind are &lt;i&gt;not &lt;/i&gt;the preserve of necromancers, I assure you. I am intelligent. *Smirk* &lt;i&gt;Exceptionally &lt;/i&gt;intelligent. There is no sin in that.
+Cat&apos;s still not back. But you can always check out my wares while you wait!
+A mask broken into several pieces.
+*Pride swells in her, and sadness too, and then you are she again.*
+[VILLAIN] *Compliment him on his strategy and promise not to do anything &apos;smart&apos;.*
+So don&apos;t you stand there and play coy with me. Not when the worms are licking their lips beneath your very feet.
+*Gareth keeps his eyes to the ground for as long as you watch. His sincerity in this matter is unnecessary - only his obedience.*
+*Address Vredeman directly: he is the Source King enslaved and his name is Braccus Rex.*
+Sadha entrusted us with one of her eggs. If one casts fire on it, a dragon will be born!
+Axe of Braccus Rex
+No work on the farm today, I&apos;m afraid. We&apos;ll be busy clearin&apos; this place out for the next few days, at least.
+That&apos;s nice o&apos; you. It&apos;s not so bad so far. I sure don&apos;t miss pullin&apos; wagons.
+Spider Legs Scroll
+MOVE! NOW! MOVE! MOVE! MOVE!
+Delete Scene
+*Remind him that without you he&apos;d still be dying - or dead.*
+Items
+High Tier Blank Summoning Skillbook
+Returning to the Empire, the Red Prince was hailed a hero. He married Sadha and they had more dragons. Soon, the prince became the Dragon Emperor. Even the demons were afraid.
+Floating
+[1] exploded.
+I&apos;ve enough strife tryin&apos; to earn a bit of coin without &apos;aving the likes of you eyeballin&apos; me as well.
+Damn! And here I was hoping my upstairs visitor was just playing tricks on me.
+*Cast blame on her. She could have avoided all this if she&apos;d prioritized her children&apos;s safety.*
+I am you, but greater. I am Godwoken. Born to be Divine. All-powerful. So powerful the priests imprisoned me here. They feared me. And so they should. I am fearsome... and I am generous.
+You just keep movin&apos;.
+*Malady takes Lohse&apos;s hands and closes her eyes.*
+*Bow your head in honour of Rhalic.*
+*Say you&apos;re looking for Griff&apos;s missing supplies and ask if she&apos;s heard anything.*
+*Whisper that you need someone to teach you how to use your Source. You can help him if he promises to help you.*
+Not my place to say a word, friend. Not my place at all.
+Are you de- never mind.
+Mass Corpse Explosion Scroll
+Have something that belongs to me, do you. &lt;i&gt;Friend.&lt;/i&gt;
+The demon has gone - but I am still its slave. While it lives, I am bound by its shackles to this humble plane. And you know the anguish of a master&apos;s irons, pretty one; I see your scar.
+*Look at her in disbelief. She wants you to be the next Lucian? You?*
+*The spirit of the Paladin fights a desperate, losing battle against the tentacle. It drags him inexorably towards the dark water.*
+*You feel your body trying to pull itself forward, trying to drag you away, but you&apos;re being held back. You feel weak, feeble, and aching for Source.*
+*Source snakes from your eyes and fingers and into hers - and you are Kari, clad in Red Magisters&apos; garb. Distressed. Heartbroken.*
+When resurrected, you resurrect to full health.
+*She bites her lip and leans in, close to your face. As she whispers, her breath, faintly fragrant with a sweet honeyish smell, caresses your ear. You almost forget where you are...*
+There&apos;s a ladder right there. It&apos;s the quickest way down. Hurry!
+The Damage you inflict when successfully hitting an enemy or an item.
+*The spirit nods, and its face grows even more tortured. It is trapped. By what or by whom, you cannot say.*
+*Tell him you&apos;re tired of these shenanigans. This thing&lt;i&gt; talked &lt;/i&gt;to you. He needs to level with you. &lt;i&gt;Now.*&lt;/i&gt;
+It&apos;s not working. There&apos;s something to this I&apos;m not seeing...
+Such frightful shouting! What, Lohse wasn&apos;t good enough company for you?
+You should be grateful, Godwoken. You may not be Divine, but you will receive the gift of eternity.
+*Calmly think back a response - if you were Godwoken, then this is the &lt;i&gt;last &lt;/i&gt;place you&apos;d be.*
+*Something has changed. You are you, but &lt;i&gt;more. &lt;/i&gt;You are another, but &lt;i&gt;not.*&lt;/i&gt;
+Memorial Tablet
+*Say you&apos;ll certainly try.*
+Cauldron
+Huwbert&apos;s Encyclopedia Vol. 29: The Kraken
+*The creature howls in pain. It doesn&apos;t even register your presence.*
+We sailed from Reaper&apos;s Coast leaving the Paladins&apos; task incomplete.
+Well, Roost&apos;ll be camped out somewhere near Driftwood on Reaper&apos;s Coast. At least, that&apos;s where he was last I saw him. I&apos;ll be headed there myself, soon as we get off this damned island...
+A Lone Wolf killed Baran Levere and assumed his identity. Levere&apos;s spirit wants revenge.
+By Lucian&apos;s sword, dwarf, we meet again! Would that circumstances were better here than in Fort Joy. But they are not; Voidwoken lie in wait beyond the bridge.
+What if it&apos;s too late, hmm? What if the Knights of Drey are too far ahead in their plans?
+Nothing here looks out of place. You&apos;re good to go.
+*Death Heralds would summon the creature by placing Source-Infused mutton on the altar. The creature then demanded a ritual.*
+Beyond this altar, a powerful enemy is being held captive. I want to know his secrets. Another servant of mine is failing to extract them. Do whatever is necessary to loosen the prisoner&apos;s tongue.
+Swampland as far as the eye can see, and a perfume of... putridity. Oh, the joy of freedom!
+*His face abruptly creases into a smile.*
+*Hold him back.*
+I was trying to uncover the truth when I was waylaid by these Magisters.
+You&apos;ve proven yourself pure in thought, heart, and deed, pilgrim. May Lucian&apos;s blessings remain with you.&lt;br&gt;
+*The spirit shoots you a hostile look, before continuing to mumble curses to agitate the Paladin&apos;s wound.*
+Grrrraahoooooooooo!
+Only one - in the city they call Arx.
+However, as you lack the glowing eyes of the Divine, or the purpose of one soon-to-be-Divine, I trust that you need more Source?
+Don&apos;t worry; it&apos;s easy.
+The creator of the Deathfog device that Ifan unwittingly delivered to the elves was Hannag - the Sourcerer we met in the Cloisterwood!
+*You push through the fog, chasing the voice at breakneck speed. You trip and start to fall, but catch yourself against... a bookcase?*
+The Captain&apos;s compass was no longer in the wreckage.
+Thank you for your help with that &lt;i&gt;thug&lt;/i&gt;. No doubt he turns on you next.
+[RED PRINCE] *Tell her true: you are the Red Prince from the House of War.*
+*Ask her to trade.*
+I won&apos;t lie, I&apos;m damned happy &lt;i&gt;you &lt;/i&gt;stopped by right when you did.
+[IFAN] *Say that you can just about imagine the vicious rituals of your devoted acolytes.*
+&lt;i&gt;I&apos;m demon true, taken to isle of vaults, exorcised from host most dear.&lt;br&gt;The priest - Surrey by name - confined my soul to blade of glass and bone.&lt;br&gt;Then split in twain, when madness boiled his blood.&lt;/i&gt;
+Yes; and while we quibbled, an enemy greater than any one of us stole in like a thief in the night.
+*A great surge of power arrests your heart, your mind. When it passes, you feel ecstatic, replete.*
+[IFAN] *Your hunter&apos;s eye notices all the barrels he&apos;s tending to share a mark. Kneel, pretending to adjust your boot, so you have a closer look.*
+*The pirate notices you and spits out his next ill-conceived swallow. His bottle hits the ground with a heavy thud.*
+When the Magisters took me from my bed and dragged me to this pit, I thought it was the end of my life.&lt;br&gt;&lt;br&gt;But even here, new beginnings bloom.&lt;br&gt;&lt;br&gt;I think I’ve met somebody. It sounds insane, doesn’t it? What future could you hope for, here of all places? But... one must dare to hope. A connection between two people is the most precious gift. Even here. Especially here.
+*The Meistr points sharply to the ingredients cupboard.*
+*He gives you a long cool look, while the torches crackle and nearby lava rumbles...*
+Quite the stare you&apos;ve got.
+Lord Arhu&apos;s dog Charlie had a ball. Someone threw it out a window.
+Always had a mean streak. My ma reckoned I was a demon. First time Source went rushin&apos; outta me, I reduced her to ash in the blink of an eye. Seems she was right.
+*Stay your weapon. You were wrong to be so hostile.*
+Oh, but I&apos;ve forgotten my manners, and mama didn&apos;t raise no cave troll. Name&apos;s Duggan, it is. Oh, and this here&apos;s Leya. You gotta be sick of that collar. Leya, you can get him fixed up, yeah?
+Spirit of Magister Wainslow
+Nice verse, I guess. Least it ain&apos;t &lt;i&gt;all&lt;/i&gt; about the grand feats of the human race.
+You and I are alike, Sebille, no point denying it. And working together, there&apos;s nothing the two of us couldn&apos;t do. Let&apos;s keep it that way?
+*Note that there&apos;s a lot of... &lt;i&gt;food &lt;/i&gt;for one rat - it&apos;ll likely spoil before it can all be eaten.*
+But I thought he really loved me. *Sniff.* My old master, he really loved me. I probably shouldn&apos;t have left him the way I did. He&apos;d have died for me, he would.
+*You eat, drink, and have a good time of it with Glory and her husband Nicholas. After the meal, you express your thanks and take your leave.*
+MAKE A ROLL
+*The statue doesn&apos;t move, no matter how much force you apply.*
+Even though I love the rain...
+*Attempt to repair the statue.*
+Pearst... I&apos;m sorry...
+Unusually Beautiful Yarrow Flower
+Safa
+No access for now. Come back later. Or preferably not at all.
+*Gareth scans the wreckage until his eyes fall on Malady&apos;s listless form.*
+*Ask who took what realm.*
+Ain&apos;t never heard of anyone that gave the Reds the slip before. Good on you, lass! You give me hope, you do!
+This seems like the work of a madman... but he must have had a reason, surely. Some ulterior motive. The Divine wouldn&apos;t turn &lt;i&gt;murderer &lt;/i&gt;for nothing, surely.
+Peace of Mind Skillbook
+*Say you never associated with servants.*
+Aalbrck the Flayer
+&lt;i&gt;INTRUDER! &lt;/i&gt;To arms!

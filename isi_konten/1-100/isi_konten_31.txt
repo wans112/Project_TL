@@ -1,0 +1,149 @@
+*Tell him if he wants the job done you need information. You &lt;i&gt;must &lt;/i&gt;question these demons.*
+*Ask Lucian how he feels about Dallis&apos; attempts to murder Alexandar, his only surviving son.*
+Please. Please. &lt;i&gt;Please&lt;/i&gt;.
+Thanks for nothin&apos;.
+Box
+Oh ho ho, I don&apos;t think so, mister! You&apos;ll return to your bed or I&apos;ll flatten you myself!
+By Lucian&apos;s grace, I&apos;m not dying in these ruins for the sake of one Sourcerer!
+Vatch yoor mouth, hireling, or you&apos;ll end on the wrong side uf history vith Alex and all the rest.
+*The frail skeleton is still screaming obscenities when you bring your weapon down, caving in his skull. The jaw falls silent, dropping to the floor with a crack, and the pile of bones lies silent.*
+*You realise that her hand is caressing your arm. She gazes at you intently. Her eyes are oceans of violet. You could drown in them.*
+[SWORN] *Tell him the truth - you&apos;re promised to the God King.*
+*You approach a decrepit well and stare down into its toothless, black mouth. No sooner has your head crossed the rim than weak voices begin to echo from the depths.*
+*Tell her not to tar every Magister with the same brush. You&apos;ve seen good in some of them.*
+Game Master Mode
+We rescued Meistr Siva. She told us to follow her home.
+*Sigh* Fine. Answer the security question.
+*Sweeten his pot.* ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+It&apos;s not just decomposing flesh and bone dust underfoot, you know. Why, the very essence of decay flavours many an essential oil and tincture. I&apos;d expect a Godwoken to understand. Pity.
+As far as I can tell, you&apos;re a soldier without an army, which makes you... &lt;i&gt;a mere adventurer.&lt;/i&gt;
+a place of exile for those whose Sourcery threatened to bring in the Void.
+Oh come now, of course they&apos;re scared. No-one sports horns that big unless they&apos;re compensating for &lt;i&gt;something.&lt;/i&gt;
+*Tell him Delorus would want him to help you. Order him to tell you where the White Magisters are.*
+Ambrosia
+&apos;...as were let fly by the &lt;i&gt;Perfidious &lt;/i&gt;Lizards of the Ancient Empyre, with the Aid and Abettancy of the &lt;i&gt;Treacherous &lt;/i&gt;Dwarven Kingdom...&apos;
+*Ask if the Paladins suffered many casualties.*
+*Confirm. You&apos;re looking for adventure, and reward.*
+No! I have heard of your Master. I will not summon him here. There are those even a mighty spirit such as myself must fear...
+*You can&apos;t quite make out the details - you need to get closer.*
+Stop.
+Giant Crocodile
+Got a few things to take care of for Lohar for starters. Not the most - upstandin&apos; fella, but he&apos;s the best chance I have of figurin&apos; what Her Royal Highness Imperial Faithful Gracious Majesty the Honourable and Excellent Queen Justinia might be up to.
+*Your fingers trace a line from your head to your face, feeling not the creases of the mask, but the porous surface of new skin. You lower your arm, blink twice, and step forward in this new guise.*
+Borris&apos; Instructions
+*The White Magister strikes an offensive pose just as the hanging Sourcerer breaks free of his bond.*
+For the moment, Alexandar is too well-protected. I need to find a way to isolate him.
+Solve the mystery of the cliff-top statue.
+*Tell her you found a clutch of eggs, though all but one was corrupted by the Void.*
+Alas, I am. And we do not have time to nitpick morals.
+Where I thought I would find simplicity, I found guile and deceit.
+I pray this goes well... I&apos;d hate to think what&apos;d come of Leya if we don&apos;t pull this off...
+*The dwarf is still happily humming the tune you showed him. He winks as you pass by.*
+Nonsense. You best abandon those fables of yours. The danger is real. And the first to fall will be the dreamers and the escapists.
+*More of them? Draw your weapon.*
+*Hurrying Magisters? Wonder what they were in such hot pursuit of.*
+Enhanced Spirit Vision
+Attack_Skill_Prep_2
+[LOHSE] *Recall the power building inside you: the sound and the fury and the madness. Unleash it!*
+Hello, darling.
+They don&apos;t appear to be particularly dirty, but the pungent odour of cheese wafting off of them could knock a horse on its hiney.
+Not what they wanted. I fooled them into believing that I was close though.
+Yes. To open those eyes of yours, for their lids are heavy with the shackles of servitude.
+*The lizard leans in close, his black eyes inches from yours. In their darkness you see... an island. You see the winds that will carry you there. You see the way to the Nameless Isle.*
+Don&apos;t you know the prophecies? &lt;i&gt;&apos;One day a man and a woman will be born, and their skin will be red, and the fruit of their union will be Great Red Dragons.&apos;&lt;/i&gt;
+Stop teleporting away while I&apos;m talking to you!
+Don&apos;t need to tell you of all people them Source-loving lizards don&apos;t stand a chance. Ain&apos;t no-one left standing when you treat &apos;em to Deathfog!
+To help keep your workbench tidy.
+Locked in perpetual prayer. Keep trying, my friend.
+Bah! Allowing oneself to be overtaken by a Voidwoken demonstrates a remarkable weakness of character.
+Do you mind? I&apos;m really rather busy.
+*Shift in place and tell her about the plans you and Butter made to meet up in Arx.*
+*In the desperation of the fight, you open a portal to the Void, looking to unleash hell upon your foes. And then you hear a voice. The God King, offering you a Covenant - die and be reborn. You take the offer...*
+Reds got &apos;em, but can they hold &apos;em? I mean: you got out, didn&apos;t you? Maybe they can too!
+My people. If they aren&apos;t comin&apos; after me with pen knives, they&apos;re lost in the hills.
+That isn&apos;t anger. It&apos;s...
+I&apos;ve never felt such power. I&apos;ve never felt so &lt;i&gt;alive.&lt;/i&gt;
+HELPER AMADIA TEMPLE - Fire
+*Before you lies a primitive altar to the Seven, apparently constructed during a bygone era. Something about it appeals to you - a faint heat emanating from the stones, perhaps.*
+...or do you wish to walk the Path of Blood?
+Sunshine
+No use dwelling on what might have been, but let the bond of our friendship remain.
+You remember what happened to the elves, don&apos;t you? Ain&apos;t no-one left standing when you treat &apos;em to Deathfog!
+*Tatcher shrugs into her beer, unconvinced.*
+Do not let hubris lead you deeper into darkness. Pray, won&apos;t you? It&apos;s our only chance.
+earth
+Fort Joy
+*Reaffirm that yes, he&apos;s very much dead.*
+We must access the Council of Seven, but do let&apos;s be careful? Despite appearances, I have survived a lot. I would rather not experience death here.
+*If he were the crying type he&apos;d shed a tear, but that doesn&apos;t seem to be his way. You leave him to it.*
+Dead Magister Brute
+Got a nice marble to you, haven&apos;t you? Good. My hounds&apos;ve been looking a little on the lean side.
+Leave me be, sister.
+Tentacle Needle
+Seems they found what they were looking for. They found you, monkey-bones! They found you! Ook! Ook! Hahahahahaha!
+Not a one.
+*Confront Isbeil. You know the truth: she&apos;s with the Black Ring.*
+Ngh... this close air... I can&apos;t think straight...
+You did it! I knew there had to be a way... and you found it.
+Worn-Out Chest
+Don&apos;t you know how rude it is to spit near a kin? Please don&apos;t do it again.
+It&apos;s a pre-emptive attack. Queen Justinia pursues victory with cunning. I might do the same.
+&lt;i&gt;My one mistake meant all those sacrifices were for naught. Those sacrifices must have meaning. They must stop the Void, once and for all.&lt;/i&gt;
+I&apos;ve long moved beyond mourning my victims. All I feel now is relief to finally know why I was forced to kill them; to know who I truly am.
+Yes.
+You can&apos;t quite put your finger on how, but every quivering inch of your guts tells you that this barrel emanates true malevolence.
+I thought you of all people would understand that.
+*Glare at Braccus. Evil incarnate in Dallis&apos; thrall. How can this be?*
+A huntress did save her.
+*The spirit tries to back away from you, but it&apos;s too late.*
+Pot Still
+Your faith is an inspiration to us all.
+*As he charges, he suddenly evaporates into the ether, passing through your body. Deep, dark cold blooms in every particle of your body.*
+Ha! Afrit&apos;s no pet.
+It&apos;s like a bad nightmare. Except... you never wake up...
+&lt;i&gt;You killed the Advocate. Now you will pay with your life...&lt;/i&gt;
+*In battle you refuse to kill Magisters. For this crime you face execution at the hands of Lord Kemm. In the moment before the blade comes down, you accept the reality of your death.*
+Take the Swornbreaker. Take your life back, and &lt;i&gt;we&lt;/i&gt; will take Rivellon back.
+Bye-bye, mister.
+This pungent concoction is often used by officials in high-stakes negotiations. It&apos;s also the morning beverage of choice for torturers.
+*Beast gives you a shy grin, and the two of you brace yourselves for the coming storm.*
+FX
+*The thugs retreat, each one shuffling backwards with eyes pinned to you the whole time. Zharah suddenly looks terrified, not scared of them but scared of &lt;i&gt;you.*&lt;/i&gt;
+*Take pause. Is he saying this fire is some kind of lure?*
+We ventured on, leaving the Mistake to run amok.
+*Ask where you can find the Soul Jars.*
+Sebiiiiille. Sebiiiiille. The Mother... is dying. The&lt;i&gt; elves...&lt;/i&gt; are dying. Help us, Sebiiiille. Help the Mother. Fiiiiind her. Fiiiiind our Mother. Heeeeal her. &lt;i&gt;Heal the elves.&lt;/i&gt;
+For the life of Gwydian too, you must take your reward.
+Cancel
+*Tell Lohse you&apos;re glad she made it off the ship alive.*
+I... I never heard of such a recipe... Guepinea works just fine for me &apos;n&apos; mine. Always has!
+*Sigh...*
+More than a pleasure I think. I saw the look in your eyes when you placed that head on my table...
+Cursed Poison
+*She covers your hands with hers, guides them to places that make her exhale sharply, her eyelids fluttering.*
+*Mordus looks at you in alarm.*
+*Ask him if he knows he has a son.*
+Soggy Nailbomb
+What? ...Dear me, have you taken leave of all six of your senses? You would have me use this giant for a &lt;i&gt;shield&lt;/i&gt;? Why would I...
+It has certainly been useful, but &apos;elegant&apos;? &apos;Kind&apos;? &apos;Surprisingly attractive&apos;?
+*Fane dances around her question and reverses it - who is she? Who is this lord of hers? She does not seem eager to answer him either.*
+You can&apos;t buy your way out of this mess. Pay for your crimes!
+*You recall the vile lizard at the wagon. &lt;i&gt;&apos;Betrothed to a very different kind of king.&apos; &lt;/i&gt;Ask if he knows what that means.*
+*Look in his eyes. He is guiding you to Divinity. It&apos;s his turn to listen to &lt;i&gt;you.*&lt;/i&gt;
+Allow me... release.
+Welcome to the party chat
+*She takes off across the gloomy field at a fast clip, without so much as a backwards glance.*
+Right Bracket
+You get +[2] in Persuasion from [1].
+Great story, killer. But it&apos;s only a story. Prepare to die!
+I thought myself a poet/ But lo! I couldn&apos;t show it./ I tried to write some verses/ But all that came were curses./ My quill I set aside/ so I could save my pride.
+Hannag rewarded us for helping her.
+He&apos;s close. So close. Can&apos;t you feel him, Godwoken? The King approaches...
+*Your final blow does the intended job. As the life force drains from Lohar&apos;s face, it seems to energise Beast, whose skin is as pink as Lohar&apos;s is pale.*
+*Answer &apos;false&apos;.*
+A lot! A lot, a lot. Where to begin.
+Package
+*Gareth stiffens, then relaxes. Inhale. Exhale. His voice dims.*
+You will wake in peace. I thank you, for we shall not meet again.
+Drawstring Pants
+[RED PRINCE] *Say you&apos;re here to inquire after a lizard Dreamer called Brahmos. Does he know where he is?*

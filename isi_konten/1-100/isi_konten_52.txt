@@ -1,0 +1,160 @@
+Attar of the Blood Rose
+Featherfang
+*As the curve of the dial rotates, you hear a gentle ticking noise.*
+*He turns back to his letter.*
+*The royal protector sighs at Beast but barely looks up from the floorboards as she addresses him.*
+I smell... burning. Are those pigs on fire?!
+*Frown and ask what trouble your kinsmen are allegedly causing.*
+*Insist Beast stand down. What&apos;s done is done. Justinia has seen the truth for herself.*
+*Smoke billows from this strange contraption. It&apos;s adorned with hoses, levers and slots.*
+*Brandish the Swornbreaker and tell him where to stick his oath.*
+*Ask what she meant before - she felt your &lt;i&gt;goodness?*&lt;/i&gt;
+Now to find out what effect that had...
+Demonic Flayer Ravager
+*This is too much to bear! You could never kill your own dream. &lt;i&gt;Consume him.*&lt;/i&gt;
+*A fire slug creature weeps uncontrollably, paying no attention to you.*
+&lt;i&gt;Loyalty to the Divine.&lt;/i&gt;
+All gone. Faded away like summer breeze...
+*Brace yourself and bid them continue.*
+*The creature continues to weep over his dead princess. Slimy tears run down what you suppose is its face.*
+Perhaps they were not so different. Both hunted Source, although Braccus gathered it all unto himself. Both drain the life from this land.
+*Tell her you are.*
+It could have been different, you know.
+I drink your pain. I eat your soul. You are nothing.
+*Say you are unsatisfied.*
+*Pat your bag. The parts will stay there, safe and sound.*
+Stop it there, vandal! You&apos;re under arrest! Off to prison you go.
+*Heft your weapon. You&apos;re ready to kill this thing.*
+Several brothers have gone missing. Now tell me, have you seen a man in a grey cloak? Grey beard? Carrying a satchel, perhaps?
+*Press him. You want to talk about those days &lt;i&gt;now.*&lt;/i&gt;
+You should have just confessed, spy... I might have given you a quick death then. Guards! Seize this one - he shall buuurn!
+Physical Armour
+*Tell him you want everything he knows about entering the tomb.*
+Dead Voidwoken
+Well. Of course. &lt;i&gt;Technically&lt;/i&gt;, one can cross a river on a tree trunk. But, is that really civilised? Is that really the message you want to put out about yourself?
+*You are a warrior, proud and true. You saw your people die as the Deathfog consumed the forest. You heard them scream and then fall silent. You came for revenge - and you found your own death.*
+Rolling dice.
+Half of me&apos;s afraid he&apos;s gonna try and &lt;i&gt;save &lt;/i&gt;me from this place.
+You freed me, elf... I am in your debt! Allow me to help you... I still have enough power to unseal the Source barrier that blocks you...
+Ryker has offered to help us further our mastery of Source. In order to do so, he had to carry out a ritual that summoned spirits from the Stonegarden to sacrifice themselves to us. Knowing the true nature of his boon, we could not accept.
+That a hero like you would arrive on Lucian&apos;s Day... well, it gives me hope.
+Get back! I do not tell you again.
+Lucky you came out of it at all! Plenty of folks around of here haven&apos;t, and it&apos;s me who ends up wrist-deep in the gore!
+*Tell him to put his twigs away.*
+He&apos;s here somewhere. I know it. I can smell him!
+Large Venom Rune
+*Callo! Ask why the hell he&apos;s pretending to be some rich nob?*
+They were often neglected. I wonder how many more years they spent neglected before-
+To explore this world with you, to see this world through your eyes, even metaphorically...
+*Your mouth tastes like salt and ash. Dark energy surges across your body, eager to punish your greed.*
+I&apos;m retired Divine Order, you know. I ain&apos;t scared of a fight. If you step out that door, I&apos;m coming after you.
+A Black Ring witch fled - and she has a Magister hostage! You know what they&apos;re capable of, don&apos;t you? Mihaly&apos;s a good man - we need to help him!
+*His face lights up, gratitude shining forth from it.*
+With Amadia silent, the priestess Gratiana left the swamps and re-entered the world. She founded an abbey in the Dragonspine mountains, offering the last of the undead shelter from fortune-hunters, novelty-seekers, and ghouls.
+Out of my way.
+Don&apos;t you dare look me in the eyes, &lt;i&gt;slave&lt;/i&gt;, for that is all you are now that you bow to Adramahlihk!
+I&apos;m watching you. One mis-step, and I will have your head.
+*Ask if the Magisters won&apos;t notice you don&apos;t have your collar on.*
+I can&apos;t &lt;i&gt;breathe!&lt;/i&gt; *Gasp* I can&apos;t... &lt;i&gt;breathe!&lt;/i&gt;
+Death is at hand, criminal!
+I hope none of this is stolen.
+*Search for her memories of Gwydian Rince.*
+*He drops the halberd and bolts behind some nearby rocks...*
+&lt;i&gt;Hmph.&lt;/i&gt;
+You already know how close the danger is. If all goes to hell, I don&apos;t plan on being anywhere near this place.
+Ah, what does it matter. The Magisters&apos;ll &lt;i&gt;cure &lt;/i&gt;you soon enough.
+Elven Pilgrim
+We thank you for the water. We bless you for the water. We thank you for the end of torment.
+Oh, give it a *HIC!* rest would you? I&apos;ve said all that I have to say to you.
+Thievery
+And what business is it of &lt;i&gt;yours&lt;/i&gt;, outsider?
+*Ask for a little bit more.* ([GEN_CheckMagicPocketGold_2_463b0f43-5410-412d-aba3-875cf81c38ca])
+*Smile and tell her you&apos;d like to try that riddle after all.*
+Get out of here... and don&apos;t let me catch you again.
+UI Select Slot9
+Vengeance for the Fallen
+*Declare that it&apos;s simple - either she tell you what she knows now, or you&apos;ll have to start playing rough.*
+Redbrand Ruffian
+Well, not unless you&apos;d attempt to sing the song before we meet the Master.
+Whatever. Just leave me be, will you? I&apos;ve got enough on my mind without you squawking at me like a mad parrot.
+Stone Floor
+Map of the Bloodmoon Island
+I am not a fool, you juicy little morsel. One does not pass up a steak today for the promise of a salad tomorrow.
+But Atusa is overdue. She promises to come at noon. We are afraid to stay, afraid to leave...
+[Constitution Check]
+Epilogue
+You&apos;ve done the Paladins a great service. The better we understand the ways of the Whites, the closer we come to ending their horrors.
+I knew Malady was powerful - Meistr Siva said as much.
+*Say that you have seen the pickpocket in action, and that he slipped away just moments ago.*
+Trusty Twohander
+There is no fate. The gods themselves are silent. &lt;i&gt;We &lt;/i&gt;end our suffering. We do what must be done.
+You don&apos;t come here making demands! This is &lt;i&gt;our&lt;/i&gt; home, and that is&lt;i&gt; our &lt;/i&gt;painting. Hmm. You&apos;ll just have to die. I&apos;ll get my troll to do it.
+Magister Ranley, Caulker&apos;s Mate of the Divine Eminence vessel, &lt;i&gt;Lady Vengeance.&lt;/i&gt; That&apos;s all the information I&apos;m giving to any of you lot, so stow your questions, dwarf.
+We gave Windego a Swornbreaker. Finally free, she departed for the Hall of Echoes.
+And the Divine Order?
+*In the blink of an eye, the spirit is no more.*
+Disappoints me to no end though.
+You cannot forget item skills.
+*In one gesture, Malady rolls her eyes, darts forward, and sinks a fang into your ear for the second time.*
+&lt;font color=&quot;008858&quot;&gt;Win&lt;/font&gt; a series of &lt;font color=&quot;008858&quot;&gt;Rock, Paper, Scissors&lt;/font&gt; matches to &lt;font color=&quot;008858&quot;&gt;convince&lt;/font&gt; the other party. Put points in &lt;font color=&quot;008858&quot;&gt;charisma&lt;/font&gt; to gain an &lt;font color=&quot;008858&quot;&gt;advantage&lt;/font&gt;. Press [IE_UIEndTurn] to &lt;font color=&quot;008858&quot;&gt;skip&lt;/font&gt; the RPS.
+*Shake your head. You are here - for her.*
+Possessive Demon
+You have renounced me.
+That I can, providing we do a little... &lt;i&gt;quid pro quo&lt;/i&gt;.
+&lt;i&gt;Not crazy - real. I saw the light in the dark on the Peacemaker&apos;s last trip, safe in the hold. Not crazy. Real. Real!&lt;/i&gt;
+We convinced Dot that his master prefers Cottontail.
+*Coughs.*
+Yes, Bishop Alexandar! Off to Fort Joy with you, smelly Sourcerer!
+&lt;i&gt;(GERALDINE!)&lt;/i&gt; That&apos;s great news. One each.
+One last thing: the Magisters here are diligent men and women. A stranger like you may run into... &lt;i&gt;troubles&lt;/i&gt; with them.
+And you have! &lt;i&gt;Wonderous!&lt;/i&gt; I shan&apos;t keep you a moment longer, not while the Red Princess awaits you.
+Battle Helm
+Pestilence
+&lt;i&gt;Think again.&lt;/i&gt;
+That&apos;s it. I&apos;ve had it!
+Ha! How earnest you are.
+I fear this happens. How else does she take us without bribing every guard in this place? I save a reserve just in case. Here. Tell Magister Atusa it is the last we have.
+Ricochet Skillbook
+Justinia, queen of the dwarves, is sending a large shipment of Deathfog to Arx, the city of Lucian the Divine. She must be stopped.
+If you can steal away these weapons, your friends may well stand a chance.
+*Say that you can strive to be better.*
+Lord Arhu is missing.
+Fane... you made it. Good, we&apos;ll need all the help we can get. We have to get this ship sailing, or we&apos;re done for.
+Oh come &lt;i&gt;on,&lt;/i&gt; Ifan. You know I can&apos;t tell you that.
+[IFAN] *Say you&apos;d love to become better acquainted: where does Alexandar usually eat his lunch?*
+Don&apos;t worry. I&apos;ll find you before it&apos;s too late. Demon&apos;s honour.
+Bark At The Rune: Flame Rune
+Here, I found this on one of the Magisters - it looks valuable. Take it, with my thanks.
+Cut it out. I won&apos;t ask you again.
+*Tell the dog to trust himself. No matter what the Magisters did to him, he can undo it.*
+Steel Crossbow
+*Pledge your heart, that Lucian return.*
+*And you are choking, the spore boiling in your hand as gas blinds you. You feel something stir in your chest. Then &lt;i&gt;shift&lt;/i&gt;. Then TEAR.*
+it took all the skills of the leaders of lizards to keep the Empire alive.
+*Sigh. Then ask the rat if it is somehow constrained by nature or magic never to tell the truth.*
+*...and then with a scratch across your mind, he asks you why you&apos;re here.*
+I wouldn&apos;t be so sure...
+*In unison, they raise their arms and turn their palms to you. They lift you from the ground, and turn your body so that you it face only Void. The barrier has been broken; howls and shireks bombard your ears.*
+Spirit of a Wedding Guest
+*Very well. Step forward and allow her to take your Source.*
+*Point out that was a bit of a grandiloquent speech.*
+All yours. And I don&apos;t want to know what you do with it, elf.
+*Take a seat in the sand and listen.*
+And Gareth... he&apos;s here because of you as well. We&apos;re in debt to you...
+*The spider taps her spindly leg on your backpack. Poison drools from her fangs alongside guttural gasps. She&apos;s clearly trying to communicate, but &lt;i&gt;you &lt;/i&gt;can&apos;t understand her.*
+Report to Sir Reimond at the docks, sharpish. I&apos;ll stay behind, and make sure the Sourcerer doesn&apos;t slip away while we&apos;re distracted.
+What? &lt;i&gt;WHAT?!&lt;/i&gt;
+Eithne
+Higba had items belonging to missing Magisters. He&apos;d bought them from Wyvlia, the tavern cook.
+[LIZARD] *Say it seems to you that &apos;shone&apos; is a better word. The Divine is gone.*
+My, what a query to ask so out of the blue!
+*The spirit of the stag stares upwards at its own mounted head.*
+The book! Alice&apos;s book! You won&apos;t take it off me!
+I know because every Lone Wolf in the land is looking to sink its teeth into your flesh!
+Farsight Infusion Skillbook
+Here, take these!
+It is a promise that you cannot break, unless you want to end up broken yourself. Those who are Sworn to it are bound to the God King, come victory or defeat. If you try to break the Covenant unprepared, then you are sealing your own fate.
+*Nod. Ask if she&apos;s ready for what comes next.*
+They were heroes, supposedly. If they can be corrupted, maybe we can too...
+*Say that it is, and take your leave.*
+So poised and proud.

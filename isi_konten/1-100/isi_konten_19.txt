@@ -1,0 +1,144 @@
+*Ask if it&apos;s true that he designed the Path of Blood in the Cathedral.*
+Killfinger
+You there, wolf boy. A word!
+*As you look around, you realise you&apos;re still aboard the Lady Vengeance. A gust of fresh sea air caresses you, and warm sunshine coaxes the bones of your skull and hands to tighten pleasantly.*
+[UNDEAD] *Tell the child that you&apos;re even stranger than you look.*
+*Turn on your heels and leave him with a grunt.*
+We&apos;ve no contract for these lives. Let&apos;s hear them out, at least.
+*A skull is revealed - bejewelled, and ancient as the Void.*
+I&apos;ve known the opposite too long to want to spend another day hollow with hate; another night hollow with loneliness.
+Myrella
+*You lift the gem. It&apos;s both hot... and cold. Within the stone, stars seem to shine. It&apos;s mesmeric. You slide the gem into your pack for later. The wargs still hungrily eye the dangled meal.*
+*Say you&apos;d really like to think of something else. A &lt;i&gt;loving&lt;/i&gt; family for instance. Why doesn&apos;t she tell you all about her boys?*
+Well I&apos;ll be. Soon as I lose this blasted headache, I&apos;m off t&apos;see Lohar. He&apos;ll need t&apos;be on top of this stuff. I&apos;ll put in a good word for ya while I&apos;m there, even.
+Well, that&apos;s your right. I hope you don&apos;t live to regret it, though. I hope you don&apos;t find yourself trapped in black wax, too...
+Hey! Freshie! What ya heard about a crate of stolen supplies? And don&apos;t you lie to me now.
+Well damn, I never was much of a percussionist. But still. Hmmm. I reckon it&apos;s hard to sit still to &apos;Jungle Shakes&apos;.
+*Say the stories they tell of the House of Shadows are all about murder and bloodshed.*
+So yeh forged a path with &lt;i&gt;good intentions&lt;/i&gt; - and like the beast you are, left the path littered with crimson limbs for the innocent to clean away. Don&apos;t talk to me about &lt;i&gt;right&lt;/i&gt;ness.
+*Ask if they&apos;ve found anything regarding Dallis&apos; whereabouts.*
+Birchwood Bow
+If it&apos;s him or us, I choose us.
+*Give him an easy smile. Tell him that after all you have been through together, you know you can count on his loyalty.*
+Character ignores clouds.
+Rhymes Of The Ranger, Part 3
+Muah ha ha!
+Soon, Isbeil makes her move. The God King rises. You &lt;i&gt;cannot&lt;/i&gt; deny him.
+Statue of Tyrant
+Mordus
+Cheers. Now be a love and bugger off, like I said.
+*Gasp.*
+*The spirit of a young man stands before you. From his aura you can tell that he was a Sourcerer.*
+*Wink and say that he should trust his darling.*
+Fang of the Winter Dragon
+*Tell her you&apos;ll return it to her later, and take your leave.*
+A mortal accidentally - and fatally - opened my crypt. Before I could seek my loved ones at what is now &apos;the Blackpits&apos;, I was arrested.
+*...and in return he offers you: &lt;i&gt;whatever you desire yourself to be.&lt;/i&gt; A new you, better than before. All your flaws, gone... forever.*
+I&apos;m honoured with the predators&apos; attention. I think I&apos;ll rather enjoy this.
+Runeslots
+I&apos;m no people person, but I&apos;ve had a run-in or two with Magisters before. And let me tell you: most of&apos;em couldn&apos;t pour water out of a boot.
+*Wonder if he still intends to track Alexandar down to fulfill his contract.*
+Anti-Aliasing:
+I&apos;ve had better days. And there&apos;s worse to come.
+Hmm. A bone. Some muscle. Scales? This stew is made from lizard-flesh!
+A prisoner? Oh no... Braccus built all of this, turned this whole island into the accursed place it is now...
+*She laughs, and it&apos;s music to your soul.*
+The Void beast behind the decaying shroud is dead.
+We confessed to killing Saheila.
+*He cracks a limp smile. He seems to be getting paler by the minute.*
+Someone to replace Lucian and push back them Voidwoken. Someone to restore order and protect the Source. I&apos;d speak to Exter if yeh want to know more.
+&lt;br&gt;How many Action Points you gain in subsequent turns.
+Canary
+It seems to be a soldier&apos;s journal of successful tours, where the author focuses on scaring the enemy into surrendering. You assume it is a peaceful treatise on war psychology until you find a small sheet of paper hidden within, which details how to make a grenade that can strike terror into the hearts of your adversaries. Unfortunately, it seems to require &apos;one tormented soul&apos;...
+Scale-Portation
+This problem tore the Seven apart, but perhaps it can bring us together? I say &apos;all for one, and one for, at most, three others!&apos;
+You lie, &lt;i&gt;you ssscum.&lt;/i&gt;
+*Agree, it sounds like you have quite a challenge ahead.*
+I damn near emptied my quiver against this horde. We&apos;re outnumbered - badly.
+We confined her here, until a way to safely remove the demon could be found. It was my duty to watch over her... but I was never relieved of that duty.
+*Say that the arena champion, Murga, admitted fighting Magisters. Maybe she&apos;s responsible for the disappearances.*
+*She bares her left arm and shows you the name. You softly run your finger across it.*
+*His eyes glitter as he stands tall to tell the story, hands waving expressively. You can see it&apos;s a story he&apos;s used to telling, one he enjoys weaving for an audience.*
+Quick Load
+B-o-o-o-o-ck!
+*If the Seven lords united can&apos;t stop him, despair that the world is doomed.*
+Knowing that vile woman rests in pieces gives me great comfort. I&apos;d like to offer you the same.
+You should never ally yourself with a force more powerful than yourself. Sooner or later such an alliance becomes the root of your own slavery.
+Get yourself in check, boy. I won&apos;t have you running off like Millsent and Tolly. You&apos;ll just end up sliding down some Voidwoken&apos;s gross gullet, piece by piece.
+*Ryker&apos;s voice grows even louder, drowning your words in a deluge of his own.*
+I&apos;m not in charge of health and safety - wait. Toys?
+High Ground! +[1]% Damage
+You tarry too long. Go. You must enter the Academy!
+*Your eyebrows meet your eyelids. Just what does he mean by that?*
+Landscape
+Tell him he ought to come and see his mum and dad! Should get this mess cleared up soon enough, I suppose. Been a long while since we saw our boy.
+*Say that Arx has been devastated by Deathfog that was smuggled in by the dwarves.*
+Do heed me when I say that &lt;i&gt;under no circumstance must she be allowed to ascend to divinity!&lt;/i&gt; The demon, not she, would be a god. It would bring about the end of time and space and all creation as we know it.
+Colleagues. Magisters who wouldn&apos;t leave their posts, even to serve their bishop. *Shrugs.* Each to their own, but we surely could use them here, now that Alexandar&apos;s hour draws near.
+Yes. I rather liked that. I was trying to kill Isbeil. But she was already dead.
+That must have been the sound we heard, and what caused the surge of water...
+Didn&apos;t you hear me, you pig-screwin&apos; halfling? Stay &lt;i&gt;away &lt;/i&gt;from my bar!
+But there&apos;s always room for improvement, I&apos;m sure you&apos;ll agree. My, eh, condition limits what I can do for you, but I&apos;m sure I can manage one final lesson.
+Oh, but you do get around, don&apos;t you?
+&lt;i&gt;Thief.&lt;/i&gt;
+Passageway
+*Wonder if there&apos;s anything she can do to help them.*
+The Path of Blood ends in death for those who attempt it - consider yourself warned.
+Folder with name &quot;[1]&quot; already exsists.
+*The Red Prince pinches the bridge of his nose in apparent irritation before turning his back on the jabbering Dreamer and muttering to himself.*
+Lute
+[Translate42_38178b6f-d881-4efc-9cb8-460d6493d811]
+*Say this errand of his better prove worth the time and energy.*
+*Order the Devourer to appear. You know this is him.*
+[LIZARD] *Tell him you&apos;re just a lizard, trying to survive.*
+You&apos;re right there.
+I&apos;m afraid I cannot tell you what I do not remember... could you pass me that copper wire, just there?
+Crane
+*Tell him to mind his own damn business.*
+*Try &apos;the word&apos;.*
+I can&apos;t imagine having even half a demonic sword around was very healthy for that feeble-minded family. They probably winced whenever a black cat came around.
+A prince of the house of slavers. You&apos;ve just signed your own death warrant with that admission.
+We returned Griff&apos;s merchandise.
+[SWORN] *Tell her to stand down. You, too, are promised to the God King.*
+*Lohse is rigid as a board, tense with the effort of holding Saheila&apos;s hands in tight, painful bunches.*
+Champion of Driftwood
+So if you should cross paths again, be sure to leave her broken. You will not get another chance.
+[SEBILLE] *Say you see a blue silken sheet meant to mask a fathomless black.*
+You think books have the answer? No - I mean - I think - I...
+You&apos;re meant to talk to the Queen. What part of that don&apos;t you understand?
+*Consume the spirit&apos;s Source.*
+Adramahlihk&apos;s voice has gone silent. But I&apos;m afraid my recovery will take a touch of time. I am well past my prime, you know.
+Beneath the ransacked barracks, we found the White Magisters&apos; secret vault. Dallis&apos; trail led to the Cathedral and Lucian&apos;s tomb.
+Walk on, little boy.
+*Laugh and turn away. You don&apos;t want to get into &lt;i&gt;that &lt;/i&gt;barrel of apples.*
+It does not respond to my touch. There must be a way to activate it...
+A five letter word is carved deep into the metal: POWER
+You&apos;d turn milk green and a Magister&apos;s red coat black. My mistress Alice might fancy you though. She has a taste for the odd. If she ever makes it back. Grbbt.
+But I think you&apos;ll find present company more than adequate. Tea-time is such a delight!
+I didn&apos;t want to help Justinia. I wanted to stop her.
+*The second the lid cracks open, you can feel your Source collar tighten around your neck, burning your throat. With a gasp you release the lid, sealing the power away once more.*
+Death? I&apos;ve seen it dark in dreams, but *cough* no face; not yours, surely! Such a beautiful face... Familiar somehow... Yes, that cheek...
+*Calmly interrupt the scene; ask him if he&apos;s Roost Anlon.*
+*Tell her she can have it, if she &lt;i&gt;asks you &lt;/i&gt;like any decent person would.*
+I don&apos;t care where you come from. Don&apos;t even care who you are. But I feel... a connection. Don&apos;t you? So... you&apos;ll meet me? These strange times can&apos;t last forever. You&apos;ll meet me, then?
+I&apos;ve got no use for empty platitudes - not from a walking skeleton chosen as the Seven&apos;s... divine pet.
+*Tell him to get a grip of himself - he&apos;s supposed to be a &lt;i&gt;Knight of Duna&lt;/i&gt; - not some cackling lunatic.*
+*Smirk. He can try to get it from you, if he wants.*
+Birds Jungle 05
+A party member chose the Lone Wolf Talent, which decreased your party size.
+A prince, no less! Well, yer body works the same as any, royalty or no. I say a good old-fashioned potion&apos;ll do you.
+Welcome to Arx, stranger. Care to see a trick?
+From Difficulty Setting: [1][2]%
+A falsehood. We are descendants of a race older than the gods.
+Excellent. What would you like to know?
+Strange gifts offered in strange places. I decline to guess whether this blessing of yours is from deity or demon, but I recommend caution.
+Bone Scale Armour
+Open the armoury door.
+*Shrug and admit that you&apos;ve seen stranger things of late. You&apos;ve never heard of this &apos;Princess&apos;, however...*
+You just had to go picking a fight, didn&apos;t you?
+*Shake your head. Nothing for now.*
+Night City
+[SEBILLE] *Say your deepest self is a place of tumbleweeds and silence, but if there&apos;s powers to be gained there, why not.*
+*Shudders.* So soft. So sweet.
+*The child looks around, then back at you. She makes an obscene gesture and continues with her game.*
+*Take your leave*

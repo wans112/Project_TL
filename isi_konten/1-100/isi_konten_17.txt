@@ -1,0 +1,143 @@
+Can you name them, Godwoken? &lt;i&gt;Can you name those that died to keep you alive?&lt;/i&gt;
+Today? Another time, perhaps. Next week or next month. If you leave a name and address, I&apos;ll see what I can arrange. But today is &lt;i&gt;Lucian&apos;s Day,&lt;/i&gt; and Arhu must give counsel to the lost. He cannot be disturbed.
+Wrecked Caravan
+Void-slayer. Worm-killer. Godwoken. You have many names. Let&apos;s add &apos;ship&apos;s captain&apos; to the list once we get this thing moving, shall we?
+Help me!
+Tame the elements! Creating electricity on a water surface will electrify it and everyone on it.
+[The page is lined with formulae and geometric drawings dotted with tiny sums and figures.]
+[ELF] *Reach out to him. Caress his cheek. Then grip his one remaining earlobe and tear it from the side of his face. It comes away easily. Raise it to your lips.*
+No! Not friends. Rivals!
+*Its eyes narrow.*
+Come now. Surely you know of one rich enough to employ an assassin... or two?
+Well done, Lohse. I don&apos;t doubt that that was... difficult. But you&apos;ve done the right thing.
+I... I couldn&apos;t save any of them. I failed them...
+Huld the Stalker
+*Ask what he makes of what happened at the Well of Ascension.*
+*The spirit does not flail or panic. He throws you a stoic look... then he is no more.*
+*He grabs your jaw and wrenches it round to peer into your eyes once more.*
+Ryker&apos;s Office
+[RED PRINCE] *Tell her you most certainly are, if she has empires to hand out that is.*
+I could help you... but last I heard you were working for the Magisters. Big shots at the boats. Now: Why in the name of all that hurts would I help a worm like that.
+...once shattered, they alone descend to hell!
+*Offer a gift. Perhaps it can heal old wounds.*
+Incinerator
+Acid Infusion Scroll
+This skull contains a soul that can open a door within the maze.
+An intricate mechanism is sketched on this sheet of parchment.
+*Ask about this &apos;she&apos; he mentioned.*
+Order
+Who are you?
+Is this all you are good for: to be a slave who does what she is bid? To grovel at my feet with your face in the dirt?
+But the true child is you: all innocent; all wide-eyed wonder in a wicked world.
+Oh, right - you were the one with &lt;i&gt;that&lt;/i&gt; story! For that, you can pass for a pittance. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])
+*On closer furtive inspection the bulge is nothing but an empty purse. Someone else got there first, it seems.*
+*Take a step back -  you want no part of this.*
+Spirits of stone and metal combined to create this formidable axe; in return it asks for the power of both your hands to wield it.
+These are perilous times. Of course you feel fear, even in the Cathedral, which was designed by the best engineers under the supervision of Lord Arhu himself in order to bring the faithful closer to their Divine.
+You miss the point. I did not suffer the boredom of some spoiled brat: mine was the absolute absence of challenge - the longing not simply to watch the horizon, but to journey towards it.
+May you wander in wisdom.
+I&apos;m grateful, of course. My people are restored. Or something like restored.
+Besides, no-one needs to see the top of that head o&apos;yours!
+...dwarven voices silenced, hope suppressed.
+Lohse wants Divinity. I&apos;m proud to support her.
+Mouthy ones, aren&apos;t they ben-Mezd? Must&apos;ve been a &lt;i&gt;long &lt;/i&gt;journey here.
+That object doesn&apos;t fit in an inventory!
+*The happy cub ambles away.*
+My prince!
+*You&apos;ve always felt there was satisfaction in a clean kill, certainly.*
+Forest - Deep Forest B
+*Explain that you&apos;ve made it to the Hall of Echoes, but you don&apos;t have enough Source to complete the ritual.*
+*As the squirrel speaks, one fat acorn plops out of it mouth and rolls onto the ground between you. The squirrel&apos;s eyes go wide as its mouth.*
+What? Please. This is no time for dark humour.
+[1] regained [2] using vampiric means...
+Time. Is. &lt;i&gt;Now!&lt;/i&gt;
+*Step away. This matter is no concern of yours.*
+Who knows, you might even be a god by then! Gods can talk to trees, can&apos;t they? We&apos;ll chat!
+You see those tentacles, kid? It&apos;s time for gettin&apos; the hell &lt;i&gt;out &lt;/i&gt;of here.
+Looks like the Magisters have been digging this place up something furious.
+Ahem! That is private - &lt;i&gt;private I say!&lt;/i&gt; Only I and my, eh, select friends may enter there. Please leave. &lt;i&gt;Immediately&lt;/i&gt;.
+It&apos;s possible the dwarves sent for you - although I suspect they would struggle to find salt in the sea, so I highly doubt it - while the Magisters would see you ground to dust.
+They grew strong once more, amidst the trees of the re-grown home forest.
+Are you going to traipse about this place for an aeon? FREE ME.
+You callous... I&apos;ll not let you get away with such insolence!
+Magical Iron Helmet
+The Divine is dead. Voidwoken haunt the night. Do you think I would let my people - our people - suffer so deeply without intervening?
+Now that I am clear of mind and free of - intruders - I&apos;m wondering if it isn&apos;t time to share my learnings with the less enlightened. And to that end, I have a few ideas worth considering.
+Make a Brave Face of It
+*The dragon calls for you. It&apos;s as if it can tell what&apos;s ahead. It wants to be there; to do battle.*
+All this ancient squabbling doesn&apos;t sound like any of my business. I know what I came here to do.
+The battle for divinity is about to begin in earnest. The other gods and their chosen will try to outflank us just like we must outflank them.
+You feel it, don&apos;t you? It&apos;s so... still. But there&apos;s something behind it, too. Like a thunderclap waiting to fall.
+Satisfaction? If that&apos;s a euphemism for what I think it is, I&apos;ll say it and say it again: abstinence and chastity, them&apos;s the twin roads to a long and happy life. You mark my words!
+He has been watching you. You have his interest.
+*Say his path to the Hall shall be paved by his own rhymes. It is through poetry that he can be saved.*
+*Forget it. You&apos;d rather talk about something else.*
+Quality Preset:
+We ventured on, the warden still in the dark about the prisoners&apos; fate.
+With a sickening lurch you feel yourself... change. You feel isolated, trapped within the prison of your own form. The tendrils connecting you to the natural world have been severed. You realise that animals no longer view you as a friend.
+I see. Well, that&apos;s... That&apos;s good to hear.
+*Give her the Soul Jar marked &apos;Gratiana&apos;.*
+*The turtle looks up at you. Slowly. It looks down. Slowly. It looks back to you. Slowly.*
+Durability
+Grisha, the Philosophical One
+C&apos;mon, make yourself useful! There&apos;s got to be something you can do...
+Ship Lower Deck in High Waves 02
+Ifan, old boy! You&apos;re losing your bloody touch. Your mark, Alexandar, still draws breath.
+Zaleskar also told us that the Seekers are planning to capture a Magister warship named the Lady Vengeance in order to escape Reaper&apos;s Eye. It seems that is is our best hope of getting away from this island.
+To get past the statue of Lucian on the Path of Blood, we need a Source amulet and the Scroll of Atonement.
+Those tinkerers all look the same - scruffy, gold-hungry, sly wretches. This one has a grey beard and a dark cloak according to reports.
+Hello, sailor. Hello, Marcus. The spirits have left your mind, but they haunt you still. How long since you left the Isle of Mists?
+You already blew your chance to do the right thing. You&apos;re done, Windego!
+I came here looking for weapons. Powerful ones. Wicked ones, may Lucian forgive me. Weapons that will clear a path to Dallis&apos; flagship.
+It doesn&apos;t matter, Lohse. It doesn&apos;t matter who I &lt;i&gt;was&lt;/i&gt;. It doesn&apos;t matter who &lt;i&gt;you &lt;/i&gt;were. What matters is who we are now that we&apos;re together.
+Why, only a few days ago I was writhing in pain, having eaten from that rotten fish they dare sell on the market.
+*A hacking caw breaks free from his ebony beak. Those little button eyes seem to twinkle in the gloom.*
+Pointy things everywhere - how do you get out of this place?!
+[SCHOLAR] *Repeat the words the spirit spoke: &lt;i&gt;mamtehnem rnekt oood il!*&lt;/i&gt;
+*A smile breaks across his face.*
+I even stood guard of Mordus, when he were doing nothing but the queen&apos;s bidding. No wonder we came to this.
+I&apos;m suspicious. But go on. What happens next?
+Suspicious Hole
+Take this rope. It is a gift. It is common, but it helps you lift burdens.
+*Bid him continue.*
+Lift the feathers&apos; curse.
+The Gheist at the beach is dead.
+My dear sweet Marcus, I&apos;ve grown to trust you. More than I&apos;ve trusted anyone since...
+Bowstring
+Well, Quercus. If we are to save the world alone, I suppose we have better get back to it...
+Deer Talk
+I didn&apos;t lie! Oh no! I just asked you to trust me. And you did! The mistake is yours! Hahahahaha! And why would you care anyway? You came through it just fine. I&apos;ll even share the spoils...
+What is the Covenant?
+Almira
+Thanks for the service, Voidkiller. I&apos;ve friends alive and walking around &apos;cause of you.
+*The potion takes effect... but then your ear catches the faintest sound of angry whispers, and the bleeding suddenly intensifies. The Paladin clamps her hand over the wound in an effort to stem the flow of blood.*
+This note is soaked through with what can only be blood.
+The bell rings a warning and the tide is on the turn. And I without my compass!
+*Say the Divine Order has already deprived you of your freedom. What more do they want?*
+*He looks around at what was once his home.*
+Evasive Aura
+Gratiana sent us to find the Soul Jars in Braccus Rex&apos;s vault.
+Master Unlock
+Magical Maple Bow
+Look ahead, Godwoken. There&apos;s only so much the past can teach us.
+All that is known is they arrived with gold and left with the promise that people will die.
+Almandine
+*Tell her to be silent, or you&apos;ll silence her.*
+Ah. It&apos;s a quandary, you see. I&apos;m not exactly welcome in the Stonegarden. The servants that tend the graves, well... their master - this Ryker fellow - caught me nosing around. So he had them chase me off.
+Clever, clever. Yes, I am the Devourer. Reclaim my armour, and I will channel my power through you.
+*Nod.*
+*Say you&apos;re looking for an Inquisitor: a fighter who doesn&apos;t shy away from dabbling in the dark arts, and enjoys pummelling his enemies with a heavy two-handed hammer.*
+Very well, if you insist.
+I&apos;m g-glad you&apos;re back, Sir. We all are.
+Ha! You&apos;re as bad at lying as you are at not getting caught! A prison cell awaits!
+Don&apos;t speak his name. Gives me the willies.
+*Spoilsport.*
+*Before you can say a word, she pushes a bowl into your hands. Though you can&apos;t smell it, it certainly &lt;i&gt;looks&lt;/i&gt; like pumpkin.*
+We are victorious. All who opposed us are defeated.
+Don&apos;t think even Lohar can handle this one. I&apos;ll need t&apos;see the Queen. She&apos;ll want t&apos;know about Mordus. And about the heroine that killed &apos;im, of course.
+*Ryker closes his eyes and spreads his arms, then recites a series of syllables in the Eternal tongue.*
+*Remark on the sewer stench. This is an... unusual place for royalty to be holding court.*
+Neither the warmth of your touch nor the fire of your passion. I may as well have been shucking an oyster.
+*Agree he may well be right: his appearance makes him look slightly demonic after all.*
+Healed or not, I fight.
+*Say you got her message to return to the ship.*

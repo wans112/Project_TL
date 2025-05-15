@@ -1,0 +1,145 @@
+*Interject. Say you&apos;re a Sourcerer indeed, but none of the other Magisters in town felt the need to apprehend you.*
+*The presence within needs to grow, and it will show you how. But first, you must learn to protect yourself. You are not alone any longer.*
+Honour to Lucian, and to his chosen apostle.
+*Try to communicate. What has happened to it? How can you help?*
+The brooding gaze of a bearded man sears into your mind. Investigation of the plaque beneath shows this to be an artist&apos;s interpretation of Rhalic, one of the Seven.
+I have no illusions that history will look kindly upon me. My only goal is to guarantee that &lt;i&gt;someone&lt;/i&gt; should survive to write such histories.
+*The pocked and lichened statue gazes down from under a canopy of overgrown ivy. It has clearly been an age since the stone has been tended here. Tiny spiders run the length of the statue&apos;s outstretched arms.*
+Ah, Tir-Cendelius, worshipped by my people.
+...should you choose to. So let me rid you of the darkness and leave you with a decision greater than us all: the divinity or humanity of your soul.
+A vile-scented draught capable of dialling your speed down to &apos;tortoise&apos;.
+You&apos;re welcome to try, though I doubt it&apos;ll help.
+I&apos;ve killed many, but there are more. Free me. Free me, Godwoken! Release me and receive Lucian&apos;s favour. We&apos;re Godwoken, you and I. Practically brothers! Free me and we&apos;ll save Lucian from the traitors!
+Anytime, chief. Any time at all.
+*Hesitate. Tell him It&apos;s a terrible weight to place on one woman&apos;s shoulders.*
+Done with these hills, done with Voidwoken, and done with whatever rotten magic took my friends. I need a drink...
+There&apos;s a Swornbreaker scythe somewhere in the Kemm estate. It&apos;ll free me from the Covenant. I&apos;d be mortal, yes. But no longer a slave.
+Take care of yourself, Godwoken. I may not always be there to do it for you.
+*Heed the warning and step away.*
+Then there was a voice, promises of protection and power in kingdom come... I became sworn to the God King, but when I saw his followers - the vilest creatures one could conceive - I realised how poisoned his gifts would be.
+You and he possess a common foe. The power behind the Voidwoken has made our lives hell - so to speak - since the Divine Order unleashed Deathfog against the Black Ring and those darling woodland creatures.
+You wanna make chit-chat? The world&apos;s burning, and you&apos;re asking about the weather?
+Someone makes a real mess around here. I suspect it might be you...
+*He grins, and waves his hand dismissively.*
+Poor Marge. Hand it over. I&apos;ll take good care of Peeper. Poor thing is frightfully cold. Come here, little one!
+*This figurehead is dangerous - back away from it.*
+I... I&apos;m afraid you&apos;re going to accuse me of killing the mood, but... I need to talk to you about the Master.
+You speak the spell with brash ferocity, like I knew you would, my prince.
+*She peers at you through narrow eyes. Her next words do not pass her lips yet pierce your ears as if she&apos;d spoken them.*
+An electrical bolt falls from the sky, dealing [1] to characters in the area and setting Shocked status.
+*The glass is black... at first... but then a sickly haze begins to form, like sand upon a pond. The haze shimmers and becomes... a face. A wan-faced stranger looking straight at you.*
+*You turn away and mark the location on your map.*
+Use th&apos; best wood I can find. Good rosewood ain&apos;t too common, but lutes made from it croon like songbirds.
+I guess this means I can leave.
+*The spirit breathes a spooky sigh.*
+*The poet tips his floppy hat to you as he counts the coin you handed over.*
+You have freed me again. I won&apos;t forget. This I promise.
+*Ask what he means by &apos;lost&apos; exactly.*
+I will. Once I have my answers...
+Bone Pile
+Well, lookit that! Nice o&apos; you to finish the job after I - erm - loosened &apos;er up.
+I&apos;m a wealthy man, and wealthy men need protection, especially if they &lt;i&gt;accompany&lt;/i&gt; their wealth.
+Balance Offer
+Provoke Skillbook
+Because I have the upper hand. This is my territory. I saw the end of Arhu here. I&apos;ll see the end of the Godwoken too.
+I&apos;m better than yo-ou, I&apos;m better than yo-ou!
+*Your god told you there can be only &lt;i&gt;one&lt;/i&gt;. She said you&apos;ll eventually need to turn on each other...*
+Spirit of White Magister Kari
+Focus on your breathing, Jules... slow and deep.
+*Ask aloud: Who&apos;s there?*
+The password is &apos;fortitude&apos;.
+*You sigh...*
+*Say you came across Gareth not too long ago. He was having some trouble with an old friend of his - Jonathan, by name.*
+*The young girl&apos;s eyes are covered, but she turns toward you when you approach. She smiles as though she recognises you, though she couldn&apos;t have seen your face.*
+Pike
+Party Management
+*Say you seek your own destiny. Let each dwarf map his own.*
+And you, the Red Prince, the Lizard Divine.
+Projectile(s)
+*He struggles to his feet.*
+Wha- what&apos;s tha&apos;? Here, no - get back! Get away from me, yeh demon!
+This is relieving news on the most difficult of days.
+Escaped?! H-hold still. I need to... I need to apprehend you!
+Hm. You don&apos;t look very divine to me. What are you waiting for?
+Something&apos;s off about this one. Let&apos;s make sure he can do no harm.
+Besides, he was seen with the effects of one of our company. I dread to think how he came about them.
+*The dog growls and bares its teeth at you in a wide, unsettling grin. You swear you see a worm emerge from its gray-pink gums, then burrow back in.*
+Oh Leya, yeh sweet girl. I&apos;m sorry. I&apos;m so sorry...
+Someone had themselves a ball. Let&apos;s find out if they&apos;ll dance with us as well.
+*The older-looking Magister notices your presence and does a double-take. He squints and peers at you closely before shaking his head.*
+*Tell him that his disloyalty to the God King has its consequences. He&apos;ll just have to live - or not live - with them.*
+The Advocate revealed the name of the ancient entity controlling the Voidwoken. The words &apos;God King&apos; caused a Voidwoken attack.
+I hope you love your bell, my friend. Its chimes help you find what you seek. Or help what you seek find you!
+The Seeker Gareth has a comrade who can remove my Source collar.
+You cannot stand against the Shriekers. Not without stronger weapons than these.
+You&apos;ve got skill, my friend. Let&apos;s focus it on a righteous cause, shall we?
+This archer&apos;s guide is bound with fletching leather.&lt;br&gt;&lt;br&gt;It is a compendium of exquisite drawings detailing how to craft a variety of innovative and unusual arrows.&lt;br&gt;&lt;br&gt;Scrawled in the margins, you notice a handwrittern note, underlined thrice:&lt;br&gt;REMEMBER: POINT THE SHARP BIT TOWARDS THE ENEMY!&lt;br&gt;
+Press [IE_ToggleCharacterPane] to access your &lt;font color=&quot;008858&quot;&gt;Character Pane.&lt;/font&gt;
+*Any lingering cheer in the spirit&apos;s expression vanishes in an instant.*
+*The love-making. Say that&apos;s what you were jealous of.*
+[FANE] *Transactional or not, the idea of &apos;friendship&apos; does sound appealing...*
+Squeak! &lt;i&gt;Sqquuueak!!!&lt;/i&gt;
+A fella can&apos;t hear himself think with all this racket! Day and night she hollers after that child!
+Nothing&apos;s changed, but for our surroundings. We&apos;re still on an island, in dire need of making for the mainland.
+*Ask what the Queen has to do with any of this.*
+*Her lip wobbles. Big fat tears leak out of the corners of her eyes.*
+Firelamp
+Without &lt;i&gt;me&lt;/i&gt;, you would&apos;ve died in a shipwreck before you even got to Fort Joy. I have been good to you, Lohse. Remember that.
+Breath from the Depths
+*Tell her you&apos;ll never forget her.*
+Oh, you want a list?
+You look almost exactly like every other creature of your race. Doubly so, now that you&apos;re dead.
+House Interior - Several Rooms
+Poison Summon
+Traitor! I&apos;m coming for you!
+The loser, well...
+Why on earth would I do that? I have reading to do.
+The Lady Amadia has laid out the plight of the world and begged me to help fix it.
+*Scoff and say you&apos;re most likely nothing but an aberration.*
+Get your damn dirty claws off me!
+*A senior Paladin sits hunched over a tattered map. He registers your presence. Sits back in his chair. Taps his fingers on the map.*
+*The nurse gives you a mischievious little grin. Black liquid trickles slowly from the corner of his mouth.*
+*The parchment stares back.*
+The demon-hunter Jahan asked us to kill the demonic &apos;Advocate&apos; on Bloodmoon Island.
+Isn&apos;t it obvious? Some thoughtless fool buried me in this grave, like some common human! I can&apos;t be at peace in a place like this; I have to be put to rest according to lizard tradition!
+*She eagerly returns your kiss, long and sweet as rosewater.*
+[1] joined!
+I am an assassin of ants and crucifier of crickets. All rodents bow before me. So do lesser beasts. Like dwarves, for instance.
+Rainbow
+Thanks for your time. Keep your wits about you. It&apos;s easy to find trouble, even when you aren&apos;t looking for it.
+A grenade that magically induces seismicity, causing [1] to all within a [2] range.
+With Justinia dead, the dwarven kingdom descended into chaos. They did not join the Divine Alliance. When the demons came, the dwarves were ill-prepared. Few survived.
+*She kisses you gently. Then, as your mouths open, a dalliance of tongues.*
+DAMN YOU! I&apos;ll flay you alive! I&apos;ll flense the blubber from your bones!
+Egg! Biggy egg, pretty egg! Live, live, live.
+*Tell him he can go.*
+*Ask how he remains so proud while imprisoned like this.*
+*Explore the spirit&apos;s memories.*
+&lt;i&gt;They&lt;/i&gt; didn&apos;t kill anybody! The Magisters who control them did! You know Donna... she wouldn&apos;t hurt a fly. Not until they turned her...
+*Reach for your weapon. Gareth wants him dead - and you&apos;re happy to make it happen.*
+We&apos;re as right as rain, aren&apos;t we. Right as rain!
+Be wary... death hangs in the air.
+*Step aside.*
+*Its urgency echoes within your mind as it compels you: &lt;i&gt;&apos;Seek a shrine, seek me!&apos;*&lt;/i&gt;
+But be warned - bypassing Lucian&apos;s statue is just the beginning. I may be able to forewarn you of the dangers you&apos;ll face, but you must still face them.
+Just another parasite, then. We&apos;ll get to you once the witch is dealt with.
+Higba provided us with some information about powerful Sourcerers - the kind who might be able to help us.
+*Divine? Ask him if he intends you to replace him.*
+Bye-bye, mister lady missus.
+Your comrade is not free to fight. You wait. Then you fight.
+He keeps it locked away somewhere in that mansion of his. A masterpiece like that should be on public display for all to see!
+I killed him slow. Preserves the flavour.
+Straffan&apos;s the one you want - he isn&apos;t to be tangled with lightly.
+Then your book is shite.
+The Mother Tree believes that elvendom can only survive by winning a war to end all wars. When Lucian attacked the elves with the Deathfog he was trying to prevent this greater war.
+Save
+Douse the flames. HURRY!
+The Shadow Prince
+*Announce that you have your proof - her little note gave her away. Now you&apos;re going to put an end to her misdeeds.*
+That is your last mistake!
+Your comrade is not here. You bring them. Then you fight.
+I intend to spend the remainder of my days seeking to undo what you have done.
+*The spirit of another orc stands before you. But this one is formidably armoured and extraordinarily &lt;i&gt;angry.*&lt;/i&gt;
+*Wonder why he entrusts you with this power. You are no-one special.*
+You&apos;ve helped us a great deal today. I... nearly lost my father forever. Thank you.
+I see. You have my thanks for that. You did us a great service.

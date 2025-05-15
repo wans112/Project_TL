@@ -1,0 +1,154 @@
+*Shake your head. He doesn&apos;t remember anything?*
+*He winces and recoils, then quickly regains his composure.*
+The potion is of no use to anyone else.
+*Say you&apos;ve heard of her. You met her son Barin across the river.*
+You have to understand; Lucian&apos;s Deathfog &lt;i&gt;broke &lt;/i&gt;us - we were left defeated, leaderless... and then the God King started to speak to us. He offered victory, immortality... anything we desired, in exchange for loyalty. How could we refuse?
+*Say nothing, but look him over once before leaving. You may want to find him again inside Fort Joy.*
+Perhaps, but you didn&apos;t. I did. And I shall have to live with that - well, for eternity.
+*Scornfully respond that it doesn&apos;t look all that good to you - more ignominious and in service of nothing.*
+*The spirit howls in excruciating agony, trapped in the moment of her death. The Voidwoken are attacking, the dreamers are escaping, and she is burning alive.*
+We&apos;ve delivered Mummie Dearest&apos;s head.
+Very well. I think five percent should be more than enough compensation.
+Come. Let&apos;s find ourselves a quiet spot, shall we?
+You. Must. Go. To. The. Library.
+*His eyes burn into yours. You feel the hot flood of his hate, his rage, his madness... and you know the Black Ring are now sworn to see you dead. The mirror fades to black.*
+*His head stays bowed, his eyes stay closed. His lips move in silent prayer.*
+*Sebille falls forward into Tovah&apos;s arms. She pushes her back with rude force.*
+Hazy Ruby
+The souls of the cold-hearted lie ever frozen in ice, alive but not alive, in death as in life. You know yourself well, &lt;i&gt;Red Prince of the Ancient Empire.&lt;/i&gt;
+High quality textures are not supported by your system specs. This setting may result in an unstable system.
+*Ask what it&apos;s like, having so many voices in her head all the time.*
+*Why? Ask why the Master wanted you.*
+*Ask what sort of &apos;special means&apos; she&apos;s talking about.*
+*The little girl pays no attention to you. Instead, she keeps her head tilted upwards, eyes closed. She basks in the glow of the sun, humming happily to herself.*
+[DWARF] [OUTLAW] *Scoff. She&apos;s got naught to do but argue with a sister acting under orders?*
+[1] gives you [2]% Dodging while dual wielding.
+When the demons came,
+*Remark that you have an invitation to the wedding.*
+*Give up.*
+*Ask him about the Seekers: what are they?*
+Kill or resurrect target
+Turn water and blood surfaces into oil. Remove Stun and Shocked from characters.
+[DWARF] *Smile at him smugly and ask him if he&apos;s heard of the dwarven saying &apos;The bigger the man, the smaller the ego&apos;.*
+*His plight doesn&apos;t interest you. Take your leave.*
+Them that pay the bills a&apos;course! I&apos;ll be a rich man when you&apos;re six feet under!
+Ma made it back. See? Even &lt;i&gt;without &lt;/i&gt;your help. She&apos;s here! Thank the gods!
+*You&apos;re too large for this.*
+*Refuse to pay; it&apos;s fisticuffs time.*
+Virtue Token
+GrrrrrrrAWWWWWWR!
+*Say nothing. Take your leave.*
+That b...
+Lohar&apos;s Workstation
+You there!
+Forest Beetle
+Pipe
+*The child whispers: Papa? Are you there?&apos;*
+Then you shall rise as I descend. The future has come!
+*Keep on listening.*
+*Tell Leya that she&apos;s lucky to have such good friends, then take your leave.*
+Blessed branches, we&apos;ve returned! Every second we spent in that hellish place was a second the Great Acorn drew closer.
+*The black-toothed smile grows wider, scrunching his eyes to tiny dark pinpricks in his fleshy face.*
+*You hear a voice - soft and calm, yet laced with disappointment.*
+Yeh, boy. Say it loud &apos;n&apos; proud!
+Source makes for an excellent ally in matters of a demonic nature. Not only can Void seep through the Veil, but the beasts of Nemesis might similarly slip out of their own plane.
+&lt;i&gt;...i&apos;ll be back...&lt;/i&gt;
+*Think better of telling her the truth and say you were mistaken - you haven&apos;t seen him.*
+Search for a crate of citrus.
+*Very well.*
+*Say you fear you&apos;ve made a mistake.*
+Quite so. I suppose you too met with somewhat of a disappointment.
+They shall not stop &apos;til all the world&apos;s a waste...
+Wait, no - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA - !
+*Wonder where this Doctor lives.*
+Allows all player characters to talk to animals without having to spend a talent point. Also changes Pet Pal talent to grant maximum positive attitude in all conversations with animals.&lt;br&gt;&lt;br&gt;Note that this is a persistent modification that cannot be turned off once activated.
+Knife On A Stick
+Ready for this? I know I am.
+Small Chest
+Listen closely - it is vitally important that I gain access to the Magisters&apos; cave excavation in the nearby Blackpits.
+We destroyed the Shriekers.
+*...then goes back to sleep.*
+Paladin DeSelby
+Hired Pyromancer
+Insolent corpse! Thou wilt not turn thy spine to me.
+By sneaking into my cellar? I think not.
+Ca...caw...
+&lt;i&gt;HAHAHAHAHAHAHAHA!&lt;/i&gt;
+The blade is thirsty. Now, what can I do you for?
+Heh. Yeah. Boss is awful passionate about... citrus. Can&apos;t get enough of the stuff.
+Goodness me, that temper of yours!
+[VILLAIN] *Whisper in his ear - tell him it&apos;s Lucian&apos;s Day, and Arx is covered in Deathfog. Everyone is dead.*
+*Say he ought to enlighten you as to what he means before making any assumptions.*
+There are enemies ahead! Press [IE_ShowSneakCones] to see the enemies&apos; &lt;font color=&quot;008858&quot;&gt;sight range&lt;/font&gt;. When you enter their sight range, combat will start. You can try sneaking around by pressing [IE_ToggleSneak].
+One of us&apos;ll ascend soon, and... well, there&apos;s only one Divinity. We&apos;ve got choices t&apos;make. And we can&apos;t put &apos;em off forever.
+Such tragedy. Such pain. So many avoidable deaths - at a time when we should fight united against the Voidwoken. But... the Magisters brought their destruction on themselves.
+*Beryl hums a few random notes - just a few. But in those notes, you discern a crumb of hope.*
+*The bard&apos;s fear has turned to peace. He is as still as before, but the fog has lifted.*
+*Squeak!* Me mate Fnurd once nabbed a seed that had fallen on Mummie Dearest&apos;s trunk-chest-thing. He was never the same after that. I guess losin&apos; &apos;alf your face does something to a guy. Or so me mam says.
+Fiery Malediction
+Reconstruct the Swornbreaker.
+As far as I know Lohar is still alive after all, even though we talked about... changing that.
+Lord Arhu &lt;i&gt;must &lt;/i&gt;be found - keep watch for anything suspicious.
+Carpet
+The Pawn
+*Place your hand on the log.*
+My word, you do seem a bit befuddled, don&apos;t you? Perhaps I was a bit too generous with that sedative...
+Delicious. My respects for thwarting his desires. And now, to business...
+*Search the spirit&apos;s memories.*
+Wh... What are you doing. What is this?!
+Not sure how much longer I&apos;ll be here, but if you&apos;ve a need of supplies, let me know.
+A new Divine ascended.
+But listen to me going on and on even though you told me you haven&apos;t the time to break bread with us! Forgive me: I shan&apos;t keep you a moment longer. Farewell, milady!
+Your Wits have increased!
+You might be able to teleport but you&apos;re sorely lacking for manners - don&apos;t just teleport away while I&apos;m talking to you!
+Master, I hope you approve.
+*A symbol materializes above you: a broad arrowhead made of flames.*
+Jahan is dead.
+*Sallow, pathetic and weak, tries to summon his powers of speech... but cannot. A feeling washes from him, loud and perfectly clear: &apos;     F     R     E     E           M     E     &apos;. And then an ominous rumble begins...*
+Greetings, stranger. Looking to ease the pain of a decaying world? You&apos;re in the right place. Beers are ordered at the bar, but can I interest you in a nourishing bowl of stew?
+Say your prayers.
+That voice is the only thing that soothes this horrific numbness. It&apos;s inside my creation, waiting.
+But... I do appreciate the sentiment.
+Potion Of Nimble Tumble
+*Roll your eyes and say you&apos;re ever so sorry.*
+[BEAST] *Tell him that you found evidence of Deathfog in the cave. Is &lt;i&gt;that&lt;/i&gt; what the queen is up to?*
+Well, go on then! Don&apos;t let &lt;i&gt;me &lt;/i&gt;stop you.
+*The tendrils of his mind snap about yours, but they do not probe. A single thought appears to you - he wants to know why you&apos;re still here.*
+Strike at the Heart
+That right? I always knew &lt;i&gt;you&apos;d&lt;/i&gt; turn out rotten, ben-Mezd.
+*Ask what she knows about her daughter&apos;s disappearance.*
+They were little more than local barons, until Fane the Traitor found the Veil. In their greed the Seven tore its fabric. This gave them power. It made them gods. And it let the Void into the world, and saw &lt;i&gt;us &lt;/i&gt;banished to its clutches.
+Anisotropic 16x
+QUIT
+*He holds out his hand expectantly.*
+Ceremonial Sword
+A madly-scribbled journal with pages folded and re-folded in obsessive origami patterns.
+Xhaxh&apos;s Cache
+I know your type - and you have no code. You blindly ricochet from one conflict to the next, stirring the pot while scolding the virtuous. You pretend to have honour. But you&apos;re a fraud.
+Sculpted as a phoenix rising from the ashes, a bright glow emanates from the runes carved on this idol. Upon the base is etched &apos;Fear not death while flame burns in my heart&apos;.
+I respect your mettle, Sourcerers. You steal my ship, kill my bishop, and ally with demons. But you have no idea what you&apos;re really dealing with.
+*Must have known what? Ask what&apos;s behind that door.*
+IA IA SJADHA NAGA! IA UR TRA DAGA!
+*You embrace and at long last you become one - the Red Prince and the Red Princess. A coupling aeons in the making, as world-moving as it is quietly intimate, here in a lone cave in a lone spot, in the vast realm of dreams.*
+*She places one hand on your head, encouraging your kisses, and as she does so, the other slides down in between your legs.*
+*Say you&apos;d be honoured to have his counsel.*
+However, if you let me down, I believe I have the relics we need to help you progress. &lt;i&gt;If &lt;/i&gt;you let me down.
+Back for more? Who could blame you.
+Nothing as fragrant as an open sewer, hey?
+*Raedalus went to see the Chancellor, and you have not seen him since. You&apos;re on your way to the Chancellor&apos;s chambers when a man&apos;s voice calls your name. Lucian the Divine cups your chin...*
+*The first light is still, almost humble. It seems to accept and understand what you must do.*
+I don&apos;t like being taken for a fool, thief. And now, you&apos;ll pay.
+Thank you. But I suppose you&apos;ve earned the right to know.
+*Pause. Deathfog? Is she talking about Deathfog?*
+Swann agreed to take us to his cellar and the sick young woman he was nursing there.
+Like a bear who protects her cubs, the Mother will tear apart predators that threaten the elves. People like the Shadow Prince fear bears. They will kill them even if they do no harm. Because they are afraid of the power of the bear.
+*Say you&apos;d like to browse his wares.*
+*Say that it means total responsibility to others.*
+My... my... You did it, merc - you brought us the Sourcerer, and oh does he stink!
+*He can&apos;t look you in the eye.*
+Well, it has been a privilege.
+This arrowhead is like an adorable lucky charm. It could make a powerful arrow. If, of course, you could be persuaded to part with it.
+*Say that many Seekers were lost that day. They cannot be forgotten.*
+A cheapskate as well as a killer? Things aren&apos;t looking so good for you, are they?
+Open the sleeping man&apos;s chest.
+Demon Caster Die

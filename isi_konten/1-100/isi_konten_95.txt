@@ -1,0 +1,151 @@
+[UNDEAD] *Muse at his response. You&apos;ve got all the time in the world, but aren&apos;t the richer for it.*
+*Say it was your pleasure to help. How&apos;s he holding up?*
+Search the Cullwoods.
+Blunt Shovel
+Ha! Of course you never found it. You always lacked imagination, &lt;i&gt;my lord&lt;/i&gt;.
+*Ask what Dallis did to him.*
+&apos;Here lies Carlyn Harkwood.&lt;br&gt;Daughter of Roland and Prudence.&lt;br&gt;Sister to Amelia, Farron, and Kniles.&lt;br&gt;Died mad of a terrible fever.&apos;
+By all means do as the officer says. But you had better hurry. Because...
+*Say that you don&apos;t want to consume his Source.*
+An oasis of horror in a desert of... well, also of horror.
+*Say you met her. Magisters were after her, but someone managed to help her get rid of them before it was too late.*
+Then you understand.  Good.
+Ain&apos;t used to seein&apos; elves &apos;round here. You real, or am I dreamin&apos;?
+&lt;i&gt;So it ends.&lt;/i&gt;
+You mustn&apos;t fail them.
+Thank you for your help! Marge would tell you herself, if she could.
+Magical Rune Dagger
+*She slumps, all bravado draining from her.*
+With Divinity at our fingertips, Dallis turned up and purged the Wellspring of Source. She left us to die as the island collapsed. Malady arrived in the nick of time.
+Conjure Incarnate Skillbook
+&lt;i&gt;Please.&lt;/i&gt;
+With the survival of our species at stake, is that a risk you&apos;re willing to take?
+There&apos;s a vandal on the loose. You know anything about it?
+*No Source can be drained from this spirit. It either has none to offer - or Ryker has found another use for it.*
+Blessings of the child Rhalic upon &lt;i&gt;you&lt;/i&gt;, my child.
+*Say you&apos;d like to challenge one of your comrades now.*
+Xhaxh&apos;s Phylactery
+*Shudder and agree.*
+My pockets can always use a bit of padding. You got yourself a deal!
+Tir-Cendelius, the old father; the golden leaf - he wants me to become the next Divine.
+You needin&apos; supplies? I&apos;d stock up, if I were you. It&apos;s madness out there. Never seen anything like it.
+*The woman wrings the bloodstained rag in her hands anxiously.*
+You wouldn&apos;t want to do a thing like that.
+*Tell her to go on.*
+Competition is inevitable, Marcus. Failure is not. We are strong. We must rise. &lt;i&gt;You &lt;/i&gt;must lead us.
+Grave news. Lord Arhu has died.
+*The light draws you forward. If you can reach it, something will happen. You know something will happen, if you can only reach it.*
+Now that you&apos;ve served your purpose though, you and I have a problem. You&apos;ve clearly relinquished your duties by running away from your rightful Master: a crime punishable by death.
+But the King has asked of you. He sees your pain. He sees what they have done to you. You too have suffered at the hands of the Seven. He offers you his help. And when he returns...
+But now, now I can feel the promise of change whisper on the wind. I can feel the sun on my face, urging me to grow.
+Please.
+*The petrified woman cannot speak, but her eyes glow with the fury of the sun.*
+Oh, Godwoken. I do tend to overestimate you, don&apos;t I? I can&apos;t restore Anathema if you don&apos;t bring me both the blade and the shaft. Two halves make a whole. It&apos;s simple maths, really.
+Get out me sight, ye bilge-drenched vermin.
+*Tell him you&apos;re no errand girl. Demand to be paid now or say you&apos;ll tell the guards what he did.*
+You and I are unique in all the world. You&apos;ll see. I&apos;ll show you.
+What?! Are you crazy? If Malady found out something that could help me, I sure as hell want to hear it!
+Oh, you&apos;re not fooling &lt;i&gt;me!&lt;/i&gt; Play the barbarian all you like - I can sense that you have well-developed charm faculties. Bravo!
+Actions
+But the universe is always there. The laws that govern your states change over centuries, but the laws of the world?
+*Ifan walks back to you, leaving the quivering wreck of a Magister behind. When he catches your eye, he &lt;i&gt;winks.*&lt;/i&gt;
+*The nurse spots you, then abruptly averts his gaze with a scowl.*
+Yes... - no! Hush your lies. I... must know your truth. Your purpose.
+I guess it&apos;s time to start on some new material.
+Yes. I see. I have become a slave, and -
+Crafted Scale Armour
+[RED PRINCE] *Narrow your eyes. He could call you &apos;the Red Prince&apos;.
+Ah! I see you appreciate learning... maybe you&apos;d be willing to help me; I need to study the effects of eating these fish - &lt;i&gt;firsthand. &lt;/i&gt;I need a volunteer...
+[OUTLAW] *Play along, and declare you&apos;re the new royal jeweller, of course... you&apos;re to take away the Princess&apos;s crown and sceptre for... polishing.*
+The - the God King? The Void... of course.
+This cruelty is the truth your kind has made for yourselves, Source monster. If I must die, then I do so with a clear conscience.
+We left Reaper&apos;s Eye without helping Gareth.
+Painting of a Storm
+*The crying goes on for an uncomfortably long time. He recovers his composure. Looks down at the earth before him. Speaks quietly...*
+*Take a closer look at the lever.*
+Now if you&apos;ll recall, as per your own testimony you&apos;ve no culinary skills, you lack a sense of fashion and you&apos;ve little or no regard for personal hygiene. A damning assessment if ever there was one.
+&lt;i&gt; . . .&lt;br&gt;W E&lt;br&gt;E A T&lt;br&gt;T H E&lt;br&gt;W O R L D .&lt;/i&gt;
+It&apos;s what we do next that defines us. We can respond with treachery. Or we can rise above.
+D&apos;yeh mind? I&apos;m trying to wake from this nightmare, not swing my gab with you.
+A quill. A book. My coat. This is what remains to me. All else, he took. &lt;br&gt;Braccus Rex.&lt;br&gt;&lt;br&gt;My Soul Jar&apos;s all he has over me. My hat, my boots... he&apos;ll never lay his dog&apos;s paws on those, so well have I hidden them.&lt;br&gt;&lt;br&gt;That power will be mine again. Those clothes the old tyrant gave me could bend even the most strong-willed to my whim. Have them again, will I. None will be my master. Certainly not the Source King.&lt;br&gt;&lt;br&gt;My ship waits in the old cove. Protected by my barb-tongued door. I need only wait, and not forget. Wait, and not forget.&lt;br&gt;High and hale waves take us.&lt;br&gt;High and hale waves take us.&lt;br&gt;High and hale waves take us.&lt;br&gt;High and hale waves take us.&lt;br&gt;High and hale waves take us.
+Cheese Bread Dough
+Need Level [1] [2] and an Identifying Glass to identify
+You&apos;re under arrest. And not for that ridiculous excuse, either!
+No Way Out
+Sparkle twinkle. Amby ale.
+*MEOW!*
+*Try to talk your way out of the situation.*
+My master has been troubled by the presence of the Void as it creeps ever forward. Encroaching on areas in which he himself once ruled supreme. None more so than this island.
+*Say that you&apos;re nobody important - you just stumbled upon this place.*
+That will not do.
+*Explain that you misspoke. You meant that there&apos;s no point to &lt;i&gt;anything&lt;/i&gt;, actually. Past, present, or future.*
+We&apos;ll turn the tides, my friend, Divine be praised!
+Demons
+It &lt;i&gt;is&lt;/i&gt; safe. But I advise you to leave it be - you&apos;d only be wasting your time to try and decipher it.
+Well now, hold on a minute!
+You want the pleasures of the flesh, in pain you get the pleasures of the flesh. All the pleasures. All the flesh.
+*Rhalic gazes at your stooped form, a contemptuous frown creasing his face.*
+*Push down.*
+Best place for it. Shall we go?
+Poisoned Fish
+*Say she seems perfectly sane, if distraught.*
+*Query him about the Hannag person he mentioned.*
+*Your hand breaks contact with the stone, jerking away as if burned. Your ragged breathing slowly steadies and you&apos;re back, floating above the Nameless Isle once more.*
+Flare
+*Tell him it means you don&apos;t want a killer in your party.*
+Dead Black Ring Warrior
+You think twice about facin&apos; this mean world alone, hey? Someone to drink to in the evenings, someone to hold at night... If you got those, you&apos;ll be alright.
+*Demand he leave you be.*
+I like your lute. Can I sell you a real one?
+*You feel the Source inside you swell up, filling your chest, yearning to be free.*
+Well, then! You buy yourself a ticket to a prison cell.
+I m-must find it! This painting is my masterpiece, the one I&apos;ll be remembered for!
+*Look around and take in the scene around you.*
+Which is not exactly a winning excuse, is it?
+*A thought arrives from deep within. A single word. &lt;i&gt;&apos;Lies.&apos;*&lt;/i&gt;
+Any damage that this character deals is doubled.
+HELPER AMADIA TEMPLE - ICE
+*The nurse slinks right up to you and inhales deeply, then exhales with a sigh.*
+Just say the word, guv&apos;nor! What&apos;re ya after?
+Find Justinia&apos;s spies.
+*The disheveled lizard eyes you with hope, though her hope is tinged with mistrust.*
+*Take your leave*
+The bloody elf - is she still here?
+There could still be more to this than meets the eye... perhaps the Gods have some greater plan that is still unfolding...
+That won&apos;t do at all, see. I&apos;m sad to say I must deny you the opportunity to be my slave. Ever so sorry.
+*She mumbles to herself. Something about &apos;vile lizards&apos;.*
+Griff&apos;s Overpriced Drudanae
+Cur! After all this time you would still stab me in the back? You would have me destroy &lt;i&gt;my own children?&lt;/i&gt;
+*Tell her that you don&apos;t care about this primitive world - you just want to know where your people are.*
+The sovereign I served sent me to confront the Outlaw Empress, a dangerous cult leader following the Devourer.
+If you&apos;re just a person, you&apos;re one of the smallest I&apos;ve ever seen.
+[BARBARIAN] *Smile at him.*
+Bring me the flesh.
+*Explain that you just need to ask him a few questions.*
+By my scales, Tamsyn - &lt;i&gt;must &lt;/i&gt;you go on? Braccus locked my inventions away with your toys. Had I but one of my creations, we should be free of this place.
+*The sadness in his face fades, to be replaced by a hard look. He produces, in one hand, a dagger.*
+[DWARF] *Scoff at him. Exactly what was the queen doing that required rebelling?*
+*A look of horror floods the spirit&apos;s features, then she is gone.*
+Crib
+You sound like a Paladin. Very righteous, isn&apos;t that right? Well, good for you, I reckon.
+Knitted Gloves
+Basic decency is none to common in modern Rivellon, though I needn&apos;t tell you this. Still - a shame that such a capable man would pursue matters so... vile.
+Excellent, follow me. Your time is at hand, Godwoken.
+*Say you&apos;re sorry about leaving her behind back on the sinking ship.*
+The King hath made His Covenant; you shall be reborn. &lt;i&gt;Accept, and be welcome in our world.&lt;/i&gt;
+The amulet is charged with Source.
+[RED PRINCE] *There was a woman with red skin up in that room. Ask how he knows her! Where did she go?*
+*The rat looks guilty.*
+We left the island without finding the secret vault.
+Ah. Good, yes, let&apos;s get right to the heart of why we&apos;re here - and where &lt;i&gt;here &lt;/i&gt;is.
+I&apos;m going to enjoy this...
+*I asked what he knew of this island.*
+*Tell her you are. You feel better than you have in some time.*
+Dallis came to the Cathedral? I certainly haven&apos;t seen her - and I&apos;d remember if I had. Does &lt;i&gt;she &lt;/i&gt;have something to do with this?
+We in ritual. You not enter. You go away.
+...to roaring and courtship rituals? But that&apos;s not my favourite part. Ahem. And I quote:
+Disillusioned with the rising chaos, he set out alone to find a new purpose.
+Protected by the Shadow Prince&apos;s Magic, this crate is jam-packed with Deathfog and explosives. Can only be detonated on the Shadow Prince&apos;s command.
+ground dangers.
+Misery&apos;s Mirror
+*You tremble...*

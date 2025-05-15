@@ -1,0 +1,147 @@
+But it would be remiss of me to not help someone with such... natural talents. One last lesson in finesse, perhaps, to aid you on your journey.
+Hermit&apos;s Hideaway
+I suggested to Beast that we give Queen Justinia a second chance. He attacked me!
+Guards
+Your hesitance disappoints me, but just in case you cross its path, I will give you fair warning about the beast I stalk.
+*She bows her head in response - and keeps her head low.*
+Delete
+Exorcism&apos;s a tier three skill. I was only halfway through tier one when I got thrown in here.
+*Pay the statue no further notice. It is of no import to you.*
+Repair
+Please, my remains need to be burned in the Eternal Fire - I&apos;ve already asked for help, but the task is not yet done.
+*Turn to other matters.*
+*Squeak!* Well, look at you! Another jumbosaur here to join the circus, hmm?
+*Shrug your shoulders. The necromancers betrayed their king - they deserve everything they got.*
+Go on then. See if I care.
+*Say that it&apos;s clear he&apos;s up to more than merely gutting fish - what&apos;s his game?*
+*Be on your way. She&apos;ll figure things out one way or another.*
+Wax, black as coal. One of... Adramahlihk&apos;s? A single soul, a light snuffed out...
+You can do it! Come on!
+I snapped out of it before anyone got hurt, but the Magisters caught me backstage afterward.
+As are so many. But I am pleased to offer you sanctuary here.
+No no, we have no time for your fawning. We may be safe, but the world is not. Come, we must return to our research!
+Sturdy Coat
+*Say you saw it indeed, and it was a gruesome spectacle.*
+I&apos;ll be needed no more here. To the Halls, to tell eternal tales with my ancestors...
+*The spirit utters a sigh. Even after having parted from his body, he retains a heavy heart.*
+Set aside the ale and pay respects...
+Smells good, eh... smells sooooo good... can you smell it?
+Poison Dart
+Delete Folder
+*Inquire about the village. What&apos;s this place all about?*
+*The spirit of Alexandar looks bitterly dejected. He turns to you.*
+*Ask him who &apos;she&apos; is.*
+Hah. True enough. Boss&apos;d like you. You oughta go introduce yourself if you haven&apos;t met him yet. Griff&apos;s his name. Runs the kitchen.
+Deals [1] to each character in the area. At your command, poisonous worms slither up from the earth, attaching to every character in the area who is not protected by Magic Armour. Affected characters cannot move or teleport, and they receive poison damage each turn.
+*The memory hovers just beyond your grasp - and then is gone.*
+Ugh, that smell!
+We lost Lohse to her demon. The music is gone for good.
+*He says he&apos;s a prophet. What does he see in your future?*
+Grrraaarrghh...?
+Alexandar. I never did give him the Sallow Man&apos;s head.
+Oh... oh I do. And please, let&apos;s not be so formal. Down here, call me Jiji.
+I do now.
+*A man paces back and forth, puffing anxiously on a pipe. His face is creased with tiredness. The faint coppery hue of dried blood stains his hands. He sees you.*
+Oh - but you&apos;ve got everythin&apos; all planned out, I assume? You&apos;ll have to forgive me, Ifan, but when it comes to knowin&apos; about the workin&apos;s of a Divine mind, I ain&apos;t sure you&apos;re an expert. So spare me the lecture.
+*The man glances down at the pipe dangling from his mouth, and gives a weary shrug.*
+*Wonder about the Devourer&apos;s grudge against Zorl-Stissa.*
+*Produce the tablet and hand it over.*
+*Leya shrieks, pushing herself away from you.*
+The Deathfog was not just a murder-bomb, but a tool. A tool for sowing discord, a tool for pitting the Order against the dwarven kingdom. A tool for ridding us of those who would see us fail - every race, every creed, and every claimant to the title of Divine.
+The crew was fighting amongst themselves - tearing each other apart! They had these pitch black eyes and fought like demons.
+Zapor&apos;s Third Mate
+Exiled from the Ancient Empire, the &apos;Red Prince&apos; makes for Driftwood, searching for a lizard dreamer. We shall travel together.
+*Observe that he&apos;s quite serene for someone that just saw his daughter die.*
+We need teachers in the ways of the Source. The Magisters keep a list of powerful Sourcerers in the region. They may be able to help us.
+*Turn and take your leave.*
+Well. There&apos;s still time.
+*Tell the snot-nosed little tyke to stop her snivelling!*
+Why, I... I wouldn&apos;t do it for an entire bag of gold coins! ([GEN_CheckMagicPocketGold_3_01f129ea-b4dc-44b6-8154-9a948f876a82])
+*Smile and say that you haven&apos;t had the pleasure, but you&apos;ll let them know if you find him.*
+And you cannot unsee it. Come here... there&apos;s no need for this to be more painful than it has to be...
+&apos;ey up, the Beast is back!
+*You&apos;ve been told that there can be only &lt;i&gt;one&lt;/i&gt;. You&apos;ve been told that you&apos;ll eventually need to turn on each other...*
+That&apos;s just bloody lovely, that is! I hope you die of a long and horrible disease involving lots of pain and an appalling odour! Goddamned pig&apos;s daughter!
+*Once Magister, now lost soul. He swivels his head, getting his bearings. He sees you and moves to speak, but no sound emerges.*
+Ranger
+Somewhere better than here, maybe.
+*The crazed Lone Wolf spirit screams and does not stop.*
+To the Fort
+...Godwoken?
+That sounds... positive. I thank you for your kindness. I shall pray for my kin&apos;s deliverance.
+[MYSTIC] *Tell him he is already his own Master, free and strong. But if he seeks a &lt;i&gt;friend...&lt;/i&gt; so do you.*
+Wolf Howl
+I see the good in you, ben-Mezd. We are betrayed, and so we fight... &lt;i&gt;and so must you.&lt;/i&gt;
+The Scion Sebille betrays us. The end of the elves draws near. The Scion must change her mind. The Scion must change her mind.
+So your god seemed uncharacteristically frightened, then said the Void was coming. And then you felt a cold, deep within you.
+I cannot let that happen to Rivellon, and I alone have the magical expertise to stop them!
+Carriage Chest Key
+Hole
+Aside from putting right every injustice in the world? You will have the powers of Divinity.
+*Say you met one such child. He didn&apos;t seem to think he was being helped at all.*
+Entangling Breath
+Tutorial Messages
+*Ask the owls what they do here.*
+Brazier
+How does it feel? All that power?
+I meant to summon an imp or two. Instead, I ended up hosting a damned arch-demon.
+Oh.
+It&apos;s no use... the flames return... they always return... yaaarggh!
+The Red Prince continues his search. Brahmos the Wanderer awaits him in Driftwood.
+While we are conversing: perhaps you noticed that I am rather skilled in... well, &lt;i&gt;all &lt;/i&gt;things.
+*Smile and tell him that this is enough. It&apos;s enough to be together.*
+I&apos;ve got no patience for scroungers and such. Let&apos;s end this.
+When I see the flame, I&apos;m putting it out. I&apos;ve got the problem hanging over there...
+You seem on edge, officer. What on earth is the matter?
+They carved the Urwood up and the forests shrank and shrank. None of the original wood remains.
+[BARBARIAN] *Scowl and wonder why anyone would keep such a useless, &lt;i&gt;sickly &lt;/i&gt;creature around. It doesn&apos;t even look fit for the cooking pot.*
+*You dress. Sebille fishes some dice from her pocket.*
+*Stand back and watch.*
+By Lucian&apos;s beard! Our brothers are under fire and they want us to withdraw? Very well, I&apos;m sure the Hammer has her reasons...
+You look for a fight!
+When the Sourcerer went mad, only those who could flee were spared a terrible death. The fleet-footed Shadowblade escaped, but the rest of the village did not.   As a wandering orphan, thieves, beggars, pirates, and murderers taught the Shadowblade that man was no more than a beast, and the laws of nature were simple: Kill or be killed; eat or go hungry.   But a survivor among survivors needed an advantage. Posing as the child of nobleman, it was almost easy to gain access to the Academy of the Source Hunters. Here the most elite secrets of magic were offered freely, and the Shadowblade perfected them all.  By the time the ruse was discovered, it was too late. The academy had a prized pupil, and the Shadowblade had found that hunting Sourcerers satisfied the soul better than picking pockets. Usually.
+Poison Wave
+*Say that you are its master reincarnate - returned to claim your goods.*
+*The dog shies away as you approach.*
+Poor little meat puppet still thinks she&apos;s a real girl. Tell me, what&apos;s it feel like to have something so deep inside you it can bugger your &lt;i&gt;soul?&lt;/i&gt;
+*All that she has worked for is lost. She is overtaken by a cold and terrible fury.*
+No-one cares where I go. They know I can&apos;t leave the island. It&apos;s nicer out here than inside, anyway.
+On your way then. I have steel to sharpen.
+Dragonchild
+Well... before whatever happened happened.
+Disrespect be damned! I have a whole mischief of rats to feed - half of them still pups!
+We can&apos;t leave yet. Your companions - they, too, must speak with me. There can be no... mistakes.
+I&apos;m not unhappy here! I&apos;m not desperate for the sweet release of death! I don&apos;t want to sleep forever in the pure truth of death! Don&apos;t help me!
+That is my sole condition. Until the next clue, of course.
+Mackerel
+*He nods. You turn away.*
+Charms a target.
+I pledge my heart, O Lucian. Please return.
+For what I truly am is the House of Shadows itself. That is my role and my purpose: I see the great games in motion: allow them their flux when they advance for good, cut them short when they advance for evil - even if that means &lt;i&gt;doing &lt;/i&gt;evil.
+The warrior known as &apos;The Watcher&apos; sent us to the dwarven temple kill the accursed Knight of Duna.
+Hmph. Good to hear &lt;i&gt;someone &lt;/i&gt;cares about our missing uniforms. If we don&apos;t find the culprit soon, I fear we&apos;ll lose another good recruit.
+*Give him an easy smile and tell him you&apos;ve seen his future - and now is a really good time to re-evaluate his career choices.*
+Oft-used Paladin Shield
+You got it! Everybody better watch out... Han&apos;ll getcha if you come to close. But you better believe the bill for &lt;i&gt;that &lt;/i&gt;will be a doozy!&lt;br&gt;
+All you have to do is look into my ring and tell me what you see there.
+*He can&apos;t stop &lt;i&gt;you&lt;/i&gt;. Consume Kinnet&apos;s Source.*
+ZZT!
+*Say he must have you confused with someone else.*
+*Wince and tell her that you understand.*
+[SOLDIER] *Say that the business of death belongs only in times of war.*
+Well, &lt;i&gt;rava&lt;/i&gt;. At some point, long ago, I decided poetry had but two purposes: to quicken the peoples&apos; river of tears, or to stave them.
+Seek out the altars, Godwoken. The Void does not wait - it only devours.
+My, my, Red Prince! How you positively brim with Source. No wonder, after all the adventures you have had; all the things you&apos;ve had to do...
+Never heard a man scream like that before...
+*Consume the spirit&apos;s Source.*
+Here, missus! Alexandar doesn&apos;t have to stay dead, does - HEY! Are you an &lt;i&gt;elf?&lt;/i&gt;
+Chest is ours! Get lost!
+*Rhalic? Seven lords? Is she talking about the Gods?*
+That hatred has been simmering for years. The Paladins see the Magisters as a threat to &lt;i&gt;their &lt;/i&gt;Order. &apos;Pig farmers leading Lords&apos;, as they say.
+*Call for help.*
+Razzle Dazzle: The Engineer&apos;s Approach
+*Shoot back that you don&apos;t give a damn about his investigation.*
+Dimensional Bolt
+*Ask what she remembers of Dallis.*
+One touch and I&apos;m... revitalised!
+I have been here for many years. It has given me a lot of time to... reflect on the past. And learn from it.

@@ -1,0 +1,149 @@
+*Tell her no: you walk alone, as you always have.*
+*He mentioned the Knights of Drey. Ask who exactly they are.*
+*The spirit thinks for a moment... then moves back from the Paladin.*
+Food! Mmm.
+Thinking? Yes, I&apos;s thinking. I&apos;s thinking you should o&apos;en the chest!
+You may see yourself out. Don&apos;t be a stranger. The Doctor will see you soon.
+*She&apos;s wrong. You shall.*
+Slane destroyed the Shriekers at the harbour.
+*Gareth hangs his head in shame.*
+Get up. And don&apos;t ever do that again.
+*Remark that maybe you&apos;re of demon lineage: that is what you were accused of after all.*
+But I&apos;ve no doubt you&apos;ll be seeing to that soon enough.
+You. You shouldn&apos;t have come here. Look what you did. For the death of my blood you&apos;ll shed yours.
+*An odd-looking young woman is staring intently at the statue to the Divine, fingers curled rigidly at her sides. Greyish-black veins run from her eyes down her cheeks.*
+There&apos;s nothing left I can do for you, Lohse. Nothing but feel sorry for you. And that I certainly do.
+*Sigh* You ought to have studied more.
+Ancient Technology
+Talents, by the way, that include seeing beyond that mask of yours. Not to worry, though. I am thoroughly charmed by your... uniqueness. I&apos;ve no intention of sharing your little secret.
+Karon told us that Lucian is alive and imprisoned by the Seekers beneath the Cathedral. He claims to know where.
+*Ask why a shrine to this goddess is in such a grim place.*
+[OUTLAW] *Hold up a gold coin. You pilfered this while she was talking. She can&apos;t be &lt;i&gt;that &lt;/i&gt;good...*
+Kemm&apos;s Vault
+*A wave of resentment washes from the spirit before you - an adult life spent in service is rewarded with a forgotten death, out here in the middle of nowhere.*
+Dwarven Worshipper
+The bodies... the smell of death! What &lt;i&gt;your &lt;/i&gt;kind calls a spring barbecue...
+Costly Amulet
+*The attempt is futile. Every inch of your body is useless, though your senses still register every sight, sound, and smell.*
+Possessed Elementalist
+I don&apos;t agree with everything he&apos;s done, but now that he knows the path to Divinity, he&apos;s our best chance of fighting off the Void.
+The demon feedsss... The demon feedsss from the Ring...
+I&apos;ve killed, you know, sir! I&apos;ve killed.
+Right where I want you...
+Care for a sneak peek into someone else&apos;s pockets? Enter sneak mode and &lt;font color=&quot;008858&quot;&gt;sneak behind them&lt;/font&gt; to try to pickpocket them.
+*You let your disguise slip for the briefest of moments, revealing a glimpse of the bone underneath, and smile.*
+Dragon&apos;s Mouth
+*It would be wise to meet with your god again by performing the Meistr&apos;s ritual, here or in Siva&apos;s vault.*
+Lever
+There are too many!&lt;i&gt; TOO MANY OF THEM!&lt;/i&gt;
+A little Sourcerer, come to play.
+*He struggles to focus his gaze upon you. A low moan escapes his cracked lips...*
+Sadha... I see.
+But what is more (and &lt;i&gt;far&lt;/i&gt; more serious this is too), is that you&apos;ve clearly relinquished your duties by running away from your rightful Master: a crime punishable by death.
+Know my name, do you. But I don&apos;t know yours.
+*Lash out. Bury your needle right in his eye.*
+*The priestess&apos; eyes glaze over and she shivers in fear.*
+*Ask what came between them that led to his murder.*
+*Admit that you&apos;re not sure. This whole journey hasn&apos;t turned out how you expected it to.*
+Natural Conductor
+I promise my servants are simple collections of bone and armour. I would not &lt;i&gt;dream&lt;/i&gt; of chaining the living. Why, the very idea is &lt;i&gt;despicable.&lt;/i&gt;
+*Tell the bull he should just enjoy his rest while he can.*
+*The dwarf&apos;s face twitches, flickering almost out of control. He looks into your eyes, gaze intense as a hurricane.*
+Find where the archeologist cut into the earth. I will draw strength from there to speak again.
+Really, you insult me now. This is about fellowship. About a shared world-view amongst devotees of strange and exhilarating experiences. Money is irrelevant.
+I need to talk to this one for a few moments. Alone.
+Ancient Empire Caravan
+*This flower speaks? Ask what it means about the Godwoken.*
+What I do here today ensures the survival of my house. It ensures the survival of my work. And I would not give a dog&apos;s bark for your opinions.
+As you wish!
+Elf Warrior
+*Tell him you&apos;re just a man, trying to survive.*
+*He says nothing, only twists his lip bitterly as he echoes pointing at the dead. Pointing at the dead, then pointing at you.*
+*She pours you yet another cup of tea with an elegant flourish. The pot is seemingly bottomless.*
+I&apos;m sorry, I&apos;m feeling very fragile and shall retire.
+Psst. Shortstop. Wanna buy some stuff? Wanna sell some stuff?
+What was dragon became lizard; what is lizard will become dragon once more, though many plot against us.
+Cannot reassign [1].&lt;br&gt;The character is in a dialogue.
+Maybe. Maybe not. If the queen goes down with Justinia, I won&apos;t be sheddin&apos; a tear, if it means my people are finally free.
+Bayknot
+*The unlit candle nearby flickers briefly to life. The spirit shakes her head and gives you a dismissive wave.*
+Lucian&apos;s Day. Got a few prayers of my own that need answering. But these days, who don&apos;t.
+Well, we invited a woman here. Hannag. She&apos;s a teacher, you know - a good one, too. Source ain&apos;t dangerous if you know how to use it, and we had a Sourcerer in the village in want of guidance.
+Entropic Bite
+Can&apos;t help you there, I&apos;m afraid, though not for lack of tryin&apos;. But I&apos;ll tell ya something. You manage to leave the Joy behind, &apos;n&apos; there&apos;ll be another prison waitin&apos; for ya.
+Why the &apos;Seven Gods&apos; exist not now, nor ever have.&lt;br&gt;&lt;br&gt;Gods? Ha! Fairytales; phantoms. What more? Who could mistake the mysteries of nature for the hand of a ghost?&lt;br&gt;&lt;br&gt;The bounty and beauty of nature... it seems foolish to assign this wonder to some unknown and unknowing entity. Some may request I cast my mind&apos;s gaze not upon the lilies of the field, but upon the soul of man and the higher beasts.&lt;br&gt;&lt;br&gt;But this I submit: that I have inspected the inner workings of men and beasts living and dead, and I have found no soul. Only squirming red and bleeding purple. There was no god in those private chambers.
+What are you, mad?!
+Your grubby fingers will nab whatever&apos;s not nailed down, eh? Time to pay for your crimes!
+[1] failed to cast [2], because [3] is no longer a valid target!
+Well. If you&apos;re truly sorry, I&apos;ll overlook it this one time. But don&apos;t let it happen again.
+*Your attempts to pacify it don&apos;t work. The dragon struggles in your arms, its black eyes turning red with rage. &lt;i&gt;It bites.*&lt;/i&gt;
+There! A switch!
+The princess would have your head for that language...
+Decayed Meat Golem
+*Ask who you&apos;re talking to.*
+BUBBLING SKIN AND BURNING KNUCKLE!
+*Reach your hand towards the spirit and increase your resolve. Your inner might must prevail!*
+Shut your mouth, or I&apos;ll fling you in one of these cells, hear me? In fact, get out of here!
+The moment all are fit and fighting is the moment we take the mill.
+Mupper
+*You stay of course. You sleep with her. There&apos;s nothing out there finer than this.*
+Ah. I see.
+I found Stingtail. When I catch him alone, the interrogation will begin.
+Eithne&apos;s Rendezvous Point
+Most excellent, Lohse. &lt;i&gt;Most&lt;/i&gt; excellent!
+*Tell him you&apos;re with Lohar.*
+I need to report to the Sallow Man, fast as I can drag myself.
+That&apos;s a relief, Susan.
+My Ma beat a Voidwoken. Mmhmm!
+Are you the new servant, then? My my. You look like my old handbag if It&apos;d sat in the sun too long. You&apos;ve brought my tea, have you?
+*Confess that you haven&apos;t found it yet.*
+*He staggers and falls back, misery overwhelming his devastated face. Slumped to the ground, he lets all the straws fall and buries his head in his hands.*
+Draught of Intelligence
+What can you do to me now? Look: I had orders from Queen Justinia. And, to be honest, I&apos;d reached the end of my tether with what I could do here. It was my time...
+Out? You must be mad. Head out one way, you&apos;re back in the Joy among the rabble. Head out another, you&apos;re knee deep in the Hollow Marshes. I&apos;ll take a nice, quiet cell any day of the week and twice on Lucian&apos;s Day.
+We all knew only one of us could walk away with divinity.
+Magisters’ Lab Directions
+[RED PRINCE] *Say that it greatly pleases you to speak to a fellow lizard with such a refined tongue in his, no doubt, noble head.*
+You come at last! I&apos;d no doubt you&apos;d find your way to us - not after witnessing your bravery.
+Move
+&lt;i&gt;Hahaha!&lt;/i&gt; You greedy smell-gilt! &lt;i&gt;Hahaha!&lt;/i&gt; Yes, my sleepy friend here killed me for my bloody gold. &lt;i&gt;Hahaha! &lt;/i&gt;Serves me right for all the things I did! &lt;i&gt;Hahaha!&lt;/i&gt; The irony! &lt;i&gt;Hahaha!&lt;/i&gt;
+*Say that you can always sense when a fellow dwarf&apos;s got a little scheme brewing - what else is he up to?*
+[OUTLAW] *Wink and say her fleece would fetch a better price on the black market than your flesh.*
+But enough talk. I need more. I need your Source.
+*Gareth acknowledges you with a glare.*
+Well, I don&apos;t know about multitudes. I jus... I jus&apos; want good things for people, ya know?
+&lt;i&gt;The king...&lt;/i&gt; A word that makes one shudder. Yes, I have my suspicions. They are mine to keep.
+*Relieved, he gives you a stiff salute, eyes forward.*
+Human Skeleton
+Flesh Golem
+A slave no longer, you still bear the living scar your master used to dominate you. He turned you into an assassin; made you hunt your own kin. Now, you hunt him.
+You&apos;re a musician: performer, star, and host to all manner of disembodied visitors. Now, one dark voice has silenced them all - and aims to claim your body for itself.
+A crusader in Lucian&apos;s army, you lost your faith as war claimed countless innocents. Now, you&apos;re a Lone Wolf mercenary. Your mission? Kill Lucian&apos;s son.
+Leave Game
+*Ask her to repeat the riddle.*
+*Ignoring you completely, he laughs wickedly and addresses Sadha.*
+Critical Hit
+*He sighs - contently, it seems; darts his eyes to his demons, then back to you.*
+With its significance as the seat of Divinity diminished, Arx fell into decline, and within seven generations had emptied.
+I&apos;m sorry but that&apos;s not... I&apos;m so sorry...
+As long as you wave your weapons about, I have nothing to say to you.
+*Tell him you&apos;d be happy to help him.*
+You lack conviction. You remain closed. So too the door. Braccus Rex the just gives you what you want and more.
+Clang. Clang. Horrible old sadist. Filled my brain with holes. The devil lives inside her. Believe you me.
+[Translate62_3f0a85cd-10d7-4648-b11b-f8b2ca26a436]
+Delete Vignette
+*The proprietress gives you a sweet smile.*
+Oh. I - of course. Blessings be, brother...
+I&apos;ll lead them to the h-harbour, to prepare the attack. Join us when you can... we&apos;ll need all the help we can get...
+|No rifle equipped|&lt;br&gt;
+Lohar&apos;d gnaw my ear off if he could see the shape his emissaries are in.
+Enjoy your stay, mossy.
+Destroy this thing - there&apos;s no time to waste!
+I&apos;ve got to find my father. I must warn him!
+His head! I want to look into his eyes. My boy is dead, my boy is dead - the SNAKE!
+&apos;...What He Lackt in Skylle,&lt;br&gt;He Ballanced With Self-Sacrifice.&apos;
+*Reconsider. The risk sounds too great.*
+Made of pure Source, it will pierce your enemies&apos; armour. I know you shall use it in the service of good. Fare you well, demon-slayer. Fare you well.
+Broken Angelic Statue
+[IFAN] *Shrug. You&apos;ve certainly had worse.*
+You had better move on from here right this instance, or I&apos;ll toss you in one of these cells!

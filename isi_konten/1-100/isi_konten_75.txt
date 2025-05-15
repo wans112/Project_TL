@@ -1,0 +1,156 @@
+*Confront the Doctor. You know he&apos;s been victimising the people of Arx.*
+Icy Nailbomb
+Get- get back! Don&apos;t touch me! You can&apos;t - I have friends - no - NO!!!
+The other Gods were clearly not as powerful as Tir-Cendelius.
+*The Magister mutters to herself under her breath.*
+You are not friends with the truth, it would seem, Sourcerer. Tell me true &lt;i&gt;now&lt;/i&gt;, or be on your way. Are you Godwoken?
+Slow, yes, but without secrets.
+We have the amulet and the scroll. It may be wise to take counsel before attempting the Path of Blood.
+*Say that you&apos;ll head to Driftwood first, as Malady asked.*
+*Grunt and leave the spirit to his misery.*
+Zorl-Stissa embodies order and reason, but I won&apos;t be able to say the same about myself if you keep distracting me!
+*Laugh, and say there&apos;s no fooling a fellow schemer. Now spill the beans.*
+Dallis, and the others like her - Alexandar, the Mother Tree, the Prince of Shadows - they are little better than demons, really. They seek power at the expense of others - not to create stability, but to create servants.
+Winter Blast
+Supplies? *Ahem* You mean the oranges, I suppose.
+So? What next?
+Reclaim your stolen stuff.
+*She bows with thespian flair.*
+Hold it. Don&apos;t move any further. Your curiosity buys you a ticket to a prison cell.
+Spiced Ale
+Log
+Speak to the Dreamer. Ensure she brings you to me, and you shall see the true scope of my power.
+*Show her the manifest you found - the spores had been dispersed.*
+The less you know, the better. Trust me. Stop Mordus.
+You wouldn&apos;t think that if you saw what I saw. She isn&apos;t really a lady named Lohse. She&apos;s something &lt;i&gt;else&lt;/i&gt;.
+Oh no, they are quite gone. The Seven seem to be all that remains. And they-...
+This reminds me of sharing rotgut with Roost and the boys back at camp. Wish they weren&apos;t so far...
+[UNDEAD] *Tell her she&apos;s right - death may be better than a life in pain.*
+*&apos;Baran&apos; laughs and swats you away.*
+[NOBLE] [OUTLAW] *You know these locks well. This will be a breeze.*
+There were bad things down there but they smell dead now.
+Candle
+Attitude of all animals increased.
+But I trust you. You have taken us this far - I will follow you the rest of the way.
+*Thank her and take your leave.*
+Barstan Tungs
+...ohLucianohDivinesmileuponyourservant...maytheHallofEchoesembraceyourmartyr...ohLucianohDivinesmileuponyourservantmaytheHallofEchoes...
+CON
+*Remark that he doesn&apos;t look much like a healer.*
+*The alcohol has loosened your mind, your tongue. You admit you&apos;ve often wished for happiness.*
+*Spit* Good riddance.
+Atta kid. I&apos;d let your guy go, but &lt;i&gt;someone&lt;/i&gt;&apos;s got hold of my key. Until I find who it was and string &apos;im up, you&apos;ll have to undo the lock yourself. My fellas won&apos;t stop you.
+Fire Infusion Scroll
+*Ifan is silent for a long spell. He finally turns to you with a slow nod, a closed look in his eyes.*
+*Realising she may have just made a terrible mistake, she swallows hard...*
+What part of &apos;Quercus believes in you&apos; did you fail to hear? You can do this, my friend. We know you can.
+*The briefest hint of disdain flickers across the cook&apos;s taciturn features.*
+Did you think you could escape so easily? Back to prison with you!
+*The plank promptly crumbles to pieces.*
+[1] increases damage and the Critical Multiplier when using two-handed melee weapons (sword, axe, mace, spear or staff).
+No! You mustn&apos;t! The hymn can never be... rgggGGHH!
+Bloodmoon Island awaits, my friend. It&apos;s a bit of a jaunt, but this gives me time to prepare my workspace. We&apos;ll catch up on the Lady Vengeance, yes?
+I tell you what. You seem an honourable sort. See Dorian dead, and I will meet his offer.
+Her name is Sadha, princess of the House of Law. Just like you, she was raised within walls, protected against the world, but unlike you, born within the boastful House of War, her existence was kept a secret.
+Harder to maintain skepticism then, alright.
+Grebb gave one of us a Void-tainted fish called Umber Monkfish to consume. It made us horribly ill, but Grebb did mention that we can combine the species with Intelligence herbmixes in order to increase their potency.
+*Tell him that however much he&apos;s being paid to hunt your kind, you can give him more.*
+*Agree - you&apos;ll set her free.*
+You need help. &lt;i&gt;Serious &lt;/i&gt;help.
+*Promise him.*
+Magister Julian
+~ Round [1] ~
+Leonard
+[IFAN] *Assume a persona. Say your name is Magister... Woolfe.*
+*Ask him what he wants done.*
+It&apos;s all pointless...
+*The same troubled look is visible on each face... you&apos;ve seen the gods beaten and defiled... strung up as a warning...*
+What happened? Voidwoken attacks and great rifts opening up in the ground - that&apos;s what &lt;i&gt;happened&lt;/i&gt;. My life was snuffed out, my home reduced to rubble, and my savings were lost within it.
+There are some characters your companions will want to speak with privately. &lt;font color=&quot;008858&quot;&gt;Forbidding&lt;/font&gt; this may negatively affect your relationship. However, &lt;font color=&quot;008858&quot;&gt;allowing&lt;/font&gt; it may make you complicit in any consequences.
+Septa the Ineffable
+I pledge my heart, oh Lucian. Please return.
+Aren&apos;t I? If you open the gate and let a mad dog loose, are you not responsible if it savages a child?
+*Say that you&apos;re all in the same boat, so to speak. It&apos;d be better if you all knew you could rely upon each other.*
+Mind yer own business, mate.
+The active user [1] has signed out.&lt;br&gt;Please switch back to that user or go back to the title screen to switch to a new user.
+[ELF] *Assure the rat that you have no designs on those bodies - they&apos;d only show memories of pain and suffering.*
+If you don&apos;t do this, there&apos;s no point continuing. You might as well walk right up to the demon and offer him your soul on a silver platter.
+*Nod. A powerful weapon indeed.*
+Magisters... lower your weapons. Gareth. Listen to me...
+So? Who did you meet, what did you learn, and all that.
+*Say that among the two of you, you are the one most worthy of that throne.*
+*The day began bright for the guard; it ends with anguish as he faces the Void at your cruel mandate. His scream reaches only your ears as he fades into nothing.*
+I take orders from no-one but he. And &lt;i&gt;he &lt;/i&gt;says you die.
+*Take your leave.*
+*Look to Fane and ask if he&apos;d like to go below decks. You&apos;d like to... know him.*
+Metal Armour
+*Say you like your men vocal.*
+They say his powers are not developing as they should. They blame the Voidwoken. But we need his powers to develop so that he may banish the Voidwoken.
+*Tell him to snap out of it.*
+*Decide you don&apos;t want any part of this and ask another question.*
+*Nod - it sounds dangerous, but if that&apos;s what it takes.*
+But the rest? It&apos;s all covered in a fog. And the more I see of this world, the thicker that fog seems to get.
+&lt;i&gt;...we are indestructible...&lt;/i&gt;
+I&apos;ve got one in the works right now, actually. Been writing it on a hand harp, but I could try it unaccompanied.
+*Give her a courteous bow, and may the best Godwoken win.*
+Tiny Bird Skull
+*Raise an eyebrow. Didn&apos;t the Order bring you here to &lt;i&gt;cure &lt;/i&gt;you?*
+*Raise and eyebrow and hold out your palm.*
+When the God King brings the forest tigers back and we rise to rule,&lt;i&gt; you &lt;/i&gt;shall be the first to die.
+An immense axe that appears to have been crafted solely from hardened spite and malice. It suits you perfectly!
+GREETINGS PAULINA KEMM - LADY OF THE HOUSE - BEAUTIFUL AND SERENE
+Your children seem... well-adjusted to a noble life.
+*You walk up to a skeleton unlike any you have ever seen before - his skull seems to be carved into intricate patterns with a gem stone sitting in the middle of his forehead.*
+*He considers... and comes to the conclusion that it&apos;s not worth his while resisting.*
+Sticky
+Forgery of a Painting
+And given that face, I can well imagine who your creator may be. What a lazy way to feed one&apos;s power. And one&apos;s ego...
+Lizard Worshipper
+Penny for a sick dog?
+Silencing Stare
+And yet we suffered. We suffer still.
+*She bats her eyelashes at you in an exaggerated flutter, then bursts out laughing and punches your arm.*
+I wish Gareth were here. I wish I could reach out to him. Tell him how proud we&apos;ve always been. Tell him to be at peace.
+We are strong enough now, strong as we deserve to be. Time to find out how to make these powers shine.
+It doesn&apos;t matter how many rose petals you sprinkle on it - you&apos;re no different than me, no better than me. But you will never be a &lt;i&gt;mistake. &lt;/i&gt;After all: you&apos;re the Seekers&apos; little &lt;i&gt;golden child.&lt;/i&gt;
+Hmm? What.. *urngh* what about them?
+*Give him room. He&apos;s a big boy; he can figure it out.*
+I see the good in you. Pass freely.
+Icy Skin Scroll
+*Ask her how it feels to be a god.*
+Malady wants us to use the song we discovered to control the ship.
+But you&apos;re wasting your time - Divinity is &lt;i&gt;mine&lt;/i&gt;. The Black Ring couldn&apos;t stop me, that saboteur Dallis couldn&apos;t stop me, and you will not stop me.
+Painting of a Knight
+I saw daddy with some weird-looking cat in the garden. I think he was even talking to it. He called it Ah-choo! I think, anyway. I asked if I could pet it, but daddy shooed me away.
+Peck Eyes
+*The ghostly tiger snarls at you. A glint in her eyes seems almost... triumphant.*
+* [1] points due to Ability: [2]
+*She glances at the body of a nearby corpse. He was a young boy - no older than six or seven years old.*
+Daylight doesn&apos;t deserve you. Stay here with me.
+Greetings! It&apos;s a brave dwarf who travels this road. It&apos;s a braver one who crosses the bridge and travels east. You have my admiration; it&apos;s a hellscape out there.
+Smoking Ice Grenade
+I... yes my Lord, of course.
+*Remark on his defeat. It seems the God King&apos;s chosen isn&apos;t so mighty.*
+*He grabs your hand eagerly and laughs as you execute the finicky ending manoeuvre with much panache.*
+The Paladins attacked our barracks - I tried to flee, but was trapped between the fight and a Voidwoken attack. I remember pain, then falling... then everything went black.
+If there is mercy in the heavens they will conjure the forces of lightning and strike me down where I stand. Lady Kemm, that most worthy creature ever to have graced these halls has passed away! O, such grief is beyond bearing!
+&lt;i&gt;...you cannot run... you must face the truth... the terrible truth... that she is wrong... the red princess is wrong... you are not enough... you were never enough... you will never be enough...&lt;/i&gt;
+To the Lower Cells
+Praise Duna for his blessing. A throne still awaits the queen - and a new home awaits me, I&apos;d like to think.
+Pigskin Gloves
+It&apos;s all dawning on you. Very good.
+We repaired the broken mechanism with a silver lever.
+*Shrugs* I see no cause for alarm. I&apos;m not some uneducated &lt;i&gt;simpleton&lt;/i&gt;, you know.
+Well aren&apos;t you just a walking encyclopedia of knowledge?
+Open your bags, please. I know what you&apos;re up to.
+Friends.
+Pay homage to their skills, solve their riddle, and prove yourself worthy of elven respect... if you can.
+I do not mean to disturb you. It&apos;s just... never mind. How do I help you?
+[BARBARIAN] *Grunt at her. The answer is &apos;no&apos;.*
+Well. You&apos;ve certainly been a breath of fresh air. You&apos;re no Griff... but it&apos;s been good having you around.
+Living Wall Skillbook
+Note
+Clearly not.
+NAME!
+It was madness! Big! Fire boom, lightning crash!
+Edit Tags

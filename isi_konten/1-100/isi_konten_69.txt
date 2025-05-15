@@ -1,0 +1,147 @@
+As long as you do their bidding, they&apos;ll let you get away with &lt;i&gt;murder, &lt;/i&gt;won&apos;t they? They&apos;ll even &lt;i&gt;congratulate&lt;/i&gt; you for it. &apos;Aww, what a good little Godwoken you are! Would you like a treat?&apos;
+Further down&apos;s the arena, see, and the gladiators are always on the lookout for... an edge.
+I told you. I have already made up my mind....
+Select multiple items and mark them as &lt;font color=&quot;008858&quot;&gt;wares&lt;/font&gt; to sell them in one batch. Press [IE_UIMarkWares] in the inventory to toggle &lt;font color=&quot;008858&quot;&gt;multiselect mode&lt;/font&gt;. Add items to a selection by pressing [IE_Action1]. Press [IE_ContextMenu] to view available options for the selection.
+This is not a good time. Please, leave us.
+*You will not endure his impertinence a moment longer. Take his Source.*
+You have no empty slots in your &lt;font color=&quot;008858&quot;&gt;Hotbar&lt;/font&gt;. Press [IE_NextObject] or [IE_PrevObject] to cycle through your Hotbar decks.
+Hand-Knit Gloves
+This I know,
+*The spirit still weaves her hands through the air, as if trying to bless you.*
+*Tell the shaman you&apos;ve spoken to the spirit of Sarias. His tree takes root.*
+*The chronicler trembles, fear bright in his eyes.*
+Glad to hear it.
+Dull flesh. Canst thou not see - the Soul Jars bind us here.
+Certainly! Although being able to see through my ribcage does make it rather easier for you.
+Carrying on, then...
+*Ask what you have to do when you get there.*
+*He spits something dark and viscous onto the earth. You notice the little horror wriggling deep into the soil.*
+Greedy Vessel
+Reimond&apos;s Orders
+Can I ask if... did you happen to meet a man named Gareth on your way here?
+How convenient - you&apos;re out to collect a reward and yet you&apos;re the only one who heard this supposed confession! Not good enough!
+*She staggers back a few steps. An echoing roar fills your ears - &lt;i&gt;rushing water&lt;/i&gt;. The priestess turns to flee, but is suddenly blasted off her feet by an immense unseen force.*
+*You disagree - elves are superior to all other races - no-one else has such harmony with nature.*
+[VILLAIN] *Tell him it&apos;s true - he&apos;s dead. Tell him you&apos;re sorry, but he&apos;s a loser.*
+Big Warhammer
+*Ask about this Gwydian. What is his story?*
+Watch out... It isn&apos;t safe here.
+This could have been anything that was once inside something. Or someone...
+[MYSTIC] *Tell him to fret not. Even now, her spirit reaches forth fresh roots in the Hall of Echoes.*
+*Rubbing your chin, tell him you&apos;re trying to recall the last time you bathed. What month is this?*
+Sourcerer! What do you think you&apos;re doing prowling around inside the fort?!
+*With a last great creaking groan he returns to the business of securing his roots, and takes his leave of you.*
+Wherrre&apos;d the waterrr go? Why does my head hurrrt so much...?
+Extraordinary, lass, just extraordinary. The spirit of the One has yet to settle, but it hovers near. It knows yer great feat. I feel the glow.
+Come, Godwoken. Let&apos;s claim your destiny.
+I will not be lectured in possibility by such a small mind! The impossible was my specialty before your Seven sealed me away here.
+Do you wish for power, wealth, knowledge, or to see your enemies gone?
+*Say your business together is over. You&apos;re not running off into any hills to hunt down some mad dwarf.*
+*Squee squee cheep*
+So you&apos;re a Sourcerer then... In that case, I&apos;ll tell you about the fugitive after all: that fella all those Reds are looking for. I mean: if he&apos;s a Sourcerer too, you&apos;ll want to do right by him, won&apos;t you? Make sure they don&apos;t catch the poor bugger!
+UI Character Creation Previous
+Skin Graft
+A dark crust clogs the stopper of this vial. Is that... blood?
+Do not sully the Covenant with any more failure.
+If it were up to me, you&apos;d be swinging from the end of a rope, not locked up in here.
+This violence cannot be necessary!
+*The dark stench assails you. The spirit concentrates on tearing the Source from its captive.*
+Diabolical Cap
+[IFAN] *Compliment his skill with a blade; your reflection shimmers in the honed edge.*
+Well well! Seems like you&apos;ve killed for the last time, then!
+Okay, you got me. The spirits do not lie. So... you see them too. Interesting. That makes you one of the Meistr&apos;s chosen ones.
+Divinity Original Sin 2 Theme
+*He wipes tears from his eyes, and stutters to speak, but he can&apos;t stop laughing enough to do so.*
+An empty jar concealing a world of ambition beneath its demure lid.
+*Your words take a long moment to sink in, like they are being translated for the netherworld.*
+*A survivalist&apos;s manual for adventurers, hunters, and everyone else (are we not all survivalists?) is filled with the most obvious nonsense. Hidden within, however, is a useful chapter for the casual tailor. You may now make your own clothing, if you have what you need.*
+The wind whispers a name. The new Mother is chosen.
+*Promise to break him free if he knows the way.*
+The Seven want to use us and the Eighth wants us dead. I&apos;ve had it up to here with Gods.
+Stay back, STAY BACK! Keep that monster ben-Mezd away from me!
+Poor little Peeper. Poor little MONSTER Peeper baby!
+The walking blood... The Red Prince... I will feast on you.
+I don&apos;t. Now go on.
+Rotten Torso
+*Disagree. Dead men don&apos;t hold any cards at all.*
+One of us got lucky. Afterwards, thugs came to steal their gear. The courtesan was in on it.
+*Stay silent. Wait and see what she&apos;ll do.*
+Egg! Egg! Peeper!
+No-one&apos;s &lt;i&gt;truly &lt;/i&gt;fine alone, m&apos;friend. People need each other. Just as we need a Divine.
+*Hesitate. Tell her such utter intimacy makes you nervous.*
+*The look on your face says you have to kill her now. And she knows it.*
+Destruction follows in your wake, I notice. Luckily, I&apos;ve got a fix for that!
+Alone? As you wish. I will now teleport you into the Arena.
+*Give him what he wants: a rousing story! Tell him how you used your Source to protect your crew.*
+*The spirit scrunches his face in frustration. He flails his hands and arms, but you don&apos;t understand the gestures.*
+*Say you haven&apos;t seen any such pouch.*
+*Give her the side-eye. Her tongue is more poisonous than any lizard&apos;s.*
+Magical Riveted Leggings
+Citizen Jak
+An exorcised demon, living in a sword of glass. The hilt was brought here by one of the many Surreys. Not surprised - none of them sound too bright.
+Investigate Lohar.
+Do not fear the truth. Do not fear the truth about the gods.
+I wonder if they left anything valuable behind...
+And what kind of Divine was Fane, the Eternal, as the world battled the demons?
+*Ask to know more about this Doctor and where his sick room might be.*
+*Look around and take in the scene around you. Blink and ask what happened.*
+- PECKER! Wait. &lt;i&gt;Do you even have a pecker?&lt;/i&gt;
+Decreases all elemental resistances of enemies around you.
+&lt;i&gt;Marcus Miles bastard born, the mannered life enraged him.&lt;br&gt;A gnashing varmint he became, so queen sought then to cage him.&lt;/i&gt;
+You find the fastest route to an early grave!
+*Ask if the magic word is &apos;blood&apos; or &apos;oil&apos;, or possibly &apos;blood and oil&apos;.*
+*Avoid her gaze and look out over this foreign world, taking in the air of despair that seems endemic to the place.*
+*Say that you&apos;ve heard enough, and turn to other matters.*
+*The face vanishes.*
+[HERO] *Ask what you can do to help.*
+That was Lady Vengeance. She&apos;s calling us back.
+Hannag thanked us for our help.
+*Tell her there&apos;s no dignity in what happened here.*
+Your criminal days are over!
+Lapidation
+A controlled, highly addictive substance capable of altering human consciousness.
+Milady? I&apos;m speaking to you!
+I had an odd vision. In the Hall of Echoes, the god Duna called me Godwoken, of great dormant power, and named me champion of dwarves.
+Lead Mihaly on - I will follow. Don&apos;t let anything happen to him, dear, or I will hold you accountable.
+*Say that you want to hear about the Voidwoken attack.*
+*He doesn&apos;t look like a normal elf. Demand to know who he is.*
+I await but your word, Master.
+Someone had t&apos;stand up to Justinia. Not all of us are like you religious types. You fold up your hands and &lt;i&gt;pray,&lt;/i&gt; like that&apos;s gonna feed the hungry and bathe the young. I&apos;m not given to prayer. I jus&apos; get things done.
+You don&apos;t disappoint, kinsman. I can read the passion in your gaze, the fire that is Source and Source alone. You are no Magister.
+I mean - I don&apos;t &lt;i&gt;currently &lt;/i&gt;have any gold, but we could both walk away from this situation wealthier people.
+I swore an oath to prevent anyone from ever entering the tomb of the Divine. But... that may have been a mistake. I&apos;ve heard of your deeds. People call you a hero! Maybe you&apos;re worthy after all...
+I did the only thing I could do: I appealed to my old champions of the House of Dreams and fled here, into a world untouchable by my foes.
+*He smiles, big, bright-white teeth flashing. He takes your forearm and squeezes.*
+*Barely have you touched the needle&apos;s pinpoint surface when a thick droplet of blood wells up from your fingertip.*
+She and I had a deal, you see. A deal that&apos;s now quite obviously defunct. According to its terms, I was to help you ascend to divinity, and she was to help me with... another matter.
+&apos;ullo.
+Everything has a heart. Except lizards, maybe. But maybe they do. I don&apos;t know. The waterfall has a heart made of a giant diamond. See?
+A slave no longer, you still bear the living scar your master used to dominate you. He turned you into an assassin; made you hunt your own kin. Now, you hunt him.
+*She babbles breathlessly on, barely aware you&apos;re there.*
+Strange place, that. I&apos;m glad we left when we did.
+[BEAST] *Tell him you&apos;re no-one special, but you &lt;i&gt;are &lt;/i&gt;sure as hell ready to get off this island.*
+Identifying Glass
+*Tell him it&apos;s very clear he dislikes the Magisters. So why not discuss an enemy of the Magisters?*
+But... but... but... BA-CAWWWW!
+*Nod your head. It was you.*
+*With a snarl the ghost of Oates reaches both hands out towards you... channels all the flames and the rage and fear... and launches the whole damn lot towards you...*
+You have what you need and I yet live. This outcome I did not see.
+*The Scion eats the lizard&apos;s heart, one chamber at a time. One. Two. Three. And then it is gone. She holds her hand out...*
+*The woman stares intensely at nothing, completely unresponsive.*
+Be careful what you wish for. The Hammer&apos;s still out there.
+Decide Windego&apos;s fate.
+*Tell her you were making a joke.*
+*Quickly close up the wound.*
+Malachy Clawgood
+They will all be dust, along with each and every one of your great heroes.
+We convinced Alexandar to abandon his claim on Divinity. He&apos;ll support us in the Arena.
+You cannot resist. I could crush you into powder with a thought. But I will refrain - for now.
+A Rare Prey
+Your answers were brilliant, as ever. I took notes. I acted. One thing led to another and soon the Divine Order was deploying Deathfog at the heart of the elven homeland, wiping out thousands of Ancestor Trees as well as the Black Ring.
+You know this lady, Ma?
+*As the alcove opens up, you see the same skeleton that you met on the boat before it sank. He&apos;s still not wearing his mask.*
+It&apos;s time...
+Hey, a sheep. Baaa-aa-aaa!
+*She catches herself and retreats a couple of paces, her shoulders trembling with mirth.*
+Volume
+Such wanton destruction, brother... these humans ruined our homeland, now they&apos;re intent on ruining their own as well... savages...
