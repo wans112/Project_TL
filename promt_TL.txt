@@ -1,2 +1,2 @@
-terjemahkan ke bahasa indonesia, tidak usah menggunakan basa basi, output rapikan, code html jangan dirubah.
+terjemahkan ke bahasa indonesia, tidak usah menggunakan basa basi, code html jangan di ubah, hasilnya jadikan file md.
 jangan terjemahkan nama karakter, nama tempat, nama kelompok.
