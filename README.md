@@ -1,6 +1,6 @@
-# Project_TL
+# DOS2-Subtitle-Translator
 
-Project_TL adalah sebuah proyek open-source untuk menerjemahkan subtitle pada game **Divinity: Original Sin 2**. Proyek ini bertujuan memudahkan proses translasi, pengelolaan, dan integrasi subtitle hasil terjemahan ke dalam game, sehingga pemain dapat menikmati pengalaman bermain dengan teks berbahasa Indonesia atau bahasa lain sesuai kebutuhan.
+DOS2-Subtitle-Translator adalah sebuah proyek open-source untuk menerjemahkan subtitle pada game **Divinity: Original Sin 2**. Proyek ini bertujuan memudahkan proses translasi, pengelolaan, dan integrasi subtitle hasil terjemahan ke dalam game, sehingga pemain dapat menikmati pengalaman bermain dengan teks berbahasa Indonesia atau bahasa lain sesuai kebutuhan.
 
 ## Fitur
 
